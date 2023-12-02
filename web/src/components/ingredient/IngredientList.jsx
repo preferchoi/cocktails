@@ -1,4 +1,5 @@
 import { useIngredientsQuery } from '../../generated/graphql.tsx';
+import ListCelll from '../ListCelll.jsx';
 
 export default function IngredientList() {
   const { data, loading, error } = useIngredientsQuery();
@@ -10,7 +11,11 @@ export default function IngredientList() {
   return (
     <>
       {loading && <>loading...</>}
-      {!loading && data && <IngredientList />}
+      {!loading &&
+        data &&
+        data.Ingredients.map((ingredient, index) => (
+          <ListCelll key={index} name={ingredient.name} />
+        ))}
     </>
   );
 }

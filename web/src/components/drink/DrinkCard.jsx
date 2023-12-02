@@ -1,7 +1,7 @@
-export default function DrinkCard() {
+export default function DrinkCard({ Drink }) {
   return (
     <>
-    DrinkCard
+      <div>{Drink.name}</div>
     </>
-  )
+  );
 }
