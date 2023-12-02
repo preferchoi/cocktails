@@ -1,5 +1,5 @@
-query Glass($glassName: String!) {
-  Glass(GlassName: $glassName) {
+query Ingredient($ingredientName: String!) {
+  Ingredient(IngredientName: $ingredientName) {
     name
     drinks {
       name
