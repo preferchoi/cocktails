@@ -43,3 +43,23 @@ Drink 데이터에 두 요소(category, glass)를 추가했다. 해당 수정으
 추후에는 이를 조금 더 발전시켜, 다중 요소에 대해 필터링을 제공할 수 있게끔 할 것이다.
 
 앞선 변경으로 인해, Category, Glass, Ingredient 요소의 단일 스키마가 제거되었다. 이 변경은 해당 데이터에 이름만 존재하기 때문에 적용되었는데, 추후 데이터 추가나 수정으로 해당 요소의 볼륨이 증가할 경우 추가할 수 있도록 하겠다.
+
+### [다중 필터를 이용한 검색 기능 적용](https://github.com/preferchoi/cocktails/commit/9bae821049f6f2625b1f7bf659248199bec14551)
+
+if조건문을 변경해 return을 마지막에 한 번만 실행할 수 있게 변경하였고, 필터가 여러 개 있을 경우 필터링을 진행한 내용에 대해 나머지 필터링을 진행할 수 있게 만들었다. 이 경우 필터가 늘어날 수록 필터링을 진행하는 데이터의 양이 줄어들기 때문에, 검색 시간의 일관성이 유지될 것이라 생각된다.
+
+```
+Drinks: (_, { CategoryName, GlassName, IngredientName }) => {
+  let drinks = cocktailData.drinks
+  if (CategoryName) {
+    drinks = drinks.filter(drink => drink.category == CategoryName)
+  }
+  if (GlassName) {
+    drinks = drinks.filter(drink => drink.glass == GlassName)
+  }
+  if (IngredientName) {
+    drinks = drinks.filter(drink => drink.ingredients.some(ingredient => ingredient[0] == IngredientName))
+  }
+  return drinks
+},
+```
