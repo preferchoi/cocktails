@@ -7,6 +7,8 @@ const Drink = gql`
     alcoholic:String
     ingredients:[[String]]
     instructions:String
+    category:String
+    glass:String
   }
 `
 

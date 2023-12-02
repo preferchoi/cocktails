@@ -5,5 +5,7 @@ query Drink($drinkName: String!) {
     alcoholic
     ingredients
     instructions
+    category
+    glass
   }
 }
