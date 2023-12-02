@@ -1,0 +1,5 @@
+query Glass($glassName: String!) {
+  Glass(GlassName: $glassName) {
+    name
+  }
+}

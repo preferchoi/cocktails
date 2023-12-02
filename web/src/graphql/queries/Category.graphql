@@ -1,0 +1,5 @@
+query Category($categoryName: String!) {
+  Category(CategoryName: $categoryName) {
+    name
+  }
+}

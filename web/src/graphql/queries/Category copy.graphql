@@ -1,0 +1,5 @@
+query Ingredient($ingredientName: String!) {
+  Ingredient(IngredientName: $ingredientName) {
+    name
+  }
+}
