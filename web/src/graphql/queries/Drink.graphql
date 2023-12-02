@@ -1,0 +1,9 @@
+query Drink($drinkName: String!) {
+  Drink(DrinkName: $drinkName) {
+    name
+    img_path
+    alcoholic
+    ingredients
+    instructions
+  }
+}

@@ -1,0 +1,9 @@
+query Drinks {
+  Drinks {
+    name
+    img_path
+    alcoholic
+    ingredients
+    instructions
+  }
+}
