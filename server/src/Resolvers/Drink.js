@@ -3,7 +3,6 @@ import cocktailData from "../data/cocktailData.js";
 const DrinkResolver = {
   Query: {
     Drinks: (_, { CategoryName, GlassName, IngredientName }) => {
-      console.log(CategoryName, GlassName, IngredientName);
       let drinks = cocktailData.drinks
       if (CategoryName) {
         drinks = drinks.filter(drink => drink.category == CategoryName)
