@@ -2,7 +2,7 @@ import cocktailData from "../data/cocktailData.js";
 
 const IngredientResolver = {
   Query: {
-    Ingredients: () => cocktailData.ingredients_data.find(ingredient => ingredient.name === IngredientName),
+    Ingredients: () => cocktailData.ingredients_data,
     Ingredient: (_, { IngredientName }) => cocktailData.ingredients_data.find(ingredient => ingredient.name === IngredientName),
   },
 };
