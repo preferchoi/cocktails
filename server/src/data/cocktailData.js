@@ -57,16 +57,10 @@ const cocktailData = {
             "name": "COLLINS GLASS"
         },
         {
-            "name": "COLLINS GLASS"
-        },
-        {
             "name": "COCKTAIL GLASS"
         },
         {
             "name": "IRISH COFFEE CUP"
-        },
-        {
-            "name": "HIGHBALL GLASS"
         },
         {
             "name": "JAR"
@@ -90,9 +84,6 @@ const cocktailData = {
             "name": "PUNCH BOWL"
         },
         {
-            "name": "PUNCH BOWL"
-        },
-        {
             "name": "BEER PILSNER"
         },
         {
@@ -102,13 +93,7 @@ const cocktailData = {
             "name": "WHISKEY SOUR GLASS"
         },
         {
-            "name": "COCKTAIL GLASS"
-        },
-        {
             "name": "MARGARITA GLASS"
-        },
-        {
-            "name": "CHAMPAGNE FLUTE"
         },
         {
             "name": "PINT GLASS"
@@ -117,16 +102,7 @@ const cocktailData = {
             "name": "MASON JAR"
         },
         {
-            "name": "SHOT GLASS"
-        },
-        {
-            "name": "OLD-FASHIONED GLASS"
-        },
-        {
             "name": "PARFAIT GLASS"
-        },
-        {
-            "name": "COFFEE MUG"
         },
         {
             "name": "PITCHER"
@@ -356,9 +332,6 @@ const cocktailData = {
             "name": "SAMBUCA"
         },
         {
-            "name": "VANILLA ICE-CREAM"
-        },
-        {
             "name": "CORONA"
         },
         {
@@ -407,13 +380,7 @@ const cocktailData = {
             "name": "DEMERARA SUGAR"
         },
         {
-            "name": "DARK RUM"
-        },
-        {
             "name": "CHERRY HEERING"
-        },
-        {
-            "name": "GIN"
         },
         {
             "name": "FRUIT PUNCH"
@@ -641,9 +608,6 @@ const cocktailData = {
             "name": "SWEET AND SOUR"
         },
         {
-            "name": "CRANBERRY JUICE"
-        },
-        {
             "name": "CREME DE BANANE"
         },
         {
@@ -683,9 +647,6 @@ const cocktailData = {
             "name": "RYE WHISKEY"
         },
         {
-            "name": "LEMON JUICE"
-        },
-        {
             "name": "BANANA"
         },
         {
@@ -722,13 +683,7 @@ const cocktailData = {
             "name": "GINGER ALE"
         },
         {
-            "name": "GINGER BEER"
-        },
-        {
             "name": "PEACH BITTERS"
-        },
-        {
-            "name": "LIME JUICE"
         },
         {
             "name": "ABSOLUT PEPPAR"
@@ -750,15 +705,6 @@ const cocktailData = {
         },
         {
             "name": "TONIC WATER"
-        },
-        {
-            "name": "LEMON JUICE"
-        },
-        {
-            "name": "TRIPLE SEC"
-        },
-        {
-            "name": "GRAPEFRUIT JUICE"
         },
         {
             "name": "CARBONATED SOFT DRINK"
@@ -818,9 +764,6 @@ const cocktailData = {
             "name": "ANGOSTURA BITTERS"
         },
         {
-            "name": "APRICOT BRANDY"
-        },
-        {
             "name": "COCONUT MILK"
         },
         {
@@ -851,9 +794,6 @@ const cocktailData = {
             "name": "CORIANDER"
         },
         {
-            "name": "TOMATO JUICE"
-        },
-        {
             "name": "MAPLE SYRUP"
         },
         {
@@ -872,13 +812,7 @@ const cocktailData = {
             "name": "STRAWBERRY LIQUEUR"
         },
         {
-            "name": "ORANGE JUICE"
-        },
-        {
             "name": "ANISE"
-        },
-        {
-            "name": "SODA WATER"
         },
         {
             "name": "YELLOW CHARTREUSE"
@@ -914,15 +848,6 @@ const cocktailData = {
             "name": "CREAM"
         },
         {
-            "name": "MARASCHINO LIQUEUR"
-        },
-        {
-            "name": "PINEAPPLE JUICE"
-        },
-        {
-            "name": "WHITE RUM"
-        },
-        {
             "name": "CORNSTARCH"
         },
         {
@@ -941,19 +866,7 @@ const cocktailData = {
             "name": "SALT"
         },
         {
-            "name": "PINEAPPLE JUICE"
-        },
-        {
-            "name": "LEMON"
-        },
-        {
             "name": "AGAVE SYRUP"
-        },
-        {
-            "name": "ORANGE JUICE"
-        },
-        {
-            "name": "MARASCHINO LIQUEUR"
         },
         {
             "name": "SHERBET"
@@ -983,12 +896,6 @@ const cocktailData = {
             "name": "ORANGE PEEL"
         },
         {
-            "name": "EGG YOLK"
-        },
-        {
-            "name": "SUGAR SYRUP"
-        },
-        {
             "name": "PEYCHAUD BITTERS"
         },
         {
@@ -1002,9 +909,6 @@ const cocktailData = {
         },
         {
             "name": "CELERY SALT"
-        },
-        {
-            "name": "AGAVE SYRUP"
         },
         {
             "name": "LILLET BLANC"
@@ -1025,9 +929,6 @@ const cocktailData = {
             "name": "CHERRY"
         },
         {
-            "name": "ANGOSTURA BITTERS"
-        },
-        {
             "name": "LICORICE ROOT"
         },
         {
@@ -1041,9 +942,6 @@ const cocktailData = {
         },
         {
             "name": "WORCESTERSHIRE SAUCE"
-        },
-        {
-            "name": "WHIPPED CREAM"
         },
         {
             "name": "CREME DE MURE"
@@ -1083,9 +981,6 @@ const cocktailData = {
         },
         {
             "name": "WORMWOOD"
-        },
-        {
-            "name": "EGG WHITE"
         },
         {
             "name": "FRESH LIME JUICE"
@@ -1153,9 +1048,9 @@ const cocktailData = {
     ],
     "drinks": [
         {
-            "name": "'57 Chevy with a White License Plate",
+            "name": "'57 CHEVY WITH A WHITE LICENSE PLATE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qyyvtu1468878544.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Creme de Cacao",
@@ -1166,12 +1061,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "1. Fill a rocks glass with ice 2.add white creme de cacao and vodka 3.stir"
+            "instructions": "1. Fill a rocks glass with ice 2.add white creme de cacao and vodka 3.stir",
+            "category": "COCKTAIL",
+            "glass": "HIGHBALL GLASS"
         },
         {
             "name": "1-900-FUK-MEUP",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uxywyw1468877224.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Absolut Kurant",
@@ -1206,12 +1103,14 @@ const cocktailData = {
                     "1/4 oz "
                 ]
             ],
-            "instructions": "Shake ingredients in a mixing tin filled with ice cubes. Strain into a rocks glass."
+            "instructions": "Shake ingredients in a mixing tin filled with ice cubes. Strain into a rocks glass.",
+            "category": "SHOT",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "110 in the shade",
+            "name": "110 IN THE SHADE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xxyywq1454511117.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Lager",
@@ -1222,12 +1121,14 @@ const cocktailData = {
                     "1.5 oz "
                 ]
             ],
-            "instructions": "Drop shooter in glass. Fill with beer"
+            "instructions": "Drop shooter in glass. Fill with beer",
+            "category": "BEER",
+            "glass": "BEER GLASS"
         },
         {
-            "name": "151 Florida Bushwacker",
+            "name": "151 FLORIDA BUSHWACKER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rvwrvv1468877323.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Malibu rum",
@@ -1262,12 +1163,14 @@ const cocktailData = {
                     "1 cup "
                 ]
             ],
-            "instructions": "Combine all ingredients. Blend until smooth. Garnish with chocolate shavings if desired."
+            "instructions": "Combine all ingredients. Blend until smooth. Garnish with chocolate shavings if desired.",
+            "category": "MILK / FLOAT / SHAKE",
+            "glass": "BEER MUG"
         },
         {
-            "name": "155 Belmont",
+            "name": "155 BELMONT",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yqvvqs1475667388.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Dark rum",
@@ -1286,12 +1189,14 @@ const cocktailData = {
                     "1 shot "
                 ]
             ],
-            "instructions": "Blend with ice. Serve in a wine glass. Garnish with carrot."
+            "instructions": "Blend with ice. Serve in a wine glass. Garnish with carrot.",
+            "category": "COCKTAIL",
+            "glass": "WHITE WINE GLASS"
         },
         {
-            "name": "24k nightmare",
+            "name": "24K NIGHTMARE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yyrwty1468877498.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Goldschlager",
@@ -1310,12 +1215,14 @@ const cocktailData = {
                     "1/2 oz Bacardi "
                 ]
             ],
-            "instructions": "Add over ice,shake and pour."
+            "instructions": "Add over ice,shake and pour.",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
             "name": "252",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rtpxqw1468877562.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "151 proof rum",
@@ -1326,12 +1233,14 @@ const cocktailData = {
                     "1/2 shot "
                 ]
             ],
-            "instructions": "Add both ingredients to shot glass, shoot, and get drunk quick"
+            "instructions": "Add both ingredients to shot glass, shoot, and get drunk quick",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "3 Wise Men",
+            "name": "3 WISE MEN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wxqpyw1468877677.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Jack Daniels",
@@ -1346,12 +1255,14 @@ const cocktailData = {
                     "1/3 oz "
                 ]
             ],
-            "instructions": "put them them in a glass... and slam it to tha head."
+            "instructions": "put them them in a glass... and slam it to tha head.",
+            "category": "SHOT",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "3-Mile Long Island Iced Tea",
+            "name": "3-MILE LONG ISLAND ICED TEA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rrtssw1472668972.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -1382,24 +1293,28 @@ const cocktailData = {
                     "1 wedge "
                 ]
             ],
-            "instructions": "Fill 14oz glass with ice and alcohol. Fill 2/3 glass with cola and remainder with sweet & sour. Top with dash of bitters and lemon wedge."
+            "instructions": "Fill 14oz glass with ice and alcohol. Fill 2/3 glass with cola and remainder with sweet & sour. Top with dash of bitters and lemon wedge.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "410 Gone",
+            "name": "410 GONE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xtuyqv1472669026.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Peach Vodka",
                     "2-3 oz"
                 ]
             ],
-            "instructions": ""
+            "instructions": "",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
             "name": "50/50",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wwpyvr1461919316.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vanilla vodka",
@@ -1414,19 +1329,23 @@ const cocktailData = {
                     "Fill with "
                 ]
             ],
-            "instructions": "fill glass with crushed ice. Add vodka. Add a splash of grand-marnier. Fill with o.j."
+            "instructions": "fill glass with crushed ice. Add vodka. Add a splash of grand-marnier. Fill with o.j.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "501 Blue",
+            "name": "501 BLUE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ywxwqs1461867097.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [],
-            "instructions": "Mix equal amounts into a glass with ice."
+            "instructions": "Mix equal amounts into a glass with ice.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "69 Special",
+            "name": "69 SPECIAL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vqyxqx1472669095.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -1441,12 +1360,14 @@ const cocktailData = {
                     "0.75 oz "
                 ]
             ],
-            "instructions": "Pour 2 oz. gin. Add 4 oz. 7-up. Add Lemon Juice for flavor. If you are weak, top up glass with more 7-Up."
+            "instructions": "Pour 2 oz. gin. Add 4 oz. 7-up. Add Lemon Juice for flavor. If you are weak, top up glass with more 7-Up.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
             "name": "747",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xxsxqy1472668106.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Kahlua",
@@ -1461,12 +1382,14 @@ const cocktailData = {
                     "1/3 part "
                 ]
             ],
-            "instructions": "pour kaluha, then Baileys, then Frangelico not chilled and not layered -- SERVE!!!"
+            "instructions": "pour kaluha, then Baileys, then Frangelico not chilled and not layered -- SERVE!!!",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "9 1/2 Weeks",
+            "name": "9 1/2 WEEKS",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xvwusr1472669302.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Absolut Citron",
@@ -1485,12 +1408,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Combine all ingredients in glass mixer. Chill and strain into Cocktail glass. Garnish with sliced strawberry."
+            "instructions": "Combine all ingredients in glass mixer. Chill and strain into Cocktail glass. Garnish with sliced strawberry.",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "A Day at the Beach",
+            "name": "A DAY AT THE BEACH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/trptts1454514474.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Coconut rum",
@@ -1509,12 +1434,14 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "Shake Rum, Amaretto, and Orange Juice in a shaker filled with ice. Strain over ice into a highball glass. Add Grenadine and garnish with a Pineapple Wedge and a Strawberry."
+            "instructions": "Shake Rum, Amaretto, and Orange Juice in a shaker filled with ice. Strain over ice into a highball glass. Add Grenadine and garnish with a Pineapple Wedge and a Strawberry.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "A Furlong Too Late",
+            "name": "A FURLONG TOO LATE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ssxvww1472669166.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -1529,12 +1456,14 @@ const cocktailData = {
                     "1 twist of "
                 ]
             ],
-            "instructions": "Pour the rum and ginger beer into a highball glass almost filled with ice cubes. Stir well. Garnish with the lemon twist."
+            "instructions": "Pour the rum and ginger beer into a highball glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "A Gilligan's Island",
+            "name": "A GILLIGAN'S ISLAND",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wysqut1461867176.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -1553,12 +1482,14 @@ const cocktailData = {
                     "3 oz "
                 ]
             ],
-            "instructions": "Shaken, not stirred!"
+            "instructions": "Shaken, not stirred!",
+            "category": "COCKTAIL",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "A Night In Old Mandalay",
+            "name": "A NIGHT IN OLD MANDALAY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vyrvxt1461919380.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -1585,12 +1516,14 @@ const cocktailData = {
                     "1 twist of "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine the light rum, a\u00f1ejo rum, orange juice, and lemon juice. Shake well. Strain into a highball glass almost filled with ice cubes. Top with the ginger ale. Garnish with the lemon twist."
+            "instructions": "In a shaker half-filled with ice cubes, combine the light rum, a\u00f1ejo rum, orange juice, and lemon juice. Shake well. Strain into a highball glass almost filled with ice cubes. Top with the ginger ale. Garnish with the lemon twist.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "A Piece of Ass",
+            "name": "A PIECE OF ASS",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/tqxyxx1472719737.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Amaretto",
@@ -1605,12 +1538,14 @@ const cocktailData = {
                     " cubes\n"
                 ]
             ],
-            "instructions": "Put ice in glass. Pour in shots. Fill with Sour Mix."
+            "instructions": "Put ice in glass. Pour in shots. Fill with Sour Mix.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "A Splash of Nash",
+            "name": "A SPLASH OF NASH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rsvtrr1472668201.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Cranberry juice",
@@ -1629,12 +1564,14 @@ const cocktailData = {
                     "0.5 oz "
                 ]
             ],
-            "instructions": "Drop shot glass with banana & melon liquers into a 9 oz hi- ball glass containing soda water and cranberry juice. Drink in one shot."
+            "instructions": "Drop shot glass with banana & melon liquers into a 9 oz hi- ball glass containing soda water and cranberry juice. Drink in one shot.",
+            "category": "SHOT",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "A True Amaretto Sour",
+            "name": "A TRUE AMARETTO SOUR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rptuxy1472669372.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Amaretto",
@@ -1645,12 +1582,14 @@ const cocktailData = {
                     "Juice of 1/2 "
                 ]
             ],
-            "instructions": "Rub the rim of an old fashioned glass with lemon, and dip repeatedly into granulated sugar until it has a good \"frosted\" rim. Shake a jigger of Amaretto with the juice of 1/2 a lemon. Strain into glass and add ice. Garnish with a Marachino Cherry."
+            "instructions": "Rub the rim of an old fashioned glass with lemon, and dip repeatedly into granulated sugar until it has a good \"frosted\" rim. Shake a jigger of Amaretto with the juice of 1/2 a lemon. Strain into glass and add ice. Garnish with a Marachino Cherry.",
+            "category": "COCKTAIL",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "A midsummernight dream",
+            "name": "A MIDSUMMERNIGHT DREAM",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ysqvqp1461867292.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -1669,12 +1608,14 @@ const cocktailData = {
                     "5 "
                 ]
             ],
-            "instructions": "Mix the strawberrys in a blender Pour it together with the vodka,kirch and strawberry liquer over ice in a shaker. Shake well and pour in a highballglass. Fill up with the Russchian water"
+            "instructions": "Mix the strawberrys in a blender Pour it together with the vodka,kirch and strawberry liquer over ice in a shaker. Shake well and pour in a highballglass. Fill up with the Russchian water",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
             "name": "A. J.",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uryyrr1472811418.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Applejack",
@@ -1685,12 +1626,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Shake ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Shake ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "A.D.M. (After Dinner Mint)",
+            "name": "A.D.M. (AFTER DINNER MINT)",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ruxuvp1472669600.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "White Creme de Menthe",
@@ -1709,12 +1652,14 @@ const cocktailData = {
                     "Fill with "
                 ]
             ],
-            "instructions": "shake vigorously"
+            "instructions": "shake vigorously",
+            "category": "COCKTAIL",
+            "glass": "IRISH COFFEE CUP"
         },
         {
             "name": "A1",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/2x8thr1504816928.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -1733,12 +1678,14 @@ const cocktailData = {
                     "1/8 Shot"
                 ]
             ],
-            "instructions": "Pour all ingredients into a cocktail shaker, mix and serve over ice into a chilled glass."
+            "instructions": "Pour all ingredients into a cocktail shaker, mix and serve over ice into a chilled glass.",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
             "name": "ABC",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/tqpvqp1472668328.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Amaretto",
@@ -1753,12 +1700,14 @@ const cocktailData = {
                     "1/3 "
                 ]
             ],
-            "instructions": "Layered in a shot glass."
+            "instructions": "Layered in a shot glass.",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
             "name": "ACID",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xuxpxt1479209317.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "151 proof rum",
@@ -1769,12 +1718,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Poor in the 151 first followed by the 101 served with a Coke or Dr Pepper chaser."
+            "instructions": "Poor in the 151 first followed by the 101 served with a Coke or Dr Pepper chaser.",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
             "name": "AT&T",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rhhwmp1493067619.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Absolut Vodka",
@@ -1789,12 +1740,14 @@ const cocktailData = {
                     "4 oz "
                 ]
             ],
-            "instructions": "Pour Vodka and Gin over ice, add Tonic and Stir"
+            "instructions": "Pour Vodka and Gin over ice, add Tonic and Stir",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Abbey Cocktail",
+            "name": "ABBEY COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/quyyuw1472811568.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -1813,12 +1766,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Shake all ingredients (except for the cherry) with ice and strain into a cocktail glass. Top with the cherry and serve."
+            "instructions": "Shake all ingredients (except for the cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Abbey Martini",
+            "name": "ABBEY MARTINI",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/2mcozt1504817403.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -1837,12 +1792,14 @@ const cocktailData = {
                     "3 dashes "
                 ]
             ],
-            "instructions": "Put all ingredients into a shaker and mix, then strain contents into a chilled cocktail glass."
+            "instructions": "Put all ingredients into a shaker and mix, then strain contents into a chilled cocktail glass.",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Abilene",
+            "name": "ABILENE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ysqwwt1461919465.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Dark rum",
@@ -1857,12 +1814,14 @@ const cocktailData = {
                     "3 oz "
                 ]
             ],
-            "instructions": "Pour all of the ingredients into a highball glass almost filled with ice cubes. Stir well."
+            "instructions": "Pour all of the ingredients into a highball glass almost filled with ice cubes. Stir well.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Absinthe #2",
+            "name": "ABSINTHE #2",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uxxtrt1472667197.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -1885,12 +1844,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Mix together and let sit a few days. Strain through a coffee filter. To serve mix 1 part absinthe to 4 parts water, add ice, enjoy."
+            "instructions": "Mix together and let sit a few days. Strain through a coffee filter. To serve mix 1 part absinthe to 4 parts water, add ice, enjoy.",
+            "category": "HOMEMADE LIQUEUR",
+            "glass": "JAR"
         },
         {
-            "name": "Absolut Evergreen",
+            "name": "ABSOLUT EVERGREEN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wrxrxp1472812609.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Absolut Citron",
@@ -1905,12 +1866,14 @@ const cocktailData = {
                     " cubes\n"
                 ]
             ],
-            "instructions": "Mix, pour over ice and top up with Bitter Lemon."
+            "instructions": "Mix, pour over ice and top up with Bitter Lemon.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Absolut Sex",
+            "name": "ABSOLUT SEX",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xtrvtx1472668436.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Absolut Kurant",
@@ -1929,12 +1892,14 @@ const cocktailData = {
                     "1 splash "
                 ]
             ],
-            "instructions": "Shake Absolut Kurant, Midori, and Cranberry juice in shaker with ice: Strain into rocks glass: Splash of seven on top.Absolut Sex."
+            "instructions": "Shake Absolut Kurant, Midori, and Cranberry juice in shaker with ice: Strain into rocks glass: Splash of seven on top.Absolut Sex.",
+            "category": "SHOT",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Absolut Stress #2",
+            "name": "ABSOLUT STRESS #2",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xuyqrw1472811825.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Absolut Vodka",
@@ -1957,12 +1922,14 @@ const cocktailData = {
                     "1 1/2 oz "
                 ]
             ],
-            "instructions": "Mix well. Garnish with Orange and Cherry. Enjoy"
+            "instructions": "Mix well. Garnish with Orange and Cherry. Enjoy",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Absolut Summertime",
+            "name": "ABSOLUT SUMMERTIME",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/trpxxs1472669662.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Absolut Citron",
@@ -1985,12 +1952,14 @@ const cocktailData = {
                     "1 slice "
                 ]
             ],
-            "instructions": "Add all ingredients except lemon to shaker filled with ice. Cover and shake vigorously. Strain contents into ice filled collins glass. Garnish with lemon."
+            "instructions": "Add all ingredients except lemon to shaker filled with ice. Cover and shake vigorously. Strain contents into ice filled collins glass. Garnish with lemon.",
+            "category": "COCKTAIL",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Absolut limousine",
+            "name": "ABSOLUT LIMOUSINE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ssqpyw1472719844.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Absolut Citron",
@@ -2009,12 +1978,14 @@ const cocktailData = {
                     "Top it up with "
                 ]
             ],
-            "instructions": "Fill Absolut into a glass. Add Lime juice. Add Ice and lime wedges."
+            "instructions": "Fill Absolut into a glass. Add Lime juice. Add Ice and lime wedges.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Absolutely Cranberry Smash",
+            "name": "ABSOLUTELY CRANBERRY SMASH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vqwstv1472811884.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Absolut Vodka",
@@ -2033,12 +2004,14 @@ const cocktailData = {
                     "Add "
                 ]
             ],
-            "instructions": "Stir ingredients together. Serve over ice."
+            "instructions": "Stir ingredients together. Serve over ice.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Absolutely Fabulous",
+            "name": "ABSOLUTELY FABULOUS",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/abcpwr1504817734.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -2053,12 +2026,14 @@ const cocktailData = {
                     "Top up with"
                 ]
             ],
-            "instructions": "Mix the Vodka and Cranberry juice together in a shaker and strain into a glass. Top up with Champagne."
+            "instructions": "Mix the Vodka and Cranberry juice together in a shaker and strain into a glass. Top up with Champagne.",
+            "category": "COCKTAIL",
+            "glass": "CHAMPAGNE FLUTE"
         },
         {
-            "name": "Absolutly Screwed Up",
+            "name": "ABSOLUTLY SCREWED UP",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yvxrwv1472669728.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Absolut Citron",
@@ -2077,12 +2052,14 @@ const cocktailData = {
                     "Fill to top "
                 ]
             ],
-            "instructions": "Shake it up it tasts better that way, but you can stir it if you want. 6 of those and you will be wasted for the rest of the night."
+            "instructions": "Shake it up it tasts better that way, but you can stir it if you want. 6 of those and you will be wasted for the rest of the night.",
+            "category": "COCKTAIL",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Acapulco",
+            "name": "ACAPULCO",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vtpsvr1472811976.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -2109,12 +2086,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Combine and shake all ingredients (except mint) with ice and strain into an old-fashioned glass over ice cubes. Add the sprig of mint and serve."
+            "instructions": "Combine and shake all ingredients (except mint) with ice and strain into an old-fashioned glass over ice cubes. Add the sprig of mint and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Ace",
+            "name": "ACE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/l3cd7f1504818306.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -2137,12 +2116,14 @@ const cocktailData = {
                     "1/2 Fresh"
                 ]
             ],
-            "instructions": "Shake all the ingredients in a cocktail shaker and ice then strain in a cold glass."
+            "instructions": "Shake all the ingredients in a cocktail shaker and ice then strain in a cold glass.",
+            "category": "COCKTAIL",
+            "glass": "MARTINI GLASS"
         },
         {
-            "name": "Adam",
+            "name": "ADAM",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rwuxsv1472812169.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Dark rum",
@@ -2157,12 +2138,14 @@ const cocktailData = {
                     "1 tsp "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass."
+            "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Adam & Eve",
+            "name": "ADAM & EVE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vfeumw1504819077.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -2181,12 +2164,14 @@ const cocktailData = {
                     "1/8 shot "
                 ]
             ],
-            "instructions": "Shake together all the ingredients and strain into a cold glass."
+            "instructions": "Shake together all the ingredients and strain into a cold glass.",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Adam Bomb",
+            "name": "ADAM BOMB",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/tpxurs1454513016.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Rum",
@@ -2209,12 +2194,14 @@ const cocktailData = {
                     "1-3 pint "
                 ]
             ],
-            "instructions": "Add ice to blender (or to glass if prefer on the rocks) then fruit, and fruite juice depending on personal prefference then add the Rum, Vodka, Tequila, and triple sec. blend till smooth, rim glass with sugar or salt and pour mixture in. garnish with lemon or lime slice."
+            "instructions": "Add ice to blender (or to glass if prefer on the rocks) then fruit, and fruite juice depending on personal prefference then add the Rum, Vodka, Tequila, and triple sec. blend till smooth, rim glass with sugar or salt and pour mixture in. garnish with lemon or lime slice.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "MARGARITA/COUPETTE GLASS"
         },
         {
-            "name": "Adam Sunrise",
+            "name": "ADAM SUNRISE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vtuyvu1472812112.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -2233,12 +2220,14 @@ const cocktailData = {
                     "10 tsp "
                 ]
             ],
-            "instructions": "Fill blender up with ice. Fill half with Bartons Vodka. Put 10 tsp of sugar, add 1/2 can lemonade concentrate, fill to top with water. Blend for 60 seconds."
+            "instructions": "Fill blender up with ice. Fill half with Bartons Vodka. Put 10 tsp of sugar, add 1/2 can lemonade concentrate, fill to top with water. Blend for 60 seconds.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Addington",
+            "name": "ADDINGTON",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ib0b7g1504818925.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sweet Vermouth",
@@ -2253,12 +2242,14 @@ const cocktailData = {
                     "Top up with\n"
                 ]
             ],
-            "instructions": "Mix both the vermouth's in a shaker and strain into a cold glass. Top up with a squirt of Soda Water. "
+            "instructions": "Mix both the vermouth's in a shaker and strain into a cold glass. Top up with a squirt of Soda Water. ",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Addison",
+            "name": "ADDISON",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yzva7x1504820300.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -2269,12 +2260,14 @@ const cocktailData = {
                     "1 1/2 shot "
                 ]
             ],
-            "instructions": "Shake together all the ingredients and strain into a cold glass."
+            "instructions": "Shake together all the ingredients and strain into a cold glass.",
+            "category": "COCKTAIL",
+            "glass": "MARTINI GLASS"
         },
         {
-            "name": "Addison Special",
+            "name": "ADDISON SPECIAL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/4vo5651493068493.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -2289,12 +2282,14 @@ const cocktailData = {
                     "Fill with "
                 ]
             ],
-            "instructions": "Combine ingredients in the order listed into a shaker. Fill half full with ice and shake well. Strain into glass with ice and garnish with a cherry and orange wedge."
+            "instructions": "Combine ingredients in the order listed into a shaker. Fill half full with ice and shake well. Strain into glass with ice and garnish with a cherry and orange wedge.",
+            "category": "COCKTAIL",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Adios Amigos Cocktail",
+            "name": "ADIOS AMIGOS COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/8nk2mp1504819893.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Rum",
@@ -2325,12 +2320,14 @@ const cocktailData = {
                     "1/2 shot "
                 ]
             ],
-            "instructions": "Shake together all the ingredients and strain into a cold glass."
+            "instructions": "Shake together all the ingredients and strain into a cold glass.",
+            "category": "COCKTAIL",
+            "glass": "MARTINI GLASS"
         },
         {
-            "name": "Adonis Cocktail",
+            "name": "ADONIS COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xrvruq1472812030.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sweet Vermouth",
@@ -2345,12 +2342,14 @@ const cocktailData = {
                     "1 dash "
                 ]
             ],
-            "instructions": "Stir all ingredients with ice, strain contents into a cocktail glass, and serve."
+            "instructions": "Stir all ingredients with ice, strain contents into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Affair",
+            "name": "AFFAIR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wxrsxx1472720734.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Strawberry schnapps",
@@ -2365,12 +2364,14 @@ const cocktailData = {
                     "2 oz "
                 ]
             ],
-            "instructions": "Pour schnapps, orange juice, and cranberry juice over ice in a highball glass. Top with club soda and serve."
+            "instructions": "Pour schnapps, orange juice, and cranberry juice over ice in a highball glass. Top with club soda and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Affinity",
+            "name": "AFFINITY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/nwatpb1504817045.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Scotch",
@@ -2389,12 +2390,14 @@ const cocktailData = {
                     "2 dashes "
                 ]
             ],
-            "instructions": "In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass."
+            "instructions": "In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "After Dinner Cocktail",
+            "name": "AFTER DINNER COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vtytxq1483387578.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Apricot brandy",
@@ -2413,19 +2416,23 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Shake all ingredients (except lime wedge) with ice and strain into a cocktail glass. Add the wedge of lime and serve."
+            "instructions": "Shake all ingredients (except lime wedge) with ice and strain into a cocktail glass. Add the wedge of lime and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "After Five",
+            "name": "AFTER FIVE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/sk3lr91493068595.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [],
-            "instructions": "1. Pour Kahlua into shot glass to about 1/2 full. 2. Using a spoon(inverted), slowly pour in the Peppermint Schnapps until glass is about 3/4 full. Done correctly, the Schnapps will flow under the Kahlua for a clear layer. 3. Again using a spoon, but this time right side up, slowly top off the glass with a layer of Bailey's. Be careful to place the spoon right at the top of the Kahlua layer and to raise it as the glass fills up. Done correctly, this will provide a layer of Bailey's floating over the Kahlua. 4. Toss it down all at once for something like a Peppermint Pattie, WITH A BANG!!! NOTE: Best if all ingredients are chilled"
+            "instructions": "1. Pour Kahlua into shot glass to about 1/2 full. 2. Using a spoon(inverted), slowly pour in the Peppermint Schnapps until glass is about 3/4 full. Done correctly, the Schnapps will flow under the Kahlua for a clear layer. 3. Again using a spoon, but this time right side up, slowly top off the glass with a layer of Bailey's. Be careful to place the spoon right at the top of the Kahlua layer and to raise it as the glass fills up. Done correctly, this will provide a layer of Bailey's floating over the Kahlua. 4. Toss it down all at once for something like a Peppermint Pattie, WITH A BANG!!! NOTE: Best if all ingredients are chilled",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "After Supper Cocktail",
+            "name": "AFTER SUPPER COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/quyxwu1483387610.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Triple sec",
@@ -2440,12 +2447,14 @@ const cocktailData = {
                     "1/2 tsp "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "After sex",
+            "name": "AFTER SEX",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xrl66i1493068702.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -2456,12 +2465,14 @@ const cocktailData = {
                     "1 cl "
                 ]
             ],
-            "instructions": "Pour the vodka and creme over some ice cubes in a tall glass and fill up with juice. to make it beuty full make the top of the glass with a grenadine and sugar"
+            "instructions": "Pour the vodka and creme over some ice cubes in a tall glass and fill up with juice. to make it beuty full make the top of the glass with a grenadine and sugar",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Afterglow",
+            "name": "AFTERGLOW",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vuquyv1468876052.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Grenadine",
@@ -2476,12 +2487,14 @@ const cocktailData = {
                     "4 parts "
                 ]
             ],
-            "instructions": "Mix. Serve over ice."
+            "instructions": "Mix. Serve over ice.",
+            "category": "COCKTAIL",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Afternoon",
+            "name": "AFTERNOON",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vyrurp1472667777.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Kahlua",
@@ -2500,12 +2513,14 @@ const cocktailData = {
                     "4 cl hot "
                 ]
             ],
-            "instructions": "Build into a suiting glass, with no ice. Cream on top if wanted. Served directly."
+            "instructions": "Build into a suiting glass, with no ice. Cream on top if wanted. Served directly.",
+            "category": "COFFEE / TEA",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Alabama Slammer",
+            "name": "ALABAMA SLAMMER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qtwxwr1483387647.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Southern Comfort",
@@ -2524,12 +2539,14 @@ const cocktailData = {
                     "1 dash "
                 ]
             ],
-            "instructions": "Pour all ingredients (except for lemon juice) over ice in a highball glass. Stir, add a dash of lemon juice, and serve."
+            "instructions": "Pour all ingredients (except for lemon juice) over ice in a highball glass. Stir, add a dash of lemon juice, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Alaska Cocktail",
+            "name": "ALASKA COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wsyryt1483387720.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Orange bitters",
@@ -2548,12 +2565,14 @@ const cocktailData = {
                     "Twist of "
                 ]
             ],
-            "instructions": "Stir all ingredients with ice, strain contents into a cocktail glass. Drop in a twist of lemon and serve."
+            "instructions": "Stir all ingredients with ice, strain contents into a cocktail glass. Drop in a twist of lemon and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Alexander",
+            "name": "ALEXANDER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/urystu1478253039.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -2568,12 +2587,14 @@ const cocktailData = {
                     "2 oz "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve."
+            "instructions": "Shake all ingredients with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Alfie Cocktail",
+            "name": "ALFIE COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ypxsqy1483387829.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Lemon vodka",
@@ -2588,12 +2609,14 @@ const cocktailData = {
                     "1 tblsp "
                 ]
             ],
-            "instructions": "Combine and shake all ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Combine and shake all ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Algonquin",
+            "name": "ALGONQUIN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uwryxx1483387873.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Blended whiskey",
@@ -2608,12 +2631,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Combine and shake all ingredients with ice, strain contents into a cocktail glass, and serve."
+            "instructions": "Combine and shake all ingredients with ice, strain contents into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Alice Cocktail",
+            "name": "ALICE COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qyqtpv1468876144.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Grenadine",
@@ -2632,12 +2657,14 @@ const cocktailData = {
                     "4 cl "
                 ]
             ],
-            "instructions": "Shake well, strain into a large cocktail glass."
+            "instructions": "Shake well, strain into a large cocktail glass.",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Alice in Wonderland",
+            "name": "ALICE IN WONDERLAND",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/g12lj41493069391.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Amaretto",
@@ -2652,12 +2679,14 @@ const cocktailData = {
                     "1 shot "
                 ]
             ],
-            "instructions": "Just mix the three ingredients one to one to one"
+            "instructions": "Just mix the three ingredients one to one to one",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Allegheny",
+            "name": "ALLEGHENY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uwvyts1483387934.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Dry Vermouth",
@@ -2680,12 +2709,14 @@ const cocktailData = {
                     "1 twist of "
                 ]
             ],
-            "instructions": "Shake all ingredients (except lemon peel) with ice and strain into a cocktail glass. Top with the twist of lemon peel and serve."
+            "instructions": "Shake all ingredients (except lemon peel) with ice and strain into a cocktail glass. Top with the twist of lemon peel and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Allies Cocktail",
+            "name": "ALLIES COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qvprvp1483388104.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Dry Vermouth",
@@ -2700,12 +2731,14 @@ const cocktailData = {
                     "1/2 tsp "
                 ]
             ],
-            "instructions": "Stir all ingredients with ice, strain contents into a cocktail glass, and serve."
+            "instructions": "Stir all ingredients with ice, strain contents into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Almeria",
+            "name": "ALMERIA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rwsyyu1483388181.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Dark rum",
@@ -2720,12 +2753,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass."
+            "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Almond Chocolate Coffee",
+            "name": "ALMOND CHOCOLATE COFFEE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/jls02c1493069441.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Amaretto",
@@ -2740,12 +2775,14 @@ const cocktailData = {
                     "8 oz "
                 ]
             ],
-            "instructions": "Pour in order into coffee cup. Top with whipped creme and chocolate shcvings."
+            "instructions": "Pour in order into coffee cup. Top with whipped creme and chocolate shcvings.",
+            "category": "ORDINARY DRINK",
+            "glass": "COFFEE MUG"
         },
         {
-            "name": "Almond Joy",
+            "name": "ALMOND JOY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xutuqs1483388296.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Amaretto",
@@ -2760,12 +2797,14 @@ const cocktailData = {
                     "2 oz "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Aloha Fruit punch",
+            "name": "ALOHA FRUIT PUNCH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wsyvrt1468876267.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Water",
@@ -2796,12 +2835,14 @@ const cocktailData = {
                     "3-4 cups "
                 ]
             ],
-            "instructions": "Add 1/4 cup water to ginger root. Boil 3 minutes. Strain. Add the liquid to the guava, lemon and pineapple juices. Make a syrup of sugar and remaining water. Cool. Combine with juices and pineapple. Chill throroughly."
+            "instructions": "Add 1/4 cup water to ginger root. Boil 3 minutes. Strain. Add the liquid to the guava, lemon and pineapple juices. Make a syrup of sugar and remaining water. Cool. Combine with juices and pineapple. Chill throroughly.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Amaretto And Cream",
+            "name": "AMARETTO AND CREAM",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/dj8n0r1504375018.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Amaretto",
@@ -2812,12 +2853,14 @@ const cocktailData = {
                     "1 1/2 oz "
                 ]
             ],
-            "instructions": "Shake well with cracked ice, strain contents into a cocktail glass, and serve."
+            "instructions": "Shake well with cracked ice, strain contents into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Amaretto Liqueur",
+            "name": "AMARETTO LIQUEUR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/swqxuv1472719649.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sugar",
@@ -2864,12 +2907,14 @@ const cocktailData = {
                     "1/2 tsp "
                 ]
             ],
-            "instructions": "Combine sugar and 3/4 cup water in a small saucepan. Bring to a boil, stirring constantly. Reduce heat and simmer until all sugar is dissolved. Remove from heat and cool. In an aging container, combine apricot halves, almond extract, grain alcohol with 1/2 cup water, and brandy. Stir in cooled sugar syrup mixture. Cap and let age for 2 days. Remove apricot halves. (Save apricot halves, can be used for cooking). Add food coloring and glycerine. Stir, recap and continue aging for 1 to 2 months. Re-bottle as desired. Liqueur is ready to serve but will continue to improve with additional aging."
+            "instructions": "Combine sugar and 3/4 cup water in a small saucepan. Bring to a boil, stirring constantly. Reduce heat and simmer until all sugar is dissolved. Remove from heat and cool. In an aging container, combine apricot halves, almond extract, grain alcohol with 1/2 cup water, and brandy. Stir in cooled sugar syrup mixture. Cap and let age for 2 days. Remove apricot halves. (Save apricot halves, can be used for cooking). Add food coloring and glycerine. Stir, recap and continue aging for 1 to 2 months. Re-bottle as desired. Liqueur is ready to serve but will continue to improve with additional aging.",
+            "category": "HOMEMADE LIQUEUR",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Amaretto Mist",
+            "name": "AMARETTO MIST",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/utpxxq1483388370.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Amaretto",
@@ -2880,12 +2925,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Pour amaretto in an old-fashioned glass over crushed ice. Add the wedge of lime and serve. (A wedge of lemon may be substituted for lime, if preferred.)"
+            "instructions": "Pour amaretto in an old-fashioned glass over crushed ice. Add the wedge of lime and serve. (A wedge of lemon may be substituted for lime, if preferred.)",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Amaretto Rose",
+            "name": "AMARETTO ROSE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/3jm41q1493069578.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Amaretto",
@@ -2896,12 +2943,14 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "Pour amaretto and lime juice over ice in a collins glass. Fill with club soda and serve."
+            "instructions": "Pour amaretto and lime juice over ice in a collins glass. Fill with club soda and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Amaretto Shake",
+            "name": "AMARETTO SHAKE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xk79al1493069655.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Chocolate ice-cream",
@@ -2916,12 +2965,14 @@ const cocktailData = {
                     "2 oz "
                 ]
             ],
-            "instructions": "Combine all ingredients in a blender and blend at high speed until smooth. Serve in chilled glass garnished with bittersweet chocolate shavings."
+            "instructions": "Combine all ingredients in a blender and blend at high speed until smooth. Serve in chilled glass garnished with bittersweet chocolate shavings.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Amaretto Sour",
+            "name": "AMARETTO SOUR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xnzc541493070211.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Amaretto",
@@ -2932,12 +2983,14 @@ const cocktailData = {
                     "3 oz "
                 ]
             ],
-            "instructions": "Shake and strain. Garnish with a cherry and an orange slice."
+            "instructions": "Shake and strain. Garnish with a cherry and an orange slice.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Amaretto Stinger",
+            "name": "AMARETTO STINGER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vvop4w1493069934.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Amaretto",
@@ -2948,12 +3001,14 @@ const cocktailData = {
                     "3/4 oz "
                 ]
             ],
-            "instructions": "Shake ingredients well with cracked ice, strain into a cocktail glass, and serve."
+            "instructions": "Shake ingredients well with cracked ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Amaretto Stone Sour",
+            "name": "AMARETTO STONE SOUR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xwryyx1472719921.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Amaretto",
@@ -2968,12 +3023,14 @@ const cocktailData = {
                     "1 part "
                 ]
             ],
-            "instructions": "Shake and Serve over ice"
+            "instructions": "Shake and Serve over ice",
+            "category": "OTHER/UNKNOWN",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Amaretto Stone Sour #3",
+            "name": "AMARETTO STONE SOUR #3",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wutxqr1472720012.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sour mix",
@@ -2992,12 +3049,14 @@ const cocktailData = {
                     "Add splash "
                 ]
             ],
-            "instructions": "Shake sour mix, tequila and amaretto with ice. Strain into highball glass. Add a splash of OJ. Garnish with orange slice and a cherry."
+            "instructions": "Shake sour mix, tequila and amaretto with ice. Strain into highball glass. Add a splash of OJ. Garnish with orange slice and a cherry.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Amaretto Sunrise",
+            "name": "AMARETTO SUNRISE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/akcpsh1493070267.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Amaretto",
@@ -3012,12 +3071,14 @@ const cocktailData = {
                     "1/4 cl "
                 ]
             ],
-            "instructions": "Mix together the amaretto and orange juice. Pour into glass and then add the grenadine untill you see the sunrise."
+            "instructions": "Mix together the amaretto and orange juice. Pour into glass and then add the grenadine untill you see the sunrise.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Amaretto Sunset",
+            "name": "AMARETTO SUNSET",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/apictz1493069760.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Triple sec",
@@ -3036,19 +3097,23 @@ const cocktailData = {
                     "Add 1/2 cup "
                 ]
             ],
-            "instructions": "Shake ingredients in bartender's mixer quickly, just 5 shakes. Strain out ice, serve in glass immediately with a slice of orange."
+            "instructions": "Shake ingredients in bartender's mixer quickly, just 5 shakes. Strain out ice, serve in glass immediately with a slice of orange.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Amaretto Sweet & Sour",
+            "name": "AMARETTO SWEET & SOUR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vswwus1472668546.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [],
-            "instructions": "Fill the blender with 3/4 ice. Add sweet & sour mix to the top of the ice. Add about 1\" of pineapple juice, 1/2\" of melon liqeur, and 1/2 to 1/4\" of amaretto. Then blend the mix until it is of margaritta consistency or thinner."
+            "instructions": "Fill the blender with 3/4 ice. Add sweet & sour mix to the top of the ice. Add about 1\" of pineapple juice, 1/2\" of melon liqeur, and 1/2 to 1/4\" of amaretto. Then blend the mix until it is of margaritta consistency or thinner.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "MARGARITA/COUPETTE GLASS"
         },
         {
-            "name": "Amaretto Tea",
+            "name": "AMARETTO TEA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/b7qzo21493070167.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Tea",
@@ -3063,12 +3128,14 @@ const cocktailData = {
                     "Chilled "
                 ]
             ],
-            "instructions": "Pour hot tea into a pousse-cafe glass, using a spoon in glass to prevent cracking. Add amaretto, but do not stir. Top with chilled whipped cream and serve."
+            "instructions": "Pour hot tea into a pousse-cafe glass, using a spoon in glass to prevent cracking. Add amaretto, but do not stir. Top with chilled whipped cream and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "POUSSE CAFE GLASS"
         },
         {
-            "name": "Americano",
+            "name": "AMERICANO",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/trwruu1478253126.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Campari",
@@ -3087,12 +3154,14 @@ const cocktailData = {
                     "Twist of "
                 ]
             ],
-            "instructions": "Pour the Campari and vermouth over ice into glass, add a splash of soda water and garnish with half orange slice."
+            "instructions": "Pour the Campari and vermouth over ice into glass, add a splash of soda water and garnish with half orange slice.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Angel Face",
+            "name": "ANGEL FACE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vqpptp1478253178.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Apricot brandy",
@@ -3107,12 +3176,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice and strain contents into a cocktail glass."
+            "instructions": "Shake all ingredients with ice and strain contents into a cocktail glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Angelica Liqueur",
+            "name": "ANGELICA LIQUEUR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yuurps1472667672.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Angelica root",
@@ -3163,12 +3234,14 @@ const cocktailData = {
                     "1 drop green "
                 ]
             ],
-            "instructions": "Combine all herbs, nuts and spices with vodka in a 1 quart or larger aging container. Cap tightly and shake daily for 2 weeks. Strain through a fine muslin cloth or coffee filter, discarding solids. Clean out aging container. Place liquid back in container. Place sugar and water in saucepan and stir to combine over medium heat. When sugar is completely dissolved, set aside and let cool. When cool combine with food coloring and add to liqueur liquid. Cap and allow to age and mellow in a cool, dark place for one month."
+            "instructions": "Combine all herbs, nuts and spices with vodka in a 1 quart or larger aging container. Cap tightly and shake daily for 2 weeks. Strain through a fine muslin cloth or coffee filter, discarding solids. Clean out aging container. Place liquid back in container. Place sugar and water in saucepan and stir to combine over medium heat. When sugar is completely dissolved, set aside and let cool. When cool combine with food coloring and add to liqueur liquid. Cap and allow to age and mellow in a cool, dark place for one month.",
+            "category": "HOMEMADE LIQUEUR",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Apello",
+            "name": "APELLO",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uptxtv1468876415.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Orange juice",
@@ -3187,12 +3260,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Stirr. Grnish with maraschino cherry."
+            "instructions": "Stirr. Grnish with maraschino cherry.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Apple Berry Smoothie",
+            "name": "APPLE BERRY SMOOTHIE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xwqvur1468876473.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Berries",
@@ -3203,12 +3278,14 @@ const cocktailData = {
                     "2 "
                 ]
             ],
-            "instructions": "Throw everything into a blender and liquify."
+            "instructions": "Throw everything into a blender and liquify.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Apple Cider Punch #1",
+            "name": "APPLE CIDER PUNCH #1",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xrqxuv1454513218.jpg",
-            "alcoholic": "Optional alcohol",
+            "alcoholic": "OPTIONAL ALCOHOL",
             "ingredients": [
                 [
                     "Apple cider",
@@ -3243,12 +3320,14 @@ const cocktailData = {
                     "3 sticks "
                 ]
             ],
-            "instructions": "If you use the whole all spice and cloves, tie them in cheesecloth. Heat the mixture. Stir occasionally. If you want an alcoholic drink, rum would be nice."
+            "instructions": "If you use the whole all spice and cloves, tie them in cheesecloth. Heat the mixture. Stir occasionally. If you want an alcoholic drink, rum would be nice.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Apple Grande",
+            "name": "APPLE GRANDE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wqrptx1472668622.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Tequila",
@@ -3259,12 +3338,14 @@ const cocktailData = {
                     "12 oz "
                 ]
             ],
-            "instructions": "Chill both ingredients!! Mix in a tumbler and enjoy!"
+            "instructions": "Chill both ingredients!! Mix in a tumbler and enjoy!",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "PUNCH BOWL"
         },
         {
-            "name": "Apple Karate",
+            "name": "APPLE KARATE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/syusvw1468876634.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Apple juice",
@@ -3275,12 +3356,14 @@ const cocktailData = {
                     "1 large "
                 ]
             ],
-            "instructions": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up."
+            "instructions": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.",
+            "category": "COCKTAIL",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Apple Pie with A Crust",
+            "name": "APPLE PIE WITH A CRUST",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qspqxt1472720078.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Apple juice",
@@ -3295,12 +3378,14 @@ const cocktailData = {
                     "3 dashes "
                 ]
             ],
-            "instructions": "Just mix the two liquids and sprinkle in the cinnamon. Serve either cold or heated."
+            "instructions": "Just mix the two liquids and sprinkle in the cinnamon. Serve either cold or heated.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Apple Slammer",
+            "name": "APPLE SLAMMER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/09yd5f1493069852.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "7-Up",
@@ -3311,12 +3396,14 @@ const cocktailData = {
                     "1 part "
                 ]
             ],
-            "instructions": "pour into a shot glass and present to consumer, they are expected to cover the top of the shotglass with thier palm, raise the glass, slam it on the bar and the swallow quickly."
+            "instructions": "pour into a shot glass and present to consumer, they are expected to cover the top of the shotglass with thier palm, raise the glass, slam it on the bar and the swallow quickly.",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Applecar",
+            "name": "APPLECAR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/sbffau1504389764.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Applejack",
@@ -3331,12 +3418,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Applejack",
+            "name": "APPLEJACK",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/sutyqp1479209062.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Jack Daniels",
@@ -3351,12 +3440,14 @@ const cocktailData = {
                     "2 oz "
                 ]
             ],
-            "instructions": "Add all ingredients into mixing glass, chill and strain into cocktail glass"
+            "instructions": "Add all ingredients into mixing glass, chill and strain into cocktail glass",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Apricot Lady",
+            "name": "APRICOT LADY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/146f251504389814.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -3383,12 +3474,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine the rum, apricot brandy, triple sec, lemon juice, and egg white. Shake well. Strain into an old-fashioned glass almost filled with ice cubes. Garnish with the orange slice."
+            "instructions": "In a shaker half-filled with ice cubes, combine the rum, apricot brandy, triple sec, lemon juice, and egg white. Shake well. Strain into an old-fashioned glass almost filled with ice cubes. Garnish with the orange slice.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Apricot punch",
+            "name": "APRICOT PUNCH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/tuxxtp1472668667.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Apricot brandy",
@@ -3411,12 +3504,14 @@ const cocktailData = {
                     "1/2 gal "
                 ]
             ],
-            "instructions": "Pour all ingrediants into a large punch bowl. Add ice and 4 oranges that are peeled and divided."
+            "instructions": "Pour all ingrediants into a large punch bowl. Add ice and 4 oranges that are peeled and divided.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "PUNCH BOWL"
         },
         {
-            "name": "Archbishop",
+            "name": "ARCHBISHOP",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xpqwrt1441207307.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -3435,12 +3530,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well."
+            "instructions": "In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Arctic Fish",
+            "name": "ARCTIC FISH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ttsvwy1472668781.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -3463,12 +3560,14 @@ const cocktailData = {
                     "1 dash "
                 ]
             ],
-            "instructions": "Fill glass with ice and fish, add vodka, grape soda and orange juice. DO NOT STIR!!!!! Serve well chilled."
+            "instructions": "Fill glass with ice and fish, add vodka, grape soda and orange juice. DO NOT STIR!!!!! Serve well chilled.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "BEER PILSNER"
         },
         {
-            "name": "Arctic Mouthwash",
+            "name": "ARCTIC MOUTHWASH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wqstwv1478963735.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Maui",
@@ -3483,12 +3582,14 @@ const cocktailData = {
                     " cubes\n"
                 ]
             ],
-            "instructions": "Blend all ingredients in a blender on high until ice is finely crushed. It should be of a slushy consistency. Pour immediately and serve."
+            "instructions": "Blend all ingredients in a blender on high until ice is finely crushed. It should be of a slushy consistency. Pour immediately and serve.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Arise My Love",
+            "name": "ARISE MY LOVE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wyrrwv1441207432.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Champagne",
@@ -3499,12 +3600,14 @@ const cocktailData = {
                     "1 tsp "
                 ]
             ],
-            "instructions": "Put creme de menthe into a champagne flute. Fill with chilled champagne and serve."
+            "instructions": "Put creme de menthe into a champagne flute. Fill with chilled champagne and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "CHAMPAGNE FLUTE"
         },
         {
-            "name": "Arizona Antifreeze",
+            "name": "ARIZONA ANTIFREEZE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/dbtylp1493067262.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -3519,12 +3622,14 @@ const cocktailData = {
                     "1/3 oz "
                 ]
             ],
-            "instructions": "Pour all ingredients into shot glass and slam !!!!"
+            "instructions": "Pour all ingredients into shot glass and slam !!!!",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Arizona Stingers",
+            "name": "ARIZONA STINGERS",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/y7w0721493068255.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Absolut Vodka",
@@ -3535,12 +3640,14 @@ const cocktailData = {
                     "12 oz lemon "
                 ]
             ],
-            "instructions": "Place ice cubes in the hurricane glass . Add the 2 HEAPING shots of Absolute Vodka (Note: You can add as many shots of Absolute as you want!) Fill the rest of glass with the Arizona Icetea with lemon. Stir to mix using a spoon. Drink up and enjoy!!!!!!!"
+            "instructions": "Place ice cubes in the hurricane glass . Add the 2 HEAPING shots of Absolute Vodka (Note: You can add as many shots of Absolute as you want!) Fill the rest of glass with the Arizona Icetea with lemon. Stir to mix using a spoon. Drink up and enjoy!!!!!!!",
+            "category": "COCKTAIL",
+            "glass": "HURRICANE GLASS"
         },
         {
-            "name": "Arizona Twister",
+            "name": "ARIZONA TWISTER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ido1j01493068134.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -3579,12 +3686,14 @@ const cocktailData = {
                     "1 wedge "
                 ]
             ],
-            "instructions": "Just mix in the shots of rum, vodka, and tequila. Add splashes of the three juices, heavy on the pineapple. Top off with grenadine. Crushed ice should already be in glass. Top off the glass with a pineapple wedge."
+            "instructions": "Just mix in the shots of rum, vodka, and tequila. Add splashes of the three juices, heavy on the pineapple. Top off with grenadine. Crushed ice should already be in glass. Top off the glass with a pineapple wedge.",
+            "category": "COCKTAIL",
+            "glass": "HURRICANE GLASS"
         },
         {
-            "name": "Army special",
+            "name": "ARMY SPECIAL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/55muhh1493068062.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -3603,12 +3712,14 @@ const cocktailData = {
                     "1/2 glass crushed "
                 ]
             ],
-            "instructions": "Pour Vodka, Gin and lime cordial into glass, and top up with crushed ice. Wait for ice to melt slightly and sip without a straw."
+            "instructions": "Pour Vodka, Gin and lime cordial into glass, and top up with crushed ice. Wait for ice to melt slightly and sip without a straw.",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Arthur Tompkins",
+            "name": "ARTHUR TOMPKINS",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/7onfhz1493067921.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -3627,12 +3738,14 @@ const cocktailData = {
                     "1 twist of "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine the gin, Grand Marnier, and lemon juice. Shake well. Strain into a sour glass and garnish with the lemon twist."
+            "instructions": "In a shaker half-filled with ice cubes, combine the gin, Grand Marnier, and lemon juice. Shake well. Strain into a sour glass and garnish with the lemon twist.",
+            "category": "ORDINARY DRINK",
+            "glass": "WHISKEY SOUR GLASS"
         },
         {
-            "name": "Artillery",
+            "name": "ARTILLERY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/g1vnbe1493067747.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sweet Vermouth",
@@ -3647,12 +3760,14 @@ const cocktailData = {
                     "2 dashes "
                 ]
             ],
-            "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Artillery Punch",
+            "name": "ARTILLERY PUNCH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/9a4vqb1493067692.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Tea",
@@ -3687,12 +3802,14 @@ const cocktailData = {
                     "1/2 pint "
                 ]
             ],
-            "instructions": "Combine all the ingredients in a large punch bowl with a block of ice. If found too dry, sugar syrup may be added. Decorate with twists of lemon peel."
+            "instructions": "Combine all the ingredients in a large punch bowl with a block of ice. If found too dry, sugar syrup may be added. Decorate with twists of lemon peel.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "PUNCH BOWL"
         },
         {
-            "name": "Atlantic Sun",
+            "name": "ATLANTIC SUN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/doyxqb1493067556.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -3715,12 +3832,14 @@ const cocktailData = {
                     "1 dash "
                 ]
             ],
-            "instructions": "Shake all the ingredients, top the drink with soda. Garnish with a slice of orange."
+            "instructions": "Shake all the ingredients, top the drink with soda. Garnish with a slice of orange.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Atomic Lokade",
+            "name": "ATOMIC LOKADE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/n3zfrh1493067412.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Lemonade",
@@ -3739,12 +3858,14 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "In a shaker, place lemonade, vodka, blue Curacao, and triple sec together. Shake with ice and strain into glass. Add sugar to taste"
+            "instructions": "In a shaker, place lemonade, vodka, blue Curacao, and triple sec together. Shake with ice and strain into glass. Add sugar to taste",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Auburn Headbanger",
+            "name": "AUBURN HEADBANGER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vw7iv91493067320.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "J\u00e4germeister",
@@ -3755,12 +3876,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Mix in spread glass over ice. Strain and pour in shot glass. Sit down before shotting. ENJOY!!"
+            "instructions": "Mix in spread glass over ice. Strain and pour in shot glass. Sit down before shotting. ENJOY!!",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Autodaf\u00e9",
+            "name": "AUTODAF\u00c9",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/7dkf0i1487602928.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -3771,12 +3894,14 @@ const cocktailData = {
                     "1 dash "
                 ]
             ],
-            "instructions": "Mix and fill up with soda water. Drunk by finns on a sunny day any time of the year and day."
+            "instructions": "Mix and fill up with soda water. Drunk by finns on a sunny day any time of the year and day.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Avalanche",
+            "name": "AVALANCHE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uppqty1472720165.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Crown Royal",
@@ -3791,12 +3916,14 @@ const cocktailData = {
                     "Fill with "
                 ]
             ],
-            "instructions": "Mix in highball glass over ice, shake well."
+            "instructions": "Mix in highball glass over ice, shake well.",
+            "category": "MILK / FLOAT / SHAKE",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Avalon",
+            "name": "AVALON",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/3k9qic1493068931.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -3815,12 +3942,14 @@ const cocktailData = {
                     "1 1/2 part "
                 ]
             ],
-            "instructions": "Fill a tall glass with ice. Layer the Finlandia Vodka, lemon and apple juices, Pisang Ambon, and top up with lemonade. Stir slightly and garnish with a spiralled cucumber skin and a red cherry. The cucumber provides zest and looks attractive. This drink, created by Timo Haimi, took first prize in the 1991 Finlandia Vodka Long Drink Competition."
+            "instructions": "Fill a tall glass with ice. Layer the Finlandia Vodka, lemon and apple juices, Pisang Ambon, and top up with lemonade. Stir slightly and garnish with a spiralled cucumber skin and a red cherry. The cucumber provides zest and looks attractive. This drink, created by Timo Haimi, took first prize in the 1991 Finlandia Vodka Long Drink Competition.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Aviation",
+            "name": "AVIATION",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ruutxt1478253328.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -3835,12 +3964,14 @@ const cocktailData = {
                     "1.5 cl"
                 ]
             ],
-            "instructions": "Add all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass. Garnish with a cherry."
+            "instructions": "Add all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass. Garnish with a cherry.",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Aztec Punch",
+            "name": "AZTEC PUNCH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uqwuyp1454514591.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Lemonade",
@@ -3859,12 +3990,14 @@ const cocktailData = {
                     "About 1 bottle "
                 ]
             ],
-            "instructions": "Mix all ingredients in a pitcher. Mix thoroughly and pour into whatever is available, the bigger the better! This drink packs a big punch, so don't over do it."
+            "instructions": "Mix all ingredients in a pitcher. Mix thoroughly and pour into whatever is available, the bigger the better! This drink packs a big punch, so don't over do it.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "PUNCH BOWL"
         },
         {
             "name": "B-52",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/5a3vg61504372070.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Bailey's irish cream",
@@ -3879,12 +4012,14 @@ const cocktailData = {
                     "1/4 "
                 ]
             ],
-            "instructions": "Layer ingredients into a shot glass. Serve with a stirrer."
+            "instructions": "Layer ingredients into a shot glass. Serve with a stirrer.",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
             "name": "B-53",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rwqxrv1461866023.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Kahlua",
@@ -3899,12 +4034,14 @@ const cocktailData = {
                     "1/3 shot "
                 ]
             ],
-            "instructions": "Layer the Kahlua, Sambucca and Grand Marnier into a shot glas in that order. Better than B-52"
+            "instructions": "Layer the Kahlua, Sambucca and Grand Marnier into a shot glas in that order. Better than B-52",
+            "category": "SHOT",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Baby Eskimo",
+            "name": "BABY ESKIMO",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wywrtw1472720227.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Kahlua",
@@ -3919,12 +4056,14 @@ const cocktailData = {
                     "2 scoops "
                 ]
             ],
-            "instructions": "Leave ice-cream out for about 10 minutes. Add ingredients in order, stir with chopstick (butter knife or spoon works too). Consume immediately and often. Nice and light, great for following a heavy drink."
+            "instructions": "Leave ice-cream out for about 10 minutes. Add ingredients in order, stir with chopstick (butter knife or spoon works too). Consume immediately and often. Nice and light, great for following a heavy drink.",
+            "category": "MILK / FLOAT / SHAKE",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Baby Guinness",
+            "name": "BABY GUINNESS",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rvyvxs1473482359.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Kahlua",
@@ -3935,12 +4074,14 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "Pour Kahlua, almost filling shot glass. Then, carefully pour Baileys, using wall of shot glass. This will give the \"Guinness\" its \"head\"."
+            "instructions": "Pour Kahlua, almost filling shot glass. Then, carefully pour Baileys, using wall of shot glass. This will give the \"Guinness\" its \"head\".",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Bacardi Cocktail",
+            "name": "BACARDI COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/n433t21504348259.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -3959,12 +4100,14 @@ const cocktailData = {
                     "1 dash "
                 ]
             ],
-            "instructions": "Shake together with ice. Strain into glass and serve."
+            "instructions": "Shake together with ice. Strain into glass and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Bailey's Dream Shake",
+            "name": "BAILEY'S DREAM SHAKE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qxrvqw1472718959.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Bailey's irish cream",
@@ -3975,12 +4118,14 @@ const cocktailData = {
                     "2 scoops "
                 ]
             ],
-            "instructions": "Blend ingredients for 30 seconds. Definitely refreshing for a hot summer's day !"
+            "instructions": "Blend ingredients for 30 seconds. Definitely refreshing for a hot summer's day !",
+            "category": "SOFT DRINK / SODA",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Balmoral",
+            "name": "BALMORAL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vysuyq1441206297.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Scotch",
@@ -3999,12 +4144,14 @@ const cocktailData = {
                     "2 dashes "
                 ]
             ],
-            "instructions": "In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass."
+            "instructions": "In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Banana Cantaloupe Smoothie",
+            "name": "BANANA CANTALOUPE SMOOTHIE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uqxqsy1468876703.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Cantaloupe",
@@ -4015,12 +4162,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Juice cantaloupe, pour juice into blender, add banana, and liquify."
+            "instructions": "Juice cantaloupe, pour juice into blender, add banana, and liquify.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Banana Daiquiri",
+            "name": "BANANA DAIQUIRI",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/k1xatq1504389300.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -4047,12 +4196,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass."
+            "instructions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "CHAMPAGNE FLUTE"
         },
         {
-            "name": "Banana Milk Shake",
+            "name": "BANANA MILK SHAKE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rtwwsx1472720307.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Milk",
@@ -4071,12 +4222,14 @@ const cocktailData = {
                     "1/2 "
                 ]
             ],
-            "instructions": "Blend very well, preferably in a household mixer. Serve in a wine glass, garnish with whipped cream and a piece of banana."
+            "instructions": "Blend very well, preferably in a household mixer. Serve in a wine glass, garnish with whipped cream and a piece of banana.",
+            "category": "MILK / FLOAT / SHAKE",
+            "glass": "WHITE WINE GLASS"
         },
         {
-            "name": "Banana Strawberry Shake",
+            "name": "BANANA STRAWBERRY SHAKE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vqquwx1472720634.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Strawberries",
@@ -4099,12 +4252,14 @@ const cocktailData = {
                     " to taste\n"
                 ]
             ],
-            "instructions": "Blend all together in a blender until smooth."
+            "instructions": "Blend all together in a blender until smooth.",
+            "category": "MILK / FLOAT / SHAKE",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Banana Strawberry Shake Daiquiri-type",
+            "name": "BANANA STRAWBERRY SHAKE DAIQUIRI-TYPE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uvypss1472720581.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Strawberries",
@@ -4119,12 +4274,14 @@ const cocktailData = {
                     "2 cups fresh "
                 ]
             ],
-            "instructions": "Blend all together in a blender until smooth."
+            "instructions": "Blend all together in a blender until smooth.",
+            "category": "MILK / FLOAT / SHAKE",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Barracuda",
+            "name": "BARRACUDA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/jwmr1x1504372337.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Rum",
@@ -4147,12 +4304,14 @@ const cocktailData = {
                     "top up "
                 ]
             ],
-            "instructions": "Shake pour ingredients with ice. Strain into glass, top with Sparkling wine."
+            "instructions": "Shake pour ingredients with ice. Strain into glass, top with Sparkling wine.",
+            "category": "ORDINARY DRINK",
+            "glass": "MARGARITA GLASS"
         },
         {
-            "name": "Belgian Blue",
+            "name": "BELGIAN BLUE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rttsxw1441245419.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -4171,12 +4330,14 @@ const cocktailData = {
                     "Fill with "
                 ]
             ],
-            "instructions": "Just pour all ingredients in the glass and stir..."
+            "instructions": "Just pour all ingredients in the glass and stir...",
+            "category": "SOFT DRINK / SODA",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Bellini",
+            "name": "BELLINI",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/eaag491504367543.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Champagne",
@@ -4187,12 +4348,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Pour peach pur\u00e9e into chilled flute, add sparkling wine. Stir gently."
+            "instructions": "Pour peach pur\u00e9e into chilled flute, add sparkling wine. Stir gently.",
+            "category": "ORDINARY DRINK",
+            "glass": "CHAMPAGNE FLUTE"
         },
         {
-            "name": "Bellini Martini",
+            "name": "BELLINI MARTINI",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/3h9wv51504389379.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Ice",
@@ -4215,12 +4378,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Add ice cubes to shaker.\nAdd vodka.\nAdd peach schnapps.\nAdd peach nectar.\nShake.\nStrain into glass.\nAdd lemon twist peel."
+            "instructions": "Add ice cubes to shaker.\nAdd vodka.\nAdd peach schnapps.\nAdd peach nectar.\nShake.\nStrain into glass.\nAdd lemon twist peel.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Bermuda Highball",
+            "name": "BERMUDA HIGHBALL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qrvtww1441206528.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Brandy",
@@ -4235,12 +4400,14 @@ const cocktailData = {
                     "3/4 oz "
                 ]
             ],
-            "instructions": "Pour brandy, gin, and dry vermouth into a highball glass over ice cubes. Fill with carbonated water and stir. Add the twist of lemon and serve. (Ginger ale may be substituted for carbonated water, if preferred.)"
+            "instructions": "Pour brandy, gin, and dry vermouth into a highball glass over ice cubes. Fill with carbonated water and stir. Add the twist of lemon and serve. (Ginger ale may be substituted for carbonated water, if preferred.)",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Berry Deadly",
+            "name": "BERRY DEADLY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xqutpr1461867477.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Everclear",
@@ -4259,12 +4426,14 @@ const cocktailData = {
                     "1 gal Tropical Berry "
                 ]
             ],
-            "instructions": "Add all ingredients to large bowl. Stir gently. Serve chilled."
+            "instructions": "Add all ingredients to large bowl. Stir gently. Serve chilled.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Between The Sheets",
+            "name": "BETWEEN THE SHEETS",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/of1rj41504348346.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Brandy",
@@ -4283,12 +4452,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Pour all ingredients into shaker with ice cubes, shake, strain into chilled cocktail glass."
+            "instructions": "Pour all ingredients into shaker with ice cubes, shake, strain into chilled cocktail glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Bible Belt",
+            "name": "BIBLE BELT",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/6bec6v1503563675.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Southern Comfort",
@@ -4307,12 +4478,14 @@ const cocktailData = {
                     "2 oz "
                 ]
             ],
-            "instructions": "Mix all ingredients, and pour over ice."
+            "instructions": "Mix all ingredients, and pour over ice.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Big Red",
+            "name": "BIG RED",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yqwuwu1441248116.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Irish cream",
@@ -4323,12 +4496,14 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "Pour ingredients into 1 ounce shot glass"
+            "instructions": "Pour ingredients into 1 ounce shot glass",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Black & Tan",
+            "name": "BLACK & TAN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rwpswp1454511017.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Ale",
@@ -4339,24 +4514,28 @@ const cocktailData = {
                     "1 part "
                 ]
             ],
-            "instructions": "Fill pint glass half full with Bass. Next pour Guiness over a spoon slowly until glass is full. If done correctly the Guiness will stay on top and the Bass on bottom hence the name Black & Tan."
+            "instructions": "Fill pint glass half full with Bass. Next pour Guiness over a spoon slowly until glass is full. If done correctly the Guiness will stay on top and the Bass on bottom hence the name Black & Tan.",
+            "category": "BEER",
+            "glass": "PINT GLASS"
         },
         {
-            "name": "Black Forest Shake",
+            "name": "BLACK FOREST SHAKE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xxtxsu1472720505.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Ice",
                     " cubes\n"
                 ]
             ],
-            "instructions": "In a blender put ice cubes, chocolate syrup, cherry brandy, vodka, and milk. Blend very well."
+            "instructions": "In a blender put ice cubes, chocolate syrup, cherry brandy, vodka, and milk. Blend very well.",
+            "category": "MILK / FLOAT / SHAKE",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Black Russian",
+            "name": "BLACK RUSSIAN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/2k5gbb1504367689.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Coffee liqueur",
@@ -4367,12 +4546,14 @@ const cocktailData = {
                     "1 1/2 oz "
                 ]
             ],
-            "instructions": "Pour the ingredients into an old fashioned glass filled with ice cubes. Stir gently."
+            "instructions": "Pour the ingredients into an old fashioned glass filled with ice cubes. Stir gently.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Black and Brown",
+            "name": "BLACK AND BROWN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wwuvxv1472668899.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Guinness stout",
@@ -4383,12 +4564,14 @@ const cocktailData = {
                     "1/2 "
                 ]
             ],
-            "instructions": "CAREFULLY to avoid explosive head formation: Pour Beer glass half full of favorite rootbeer and top off with Guinness."
+            "instructions": "CAREFULLY to avoid explosive head formation: Pour Beer glass half full of favorite rootbeer and top off with Guinness.",
+            "category": "BEER",
+            "glass": "BEER PILSNER"
         },
         {
-            "name": "Blackthorn",
+            "name": "BLACKTHORN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xvswvy1441209430.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sweet Vermouth",
@@ -4403,12 +4586,14 @@ const cocktailData = {
                     "1 twist of "
                 ]
             ],
-            "instructions": "Stir sloe gin and vermouth with ice and strain into a cocktail glass. Add the twist of lemon peel and serve."
+            "instructions": "Stir sloe gin and vermouth with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Bleeding Surgeon",
+            "name": "BLEEDING SURGEON",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/usuvvr1472719118.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Dark rum",
@@ -4427,12 +4612,14 @@ const cocktailData = {
                     "1/2 glass "
                 ]
             ],
-            "instructions": "Pour Shot of Rum over slice of orange. Fill the remaining space in glass half way full of surge or similar drink. Finish off glass with cranberry juice. Be carefull, warm surge may foam over the glass."
+            "instructions": "Pour Shot of Rum over slice of orange. Fill the remaining space in glass half way full of surge or similar drink. Finish off glass with cranberry juice. Be carefull, warm surge may foam over the glass.",
+            "category": "SOFT DRINK / SODA",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Blind Russian",
+            "name": "BLIND RUSSIAN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wxuqvr1472720408.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Bailey's irish cream",
@@ -4455,12 +4642,14 @@ const cocktailData = {
                     " to fill\n"
                 ]
             ],
-            "instructions": "Fill glass with ice. Add all liquers. Add milk. shake."
+            "instructions": "Fill glass with ice. Add all liquers. Add milk. shake.",
+            "category": "MILK / FLOAT / SHAKE",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Bloody Maria",
+            "name": "BLOODY MARIA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yz0j6z1504389461.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Tequila",
@@ -4487,12 +4676,14 @@ const cocktailData = {
                     "1 slice "
                 ]
             ],
-            "instructions": "Shake all ingredients (except lemon slice) with cracked ice and strain into an old-fashioned glass over ice cubes. Add the slice of lemon and serve."
+            "instructions": "Shake all ingredients (except lemon slice) with cracked ice and strain into an old-fashioned glass over ice cubes. Add the slice of lemon and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Bloody Mary",
+            "name": "BLOODY MARY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uyquuu1439906954.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -4519,12 +4710,14 @@ const cocktailData = {
                     "1 wedge "
                 ]
             ],
-            "instructions": "Stirring gently, pour all ingredients into highball glass. Garnish."
+            "instructions": "Stirring gently, pour all ingredients into highball glass. Garnish.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Blue Lagoon",
+            "name": "BLUE LAGOON",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vak0e51504389504.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -4535,12 +4728,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Pour vodka and curacao over ice in a highball glass. Fill with lemonade, top with the cherry, and serve."
+            "instructions": "Pour vodka and curacao over ice in a highball glass. Fill with lemonade, top with the cherry, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Blue Margarita",
+            "name": "BLUE MARGARITA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qtvvyq1439905913.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Tequila",
@@ -4559,12 +4754,14 @@ const cocktailData = {
                     "Coarse "
                 ]
             ],
-            "instructions": "Rub rim of cocktail glass with lime juice. Dip rim in coarse salt. Shake tequila, blue curacao, and lime juice with ice, strain into the salt-rimmed glass, and serve."
+            "instructions": "Rub rim of cocktail glass with lime juice. Dip rim in coarse salt. Shake tequila, blue curacao, and lime juice with ice, strain into the salt-rimmed glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Blue Mountain",
+            "name": "BLUE MOUNTAIN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vsxssp1441209853.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "A\u00f1ejo rum",
@@ -4587,12 +4784,14 @@ const cocktailData = {
                     "1 tsp "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into an old-fashioned glass alomst filled with ice cubes."
+            "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into an old-fashioned glass alomst filled with ice cubes.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Bluebird",
+            "name": "BLUEBIRD",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vxypsq1441209971.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -4619,12 +4818,14 @@ const cocktailData = {
                     "1 twist of "
                 ]
             ],
-            "instructions": "In a mixing glass half-filled with crushed ice, combine the gin, triple sec, Curacao, and bitters. Stir well. Strain into a cocktail glass and garnish with the lemon twist and the cherry."
+            "instructions": "In a mixing glass half-filled with crushed ice, combine the gin, triple sec, Curacao, and bitters. Stir well. Strain into a cocktail glass and garnish with the lemon twist and the cherry.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Bob Marley",
+            "name": "BOB MARLEY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rrqrst1477140664.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Midori melon liqueur",
@@ -4639,12 +4840,14 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "Layer in a 2 oz shot glass or pony glass"
+            "instructions": "Layer in a 2 oz shot glass or pony glass",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Bobby Burns Cocktail",
+            "name": "BOBBY BURNS COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/km6se51484411608.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sweet Vermouth",
@@ -4663,12 +4866,14 @@ const cocktailData = {
                     "1 twist of "
                 ]
             ],
-            "instructions": "Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve."
+            "instructions": "Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Boomerang",
+            "name": "BOOMERANG",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/3m6yz81504389551.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -4691,12 +4896,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "In a mixing glass half-filled with ice cubes, combine the gin, vermouth, bitters, and maraschino liqueur. Stir well. Strain into a cocktail glass and garnish with the cherry."
+            "instructions": "In a mixing glass half-filled with ice cubes, combine the gin, vermouth, bitters, and maraschino liqueur. Stir well. Strain into a cocktail glass and garnish with the cherry.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Boozy Snickers Milkshake",
+            "name": "BOOZY SNICKERS MILKSHAKE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/861tzm1504784164.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vanilla Ice-Cream",
@@ -4727,12 +4934,14 @@ const cocktailData = {
                     "15\n"
                 ]
             ],
-            "instructions": "Place the snickers bars in a plastic bag and roll over them with a rolling pin until crushed. Add crushed snickers pieces, ice cream, milk, caramel sauce, chocolate sauce, and chocolate liquor to a blender. Blend until shake is thick and frothy. Pour into glasses and top with chocolate liquor and whip cream."
+            "instructions": "Place the snickers bars in a plastic bag and roll over them with a rolling pin until crushed. Add crushed snickers pieces, ice cream, milk, caramel sauce, chocolate sauce, and chocolate liquor to a blender. Blend until shake is thick and frothy. Pour into glasses and top with chocolate liquor and whip cream.",
+            "category": "MILK / FLOAT / SHAKE",
+            "glass": "MASON JAR"
         },
         {
-            "name": "Bora Bora",
+            "name": "BORA BORA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xwuqvw1473201811.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Pineapple juice",
@@ -4751,12 +4960,14 @@ const cocktailData = {
                     "1 cl "
                 ]
             ],
-            "instructions": "Prepare in a blender or shaker, serve in a highball glass on the rocks. Garnish with 1 slice of pineapple and one cherry."
+            "instructions": "Prepare in a blender or shaker, serve in a highball glass on the rocks. Garnish with 1 slice of pineapple and one cherry.",
+            "category": "COCKTAIL",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Boston Sidecar",
+            "name": "BOSTON SIDECAR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qzs5d11504365962.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -4775,12 +4986,14 @@ const cocktailData = {
                     "Juice of 1/2 "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Boston Sour",
+            "name": "BOSTON SOUR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/kxlgbi1504366100.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Blended whiskey",
@@ -4807,12 +5020,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Shake juice of lemon, powdered sugar, blended whiskey, and egg white with cracked ice and strain into a whiskey sour glass. Add the slice of lemon, top with the cherry, and serve."
+            "instructions": "Shake juice of lemon, powdered sugar, blended whiskey, and egg white with cracked ice and strain into a whiskey sour glass. Add the slice of lemon, top with the cherry, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "WHISKEY SOUR GLASS"
         },
         {
-            "name": "Bourbon Sling",
+            "name": "BOURBON SLING",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/3s36ql1504366260.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sugar",
@@ -4835,12 +5050,14 @@ const cocktailData = {
                     "1 twist of "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine the sugar, water, lemon juice, and bourbon. Shake well. Strain well. Strain into a highball glass. Garnish with the lemon twist."
+            "instructions": "In a shaker half-filled with ice cubes, combine the sugar, water, lemon juice, and bourbon. Shake well. Strain well. Strain into a highball glass. Garnish with the lemon twist.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Bourbon Sour",
+            "name": "BOURBON SOUR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/dms3io1504366318.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Bourbon",
@@ -4863,12 +5080,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine the bourbon, lemon juice, and sugar. Shake well. Strain into a whiskey sour glass, garnish with the orange slice and cherry."
+            "instructions": "In a shaker half-filled with ice cubes, combine the bourbon, lemon juice, and sugar. Shake well. Strain into a whiskey sour glass, garnish with the orange slice and cherry.",
+            "category": "ORDINARY DRINK",
+            "glass": "WHISKEY SOUR GLASS"
         },
         {
-            "name": "Boxcar",
+            "name": "BOXCAR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/pwgtpa1504366376.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -4891,12 +5110,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass."
+            "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "WHISKEY SOUR GLASS"
         },
         {
-            "name": "Brain Fart",
+            "name": "BRAIN FART",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rz5aun1504389701.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Everclear",
@@ -4923,12 +5144,14 @@ const cocktailData = {
                     "1 pint "
                 ]
             ],
-            "instructions": "Mix all ingredients together. Slowly and gently. Works best if ice is added to punch bowl and soda's are very cold."
+            "instructions": "Mix all ingredients together. Slowly and gently. Works best if ice is added to punch bowl and soda's are very cold.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "PUNCH BOWL"
         },
         {
-            "name": "Brainteaser",
+            "name": "BRAINTEASER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ruywtq1461866066.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sambuca",
@@ -4943,12 +5166,14 @@ const cocktailData = {
                     "5 ml "
                 ]
             ],
-            "instructions": "layered erin first, then sambuca and then avocart(should sit in middle of other two. To drink: use a straw to suck up avocart then shot the rest and then suck fumes up through straw."
+            "instructions": "layered erin first, then sambuca and then avocart(should sit in middle of other two. To drink: use a straw to suck up avocart then shot the rest and then suck fumes up through straw.",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Bramble",
+            "name": "BRAMBLE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/lvzl3r1504372526.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -4967,12 +5192,14 @@ const cocktailData = {
                     "1.5 cl"
                 ]
             ],
-            "instructions": "Fill glass with crushed ice. Build gin, lemon juice and simple syrup over. Stir, and then pour blackberry liqueur over in a circular fashion to create marbling effect. Garnish with two blackberries and lemon slice."
+            "instructions": "Fill glass with crushed ice. Build gin, lemon juice and simple syrup over. Stir, and then pour blackberry liqueur over in a circular fashion to create marbling effect. Garnish with two blackberries and lemon slice.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Brandon and Will's Coke Float",
+            "name": "BRANDON AND WILL'S COKE FLOAT",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xspxyr1472719185.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vanilla ice-cream",
@@ -4987,12 +5214,14 @@ const cocktailData = {
                     "2 oz "
                 ]
             ],
-            "instructions": "Scoop two large scoops of vanilla ice-cream into frosted beer mug. Next, add 2 ounces Maker's Mark. Then, pour in coke. Gently stir and enjoy."
+            "instructions": "Scoop two large scoops of vanilla ice-cream into frosted beer mug. Next, add 2 ounces Maker's Mark. Then, pour in coke. Gently stir and enjoy.",
+            "category": "SOFT DRINK / SODA",
+            "glass": "BEER MUG"
         },
         {
-            "name": "Brandy Alexander",
+            "name": "BRANDY ALEXANDER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/tvqxvr1483387746.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Brandy",
@@ -5007,12 +5236,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Shake all ingredients (except nutmeg) with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve."
+            "instructions": "Shake all ingredients (except nutmeg) with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Brandy Cobbler",
+            "name": "BRANDY COBBLER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vtvutr1439465836.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sugar",
@@ -5039,12 +5270,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice until the glass is almost full. Add the brandy. Stir well. Garnish with the cherry and the orange and lemon slices."
+            "instructions": "In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice until the glass is almost full. Add the brandy. Stir well. Garnish with the cherry and the orange and lemon slices.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Brandy Flip",
+            "name": "BRANDY FLIP",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/6ty09d1504366461.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Brandy",
@@ -5067,12 +5300,14 @@ const cocktailData = {
                     "1/8 tsp grated "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine the brandy, egg, sugar, and cream. Shake well. Strain into a sour glass and garnish with the nutmeg."
+            "instructions": "In a shaker half-filled with ice cubes, combine the brandy, egg, sugar, and cream. Shake well. Strain into a sour glass and garnish with the nutmeg.",
+            "category": "ORDINARY DRINK",
+            "glass": "WHISKEY SOUR GLASS"
         },
         {
-            "name": "Brandy Sour",
+            "name": "BRANDY SOUR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/tu0mts1504366540.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Brandy",
@@ -5095,12 +5330,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Shake brandy, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Decorate with the lemon slice, top with the cherry, and serve."
+            "instructions": "Shake brandy, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Decorate with the lemon slice, top with the cherry, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "WHISKEY SOUR GLASS"
         },
         {
-            "name": "Brave Bull Shooter",
+            "name": "BRAVE BULL SHOOTER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yrtypx1473344625.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Tequila",
@@ -5111,19 +5348,23 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "Pour Tabasco into bottom of shot glass and fill with tequila."
+            "instructions": "Pour Tabasco into bottom of shot glass and fill with tequila.",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Bruce's Puce",
+            "name": "BRUCE'S PUCE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/svsvqv1473344558.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [],
-            "instructions": "In a regular-sized shot glass, layer, with a spoon or cherry, the grenadine , the Kahlua , then the Bailey's Irish cream in equal portions. It goes down really smooth ,and you don't even need a chaser. It tastes just like chocolate milk.(Really!)"
+            "instructions": "In a regular-sized shot glass, layer, with a spoon or cherry, the grenadine , the Kahlua , then the Bailey's Irish cream in equal portions. It goes down really smooth ,and you don't even need a chaser. It tastes just like chocolate milk.(Really!)",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Bruised Heart",
+            "name": "BRUISED HEART",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/7if5kq1503564209.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -5142,12 +5383,14 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "Pour all ingredients in a mixing tin over ice, stir, and strain into shot glass"
+            "instructions": "Pour all ingredients in a mixing tin over ice, stir, and strain into shot glass",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Bubble Gum",
+            "name": "BUBBLE GUM",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/spuurv1468878783.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -5166,12 +5409,14 @@ const cocktailData = {
                     "1/4 "
                 ]
             ],
-            "instructions": "Layer in order into a shot glass."
+            "instructions": "Layer in order into a shot glass.",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Buccaneer",
+            "name": "BUCCANEER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/upvtyt1441249023.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Corona",
@@ -5182,12 +5427,14 @@ const cocktailData = {
                     "1 shot "
                 ]
             ],
-            "instructions": "Pour the corona into an 18oz beer glass pour the bacardi limon into the beer stir very gently"
+            "instructions": "Pour the corona into an 18oz beer glass pour the bacardi limon into the beer stir very gently",
+            "category": "BEER",
+            "glass": "BEER PILSNER"
         },
         {
-            "name": "Bumble Bee #1",
+            "name": "BUMBLE BEE #1",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uwqpvv1461866378.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Bailey's irish cream",
@@ -5202,12 +5449,14 @@ const cocktailData = {
                     "1/3 oz "
                 ]
             ],
-            "instructions": "This is a layered shot. First pour the Bailey's into the shot glass. Then take an upside down spoon and touch it to the inside wall of the glass. Carefully add the Kahlua. Repeat this process for the Sambuca. If done properly, the alcohol will stay separated and resemble a bumble bee. Enjoy!!!"
+            "instructions": "This is a layered shot. First pour the Bailey's into the shot glass. Then take an upside down spoon and touch it to the inside wall of the glass. Carefully add the Kahlua. Repeat this process for the Sambuca. If done properly, the alcohol will stay separated and resemble a bumble bee. Enjoy!!!",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Butter Baby",
+            "name": "BUTTER BABY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/1xhjk91504783763.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vanilla Ice-Cream",
@@ -5226,12 +5475,14 @@ const cocktailData = {
                     "2 parts "
                 ]
             ],
-            "instructions": "Blend together in a blender. Serve in a chilled Beer mug with Fresh Blueberries and caramel for topping."
+            "instructions": "Blend together in a blender. Serve in a chilled Beer mug with Fresh Blueberries and caramel for topping.",
+            "category": "MILK / FLOAT / SHAKE",
+            "glass": "BEER MUG"
         },
         {
-            "name": "Cafe Savoy",
+            "name": "CAFE SAVOY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vqwptt1441247711.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Coffee",
@@ -5242,12 +5493,14 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "Fill mug almost to top with coffee.Add milk, triple sec and brandy. Stir."
+            "instructions": "Fill mug almost to top with coffee.Add milk, triple sec and brandy. Stir.",
+            "category": "COFFEE / TEA",
+            "glass": "COFFEE MUG"
         },
         {
-            "name": "Caipirinha",
+            "name": "CAIPIRINHA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xyrppt1469090521.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sugar",
@@ -5262,12 +5515,14 @@ const cocktailData = {
                     "2 1/2 oz "
                 ]
             ],
-            "instructions": "Place lime and sugar into old fashioned glass and muddle (mash the two ingredients together using a muddler or a wooden spoon). Fill the glass with ice and add the Cacha\u00e7a."
+            "instructions": "Place lime and sugar into old fashioned glass and muddle (mash the two ingredients together using a muddler or a wooden spoon). Fill the glass with ice and add the Cacha\u00e7a.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Caipirissima",
+            "name": "CAIPIRISSIMA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yd47111503565515.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Lime",
@@ -5286,12 +5541,14 @@ const cocktailData = {
                     "crushed "
                 ]
             ],
-            "instructions": "Same as Caipirinha but instead of cachaca you add WHITE RUM. It's great!!!!!!!!"
+            "instructions": "Same as Caipirinha but instead of cachaca you add WHITE RUM. It's great!!!!!!!!",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "California Lemonade",
+            "name": "CALIFORNIA LEMONADE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qvvxwy1472406424.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Blended whiskey",
@@ -5314,12 +5571,14 @@ const cocktailData = {
                     "1/4 tsp "
                 ]
             ],
-            "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a collins glass over shaved ice. Fill with carbonated water and stir. Decorate with slices of orange and lemon. Add the cherry and serve with a straw."
+            "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a collins glass over shaved ice. Fill with carbonated water and stir. Decorate with slices of orange and lemon. Add the cherry and serve with a straw.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "California Root Beer",
+            "name": "CALIFORNIA ROOT BEER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rsxuyr1472719526.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Kahlua",
@@ -5334,12 +5593,14 @@ const cocktailData = {
                     "Fill with "
                 ]
             ],
-            "instructions": "Put Kahlua and Galliano in highball glass fill with soda"
+            "instructions": "Put Kahlua and Galliano in highball glass fill with soda",
+            "category": "SOFT DRINK / SODA",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Campari Beer",
+            "name": "CAMPARI BEER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xsqrup1441249130.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Lager",
@@ -5350,12 +5611,14 @@ const cocktailData = {
                     "1 1/2 cl "
                 ]
             ],
-            "instructions": "Use a 15 oz glass. Add Campari first. Fill with beer."
+            "instructions": "Use a 15 oz glass. Add Campari first. Fill with beer.",
+            "category": "BEER",
+            "glass": "BEER MUG"
         },
         {
-            "name": "Caribbean Boilermaker",
+            "name": "CARIBBEAN BOILERMAKER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/svsxsv1454511666.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Corona",
@@ -5366,12 +5629,14 @@ const cocktailData = {
                     "1 shot "
                 ]
             ],
-            "instructions": "Pour the Corona into an 18oz beer glass pour the rum into the beer."
+            "instructions": "Pour the Corona into an 18oz beer glass pour the rum into the beer.",
+            "category": "BEER",
+            "glass": "BEER PILSNER"
         },
         {
-            "name": "Caribbean Orange Liqueur",
+            "name": "CARIBBEAN ORANGE LIQUEUR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qwxuwy1472667570.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Orange",
@@ -5386,12 +5651,14 @@ const cocktailData = {
                     "1 1/3 cup superfine "
                 ]
             ],
-            "instructions": "Pare very thinly the bright-colored rind from the oranges (no white). Blot the peel on paper towels to remove any excess oil. Put peel in a 4 cup screw-top jar. Add 2 cups vodka. Close jar. Store in a cool, dark place for 2 days or until the vodka has absorbed the flavor. Remove peel and add remaining vodka. Close jar and add remaining cup of vodka. Close the jar and store in a cool dark place at least 1 month to age."
+            "instructions": "Pare very thinly the bright-colored rind from the oranges (no white). Blot the peel on paper towels to remove any excess oil. Put peel in a 4 cup screw-top jar. Add 2 cups vodka. Close jar. Store in a cool, dark place for 2 days or until the vodka has absorbed the flavor. Remove peel and add remaining vodka. Close jar and add remaining cup of vodka. Close the jar and store in a cool dark place at least 1 month to age.",
+            "category": "HOMEMADE LIQUEUR",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Casino",
+            "name": "CASINO",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/1mvjxg1504348579.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -5414,12 +5681,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled cocktail glass. Garnish with a lemon twist and a maraschino cherry. Serve without a straw."
+            "instructions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled cocktail glass. Garnish with a lemon twist and a maraschino cherry. Serve without a straw.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Casino Royale",
+            "name": "CASINO ROYALE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/3qpv121504366699.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -5442,12 +5711,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass."
+            "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "WHISKEY SOUR GLASS"
         },
         {
-            "name": "Castillian Hot Chocolate",
+            "name": "CASTILLIAN HOT CHOCOLATE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/3nbu4a1487603196.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Cocoa powder",
@@ -5470,12 +5741,14 @@ const cocktailData = {
                     "1 qt "
                 ]
             ],
-            "instructions": "Shift the cocoa and sugar together into a medium-sized saucepan. Dissolve the cornstarch in the water, and stir into the cocoa and sugar until it is a smooth paste. Begin heating the mixture, stirring it with a whisk, and gradually pour in the milk. Continue stirring with the whisk as you bring the liquid to a simmer. Allow the chocolate to simmer for about 10 minutes, stirring often, until it is thick, glossy and completely smooth. Serve steaming hot in coffee mug. Serves six."
+            "instructions": "Shift the cocoa and sugar together into a medium-sized saucepan. Dissolve the cornstarch in the water, and stir into the cocoa and sugar until it is a smooth paste. Begin heating the mixture, stirring it with a whisk, and gradually pour in the milk. Continue stirring with the whisk as you bring the liquid to a simmer. Allow the chocolate to simmer for about 10 minutes, stirring often, until it is thick, glossy and completely smooth. Serve steaming hot in coffee mug. Serves six.",
+            "category": "COCOA",
+            "glass": "COFFEE MUG"
         },
         {
-            "name": "Champagne Cocktail",
+            "name": "CHAMPAGNE COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ehh5df1504366811.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Champagne",
@@ -5498,10 +5771,12 @@ const cocktailData = {
                     "1 dash"
                 ]
             ],
-            "instructions": "Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. Add cognac followed by gently pouring chilled champagne. Garnish with orange slice and maraschino cherry."
+            "instructions": "Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. Add cognac followed by gently pouring chilled champagne. Garnish with orange slice and maraschino cherry.",
+            "category": "ORDINARY DRINK",
+            "glass": "CHAMPAGNE FLUTE"
         },
         {
-            "name": "Cherry Electric Lemonade",
+            "name": "CHERRY ELECTRIC LEMONADE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/tquyyt1451299548.jpg",
             "alcoholic": "",
             "ingredients": [
@@ -5538,12 +5813,14 @@ const cocktailData = {
                     "3 oz"
                 ]
             ],
-            "instructions": "Now stir vigorously and then pour over a large cup of ice. Now drink it with a straw and stir occasionally."
+            "instructions": "Now stir vigorously and then pour over a large cup of ice. Now drink it with a straw and stir occasionally.",
+            "category": "COCKTAIL",
+            "glass": "PINT GLASS"
         },
         {
-            "name": "Cherry Rum",
+            "name": "CHERRY RUM",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/twsuvr1441554424.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -5558,12 +5835,14 @@ const cocktailData = {
                     "1 tblsp "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Chicago Fizz",
+            "name": "CHICAGO FIZZ",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qwvwqr1441207763.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -5586,12 +5865,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve."
+            "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Chocolate Beverage",
+            "name": "CHOCOLATE BEVERAGE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/jbqrhv1487603186.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Milk",
@@ -5610,12 +5891,14 @@ const cocktailData = {
                     "3 "
                 ]
             ],
-            "instructions": "Boil milk in the top of a deep double boiler five minutes. Remove from fire and add chocolate, mixed with the cinnamon, a little at a time, beating with molinillo or egg beater after each addition. When the chocolate is thoroughly blended, heat to the boiling point. Place over bottom of double boiler and add eggs, whipping constantly, until they are thoroughly blended and the mixture is frothing. Serve in coffee mug. Serves eight."
+            "instructions": "Boil milk in the top of a deep double boiler five minutes. Remove from fire and add chocolate, mixed with the cinnamon, a little at a time, beating with molinillo or egg beater after each addition. When the chocolate is thoroughly blended, heat to the boiling point. Place over bottom of double boiler and add eggs, whipping constantly, until they are thoroughly blended and the mixture is frothing. Serve in coffee mug. Serves eight.",
+            "category": "COCOA",
+            "glass": "COFFEE MUG"
         },
         {
-            "name": "Chocolate Black Russian",
+            "name": "CHOCOLATE BLACK RUSSIAN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yyvywx1472720879.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Kahlua",
@@ -5630,12 +5913,14 @@ const cocktailData = {
                     "5 oz "
                 ]
             ],
-            "instructions": "Combine all ingredients in an electric blender and blend at a low speed for a short length of time. Pour into a chilled champagne flute and serve."
+            "instructions": "Combine all ingredients in an electric blender and blend at a low speed for a short length of time. Pour into a chilled champagne flute and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "CHAMPAGNE FLUTE"
         },
         {
-            "name": "Chocolate Drink",
+            "name": "CHOCOLATE DRINK",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/q7w4xu1487603180.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Chocolate",
@@ -5646,12 +5931,14 @@ const cocktailData = {
                     "3/4 L "
                 ]
             ],
-            "instructions": "Melt the bar in a small amount of boiling water. Add milk. Cook over low heat, whipping gently (with a whisk, i would assume) until heated well. Don't let it boil! Serve in coffee mug."
+            "instructions": "Melt the bar in a small amount of boiling water. Add milk. Cook over low heat, whipping gently (with a whisk, i would assume) until heated well. Don't let it boil! Serve in coffee mug.",
+            "category": "COCOA",
+            "glass": "COFFEE MUG"
         },
         {
-            "name": "Chocolate Milk",
+            "name": "CHOCOLATE MILK",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/j6q35t1504889399.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Chocolate liqueur",
@@ -5666,12 +5953,14 @@ const cocktailData = {
                     "1 dash "
                 ]
             ],
-            "instructions": "Put the milk in the bottom, pour the Liquer on top and add the dash of amaretto. Do not mix. SLAM IT!"
+            "instructions": "Put the milk in the bottom, pour the Liquer on top and add the dash of amaretto. Do not mix. SLAM IT!",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Chocolate Monkey",
+            "name": "CHOCOLATE MONKEY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/tyvpxt1468875212.jpg",
-            "alcoholic": "Optional alcohol",
+            "alcoholic": "OPTIONAL ALCOHOL",
             "ingredients": [
                 [
                     "Banana liqueur",
@@ -5706,12 +5995,14 @@ const cocktailData = {
                     "1 piece "
                 ]
             ],
-            "instructions": "blend liqeuors with ice-cream, milk and syrup. pour into parfait glass, top with whipped cream and garnish with banana and cherry."
+            "instructions": "blend liqeuors with ice-cream, milk and syrup. pour into parfait glass, top with whipped cream and garnish with banana and cherry.",
+            "category": "MILK / FLOAT / SHAKE",
+            "glass": "PARFAIT GLASS"
         },
         {
-            "name": "Citrus Coke",
+            "name": "CITRUS COKE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uyrvut1479473214.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Bacardi Limon",
@@ -5722,12 +6013,14 @@ const cocktailData = {
                     "2 parts "
                 ]
             ],
-            "instructions": "Pour half of coke in a glass. Then add Bacardi and top it off with the remaining coke. Stir and drink up!"
+            "instructions": "Pour half of coke in a glass. Then add Bacardi and top it off with the remaining coke. Stir and drink up!",
+            "category": "SOFT DRINK / SODA",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "City Slicker",
+            "name": "CITY SLICKER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/dazdlg1504366949.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Brandy",
@@ -5742,12 +6035,14 @@ const cocktailData = {
                     "1 tblsp "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass."
+            "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Classic Old-Fashioned",
+            "name": "CLASSIC OLD-FASHIONED",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/anhof61504366173.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Bitters",
@@ -5774,12 +6069,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "In an old-fashioned glass, muddle the bitters and water into the sugar cube, using the back of a teaspoon. Almost fill the glass with ice cubes and add the bourbon. Garnish with the orange slice and the cherry. Serve with a swizzle stick."
+            "instructions": "In an old-fashioned glass, muddle the bitters and water into the sugar cube, using the back of a teaspoon. Almost fill the glass with ice cubes and add the bourbon. Garnish with the orange slice and the cherry. Serve with a swizzle stick.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Clove Cocktail",
+            "name": "CLOVE COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qxvtst1461867579.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sweet Vermouth",
@@ -5794,12 +6091,14 @@ const cocktailData = {
                     "1/2 oz Muscatel "
                 ]
             ],
-            "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Clover Club",
+            "name": "CLOVER CLUB",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/t0aja61504348715.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -5818,12 +6117,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Dry shake ingredients to emulsify, add ice, shake and served straight up."
+            "instructions": "Dry shake ingredients to emulsify, add ice, shake and served straight up.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Coffee Liqueur",
+            "name": "COFFEE LIQUEUR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ryvtsu1441253851.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Coffee",
@@ -5846,12 +6147,14 @@ const cocktailData = {
                     "2 1/2 cups "
                 ]
             ],
-            "instructions": "Combine coffee, sugar and water. Simmer 1 hour and let cool. Add vanilla and vodka. Age in sealed jar 2 to 3 weeks."
+            "instructions": "Combine coffee, sugar and water. Simmer 1 hour and let cool. Add vanilla and vodka. Age in sealed jar 2 to 3 weeks.",
+            "category": "HOMEMADE LIQUEUR",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Coffee-Vodka",
+            "name": "COFFEE-VODKA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qvrrvu1472667494.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Water",
@@ -5874,12 +6177,14 @@ const cocktailData = {
                     "1 1/2 cup "
                 ]
             ],
-            "instructions": "Boil water and sugar until dissolved. Turn off heat. Slowly add dry instant coffee and continue stirring. Add a chopped vanilla bean to the vodka, then combine the cooled sugar syrup and coffee solution with the vodka. Cover tightly and shake vigorously each day for 3 weeks. Strain and filter. Its also best to let the sugar mixture cool completely so the vodka won't evaporate when its added. If you like a smoother feel to the liqueur you can add about 1 teaspoon of glycerine to the finished product."
+            "instructions": "Boil water and sugar until dissolved. Turn off heat. Slowly add dry instant coffee and continue stirring. Add a chopped vanilla bean to the vodka, then combine the cooled sugar syrup and coffee solution with the vodka. Cover tightly and shake vigorously each day for 3 weeks. Strain and filter. Its also best to let the sugar mixture cool completely so the vodka won't evaporate when its added. If you like a smoother feel to the liqueur you can add about 1 teaspoon of glycerine to the finished product.",
+            "category": "HOMEMADE LIQUEUR",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Coke and Drops",
+            "name": "COKE AND DROPS",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yrtxxp1472719367.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Coca-Cola",
@@ -5890,12 +6195,14 @@ const cocktailData = {
                     "7 drops "
                 ]
             ],
-            "instructions": "Take a glass, pour the Coke in the glass, then you take 7 drops of lemon juice. Granish with a lemon slice on the rim of the glass."
+            "instructions": "Take a glass, pour the Coke in the glass, then you take 7 drops of lemon juice. Granish with a lemon slice on the rim of the glass.",
+            "category": "SOFT DRINK / SODA",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Cosmopolitan",
+            "name": "COSMOPOLITAN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/kpsajh1504368362.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Absolut Citron",
@@ -5914,12 +6221,14 @@ const cocktailData = {
                     "1/4 cup "
                 ]
             ],
-            "instructions": "Add all ingredients into cocktail shaker filled with ice. Shake well and double strain into large cocktail glass. Garnish with lime wheel."
+            "instructions": "Add all ingredients into cocktail shaker filled with ice. Shake well and double strain into large cocktail glass. Garnish with lime wheel.",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Cosmopolitan Martini",
+            "name": "COSMOPOLITAN MARTINI",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/upxxpq1439907580.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Cointreau",
@@ -5938,12 +6247,14 @@ const cocktailData = {
                     "1 splash "
                 ]
             ],
-            "instructions": "Pour all ingredients in mixing glass half filled with ice, shake and strain into chilled Martini glass."
+            "instructions": "Pour all ingredients in mixing glass half filled with ice, shake and strain into chilled Martini glass.",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Cranberry Cordial",
+            "name": "CRANBERRY CORDIAL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qtspsx1472667392.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Cranberries",
@@ -5958,12 +6269,14 @@ const cocktailData = {
                     "1/2 L "
                 ]
             ],
-            "instructions": "Place the chopped cranberries in a 2 liter jar that has a tight-fitting lid. Add the sugar and rum. Adjust the lid securely and place the jar in a cool, dark place. Invert the jar and shake it every day for six weeks. Strain the cordial into bottles and seal with corks."
+            "instructions": "Place the chopped cranberries in a 2 liter jar that has a tight-fitting lid. Add the sugar and rum. Adjust the lid securely and place the jar in a cool, dark place. Invert the jar and shake it every day for six weeks. Strain the cordial into bottles and seal with corks.",
+            "category": "HOMEMADE LIQUEUR",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Cranberry Punch",
+            "name": "CRANBERRY PUNCH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/mzgaqu1504389248.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Cranberry juice",
@@ -5986,24 +6299,28 @@ const cocktailData = {
                     "2 qt "
                 ]
             ],
-            "instructions": "Combine first four ingredients. Stir until sugar is dissolved, chill. Then add ginger ale just before serving. Add ice ring to keep punch cold."
+            "instructions": "Combine first four ingredients. Stir until sugar is dissolved, chill. Then add ginger ale just before serving. Add ice ring to keep punch cold.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "PUNCH BOWL"
         },
         {
-            "name": "Cream Soda",
+            "name": "CREAM SODA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yqstxr1479209367.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Spiced rum",
                     "1 oz "
                 ]
             ],
-            "instructions": "Pour 1oz of Spiced Rum into a highball glass with ice. Fill with Ginger Ale."
+            "instructions": "Pour 1oz of Spiced Rum into a highball glass with ice. Fill with Ginger Ale.",
+            "category": "COCKTAIL",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Creme de Menthe",
+            "name": "CREME DE MENTHE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yxswtp1441253918.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sugar",
@@ -6026,12 +6343,14 @@ const cocktailData = {
                     "1 tblsp green "
                 ]
             ],
-            "instructions": "Bring sugar and water to a boil and simmer for 10 minutes. Cool. Add the remaining ingredients and stir. Cover and let ripen for 1 month."
+            "instructions": "Bring sugar and water to a boil and simmer for 10 minutes. Cool. Add the remaining ingredients and stir. Cover and let ripen for 1 month.",
+            "category": "HOMEMADE LIQUEUR",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Cuba Libra",
+            "name": "CUBA LIBRA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ck6d0p1504388696.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Dark rum",
@@ -6046,12 +6365,14 @@ const cocktailData = {
                     "Fill with "
                 ]
             ],
-            "instructions": "Fill tall glass with ice cubes. Add rum. Rub cut edge of lime on rim of glass then squeeze juice into glass. Fill with Coca-Cola. Garnish with lime slice. Enjoy!"
+            "instructions": "Fill tall glass with ice cubes. Add rum. Rub cut edge of lime on rim of glass then squeeze juice into glass. Fill with Coca-Cola. Garnish with lime slice. Enjoy!",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Cuba Libre",
+            "name": "CUBA LIBRE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uuxsrr1473201663.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -6062,12 +6383,14 @@ const cocktailData = {
                     "Juice of 1/2 "
                 ]
             ],
-            "instructions": "Build all ingredients in a Collins glass filled with ice. Garnish with lime wedge."
+            "instructions": "Build all ingredients in a Collins glass filled with ice. Garnish with lime wedge.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Daiquiri",
+            "name": "DAIQUIRI",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/usuuur1439906797.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -6082,12 +6405,14 @@ const cocktailData = {
                     "1 tsp "
                 ]
             ],
-            "instructions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass."
+            "instructions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Damned if you do",
+            "name": "DAMNED IF YOU DO",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ql7bmx1503565106.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Whiskey",
@@ -6098,12 +6423,14 @@ const cocktailData = {
                     "0.25 oz "
                 ]
             ],
-            "instructions": "Pour into shot glass. Put in mouth. Repeat as deemed necessary."
+            "instructions": "Pour into shot glass. Put in mouth. Repeat as deemed necessary.",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Danbooka",
+            "name": "DANBOOKA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vurrxr1441246074.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Coffee",
@@ -6114,12 +6441,14 @@ const cocktailData = {
                     "1 part "
                 ]
             ],
-            "instructions": "pour it in and mix it."
+            "instructions": "pour it in and mix it.",
+            "category": "COFFEE / TEA",
+            "glass": "COFFEE MUG"
         },
         {
-            "name": "Dark Caipirinha",
+            "name": "DARK CAIPIRINHA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uwstrx1472406058.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "demerara Sugar",
@@ -6134,12 +6463,14 @@ const cocktailData = {
                     "2 1/2 oz"
                 ]
             ],
-            "instructions": "Muddle the sugar into the lime wedges in an old-fashioned glass.\nFill the glass with ice cubes.\nPour the cachaca into the glass.\nStir well."
+            "instructions": "Muddle the sugar into the lime wedges in an old-fashioned glass.\nFill the glass with ice cubes.\nPour the cachaca into the glass.\nStir well.",
+            "category": "COCKTAIL",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Dark and Stormy",
+            "name": "DARK AND STORMY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/t1tn0s1504374905.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Dark Rum",
@@ -6150,12 +6481,14 @@ const cocktailData = {
                     "10 cl"
                 ]
             ],
-            "instructions": "In a highball glass filled with ice add 6cl dark rum and top with ginger beer. Garnish with lime wedge."
+            "instructions": "In a highball glass filled with ice add 6cl dark rum and top with ginger beer. Garnish with lime wedge.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Darkwood Sling",
+            "name": "DARKWOOD SLING",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/sxxsyq1472719303.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Cherry Heering",
@@ -6174,12 +6507,14 @@ const cocktailData = {
                     " cubes\n"
                 ]
             ],
-            "instructions": "There are many good cherry liqueurs you can use, but I prefere Heering. Add one share of the liqueur. Then you add one share of Soda. For a sour sling use Tonic (most people prefer the drink without Tonic). Afterwards you fill the glass with Orange Juice and ice cubes."
+            "instructions": "There are many good cherry liqueurs you can use, but I prefere Heering. Add one share of the liqueur. Then you add one share of Soda. For a sour sling use Tonic (most people prefer the drink without Tonic). Afterwards you fill the glass with Orange Juice and ice cubes.",
+            "category": "SOFT DRINK / SODA",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Derby",
+            "name": "DERBY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/i502ra1504349156.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "gin",
@@ -6194,12 +6529,14 @@ const cocktailData = {
                     "2 Fresh leaves"
                 ]
             ],
-            "instructions": "Pour all ingredients into a mixing glass with ice. Stir. Strain into a cocktail glass. Garnish with a sprig of fresh mint in the drink."
+            "instructions": "Pour all ingredients into a mixing glass with ice. Stir. Strain into a cocktail glass. Garnish with a sprig of fresh mint in the drink.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Diesel",
+            "name": "DIESEL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/sxrrqq1454512852.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Lager",
@@ -6214,12 +6551,14 @@ const cocktailData = {
                     "1 dash "
                 ]
             ],
-            "instructions": "Pour the lager first then add the blackcurrant cordial. Top up with the cider. The colour sholud be very dark approaching the colour of Guiness."
+            "instructions": "Pour the lager first then add the blackcurrant cordial. Top up with the cider. The colour sholud be very dark approaching the colour of Guiness.",
+            "category": "BEER",
+            "glass": "PINT GLASS"
         },
         {
-            "name": "Dirty Martini",
+            "name": "DIRTY MARTINI",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vcyvpq1485083300.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -6242,19 +6581,23 @@ const cocktailData = {
                     "1"
                 ]
             ],
-            "instructions": "Pour the vodka, dry vermouth and olive brine into a cocktail shaker with a handful of ice and shake well.\nRub the rim of a martini glass with the wedge of lemon.\nStrain the contents of the cocktail shaker into the glass and add the olive.\nA dirty Martini contains a splash of olive brine or olive juice and is typically garnished with an olive."
+            "instructions": "Pour the vodka, dry vermouth and olive brine into a cocktail shaker with a handful of ice and shake well.\nRub the rim of a martini glass with the wedge of lemon.\nStrain the contents of the cocktail shaker into the glass and add the olive.\nA dirty Martini contains a splash of olive brine or olive juice and is typically garnished with an olive.",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Dirty Nipple",
+            "name": "DIRTY NIPPLE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vtyqrt1461866508.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [],
-            "instructions": "This is a layered shot - the Bailey's must be on top"
+            "instructions": "This is a layered shot - the Bailey's must be on top",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Downshift",
+            "name": "DOWNSHIFT",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/y36z8c1503563911.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Fruit punch",
@@ -6273,12 +6616,14 @@ const cocktailData = {
                     "Float Bacardi "
                 ]
             ],
-            "instructions": "Start with the Sprite. Next comes the tequila. After that, add the Minute Maid Fruit Punch, then float the 151. Rocks optional."
+            "instructions": "Start with the Sprite. Next comes the tequila. After that, add the Minute Maid Fruit Punch, then float the 151. Rocks optional.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "HURRICANE GLASS"
         },
         {
-            "name": "Dragonfly",
+            "name": "DRAGONFLY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/lnvbip1504389100.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -6293,12 +6638,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "In a highball glass almost filled with ice cubes, combine the gin and ginger ale. Stir well. Garnish with the lime wedge."
+            "instructions": "In a highball glass almost filled with ice cubes, combine the gin and ginger ale. Stir well. Garnish with the lime wedge.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Drinking Chocolate",
+            "name": "DRINKING CHOCOLATE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/u6jrdf1487603173.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Heavy cream",
@@ -6325,12 +6672,14 @@ const cocktailData = {
                     "Fresh "
                 ]
             ],
-            "instructions": "Heat the cream and milk with the cinnamon and vanilla bean very slowly for 15-20 minutes. (If you don't have any beans add 1-2 tsp of vanilla after heating). Remove the bean and cinnamon. Add the chocolate. Mix until fully melted. Serve topped with some very dense fresh whipped cream. Serves 1-2 depending upon how much of a glutton you are. For a richer chocolate, use 4 oz of milk, 4 oz of cream, 4 oz of chocolate. Serve in coffee mug."
+            "instructions": "Heat the cream and milk with the cinnamon and vanilla bean very slowly for 15-20 minutes. (If you don't have any beans add 1-2 tsp of vanilla after heating). Remove the bean and cinnamon. Add the chocolate. Mix until fully melted. Serve topped with some very dense fresh whipped cream. Serves 1-2 depending upon how much of a glutton you are. For a richer chocolate, use 4 oz of milk, 4 oz of cream, 4 oz of chocolate. Serve in coffee mug.",
+            "category": "COCOA",
+            "glass": "COFFEE MUG"
         },
         {
-            "name": "Dry Rob Roy",
+            "name": "DRY ROB ROY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/typuyq1439456976.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Scotch",
@@ -6345,12 +6694,14 @@ const cocktailData = {
                     "1 twist of "
                 ]
             ],
-            "instructions": "In a mixing glass half-filled with ice cubes, combine the Scotch and vermouth. Stir well. Strain into a cocktail glass. Garnish with the lemon twist."
+            "instructions": "In a mixing glass half-filled with ice cubes, combine the Scotch and vermouth. Stir well. Strain into a cocktail glass. Garnish with the lemon twist.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Dubonnet Cocktail",
+            "name": "DUBONNET COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xxsuwr1439457147.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Dubonnet Rouge",
@@ -6369,12 +6720,14 @@ const cocktailData = {
                     "1 twist of "
                 ]
             ],
-            "instructions": "Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve."
+            "instructions": "Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Duchamp's Punch",
+            "name": "DUCHAMP'S PUNCH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/g51naw1485084685.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Pisco",
@@ -6405,12 +6758,14 @@ const cocktailData = {
                     "2 sprigs"
                 ]
             ],
-            "instructions": "Shake all ingredients.\nDouble strain in a chilled double old fashioned glass with abig ice cube.\nGarnish with a couple of lavender sprigs"
+            "instructions": "Shake all ingredients.\nDouble strain in a chilled double old fashioned glass with abig ice cube.\nGarnish with a couple of lavender sprigs",
+            "category": "COCKTAIL",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Egg Cream",
+            "name": "EGG CREAM",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/mvis731484430445.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Chocolate syrup",
@@ -6425,12 +6780,14 @@ const cocktailData = {
                     "6 oz "
                 ]
             ],
-            "instructions": "Mix syrup and milk in a fountain glass. Add soda water, serve with a straw."
+            "instructions": "Mix syrup and milk in a fountain glass. Add soda water, serve with a straw.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "COFFEE MUG"
         },
         {
-            "name": "Egg Nog #4",
+            "name": "EGG NOG #4",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wpspsy1468875747.jpg",
-            "alcoholic": "Optional alcohol",
+            "alcoholic": "OPTIONAL ALCOHOL",
             "ingredients": [
                 [
                     "Egg yolk",
@@ -6477,12 +6834,14 @@ const cocktailData = {
                     "Ground "
                 ]
             ],
-            "instructions": "In a small mixer bowl beat egg yolks till blended. Gradually add 1/4 cup sugar, beating at high speed till thick and lemon colored. Stir in milk, stir in rum, bourbon, vanilla, and salt. Chill thoroughly. Whip cream. Wash beaters well. In a large mixer bowl beat egg whites till soft peaks form. Gradually add remaining 1/4 cup sugar, beating to stiff peaks. Fold yolk mixture and whipped cream into egg whites. Serve immediately. Sprinkle nutmeg over each serving. Serve in a punch bowl or another big bowl. NOTE: For a nonalcoholic eggnog, prepare Eggnog as above, except omit the bourbon and rum and increase the milk to 3 cups."
+            "instructions": "In a small mixer bowl beat egg yolks till blended. Gradually add 1/4 cup sugar, beating at high speed till thick and lemon colored. Stir in milk, stir in rum, bourbon, vanilla, and salt. Chill thoroughly. Whip cream. Wash beaters well. In a large mixer bowl beat egg whites till soft peaks form. Gradually add remaining 1/4 cup sugar, beating to stiff peaks. Fold yolk mixture and whipped cream into egg whites. Serve immediately. Sprinkle nutmeg over each serving. Serve in a punch bowl or another big bowl. NOTE: For a nonalcoholic eggnog, prepare Eggnog as above, except omit the bourbon and rum and increase the milk to 3 cups.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "PUNCH BOWL"
         },
         {
-            "name": "Egg Nog - Healthy",
+            "name": "EGG NOG - HEALTHY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qxuppv1468875308.jpg",
-            "alcoholic": "Optional alcohol",
+            "alcoholic": "OPTIONAL ALCOHOL",
             "ingredients": [
                 [
                     "Egg",
@@ -6509,12 +6868,14 @@ const cocktailData = {
                     "1 tsp "
                 ]
             ],
-            "instructions": "Whip egg substitute and sugar together, combine with the two kinds of milk, vanilla, and rum. Mix well. Chill over night. Sprinkle with nutmeg. Makes 6 servings."
+            "instructions": "Whip egg substitute and sugar together, combine with the two kinds of milk, vanilla, and rum. Mix well. Chill over night. Sprinkle with nutmeg. Makes 6 servings.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Egg-Nog - Classic Cooked",
+            "name": "EGG-NOG - CLASSIC COOKED",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/quxsvt1468875505.jpg",
-            "alcoholic": "Optional alcohol",
+            "alcoholic": "OPTIONAL ALCOHOL",
             "ingredients": [
                 [
                     "Egg",
@@ -6537,12 +6898,14 @@ const cocktailData = {
                     "1 tsp "
                 ]
             ],
-            "instructions": "In large saucepan, beat together eggs, sugar and salt, if desired. Stir in 2 cups of the milk. Cook over low heat, stirring constantly, until mixture is thick enough to coat a metal spoon and reaches 160 degrees F. Remove from heat. Stir in remaining 2 cups milk and vanilla. Cover and regfigerate until thoroughly chilled, several hours or overnight. Just before serving, pour into bowl or pitcher. Garnish or add stir-ins, if desired. Choose 1 or several of: Chocolate curls, cinnamon sticks, extracts of flavorings, flavored brandy or liqueur, fruit juice or nectar, ground nutmeg, maraschino cherries, orange slices, peppermint sticks or candy canes, plain brandy, run or whiskey, sherbet or ice-cream, whipping cream, whipped. Serve immediately."
+            "instructions": "In large saucepan, beat together eggs, sugar and salt, if desired. Stir in 2 cups of the milk. Cook over low heat, stirring constantly, until mixture is thick enough to coat a metal spoon and reaches 160 degrees F. Remove from heat. Stir in remaining 2 cups milk and vanilla. Cover and regfigerate until thoroughly chilled, several hours or overnight. Just before serving, pour into bowl or pitcher. Garnish or add stir-ins, if desired. Choose 1 or several of: Chocolate curls, cinnamon sticks, extracts of flavorings, flavored brandy or liqueur, fruit juice or nectar, ground nutmeg, maraschino cherries, orange slices, peppermint sticks or candy canes, plain brandy, run or whiskey, sherbet or ice-cream, whipping cream, whipped. Serve immediately.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "PITCHER"
         },
         {
-            "name": "English Highball",
+            "name": "ENGLISH HIGHBALL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/dhvr7d1504519752.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Brandy",
@@ -6557,12 +6920,14 @@ const cocktailData = {
                     "3/4 oz "
                 ]
             ],
-            "instructions": "Pour brandy, gin, and sweet vermouth into a highball glass over ice cubes. Fill with carbonated water. Add the twist of lemon peel, stir, and serve. (Ginger ale may be substituted for carbonated water, if preferred.)"
+            "instructions": "Pour brandy, gin, and sweet vermouth into a highball glass over ice cubes. Fill with carbonated water. Add the twist of lemon peel, stir, and serve. (Ginger ale may be substituted for carbonated water, if preferred.)",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "English Rose Cocktail",
+            "name": "ENGLISH ROSE COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yxwrpp1441208697.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Apricot brandy",
@@ -6589,12 +6954,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Rub rim of cocktail glass with lemon juice and dip rim of glass in powdered sugar. Shake all ingredients (except cherry) with ice and strain into sugar-rimmed glass. Top with the cherry and serve."
+            "instructions": "Rub rim of cocktail glass with lemon juice and dip rim of glass in powdered sugar. Shake all ingredients (except cherry) with ice and strain into sugar-rimmed glass. Top with the cherry and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Espresso Martini",
+            "name": "ESPRESSO MARTINI",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/n0sx531504372951.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -6609,12 +6976,14 @@ const cocktailData = {
                     "1 dash"
                 ]
             ],
-            "instructions": "Pour ingredients into shaker filled with ice, shake vigorously, and strain into chilled martini glass"
+            "instructions": "Pour ingredients into shaker filled with ice, shake vigorously, and strain into chilled martini glass",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Fahrenheit 5000",
+            "name": "FAHRENHEIT 5000",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/tysssx1473344692.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Firewater",
@@ -6629,12 +6998,14 @@ const cocktailData = {
                     "1 dash "
                 ]
             ],
-            "instructions": "Cover bottom of shot glass with Tabasco Sauce and then fill with half Firewater and half Absolut Peppar."
+            "instructions": "Cover bottom of shot glass with Tabasco Sauce and then fill with half Firewater and half Absolut Peppar.",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Flaming Dr. Pepper",
+            "name": "FLAMING DR. PEPPER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/d30z931503565384.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Amaretto",
@@ -6657,12 +7028,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Add Amaretto, Bacardi, and vodka. Mix in the Dr. Pepper and beer"
+            "instructions": "Add Amaretto, Bacardi, and vodka. Mix in the Dr. Pepper and beer",
+            "category": "SHOT",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Flaming Lamborghini",
+            "name": "FLAMING LAMBORGHINI",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yywpss1461866587.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Kahlua",
@@ -6681,12 +7054,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Pour the Sambuca and Kahlua into the Cocktail Glass and give the drinker a straw. Pour the Baileys and Blue Curacao into two sepsrate shot glasses either side of the cocktail glass. Set light the concotion in the cocktail glass and start to drink through the straw (this drink should be drunk in one) , as the bottom of the glass is reached put out the fire by pouring the Baileys and Blue Curacao into the cocktail glass and keep drinking till it's all gone!!"
+            "instructions": "Pour the Sambuca and Kahlua into the Cocktail Glass and give the drinker a straw. Pour the Baileys and Blue Curacao into two sepsrate shot glasses either side of the cocktail glass. Set light the concotion in the cocktail glass and start to drink through the straw (this drink should be drunk in one) , as the bottom of the glass is reached put out the fire by pouring the Baileys and Blue Curacao into the cocktail glass and keep drinking till it's all gone!!",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Flander's Flake-Out",
+            "name": "FLANDER'S FLAKE-OUT",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/sqvqrx1461866705.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sambuca",
@@ -6697,12 +7072,14 @@ const cocktailData = {
                     "3/4 glass "
                 ]
             ],
-            "instructions": "Bang 'em both in."
+            "instructions": "Bang 'em both in.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Flying Dutchman",
+            "name": "FLYING DUTCHMAN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/akik8t1504519958.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -6713,12 +7090,14 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "In an old-fashioned glass almost filled with ice cubes, combine the gin and triple sec. Stir well."
+            "instructions": "In an old-fashioned glass almost filled with ice cubes, combine the gin and triple sec. Stir well.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Flying Scotchman",
+            "name": "FLYING SCOTCHMAN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/glgrix1504520040.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Scotch",
@@ -6737,12 +7116,14 @@ const cocktailData = {
                     "1/4 tsp "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Foxy Lady",
+            "name": "FOXY LADY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/r9cz3q1504519844.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Amaretto",
@@ -6757,12 +7138,14 @@ const cocktailData = {
                     "2 oz "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice, strain into a chilled cocktail glass, and serve."
+            "instructions": "Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Frapp\u00e9",
+            "name": "FRAPP\u00c9",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vqwryq1441245927.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Coffee",
@@ -6777,12 +7160,14 @@ const cocktailData = {
                     "1-2 tsp "
                 ]
             ],
-            "instructions": "Mix together. Blend at highest blender speed for about 1 minute. Pour into a glass and drink with a straw. Notes: This works best if everything is cold (if you make fresh coffee, mix it with the milk and let it sit in the fridge for 1/2 hour. If it is not frothy, add more milk, or even just some more milk powder. The froth gradually turns to liquid at the bottom of the glass, so you will find that you can sit and drink this for about 1/2 hour, with more iced coffee continually appearing at the bottom. Very refreshing."
+            "instructions": "Mix together. Blend at highest blender speed for about 1 minute. Pour into a glass and drink with a straw. Notes: This works best if everything is cold (if you make fresh coffee, mix it with the milk and let it sit in the fridge for 1/2 hour. If it is not frothy, add more milk, or even just some more milk powder. The froth gradually turns to liquid at the bottom of the glass, so you will find that you can sit and drink this for about 1/2 hour, with more iced coffee continually appearing at the bottom. Very refreshing.",
+            "category": "COFFEE / TEA",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Freddy Kruger",
+            "name": "FREDDY KRUGER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/tuppuq1461866798.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "J\u00e4germeister",
@@ -6797,12 +7182,14 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "make it an ample size shot!!"
+            "instructions": "make it an ample size shot!!",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "French \"75\"",
+            "name": "FRENCH \"75\"",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qpvxsx1439906903.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -6829,12 +7216,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine the gin, sugar, and lemon juice. Shake well. Pour into a collins glass. Top with the Champagne. Stir well and garnish with the orange slice and the cherry."
+            "instructions": "In a shaker half-filled with ice cubes, combine the gin, sugar, and lemon juice. Shake well. Pour into a collins glass. Top with the Champagne. Stir well and garnish with the orange slice and the cherry.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "French 75",
+            "name": "FRENCH 75",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/4qnyty1504368615.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -6861,12 +7250,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Combine gin, sugar, and lemon juice in a cocktail shaker filled with ice. Shake vigorously and strain into a chilled champagne glass. Top up with Champagne. Stir gently."
+            "instructions": "Combine gin, sugar, and lemon juice in a cocktail shaker filled with ice. Shake vigorously and strain into a chilled champagne glass. Top up with Champagne. Stir gently.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "French Connection",
+            "name": "FRENCH CONNECTION",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/zaqa381504368758.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Cognac",
@@ -6877,12 +7268,14 @@ const cocktailData = {
                     "3/4 oz "
                 ]
             ],
-            "instructions": "Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently."
+            "instructions": "Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "French Martini",
+            "name": "FRENCH MARTINI",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/clth721504373134.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -6897,12 +7290,14 @@ const cocktailData = {
                     "1.5 cl"
                 ]
             ],
-            "instructions": "Pour all ingredients into shaker with ice cubes. Shake well and strain into a chilled cocktail glass. Squeeze oil from lemon peel onto the drink."
+            "instructions": "Pour all ingredients into shaker with ice cubes. Shake well and strain into a chilled cocktail glass. Squeeze oil from lemon peel onto the drink.",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Frisco Sour",
+            "name": "FRISCO SOUR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/y39l941504884150.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Blended whiskey",
@@ -6929,12 +7324,14 @@ const cocktailData = {
                     "1 slice "
                 ]
             ],
-            "instructions": "Shake all ingredients (except slices of lemon and lime) with ice and strain into a whiskey sour glass. Decorate with the slices of lemon and lime and serve."
+            "instructions": "Shake all ingredients (except slices of lemon and lime) with ice and strain into a whiskey sour glass. Decorate with the slices of lemon and lime and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "WHISKEY SOUR GLASS"
         },
         {
-            "name": "Frozen Daiquiri",
+            "name": "FROZEN DAIQUIRI",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/7oyrj91504884412.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -6961,12 +7358,14 @@ const cocktailData = {
                     "1 cup crushed "
                 ]
             ],
-            "instructions": "Combine all ingredients (except for the cherry) in an electric blender and blend at a low speed for five seconds, then blend at a high speed until firm. Pour contents into a champagne flute, top with the cherry, and serve."
+            "instructions": "Combine all ingredients (except for the cherry) in an electric blender and blend at a low speed for five seconds, then blend at a high speed until firm. Pour contents into a champagne flute, top with the cherry, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "CHAMPAGNE FLUTE"
         },
         {
-            "name": "Frozen Mint Daiquiri",
+            "name": "FROZEN MINT DAIQUIRI",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/jrhn1q1504884469.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -6985,12 +7384,14 @@ const cocktailData = {
                     "1 tsp "
                 ]
             ],
-            "instructions": "Combine all ingredients with 1 cup of crushed ice in an electric blender. Blend at a low speed for a short length of time. Pour into an old-fashioned glass and serve."
+            "instructions": "Combine all ingredients with 1 cup of crushed ice in an electric blender. Blend at a low speed for a short length of time. Pour into an old-fashioned glass and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Frozen Pineapple Daiquiri",
+            "name": "FROZEN PINEAPPLE DAIQUIRI",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/j2mqsb1504736097.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -7009,12 +7410,14 @@ const cocktailData = {
                     "1/2 tsp "
                 ]
             ],
-            "instructions": "Combine all ingredients with 1 cup of crushed ice in an electric blender. Blend at a low speed for a short length of time. Pour into a champagne flute and serve."
+            "instructions": "Combine all ingredients with 1 cup of crushed ice in an electric blender. Blend at a low speed for a short length of time. Pour into a champagne flute and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "CHAMPAGNE FLUTE"
         },
         {
-            "name": "Fruit Cooler",
+            "name": "FRUIT COOLER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/i3tfn31484430499.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Apple juice",
@@ -7041,12 +7444,14 @@ const cocktailData = {
                     "1 L "
                 ]
             ],
-            "instructions": "Toss strawberries with sugar, and let sit overnight in refrigerator. Cut lemon, reserve two slices. Juice the rest. Mix together the lemon juice, strawberries, apple juice, and soda water. Add slices of lemon (decor, really). In glasses, put ice cubes, and a slice of apple. Pour drink in, and serve."
+            "instructions": "Toss strawberries with sugar, and let sit overnight in refrigerator. Cut lemon, reserve two slices. Juice the rest. Mix together the lemon juice, strawberries, apple juice, and soda water. Add slices of lemon (decor, really). In glasses, put ice cubes, and a slice of apple. Pour drink in, and serve.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Fruit Flip-Flop",
+            "name": "FRUIT FLIP-FLOP",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/nfdx6p1484430633.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Yoghurt",
@@ -7057,12 +7462,14 @@ const cocktailData = {
                     "1 cup "
                 ]
             ],
-            "instructions": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up."
+            "instructions": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Fruit Shake",
+            "name": "FRUIT SHAKE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/q0fg2m1484430704.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Yoghurt",
@@ -7085,12 +7492,14 @@ const cocktailData = {
                     "6 "
                 ]
             ],
-            "instructions": "Blend til smooth."
+            "instructions": "Blend til smooth.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Fuzzy Asshole",
+            "name": "FUZZY ASSHOLE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wrvpuu1472667898.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Coffee",
@@ -7101,24 +7510,28 @@ const cocktailData = {
                     "1/2 "
                 ]
             ],
-            "instructions": "fill coffe mug half full of coffee. Fill the other half full of Peach Schnapps. Stir and drink while hot."
+            "instructions": "fill coffe mug half full of coffee. Fill the other half full of Peach Schnapps. Stir and drink while hot.",
+            "category": "COFFEE / TEA",
+            "glass": "COFFEE MUG"
         },
         {
             "name": "GG",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vyxwut1468875960.jpg",
-            "alcoholic": "Optional alcohol",
+            "alcoholic": "OPTIONAL ALCOHOL",
             "ingredients": [
                 [
                     "Galliano",
                     "2 1/2 shots "
                 ]
             ],
-            "instructions": "Pour the Galliano liqueur over ice. Fill the remainder of the glass with ginger ale and thats all there is to it. You now have a your very own GG."
+            "instructions": "Pour the Galliano liqueur over ice. Fill the remainder of the glass with ginger ale and thats all there is to it. You now have a your very own GG.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Gagliardo",
+            "name": "GAGLIARDO",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/lyloe91487602877.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Peach Vodka",
@@ -7137,12 +7550,14 @@ const cocktailData = {
                     "1 part "
                 ]
             ],
-            "instructions": "Shake well and serve in a cocktail glass. This is a home cocktail of American/Internet Bar del Pozzo, Pavia, Italy."
+            "instructions": "Shake well and serve in a cocktail glass. This is a home cocktail of American/Internet Bar del Pozzo, Pavia, Italy.",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Gentleman's Club",
+            "name": "GENTLEMAN'S CLUB",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ezvy1c1504883335.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -7161,12 +7576,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well."
+            "instructions": "In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Gideon's Green Dinosaur",
+            "name": "GIDEON'S GREEN DINOSAUR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/p5r0tr1503564636.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Dark rum",
@@ -7193,12 +7610,14 @@ const cocktailData = {
                     "Fill with "
                 ]
             ],
-            "instructions": "Add all ingredients in collins glass with ice and stir."
+            "instructions": "Add all ingredients in collins glass with ice and stir.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Gin And Tonic",
+            "name": "GIN AND TONIC",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wtyxvx1472405831.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -7213,24 +7632,28 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Pour the gin and the tonic water into a highball glass almost filled with ice cubes. Stir well. Garnish with the lime wedge."
+            "instructions": "Pour the gin and the tonic water into a highball glass almost filled with ice cubes. Stir well. Garnish with the lime wedge.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Gin Cooler",
+            "name": "GIN COOLER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wsyrvv1478820109.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
                     "2 oz "
                 ]
             ],
-            "instructions": "Stir powdered sugar and 2 oz. carbonated water in a collins glass. Fill glass with ice and add gin. Fill with carbonated water and stir. Add the lemon peel and the orange spiral so that the end of the orange spiral dangles over rim of glass."
+            "instructions": "Stir powdered sugar and 2 oz. carbonated water in a collins glass. Fill glass with ice and add gin. Fill with carbonated water and stir. Add the lemon peel and the orange spiral so that the end of the orange spiral dangles over rim of glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Gin Daisy",
+            "name": "GIN DAISY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qwxysv1478819943.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -7257,12 +7680,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine the wine, lemon juice, sugar, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the cherry and the orange slice."
+            "instructions": "In a shaker half-filled with ice cubes, combine the wine, lemon juice, sugar, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the cherry and the orange slice.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Gin Fizz",
+            "name": "GIN FIZZ",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xhl8q31504351772.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -7277,12 +7702,14 @@ const cocktailData = {
                     "1 tsp "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice cubes, except soda water. Pour into glass. Top with soda water."
+            "instructions": "Shake all ingredients with ice cubes, except soda water. Pour into glass. Top with soda water.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Gin Rickey",
+            "name": "GIN RICKEY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/s00d6f1504883945.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -7305,12 +7732,14 @@ const cocktailData = {
                     "Garnish"
                 ]
             ],
-            "instructions": "Half-fill a tall glass with ice. Mix the gin and Grenadine together and pour over the ice. Add the lime or lemon juice and top off with soda water. Decorate the glass with lime and/or lemon slices."
+            "instructions": "Half-fill a tall glass with ice. Mix the gin and Grenadine together and pour over the ice. Add the lime or lemon juice and top off with soda water. Decorate the glass with lime and/or lemon slices.",
+            "category": "COCKTAIL",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Gin Sling",
+            "name": "GIN SLING",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/h8wmm41504883440.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -7333,12 +7762,14 @@ const cocktailData = {
                     "Twist of "
                 ]
             ],
-            "instructions": "Dissolve powdered sugar in mixture of water and juice of lemon. Add gin. Pour into an old-fashioned glass over ice cubes and stir. Add the twist of orange peel and serve."
+            "instructions": "Dissolve powdered sugar in mixture of water and juice of lemon. Add gin. Pour into an old-fashioned glass over ice cubes and stir. Add the twist of orange peel and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Gin Smash",
+            "name": "GIN SMASH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/hp41fi1504883656.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -7365,12 +7796,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Muddle sugar with carbonated water and mint sprigs in an old-fashioned glass. Add gin and 1 ice cube. Stir, add the orange slice and the cherry, and serve."
+            "instructions": "Muddle sugar with carbonated water and mint sprigs in an old-fashioned glass. Add gin and 1 ice cube. Stir, add the orange slice and the cherry, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Gin Sour",
+            "name": "GIN SOUR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/mt7l7m1504883523.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -7393,12 +7826,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry."
+            "instructions": "In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry.",
+            "category": "ORDINARY DRINK",
+            "glass": "WHISKEY SOUR GLASS"
         },
         {
-            "name": "Gin Squirt",
+            "name": "GIN SQUIRT",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xrbhz61504883702.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -7421,12 +7856,14 @@ const cocktailData = {
                     "2 "
                 ]
             ],
-            "instructions": "Stir gin, grenadine, and powdered sugar with ice and strain into a highball glass over ice cubes. Fill with carbonated water and stir. Decorate with the pineapple chunks and the strawberries and serve."
+            "instructions": "Stir gin, grenadine, and powdered sugar with ice and strain into a highball glass over ice cubes. Fill with carbonated water and stir. Decorate with the pineapple chunks and the strawberries and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Gin Swizzle",
+            "name": "GIN SWIZZLE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/sybce31504884026.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Lime juice",
@@ -7449,12 +7886,14 @@ const cocktailData = {
                     "3 oz "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine the lime juice, sugar, gin, and bitters. Shake well. Almost fill a colling glass with ice cubes. Stir until the glass is frosted. Strain the mixture in the shaker into the glass and add the club soda."
+            "instructions": "In a shaker half-filled with ice cubes, combine the lime juice, sugar, gin, and bitters. Shake well. Almost fill a colling glass with ice cubes. Stir until the glass is frosted. Strain the mixture in the shaker into the glass and add the club soda.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Gin Toddy",
+            "name": "GIN TODDY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/l9gi5h1504820724.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -7473,12 +7912,14 @@ const cocktailData = {
                     "1 twist of "
                 ]
             ],
-            "instructions": "Mix powdered sugar and water in an old-fashioned glass. Add gin and one ice cube. Stir, add the twist of lemon peel, and serve."
+            "instructions": "Mix powdered sugar and water in an old-fashioned glass. Add gin and one ice cube. Stir, add the twist of lemon peel, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Girl From Ipanema",
+            "name": "GIRL FROM IPANEMA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xypspq1469090633.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Cachaca",
@@ -7497,12 +7938,14 @@ const cocktailData = {
                     "top up with"
                 ]
             ],
-            "instructions": "Add the cachaca, lemon juice and syrup to your boston glass. Add ice and shake until ice cold. Pour into a chilled flute and top-up with Champagne"
+            "instructions": "Add the cachaca, lemon juice and syrup to your boston glass. Add ice and shake until ice cold. Pour into a chilled flute and top-up with Champagne",
+            "category": "ORDINARY DRINK",
+            "glass": "WINE GLASS"
         },
         {
-            "name": "Gluehwein",
+            "name": "GLUEHWEIN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vuxwvt1468875418.jpg",
-            "alcoholic": "Optional alcohol",
+            "alcoholic": "OPTIONAL ALCOHOL",
             "ingredients": [
                 [
                     "Red wine",
@@ -7529,12 +7972,14 @@ const cocktailData = {
                     "1 tblsp "
                 ]
             ],
-            "instructions": "Boil sugar and spices in water, leave in the water for 30 minutes. Strain the spiced water and mix with the wine. Heat slowly until short of boiling temperature. (To remove alcohol, let it boil for a while.) You may add lemon or orange juice to taste. Serve in irish coffee cup."
+            "instructions": "Boil sugar and spices in water, leave in the water for 30 minutes. Strain the spiced water and mix with the wine. Heat slowly until short of boiling temperature. (To remove alcohol, let it boil for a while.) You may add lemon or orange juice to taste. Serve in irish coffee cup.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "IRISH COFFEE CUP"
         },
         {
-            "name": "Godchild",
+            "name": "GODCHILD",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/m5nhtr1504820829.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -7549,12 +7994,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Shake all ingredients well with cracked ice, strain into a champagne flute, and serve."
+            "instructions": "Shake all ingredients well with cracked ice, strain into a champagne flute, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "CHAMPAGNE FLUTE"
         },
         {
-            "name": "Godfather",
+            "name": "GODFATHER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/r74uz51504368928.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Scotch",
@@ -7565,12 +8012,14 @@ const cocktailData = {
                     "3/4 oz "
                 ]
             ],
-            "instructions": "Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently."
+            "instructions": "Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Godmother",
+            "name": "GODMOTHER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/4889up1504368984.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -7581,12 +8030,14 @@ const cocktailData = {
                     "3/4 oz "
                 ]
             ],
-            "instructions": "Pour vodka and amaretto into an old-fashioned glass over ice and serve."
+            "instructions": "Pour vodka and amaretto into an old-fashioned glass over ice and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Golden dream",
+            "name": "GOLDEN DREAM",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qrot6j1504369425.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Galliano",
@@ -7605,12 +8056,14 @@ const cocktailData = {
                     "1 part"
                 ]
             ],
-            "instructions": "Shake with cracked ice. Strain into glass and serve."
+            "instructions": "Shake with cracked ice. Strain into glass and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Grand Blue",
+            "name": "GRAND BLUE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vsrsqu1472761749.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Malibu rum",
@@ -7629,12 +8082,14 @@ const cocktailData = {
                     "3 cl "
                 ]
             ],
-            "instructions": "Serve in an old fashioned glass."
+            "instructions": "Serve in an old fashioned glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Grape lemon pineapple Smoothie",
+            "name": "GRAPE LEMON PINEAPPLE SMOOTHIE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/54z5h71487603583.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Grapes",
@@ -7649,12 +8104,14 @@ const cocktailData = {
                     "1/2 "
                 ]
             ],
-            "instructions": "Throw everything into a blender and liquify."
+            "instructions": "Throw everything into a blender and liquify.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Grass Skirt",
+            "name": "GRASS SKIRT",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qyvprp1473891585.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -7677,12 +8134,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine the gin, triple sec, pineapple juice, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the pineapple slice."
+            "instructions": "In a shaker half-filled with ice cubes, combine the gin, triple sec, pineapple juice, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the pineapple slice.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Grasshopper",
+            "name": "GRASSHOPPER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/aqm9el1504369613.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Green Creme de Menthe",
@@ -7697,12 +8156,14 @@ const cocktailData = {
                     "3/4 oz "
                 ]
             ],
-            "instructions": "Pour ingredients into a cocktail shaker with ice. Shake briskly and then strain into a chilled cocktail glass."
+            "instructions": "Pour ingredients into a cocktail shaker with ice. Shake briskly and then strain into a chilled cocktail glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Green Goblin",
+            "name": "GREEN GOBLIN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qxprxr1454511520.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Cider",
@@ -7717,12 +8178,14 @@ const cocktailData = {
                     "1 shot "
                 ]
             ],
-            "instructions": "Cider First, Lager then Curacao"
+            "instructions": "Cider First, Lager then Curacao",
+            "category": "BEER",
+            "glass": "PINT GLASS"
         },
         {
-            "name": "Grim Reaper",
+            "name": "GRIM REAPER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/kztu161504883192.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Kahlua",
@@ -7737,12 +8200,14 @@ const cocktailData = {
                     "1 dash "
                 ]
             ],
-            "instructions": "Mix Kahlua and 151 in glass. Quickly add ice and pour grenadine over ice to give ice red tint."
+            "instructions": "Mix Kahlua and 151 in glass. Quickly add ice and pour grenadine over ice to give ice red tint.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Grizzly Bear",
+            "name": "GRIZZLY BEAR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/k6v97f1487602550.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Amaretto",
@@ -7761,12 +8226,14 @@ const cocktailData = {
                     "2 1/2 parts "
                 ]
             ],
-            "instructions": "Served over ice. Sounds nasty, but tastes great."
+            "instructions": "Served over ice. Sounds nasty, but tastes great.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
             "name": "H.D.",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/upusyu1472667977.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Whisky",
@@ -7777,24 +8244,28 @@ const cocktailData = {
                     "8 cl "
                 ]
             ],
-            "instructions": "Mix the whisky and Baileys Cream in a beer-glass (at least 50 cl). Fill the rest of the glass with coffee."
+            "instructions": "Mix the whisky and Baileys Cream in a beer-glass (at least 50 cl). Fill the rest of the glass with coffee.",
+            "category": "COFFEE / TEA",
+            "glass": "BEER MUG"
         },
         {
-            "name": "Happy Skipper",
+            "name": "HAPPY SKIPPER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/42w2g41487602448.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Spiced rum",
                     "1 1/2 cl "
                 ]
             ],
-            "instructions": "Pour Captain Morgan's Spiced Rum over ice, fill glass to top with Ginger Ale. Garnish with lime. Tastes like a cream soda. Named for the Gilligan's Island reference (\"The Captain\" *in* \"Ginger\" is a Happy Skipper!)"
+            "instructions": "Pour Captain Morgan's Spiced Rum over ice, fill glass to top with Ginger Ale. Garnish with lime. Tastes like a cream soda. Named for the Gilligan's Island reference (\"The Captain\" *in* \"Ginger\" is a Happy Skipper!)",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Harvey Wallbanger",
+            "name": "HARVEY WALLBANGER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vg4bva1504369725.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -7809,12 +8280,14 @@ const cocktailData = {
                     "4 oz "
                 ]
             ],
-            "instructions": "Stir the vodka and orange juice with ice in the glass, then float the Galliano on top. Garnish and serve."
+            "instructions": "Stir the vodka and orange juice with ice in the glass, then float the Galliano on top. Garnish and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Havana Cocktail",
+            "name": "HAVANA COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/59splc1504882899.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -7829,12 +8302,14 @@ const cocktailData = {
                     "1 tsp "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass."
+            "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Hawaiian Cocktail",
+            "name": "HAWAIIAN COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ujoh9x1504882987.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -7849,12 +8324,14 @@ const cocktailData = {
                     "1 tblsp "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Hemingway Special",
+            "name": "HEMINGWAY SPECIAL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/jfcvps1504369888.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Rum",
@@ -7873,12 +8350,14 @@ const cocktailData = {
                     "3 parts"
                 ]
             ],
-            "instructions": "Pour all ingredients into a shaker with ice. Shake."
+            "instructions": "Pour all ingredients into a shaker with ice. Shake.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Herbal flame",
+            "name": "HERBAL FLAME",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rrstxv1441246184.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Hot Damn",
@@ -7889,12 +8368,14 @@ const cocktailData = {
                     "very sweet "
                 ]
             ],
-            "instructions": "Pour Hot Damn 100 in bottom of a jar or regular glass. Fill the rest of the glass with sweet tea. Stir with spoon, straw, or better yet a cinnamon stick and leave it in."
+            "instructions": "Pour Hot Damn 100 in bottom of a jar or regular glass. Fill the rest of the glass with sweet tea. Stir with spoon, straw, or better yet a cinnamon stick and leave it in.",
+            "category": "COFFEE / TEA",
+            "glass": "MASON JAR"
         },
         {
-            "name": "Highland Fling Cocktail",
+            "name": "HIGHLAND FLING COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/0bkwca1492975553.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Scotch",
@@ -7913,24 +8394,28 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Stir all ingredients (except olive) with ice and strain into a cocktail glass. Add the olive and serve."
+            "instructions": "Stir all ingredients (except olive) with ice and strain into a cocktail glass. Add the olive and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Holloween Punch",
+            "name": "HOLLOWEEN PUNCH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/lfeoe41504888925.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Grape juice",
                     ", orange\n"
                 ]
             ],
-            "instructions": "Take a bunch of grape juice and a bunch of fizzy stuff (club soda, ginger ale, lemonlime, whatever). Mix them in a punch bowl. Take orange sherbet and lime sherbet. Scoop out scoops and float them in the punch, let them melt a little so that a nasty film spreads all over the top of the punch but there are still \"bubbles\" in it in the form of sherbet scoops. Looks horrible, tastes just fine."
+            "instructions": "Take a bunch of grape juice and a bunch of fizzy stuff (club soda, ginger ale, lemonlime, whatever). Mix them in a punch bowl. Take orange sherbet and lime sherbet. Scoop out scoops and float them in the punch, let them melt a little so that a nasty film spreads all over the top of the punch but there are still \"bubbles\" in it in the form of sherbet scoops. Looks horrible, tastes just fine.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "PUNCH BOWL"
         },
         {
-            "name": "Homemade Kahlua",
+            "name": "HOMEMADE KAHLUA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uwtsst1441254025.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sugar",
@@ -7957,12 +8442,14 @@ const cocktailData = {
                     "1 fifth "
                 ]
             ],
-            "instructions": "Dissolve sugar in 2 cups of boiling water and add corn syrup. Dissolve the instant coffee in the remaining water. Pour syrup and coffee in a gallon jug. Let it cool. Add vodka and vanilla when cold. For the best result, let the mixture \"mature\" for 4-5 weeks."
+            "instructions": "Dissolve sugar in 2 cups of boiling water and add corn syrup. Dissolve the instant coffee in the remaining water. Pour syrup and coffee in a gallon jug. Let it cool. Add vodka and vanilla when cold. For the best result, let the mixture \"mature\" for 4-5 weeks.",
+            "category": "HOMEMADE LIQUEUR",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Horse's Neck",
+            "name": "HORSE'S NECK",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/006k4e1504370092.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Lemon peel",
@@ -7981,12 +8468,14 @@ const cocktailData = {
                     "2 dashes "
                 ]
             ],
-            "instructions": "Pour brandy and ginger ale directly into highball glass with ice cubes. Stir gently. Garnish with lemon zest. If desired, add dashes of Angostura Bitter."
+            "instructions": "Pour brandy and ginger ale directly into highball glass with ice cubes. Stir gently. Garnish with lemon zest. If desired, add dashes of Angostura Bitter.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Hot Chocolate to Die for",
+            "name": "HOT CHOCOLATE TO DIE FOR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/0lrmjp1487603166.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Chocolate",
@@ -8009,12 +8498,14 @@ const cocktailData = {
                     "mini "
                 ]
             ],
-            "instructions": "Melt the chocolate, butter and vanilla in a double boiler. When just smooth stir in the cream."
+            "instructions": "Melt the chocolate, butter and vanilla in a double boiler. When just smooth stir in the cream.",
+            "category": "COCOA",
+            "glass": "COFFEE MUG"
         },
         {
-            "name": "Hot Creamy Bush",
+            "name": "HOT CREAMY BUSH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/spvrtp1472668037.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Irish whiskey",
@@ -8029,12 +8520,14 @@ const cocktailData = {
                     "6 oz hot "
                 ]
             ],
-            "instructions": "Combine all ingredients in glass"
+            "instructions": "Combine all ingredients in glass",
+            "category": "COFFEE / TEA",
+            "glass": "IRISH COFFEE CUP"
         },
         {
-            "name": "Ice Pick #1",
+            "name": "ICE PICK #1",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ypsrqp1469091726.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -8049,12 +8542,14 @@ const cocktailData = {
                     " to taste\n"
                 ]
             ],
-            "instructions": "Put Vodka in glass fill with iced tea. Stir in lemon to taste."
+            "instructions": "Put Vodka in glass fill with iced tea. Stir in lemon to taste.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Iced Coffee",
+            "name": "ICED COFFEE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ytprxy1454513855.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Coffee",
@@ -8073,12 +8568,14 @@ const cocktailData = {
                     "4 cups cold "
                 ]
             ],
-            "instructions": "Mix together until coffee and sugar is dissolved. Add milk. Shake well. Using a blender or milk shake maker produces a very foamy drink. Serve in coffee mug."
+            "instructions": "Mix together until coffee and sugar is dissolved. Add milk. Shake well. Using a blender or milk shake maker produces a very foamy drink. Serve in coffee mug.",
+            "category": "COFFEE / TEA",
+            "glass": "COFFEE MUG"
         },
         {
-            "name": "Iced Coffee Fillip",
+            "name": "ICED COFFEE FILLIP",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/sxtxrp1454514223.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Kahlua",
@@ -8089,12 +8586,14 @@ const cocktailData = {
                     "Strong cold "
                 ]
             ],
-            "instructions": "Mix together in a coffee mug and chill before serving."
+            "instructions": "Mix together in a coffee mug and chill before serving.",
+            "category": "COFFEE / TEA",
+            "glass": "COFFEE MUG"
         },
         {
-            "name": "Imperial Cocktail",
+            "name": "IMPERIAL COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/bcsj2e1487603625.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Lime juice",
@@ -8109,12 +8608,14 @@ const cocktailData = {
                     "4 cl "
                 ]
             ],
-            "instructions": "Shake with ice and strain into cocktail glass."
+            "instructions": "Shake with ice and strain into cocktail glass.",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Imperial Fizz",
+            "name": "IMPERIAL FIZZ",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/zj1usl1504884548.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -8133,12 +8634,14 @@ const cocktailData = {
                     "1 tsp "
                 ]
             ],
-            "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve."
+            "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Ipamena",
+            "name": "IPAMENA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yswuwp1469090992.jpg",
-            "alcoholic": "Non Alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Lime",
@@ -8161,12 +8664,14 @@ const cocktailData = {
                     "fill"
                 ]
             ],
-            "instructions": "Cut half a lime into pieces, place in a shaker, add the sugar and crush. Measure the passion fruit juice, add it to the shaker and fill up with ice cubes. Close the shaker and shake vigorously. Pour the liquid into a glass, top up with ginger ale, stir with a teaspoon and then garnish the rim of the glass with a slice of lime"
+            "instructions": "Cut half a lime into pieces, place in a shaker, add the sugar and crush. Measure the passion fruit juice, add it to the shaker and fill up with ice cubes. Close the shaker and shake vigorously. Pour the liquid into a glass, top up with ginger ale, stir with a teaspoon and then garnish the rim of the glass with a slice of lime",
+            "category": "ORDINARY DRINK",
+            "glass": "WINE GLASS"
         },
         {
-            "name": "Irish Coffee",
+            "name": "IRISH COFFEE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/sywsqw1439906999.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Irish whiskey",
@@ -8185,12 +8690,14 @@ const cocktailData = {
                     "1 tblsp "
                 ]
             ],
-            "instructions": "Heat the coffee, whiskey and sugar; do not boil. Pour into glass and top with cream; serve hot."
+            "instructions": "Heat the coffee, whiskey and sugar; do not boil. Pour into glass and top with cream; serve hot.",
+            "category": "COFFEE / TEA",
+            "glass": "IRISH COFFEE CUP"
         },
         {
-            "name": "Irish Cream",
+            "name": "IRISH CREAM",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/90etyl1504884699.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Scotch",
@@ -8213,12 +8720,14 @@ const cocktailData = {
                     "1 tblsp "
                 ]
             ],
-            "instructions": "Mix scotch and milk. Add half-and-half. Add rest."
+            "instructions": "Mix scotch and milk. Add half-and-half. Add rest.",
+            "category": "HOMEMADE LIQUEUR",
+            "glass": "IRISH COFFEE CUP"
         },
         {
-            "name": "Irish Curdling Cow",
+            "name": "IRISH CURDLING COW",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yrhutv1503563730.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Bailey's irish cream",
@@ -8237,12 +8746,14 @@ const cocktailData = {
                     "2-3 oz "
                 ]
             ],
-            "instructions": "Pour Irish Cream, Vodka, and Bourbon in a glass. Add some ice and mix in the orange juice."
+            "instructions": "Pour Irish Cream, Vodka, and Bourbon in a glass. Add some ice and mix in the orange juice.",
+            "category": "COCKTAIL",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Irish Russian",
+            "name": "IRISH RUSSIAN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/swqurw1454512730.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -8261,12 +8772,14 @@ const cocktailData = {
                     "Fill with "
                 ]
             ],
-            "instructions": "Add the ingredients in the order listed in the recipe. Care must be taken when adding the Guinness to prevent an excess of foam. Do Not add ice."
+            "instructions": "Add the ingredients in the order listed in the recipe. Care must be taken when adding the Guinness to prevent an excess of foam. Do Not add ice.",
+            "category": "BEER",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Irish Spring",
+            "name": "IRISH SPRING",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/sot8v41504884783.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Irish whiskey",
@@ -8293,12 +8806,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Pour all ingredients (except orange slice and cherry) into a collins glass over ice cubes. Garnish with the slice of orange, add the cherry on top, and serve."
+            "instructions": "Pour all ingredients (except orange slice and cherry) into a collins glass over ice cubes. Garnish with the slice of orange, add the cherry on top, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Jack Rose Cocktail",
+            "name": "JACK ROSE COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uuqqrv1439907068.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Apple brandy",
@@ -8313,12 +8828,14 @@ const cocktailData = {
                     "Juice of 1/2 "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Jack's Vanilla Coke",
+            "name": "JACK'S VANILLA COKE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/kjnt7z1504793319.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Ice",
@@ -8337,12 +8854,14 @@ const cocktailData = {
                     "10-12 oz "
                 ]
             ],
-            "instructions": "After pouring in your ingredients, and adding 3-5 ice cubes, according to taste. Stir the drink with a stirrer to get the Vanilla off the bottom."
+            "instructions": "After pouring in your ingredients, and adding 3-5 ice cubes, according to taste. Stir the drink with a stirrer to get the Vanilla off the bottom.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Jackhammer",
+            "name": "JACKHAMMER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/9von5j1504388896.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Jack Daniels",
@@ -8353,12 +8872,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Serve over ice- Warning,Deadly!"
+            "instructions": "Serve over ice- Warning,Deadly!",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Jam Donut",
+            "name": "JAM DONUT",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uuytrp1474039804.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Baileys irish cream",
@@ -8377,12 +8898,14 @@ const cocktailData = {
                     "2 pinches"
                 ]
             ],
-            "instructions": "Coat the rim of a shot glass with sugar using sugar syrup to stick. Add the Chambord raspberry liqueur to the shot glass, and carefully layer the Baileys Irish Cream on top. Serve."
+            "instructions": "Coat the rim of a shot glass with sugar using sugar syrup to stick. Add the Chambord raspberry liqueur to the shot glass, and carefully layer the Baileys Irish Cream on top. Serve.",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Jamaica Kiss",
+            "name": "JAMAICA KISS",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/urpvvv1441249549.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Coffee liqueur",
@@ -8397,12 +8920,14 @@ const cocktailData = {
                     " cubes\n"
                 ]
             ],
-            "instructions": "Fill a tumbler with ice cubes. Add a shot of Tia Maria and a shot of Jamaican light rum. Fill the tumbler with milk. Blend until smooth and serve immediately."
+            "instructions": "Fill a tumbler with ice cubes. Add a shot of Tia Maria and a shot of Jamaican light rum. Fill the tumbler with milk. Blend until smooth and serve immediately.",
+            "category": "MILK / FLOAT / SHAKE",
+            "glass": "HURRICANE GLASS"
         },
         {
-            "name": "Jamaican Coffee",
+            "name": "JAMAICAN COFFEE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xqptps1441247257.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Rum",
@@ -8417,12 +8942,14 @@ const cocktailData = {
                     "1/2 glass cold "
                 ]
             ],
-            "instructions": "Stir the rum, coffee and water together. Top with the whipped cream. Sprinkle with a pinch of well ground coffee and drink with a straw."
+            "instructions": "Stir the rum, coffee and water together. Top with the whipped cream. Sprinkle with a pinch of well ground coffee and drink with a straw.",
+            "category": "COFFEE / TEA",
+            "glass": "CHAMPAGNE FLUTE"
         },
         {
-            "name": "Japanese Fizz",
+            "name": "JAPANESE FIZZ",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/37vzv11504884831.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Blended whiskey",
@@ -8445,12 +8972,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve."
+            "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Jello shots",
+            "name": "JELLO SHOTS",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/l0smzo1504884904.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -8465,12 +8994,14 @@ const cocktailData = {
                     "3 cups "
                 ]
             ],
-            "instructions": "Boil 3 cups of water then add jello. Mix jello and water until jello is completely disolved. Add the two cups of vodka and mix together. Pour mixture into plastic shot glasses and chill until firm. Then, eat away..."
+            "instructions": "Boil 3 cups of water then add jello. Mix jello and water until jello is completely disolved. Add the two cups of vodka and mix together. Pour mixture into plastic shot glasses and chill until firm. Then, eat away...",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Jelly Bean",
+            "name": "JELLY BEAN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/bglc6y1504388797.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Blackberry brandy",
@@ -8481,12 +9012,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "mix equal parts in pony glass-tastes just like a jelly bean!"
+            "instructions": "mix equal parts in pony glass-tastes just like a jelly bean!",
+            "category": "SHOT",
+            "glass": "CORDIAL GLASS"
         },
         {
-            "name": "Jewel Of The Nile",
+            "name": "JEWEL OF THE NILE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/hx4nrb1504884947.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -8501,12 +9034,14 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass."
+            "instructions": "In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Jitterbug",
+            "name": "JITTERBUG",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wwqvrq1441245318.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -8537,12 +9072,14 @@ const cocktailData = {
                     "Fill to top with "
                 ]
             ],
-            "instructions": "Wet glass, dip rim in sugar. Then add Ice. Then add everything else. It's that simple!"
+            "instructions": "Wet glass, dip rim in sugar. Then add Ice. Then add everything else. It's that simple!",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "John Collins",
+            "name": "JOHN COLLINS",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/u5yaxl1504350270.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Bourbon",
@@ -8569,24 +9106,28 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Pour all ingredients directly into highball glass filled with ice. Stir gently. Garnish. Add a dash of Angostura bitters."
+            "instructions": "Pour all ingredients directly into highball glass filled with ice. Stir gently. Garnish. Add a dash of Angostura bitters.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Just a Moonmint",
+            "name": "JUST A MOONMINT",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/znald61487604035.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Milk",
                     "2 cups "
                 ]
             ],
-            "instructions": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up."
+            "instructions": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.",
+            "category": "MILK / FLOAT / SHAKE",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Kamikaze",
+            "name": "KAMIKAZE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xa58bb1504373204.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -8601,12 +9142,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Shake all ingredients together with ice. Strain into glass, garnish and serve."
+            "instructions": "Shake all ingredients together with ice. Strain into glass, garnish and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Karsk",
+            "name": "KARSK",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/808mxk1487602471.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Coffee",
@@ -8617,12 +9160,14 @@ const cocktailData = {
                     "2 parts "
                 ]
             ],
-            "instructions": "Put a copper coin in a coffe-cup and fill up with coffee until you no longer see the coin, then add alcohol until you see the coin. Norwegian speciality."
+            "instructions": "Put a copper coin in a coffe-cup and fill up with coffee until you no longer see the coin, then add alcohol until you see the coin. Norwegian speciality.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Kentucky B And B",
+            "name": "KENTUCKY B AND B",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/sqxsxp1478820236.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Bourbon",
@@ -8633,12 +9178,14 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "Pour the bourbon and Benedictine into a brandy snifter."
+            "instructions": "Pour the bourbon and Benedictine into a brandy snifter.",
+            "category": "ORDINARY DRINK",
+            "glass": "BRANDY SNIFTER"
         },
         {
-            "name": "Kentucky Colonel",
+            "name": "KENTUCKY COLONEL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/utqwpu1478820348.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Bourbon",
@@ -8653,12 +9200,14 @@ const cocktailData = {
                     "1 twist of "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes combine the courbon and Benedictine. Shake and strain into a cocktail glass. Garnish with the lemon twist."
+            "instructions": "In a shaker half-filled with ice cubes combine the courbon and Benedictine. Shake and strain into a cocktail glass. Garnish with the lemon twist.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Kill the cold Smoothie",
+            "name": "KILL THE COLD SMOOTHIE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/7j1z2e1487603414.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Ginger",
@@ -8673,12 +9222,14 @@ const cocktailData = {
                     "1 cup hot "
                 ]
             ],
-            "instructions": "Juice ginger and lemon and add it to hot water. You may add cardomom."
+            "instructions": "Juice ginger and lemon and add it to hot water. You may add cardomom.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Kioki Coffee",
+            "name": "KIOKI COFFEE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uppqty1441247374.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Kahlua",
@@ -8689,12 +9240,14 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "Stir. Add whipped cream to the top."
+            "instructions": "Stir. Add whipped cream to the top.",
+            "category": "COFFEE / TEA",
+            "glass": "COFFEE MUG"
         },
         {
-            "name": "Kir",
+            "name": "KIR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/apneom1504370294.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Creme de Cassis",
@@ -8705,12 +9258,14 @@ const cocktailData = {
                     "5 parts "
                 ]
             ],
-            "instructions": "Add the cr\u00e8me de cassis to the bottom of the glass, then top up with wine."
+            "instructions": "Add the cr\u00e8me de cassis to the bottom of the glass, then top up with wine.",
+            "category": "ORDINARY DRINK",
+            "glass": "WINE GLASS"
         },
         {
-            "name": "Kir Royale",
+            "name": "KIR ROYALE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yt9i7n1504370388.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Creme de Cassis",
@@ -8721,12 +9276,14 @@ const cocktailData = {
                     "5 parts "
                 ]
             ],
-            "instructions": "Pour Creme de cassis in glass, gently pour champagne on top"
+            "instructions": "Pour Creme de cassis in glass, gently pour champagne on top",
+            "category": "ORDINARY DRINK",
+            "glass": "CHAMPAGNE FLUTE"
         },
         {
-            "name": "Kiss me Quick",
+            "name": "KISS ME QUICK",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/m7iaxu1504885119.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Cranberry vodka",
@@ -8749,12 +9306,14 @@ const cocktailData = {
                     " cubes\n"
                 ]
             ],
-            "instructions": "mix in the glass"
+            "instructions": "mix in the glass",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Kiwi Lemon",
+            "name": "KIWI LEMON",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/tpupvr1478251697.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Kiwi liqueur",
@@ -8769,12 +9328,14 @@ const cocktailData = {
                     " cubes\n"
                 ]
             ],
-            "instructions": "Mix in highball glass. Stirr. Garnish with slice of kiwi."
+            "instructions": "Mix in highball glass. Stirr. Garnish with slice of kiwi.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Kiwi Papaya Smoothie",
+            "name": "KIWI PAPAYA SMOOTHIE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/jogv4w1487603571.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Kiwi",
@@ -8785,12 +9346,14 @@ const cocktailData = {
                     "1/2 "
                 ]
             ],
-            "instructions": "Throw everything into a blender and liquify."
+            "instructions": "Throw everything into a blender and liquify.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Kool First Aid",
+            "name": "KOOL FIRST AID",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/hfp6sv1503564824.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "151 proof rum",
@@ -8801,12 +9364,14 @@ const cocktailData = {
                     "1/2 tsp Tropical "
                 ]
             ],
-            "instructions": "Add Kool Aid to a double shot glass, and top with rum. Slam and shoot."
+            "instructions": "Add Kool Aid to a double shot glass, and top with rum. Slam and shoot.",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Kool-Aid Shot",
+            "name": "KOOL-AID SHOT",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/fegm621503564966.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -8825,12 +9390,14 @@ const cocktailData = {
                     "1 shot "
                 ]
             ],
-            "instructions": "Pour into a large glass with ice and stir. Add a little cranberry juice to taste."
+            "instructions": "Pour into a large glass with ice and stir. Add a little cranberry juice to taste.",
+            "category": "SHOT",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Kool-Aid Slammer",
+            "name": "KOOL-AID SLAMMER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/kugu2m1504735473.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Kool-Aid",
@@ -8841,12 +9408,14 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "Fill half the shot glass with the kool-aid first. Then put a paper towel over the top of the glass and slowly pour in the vodka. If you do it right, you should be able to see that the two liquids are separated, with the vodka on top. Now slam it! The last thing you'll taste is the kool-aid."
+            "instructions": "Fill half the shot glass with the kool-aid first. Then put a paper towel over the top of the glass and slowly pour in the vodka. If you do it right, you should be able to see that the two liquids are separated, with the vodka on top. Now slam it! The last thing you'll taste is the kool-aid.",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Kurant Tea",
+            "name": "KURANT TEA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xrsrpr1441247464.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Absolut Kurant",
@@ -8861,12 +9430,14 @@ const cocktailData = {
                     " (if needed)\n"
                 ]
             ],
-            "instructions": "Pour Absolut Kurant into a comfortably big tea-cup. Add the not too hot(!) apple tea and, if you like, some sugar. Enjoy!"
+            "instructions": "Pour Absolut Kurant into a comfortably big tea-cup. Add the not too hot(!) apple tea and, if you like, some sugar. Enjoy!",
+            "category": "COFFEE / TEA",
+            "glass": "CHAMPAGNE FLUTE"
         },
         {
-            "name": "Lady Love Fizz",
+            "name": "LADY LOVE FIZZ",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/20d63k1504885263.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -8889,12 +9460,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a cocktail glass over two ice cubes. Fill with carbonated water, stir, and serve."
+            "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a cocktail glass over two ice cubes. Fill with carbonated water, stir, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Lassi - A South Indian Drink",
+            "name": "LASSI - A SOUTH INDIAN DRINK",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/iq6scx1487603980.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Yoghurt",
@@ -8917,12 +9490,14 @@ const cocktailData = {
                     "1/4 tsp dried "
                 ]
             ],
-            "instructions": "Blend in a blender for 3 seconds. Lassi is one of the easiest things to make, and there are many ways of making it. Basically, it is buttermilk (yoghurt whisked with water), and you can choose almost any consistency that you like, from the thinnest to the thickest. Serve cold."
+            "instructions": "Blend in a blender for 3 seconds. Lassi is one of the easiest things to make, and there are many ways of making it. Basically, it is buttermilk (yoghurt whisked with water), and you can choose almost any consistency that you like, from the thinnest to the thickest. Serve cold.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Lassi - Mango",
+            "name": "LASSI - MANGO",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/1bw6sd1487603816.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Mango",
@@ -8941,12 +9516,14 @@ const cocktailData = {
                     "1 cup iced "
                 ]
             ],
-            "instructions": "Put it all in a blender and pour over crushed ice. You can also use other fruits like strawberries and bananas."
+            "instructions": "Put it all in a blender and pour over crushed ice. You can also use other fruits like strawberries and bananas.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Lassi - Sweet",
+            "name": "LASSI - SWEET",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/9jeifz1487603885.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Yoghurt",
@@ -8969,12 +9546,14 @@ const cocktailData = {
                     "2 tblsp "
                 ]
             ],
-            "instructions": "Put all ingredients into a blender and blend until nice and frothy. Serve chilled."
+            "instructions": "Put all ingredients into a blender and blend until nice and frothy. Serve chilled.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Lassi Khara",
+            "name": "LASSI KHARA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/m1suzm1487603970.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Yoghurt",
@@ -8993,12 +9572,14 @@ const cocktailData = {
                     "1 pinch "
                 ]
             ],
-            "instructions": "Blend (frappe) in blender until frothy. Add torn curry leaves and serve cold."
+            "instructions": "Blend (frappe) in blender until frothy. Add torn curry leaves and serve cold.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Lassi Raita",
+            "name": "LASSI RAITA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/s4x0qj1487603933.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Yoghurt",
@@ -9009,12 +9590,14 @@ const cocktailData = {
                     "4-6 "
                 ]
             ],
-            "instructions": "Blend the yoghurt and ice cubes together, until the yoghurt becomes more liquid. Add sugar to taste. The lemon/lime is optional but it gives it a slightly tart taste. Dash of salt. Raita is also good for the summer. Instead of having a traditional salad you can make raita instead."
+            "instructions": "Blend the yoghurt and ice cubes together, until the yoghurt becomes more liquid. Add sugar to taste. The lemon/lime is optional but it gives it a slightly tart taste. Dash of salt. Raita is also good for the summer. Instead of having a traditional salad you can make raita instead.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Lemon Drop",
+            "name": "LEMON DROP",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/mtpxgk1504373297.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Absolut Vodka",
@@ -9029,12 +9612,14 @@ const cocktailData = {
                     "Juice of 1 wedge "
                 ]
             ],
-            "instructions": "Shake and strain into a chilled cocktail glass rimmed with sugar."
+            "instructions": "Shake and strain into a chilled cocktail glass rimmed with sugar.",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Lemon Shot",
+            "name": "LEMON SHOT",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/mx31hv1487602979.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Galliano",
@@ -9053,12 +9638,14 @@ const cocktailData = {
                     "Bacardi "
                 ]
             ],
-            "instructions": "Mix Galliano and Absolut Citron in a shot glass, lay lemon wedge sprinkled with sugar over glass and pour a rum over wedge and glass. light rum with a lighter and let burn for a second. Do shot quickly and suck on lemon. If it is done correctly, this will taste like a shot of sweet lemonade."
+            "instructions": "Mix Galliano and Absolut Citron in a shot glass, lay lemon wedge sprinkled with sugar over glass and pour a rum over wedge and glass. light rum with a lighter and let burn for a second. Do shot quickly and suck on lemon. If it is done correctly, this will taste like a shot of sweet lemonade.",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Lemouroudji",
+            "name": "LEMOUROUDJI",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/eirmo71487603745.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Ginger",
@@ -9081,12 +9668,14 @@ const cocktailData = {
                     "ground "
                 ]
             ],
-            "instructions": "Juice the lemons. Peel and grate the ginger. Place the grated ginger and a liberal dash of the cayenne pepper into a piece of cheesecloth, and tie it into a knot. Let soak in the water. After 15 minutes or so, add the sugar, and the lemon juice. Chill, and serve."
+            "instructions": "Juice the lemons. Peel and grate the ginger. Place the grated ginger and a liberal dash of the cayenne pepper into a piece of cheesecloth, and tie it into a knot. Let soak in the water. After 15 minutes or so, add the sugar, and the lemon juice. Chill, and serve.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Limeade",
+            "name": "LIMEADE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/5jdp5r1487603680.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Lime",
@@ -9101,12 +9690,14 @@ const cocktailData = {
                     " (seltzer water)\n"
                 ]
             ],
-            "instructions": "In a large glass, put the lime juice and sugar, and stir well. Add cold seltzer water to fill. Put the lime peels in the glass. Drink. Repeat until limes or soda run out."
+            "instructions": "In a large glass, put the lime juice and sugar, and stir well. Add cold seltzer water to fill. Put the lime peels in the glass. Drink. Repeat until limes or soda run out.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Limona Corona",
+            "name": "LIMONA CORONA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wwqrsw1441248662.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Corona",
@@ -9117,12 +9708,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Open the Corona. Fill the empty space in the neck in the bottle with the rum. The bottle should be filled to the top. Plug the bottle with your thumb or the palm of your hand. Turn the bottle upside-down so the rum and beer mix. Turn the bottle rightside-up, unplug, and drink."
+            "instructions": "Open the Corona. Fill the empty space in the neck in the bottle with the rum. The bottle should be filled to the top. Plug the bottle with your thumb or the palm of your hand. Turn the bottle upside-down so the rum and beer mix. Turn the bottle rightside-up, unplug, and drink.",
+            "category": "BEER",
+            "glass": "BEER GLASS"
         },
         {
-            "name": "Loch Lomond",
+            "name": "LOCH LOMOND",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rpvtpr1468923881.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Scotch",
@@ -9141,12 +9734,14 @@ const cocktailData = {
                     "1 twist of "
                 ]
             ],
-            "instructions": "In a mixing glass half-filled with ice cubes, combine the Scotch, Drambuie, and vermouth. Stir well. Strain into a cocktail glass. Garnish with the lemon twist."
+            "instructions": "In a mixing glass half-filled with ice cubes, combine the Scotch, Drambuie, and vermouth. Stir well. Strain into a cocktail glass. Garnish with the lemon twist.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "London Town",
+            "name": "LONDON TOWN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rpsrqv1468923507.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -9161,12 +9756,14 @@ const cocktailData = {
                     "2 dashes "
                 ]
             ],
-            "instructions": "In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass."
+            "instructions": "In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Lone Tree Cocktail",
+            "name": "LONE TREE COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/tsxpty1468923417.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sweet Vermouth",
@@ -9177,19 +9774,23 @@ const cocktailData = {
                     "1 1/2 oz "
                 ]
             ],
-            "instructions": "Stir ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Stir ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Lone Tree Cooler",
+            "name": "LONE TREE COOLER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wsyqry1479298485.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [],
-            "instructions": "Stir powdered sugar and 2 oz. carbonated water in a collins glass. Fill glass with ice, add gin and vermouth, and stir. Fill with carbonated water and stir again. Add the twist of lemon peel and the orange spiral so that the end dangles over rim of glass."
+            "instructions": "Stir powdered sugar and 2 oz. carbonated water in a collins glass. Fill glass with ice, add gin and vermouth, and stir. Fill with carbonated water and stir again. Add the twist of lemon peel and the orange spiral so that the end dangles over rim of glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Long Island Iced Tea",
+            "name": "LONG ISLAND ICED TEA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wx7hsg1504370510.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -9216,12 +9817,14 @@ const cocktailData = {
                     "Twist of "
                 ]
             ],
-            "instructions": "Mix all contents in a highball glass and sitr gently. Add dash of Coca-Cola for the coloring and garnish with lemon or lime twist."
+            "instructions": "Mix all contents in a highball glass and sitr gently. Add dash of Coca-Cola for the coloring and garnish with lemon or lime twist.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Long Island Tea",
+            "name": "LONG ISLAND TEA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ywxwqs1439906072.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -9248,12 +9851,14 @@ const cocktailData = {
                     "1 splash "
                 ]
             ],
-            "instructions": "Combine all ingredients (except cola) and pour over ice in a highball glass. Add the splash of cola for color. Decorate with a slice of lemon and serve."
+            "instructions": "Combine all ingredients (except cola) and pour over ice in a highball glass. Add the splash of cola for color. Decorate with a slice of lemon and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Long vodka",
+            "name": "LONG VODKA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/9179i01503565212.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -9276,12 +9881,14 @@ const cocktailData = {
                     "4 "
                 ]
             ],
-            "instructions": "Shake a tall glass with ice cubes and Angostura, coating the inside of the glass. Por the vodka onto this, add 1 slice of lime and squeeze juice out of remainder, mix with tonic, stir and voila you have a Long Vodka"
+            "instructions": "Shake a tall glass with ice cubes and Angostura, coating the inside of the glass. Por the vodka onto this, add 1 slice of lime and squeeze juice out of remainder, mix with tonic, stir and voila you have a Long Vodka",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Lord And Lady",
+            "name": "LORD AND LADY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/quwrys1468923219.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Dark rum",
@@ -9292,12 +9899,14 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "Pour the rum and Tia Maria into an old-fashioned glass almost filled with ice cubes. Stir well."
+            "instructions": "Pour the rum and Tia Maria into an old-fashioned glass almost filled with ice cubes. Stir well.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Lunch Box",
+            "name": "LUNCH BOX",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qywpvt1454512546.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Beer",
@@ -9312,12 +9921,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Fill a pint glass almost full with beer. Then fill the rest with orange juice (careful not to fill it to the top). Then take the shot of Amaretto and drop it in."
+            "instructions": "Fill a pint glass almost full with beer. Then fill the rest with orange juice (careful not to fill it to the top). Then take the shot of Amaretto and drop it in.",
+            "category": "BEER",
+            "glass": "PINT GLASS"
         },
         {
-            "name": "Mai Tai",
+            "name": "MAI TAI",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/twyrrp1439907470.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -9340,12 +9951,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice. Strain into glass. Garnish and serve with straw."
+            "instructions": "Shake all ingredients with ice. Strain into glass. Garnish and serve with straw.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Malibu Twister",
+            "name": "MALIBU TWISTER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/2dwae41504885321.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Malibu rum",
@@ -9360,12 +9973,14 @@ const cocktailData = {
                     "1 part "
                 ]
             ],
-            "instructions": "Add rum & trister then, add cranberry jucie,stir"
+            "instructions": "Add rum & trister then, add cranberry jucie,stir",
+            "category": "COCKTAIL",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Mango Orange Smoothie",
+            "name": "MANGO ORANGE SMOOTHIE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vdp2do1487603520.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Mango",
@@ -9376,12 +9991,14 @@ const cocktailData = {
                     "2 "
                 ]
             ],
-            "instructions": "Throw everything into a blender and liquify."
+            "instructions": "Throw everything into a blender and liquify.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Manhattan",
+            "name": "MANHATTAN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ec2jtz1504350429.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sweet Vermouth",
@@ -9408,12 +10025,14 @@ const cocktailData = {
                     "1 twist of "
                 ]
             ],
-            "instructions": "Stirred over ice, strained into a chilled glass, garnished, and served up."
+            "instructions": "Stirred over ice, strained into a chilled glass, garnished, and served up.",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Margarita",
+            "name": "MARGARITA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wpxpvu1439905379.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Tequila",
@@ -9428,12 +10047,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Rub the rim of the glass with the lime slice to make the salt stick to it. Take care to moisten only the outer rim and sprinkle the salt on it. The salt should present to the lips of the imbiber and never mix into the cocktail. Shake the other ingredients with ice, then carefully pour into the glass."
+            "instructions": "Rub the rim of the glass with the lime slice to make the salt stick to it. Take care to moisten only the outer rim and sprinkle the salt on it. The salt should present to the lips of the imbiber and never mix into the cocktail. Shake the other ingredients with ice, then carefully pour into the glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Martinez Cocktail",
+            "name": "MARTINEZ COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wwxwvr1439906452.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -9456,12 +10077,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Stir all ingredients (except cherry) with ice and strain into a cocktail glass. Top with the cherry and serve."
+            "instructions": "Stir all ingredients (except cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Martini",
+            "name": "MARTINI",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/71t8581504353095.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -9476,12 +10099,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive."
+            "instructions": "Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Mary Pickford",
+            "name": "MARY PICKFORD",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/f9erqb1504350557.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -9504,12 +10129,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Shake and strain into a chilled large cocktail glass"
+            "instructions": "Shake and strain into a chilled large cocktail glass",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Masala Chai",
+            "name": "MASALA CHAI",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uyrpww1441246384.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Water",
@@ -9544,24 +10171,28 @@ const cocktailData = {
                     " to taste\n"
                 ]
             ],
-            "instructions": "Bring 2 cups of water to boil. Add all the ingredients and boil again for about 15 seconds. Let stand for a minute. Warm milk in a pot. Filter tea into cups. Add milk and sugar. That's IT."
+            "instructions": "Bring 2 cups of water to boil. Add all the ingredients and boil again for about 15 seconds. Let stand for a minute. Warm milk in a pot. Filter tea into cups. Add milk and sugar. That's IT.",
+            "category": "COFFEE / TEA",
+            "glass": "COFFEE MUG"
         },
         {
-            "name": "Melya",
+            "name": "MELYA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xwtptq1441247579.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Espresso",
                     "Unsweetened "
                 ]
             ],
-            "instructions": "Brew espresso. In a coffee mug, place 1 teaspoon of unsweetened powdered cocoa, then cover a teaspoon with honey and drizzle it into the cup. Stir while the coffee brews, this is the fun part. The cocoa seems to coat the honey without mixing, so you get a dusty, sticky mass that looks as though it will never mix. Then all at once, presto! It looks like dark chocolate sauce. Pour hot espresso over the honey, stirring to dissolve. Serve with cream."
+            "instructions": "Brew espresso. In a coffee mug, place 1 teaspoon of unsweetened powdered cocoa, then cover a teaspoon with honey and drizzle it into the cup. Stir while the coffee brews, this is the fun part. The cocoa seems to coat the honey without mixing, so you get a dusty, sticky mass that looks as though it will never mix. Then all at once, presto! It looks like dark chocolate sauce. Pour hot espresso over the honey, stirring to dissolve. Serve with cream.",
+            "category": "COFFEE / TEA",
+            "glass": "COFFEE MUG"
         },
         {
-            "name": "Miami Vice",
+            "name": "MIAMI VICE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qvuyqw1441208955.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "151 proof rum",
@@ -9576,12 +10207,14 @@ const cocktailData = {
                     "frozen "
                 ]
             ],
-            "instructions": "First: Mix pina colada with 2.5 oz. of rum with ice(set aside). Second: Mix daiquiri with 2.5 oz. of rum with ice. Third: While frozen, add pina colda mix then daiquiri mix in glass (Making sure they do not get mixed together)."
+            "instructions": "First: Mix pina colada with 2.5 oz. of rum with ice(set aside). Second: Mix daiquiri with 2.5 oz. of rum with ice. Third: While frozen, add pina colda mix then daiquiri mix in glass (Making sure they do not get mixed together).",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Microwave Hot Cocoa",
+            "name": "MICROWAVE HOT COCOA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/8y4x5f1487603151.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Sugar",
@@ -9608,12 +10241,14 @@ const cocktailData = {
                     "1/4 tsp "
                 ]
             ],
-            "instructions": "Combine sugar, cocoa, salt and hot water in 1-quart micro-proof measuring cup (or coffee mug). Microwave at HIGH (100%) for 1 to 1 1/2 minutes or until boiling. Add milk, sitr and microwave an additonal 1 1/2 to 2 minutes or until hot. Stir in vanilla, blend well."
+            "instructions": "Combine sugar, cocoa, salt and hot water in 1-quart micro-proof measuring cup (or coffee mug). Microwave at HIGH (100%) for 1 to 1 1/2 minutes or until boiling. Add milk, sitr and microwave an additonal 1 1/2 to 2 minutes or until hot. Stir in vanilla, blend well.",
+            "category": "COCOA",
+            "glass": "COFFEE MUG"
         },
         {
-            "name": "Midnight Cowboy",
+            "name": "MIDNIGHT COWBOY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vsxxwy1441208133.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Bourbon",
@@ -9628,12 +10263,14 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass."
+            "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Midnight Manx",
+            "name": "MIDNIGHT MANX",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uqqurp1441208231.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Kahlua",
@@ -9656,12 +10293,14 @@ const cocktailData = {
                     "2 oz Hazlenut "
                 ]
             ],
-            "instructions": "Fill a mixer with ice and add Baileys, Kahlua, Goldshlager, and cream. Shake for 5 seconds and Strain into a double rocks glass filled with ice. Add chilled coffee Stir and enjoy!"
+            "instructions": "Fill a mixer with ice and add Baileys, Kahlua, Goldshlager, and cream. Shake for 5 seconds and Strain into a double rocks glass filled with ice. Add chilled coffee Stir and enjoy!",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Midnight Mint",
+            "name": "MIDNIGHT MINT",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/svuvrq1441208310.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Bailey's irish cream",
@@ -9676,12 +10315,14 @@ const cocktailData = {
                     "3/4 oz double "
                 ]
             ],
-            "instructions": "If available, rim cocktail (Martini) glass with sugar syrup then dip into chocolate flakes or powder. Add ingredients into shaker with ice. Shake well then strain into cocktail glass."
+            "instructions": "If available, rim cocktail (Martini) glass with sugar syrup then dip into chocolate flakes or powder. Add ingredients into shaker with ice. Shake well then strain into cocktail glass.",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Mimosa",
+            "name": "MIMOSA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/juhcuu1504370685.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Champagne",
@@ -9692,12 +10333,14 @@ const cocktailData = {
                     "2 oz "
                 ]
             ],
-            "instructions": "Ensure both ingredients are well chilled, then mix into the glass. Serve cold."
+            "instructions": "Ensure both ingredients are well chilled, then mix into the glass. Serve cold.",
+            "category": "ORDINARY DRINK",
+            "glass": "CHAMPAGNE FLUTE"
         },
         {
-            "name": "Mississippi Planters Punch",
+            "name": "MISSISSIPPI PLANTERS PUNCH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/urpyqs1439907531.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Brandy",
@@ -9720,12 +10363,14 @@ const cocktailData = {
                     "1 tblsp "
                 ]
             ],
-            "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a collins glass over ice cubes. Fill with carbonated water, stir, and serve."
+            "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a collins glass over ice cubes. Fill with carbonated water, stir, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Mocha-Berry",
+            "name": "MOCHA-BERRY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vtwyyx1441246448.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Coffee",
@@ -9740,12 +10385,14 @@ const cocktailData = {
                     "2 tblsp "
                 ]
             ],
-            "instructions": "pour 6 oz. of coffee in a mug or Irish coffee cup. add coca mix and chambord, mix well and top off with whipped cream."
+            "instructions": "pour 6 oz. of coffee in a mug or Irish coffee cup. add coca mix and chambord, mix well and top off with whipped cream.",
+            "category": "COFFEE / TEA",
+            "glass": "IRISH COFFEE CUP"
         },
         {
-            "name": "Mojito",
+            "name": "MOJITO",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rxtqps1478251029.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -9764,12 +10411,14 @@ const cocktailData = {
                     "2-4 "
                 ]
             ],
-            "instructions": "Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill the glass with cracked ice. Pour the rum and top with soda water. Garnish and serve with straw."
+            "instructions": "Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill the glass with cracked ice. Pour the rum and top with soda water. Garnish and serve with straw.",
+            "category": "COCKTAIL",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Mojito #3",
+            "name": "MOJITO #3",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vwxrsw1478251483.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Mint",
@@ -9792,12 +10441,14 @@ const cocktailData = {
                     "8 drops "
                 ]
             ],
-            "instructions": "Put mint with lemon juice in a glas, mash the mint with a spoon, ice, rum & fill up with club soda. Top it with Angostura."
+            "instructions": "Put mint with lemon juice in a glas, mash the mint with a spoon, ice, rum & fill up with club soda. Top it with Angostura.",
+            "category": "COCKTAIL",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Monkey Gland",
+            "name": "MONKEY GLAND",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/94psp81504350690.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -9816,12 +10467,14 @@ const cocktailData = {
                     "1 tsp "
                 ]
             ],
-            "instructions": "Shake well over ice cubes in a shaker, strain into a chilled cocktail glass."
+            "instructions": "Shake well over ice cubes in a shaker, strain into a chilled cocktail glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Monkey Wrench",
+            "name": "MONKEY WRENCH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/8it05n1504353314.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -9836,12 +10489,14 @@ const cocktailData = {
                     "1 dash "
                 ]
             ],
-            "instructions": "Pour all of the ingredients into an old-fashioned glass almost filled with ice cubes. Stir well."
+            "instructions": "Pour all of the ingredients into an old-fashioned glass almost filled with ice cubes. Stir well.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Moranguito",
+            "name": "MORANGUITO",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/urpsyq1475667335.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Absinthe",
@@ -9856,12 +10511,14 @@ const cocktailData = {
                     "1/5 "
                 ]
             ],
-            "instructions": "first you put rhe absinthe, then put tequila, then put the Granadine syrup."
+            "instructions": "first you put rhe absinthe, then put tequila, then put the Granadine syrup.",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Moscow Mule",
+            "name": "MOSCOW MULE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/3pylqc1504370988.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -9876,12 +10533,14 @@ const cocktailData = {
                     "8 oz "
                 ]
             ],
-            "instructions": "Combine vodka and ginger beer in a highball glass filled with ice. Add lime juice. Stir gently. Garnish."
+            "instructions": "Combine vodka and ginger beer in a highball glass filled with ice. Add lime juice. Stir gently. Garnish.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "COPPER MUG"
         },
         {
-            "name": "Mother's Milk",
+            "name": "MOTHER'S MILK",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/7stuuh1504885399.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Goldschlager",
@@ -9896,12 +10555,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Shake over ice, strain. Serves two."
+            "instructions": "Shake over ice, strain. Serves two.",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Mudslinger",
+            "name": "MUDSLINGER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/hepk6h1504885554.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Southern Comfort",
@@ -9916,12 +10577,14 @@ const cocktailData = {
                     "750 ml "
                 ]
             ],
-            "instructions": "Add all contents to a large jug or punch bowl. Stir well!"
+            "instructions": "Add all contents to a large jug or punch bowl. Stir well!",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "PUNCH BOWL"
         },
         {
-            "name": "Mulled Wine",
+            "name": "MULLED WINE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/iuwi6h1504735724.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Water",
@@ -9952,12 +10615,14 @@ const cocktailData = {
                     "1/4 cup "
                 ]
             ],
-            "instructions": "Simmer 3 cups water with, sugar, cloves, cinnamon sticks, and lemon peel in a stainless steel pot for 10 minutes. Add wine heat to a \"coffee temperature\" (DO NOT BOIL) then add the brandy."
+            "instructions": "Simmer 3 cups water with, sugar, cloves, cinnamon sticks, and lemon peel in a stainless steel pot for 10 minutes. Add wine heat to a \"coffee temperature\" (DO NOT BOIL) then add the brandy.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "National Aquarium",
+            "name": "NATIONAL AQUARIUM",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/dlw0om1503565021.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Rum",
@@ -9984,12 +10649,14 @@ const cocktailData = {
                     "1 splash "
                 ]
             ],
-            "instructions": "Pour all ingredients into a shaker of ice. Shake well. Serve on the rocks."
+            "instructions": "Pour all ingredients into a shaker of ice. Shake well. Serve on the rocks.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Negroni",
+            "name": "NEGRONI",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/tutwwv1439907127.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -10004,12 +10671,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Stir into glass over ice, garnish and serve."
+            "instructions": "Stir into glass over ice, garnish and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "New York Lemonade",
+            "name": "NEW YORK LEMONADE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/b3n0ge1503565473.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Absolut Citron",
@@ -10028,12 +10697,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Serve in a chilled cocktail glass. Lemon and sugar the rim. Stir and Strain."
+            "instructions": "Serve in a chilled cocktail glass. Lemon and sugar the rim. Stir and Strain.",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "New York Sour",
+            "name": "NEW YORK SOUR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/61wgch1504882795.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Blended whiskey",
@@ -10052,12 +10723,14 @@ const cocktailData = {
                     " (Claret)\n"
                 ]
             ],
-            "instructions": "Shake blended whiskey, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Float claret on top. Decorate with the half-slice of lemon and the cherry and serve."
+            "instructions": "Shake blended whiskey, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Float claret on top. Decorate with the half-slice of lemon and the cherry and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "WHISKEY SOUR GLASS"
         },
         {
-            "name": "Nuked Hot Chocolate",
+            "name": "NUKED HOT CHOCOLATE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xcu6nb1487603142.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Cocoa powder",
@@ -10076,12 +10749,14 @@ const cocktailData = {
                     "12 oz "
                 ]
             ],
-            "instructions": "Mix with a bit of milk (1 oz or so) in coffee mug. Nuke mug for about 30-50 seconds. Stir until the heated cocoa dissolves. Fill mug with milk. Nuke for 1-2 minutes, depending on wattage and preferences as to burnt mouth parts."
+            "instructions": "Mix with a bit of milk (1 oz or so) in coffee mug. Nuke mug for about 30-50 seconds. Stir until the heated cocoa dissolves. Fill mug with milk. Nuke for 1-2 minutes, depending on wattage and preferences as to burnt mouth parts.",
+            "category": "COCOA",
+            "glass": "COFFEE MUG"
         },
         {
-            "name": "Nutty Irishman",
+            "name": "NUTTY IRISHMAN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xspupx1441248014.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Bailey's irish cream",
@@ -10096,12 +10771,14 @@ const cocktailData = {
                     "1 part "
                 ]
             ],
-            "instructions": "Serve over ice"
+            "instructions": "Serve over ice",
+            "category": "MILK / FLOAT / SHAKE",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Old Fashioned",
+            "name": "OLD FASHIONED",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vrwquq1478252802.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Bourbon",
@@ -10120,12 +10797,14 @@ const cocktailData = {
                     "dash"
                 ]
             ],
-            "instructions": "Place sugar cube in old fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolved.\nFill the glass with ice cubes and add whiskey.\n\nGarnish with orange twist, and a cocktail cherry."
+            "instructions": "Place sugar cube in old fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolved.\nFill the glass with ice cubes and add whiskey.\n\nGarnish with orange twist, and a cocktail cherry.",
+            "category": "COCKTAIL",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Orange Crush",
+            "name": "ORANGE CRUSH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/zvoics1504885926.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -10140,12 +10819,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Add all ingredients to tumbler-Pour as shot"
+            "instructions": "Add all ingredients to tumbler-Pour as shot",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Orange Oasis",
+            "name": "ORANGE OASIS",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xqqytq1441167923.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Cherry brandy",
@@ -10160,12 +10841,14 @@ const cocktailData = {
                     "4 oz "
                 ]
             ],
-            "instructions": "Shake brandy, gin, and orange juice with ice and strain into a highball glass over ice cubes. Fill with ginger ale, stir, and serve."
+            "instructions": "Shake brandy, gin, and orange juice with ice and strain into a highball glass over ice cubes. Fill with ginger ale, stir, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Orange Push-up",
+            "name": "ORANGE PUSH-UP",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/mgf0y91503565781.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Spiced rum",
@@ -10184,12 +10867,14 @@ const cocktailData = {
                     "1 splash "
                 ]
             ],
-            "instructions": "Combine liquors in a blender. Add a half scoop of ice and blend. Garnish with an orange and cherry flag. So good it will melt in your mouth!!!"
+            "instructions": "Combine liquors in a blender. Add a half scoop of ice and blend. Garnish with an orange and cherry flag. So good it will melt in your mouth!!!",
+            "category": "ORDINARY DRINK",
+            "glass": "HURRICANE GLASS"
         },
         {
-            "name": "Orange Scented Hot Chocolate",
+            "name": "ORANGE SCENTED HOT CHOCOLATE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/hdzwrh1487603131.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Milk",
@@ -10212,12 +10897,14 @@ const cocktailData = {
                     "1/8 tsp ground "
                 ]
             ],
-            "instructions": "Combine all ingredients in heavy medium saucepan. Stir over low heat until chocolate melts. Increase heat and bring just to a boil, stirring often. Remove from heat and whisk untily frothy. Return to heat and bring to boil again. Remove from heat, whisk until frothy. Repeat heating and whisking once again. Discard orange peel. (Can be prepared 2 hours ahead. Let stand at room temperature. Before serving, bring just to boil, remove from heat and whisk until frothy.) Pour hot chocolate into coffee mugs. Makes 2 servings."
+            "instructions": "Combine all ingredients in heavy medium saucepan. Stir over low heat until chocolate melts. Increase heat and bring just to a boil, stirring often. Remove from heat and whisk untily frothy. Return to heat and bring to boil again. Remove from heat, whisk until frothy. Repeat heating and whisking once again. Discard orange peel. (Can be prepared 2 hours ahead. Let stand at room temperature. Before serving, bring just to boil, remove from heat and whisk until frothy.) Pour hot chocolate into coffee mugs. Makes 2 servings.",
+            "category": "COCOA",
+            "glass": "COFFEE MUG"
         },
         {
-            "name": "Orange Whip",
+            "name": "ORANGE WHIP",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ttyrxr1454514759.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Orange juice",
@@ -10240,12 +10927,14 @@ const cocktailData = {
                     "Over "
                 ]
             ],
-            "instructions": "Pour ingredients over ice and stir."
+            "instructions": "Pour ingredients over ice and stir.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Orangeade",
+            "name": "ORANGEADE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ytsxxw1441167732.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Lemon juice",
@@ -10260,12 +10949,14 @@ const cocktailData = {
                     "2-3 cl "
                 ]
             ],
-            "instructions": "Place some ice cubes in a large tumbler or highball glass, add lemon juice, orange juice, sugar syrup, and stir well. Top up with cold soda water, serve with a drinking straw."
+            "instructions": "Place some ice cubes in a large tumbler or highball glass, add lemon juice, orange juice, sugar syrup, and stir well. Top up with cold soda water, serve with a drinking straw.",
+            "category": "COCKTAIL",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Oreo Mudslide",
+            "name": "OREO MUDSLIDE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/tpwwut1468925017.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -10288,12 +10979,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Blend Vodka, Kahlua, Bailey's, ice-cream and the Oreo well in a blender. Pour into a large frosted glass. Garnish with whipped cream and a cherry."
+            "instructions": "Blend Vodka, Kahlua, Bailey's, ice-cream and the Oreo well in a blender. Pour into a large frosted glass. Garnish with whipped cream and a cherry.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Orgasm",
+            "name": "ORGASM",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vr6kle1504886114.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Creme de Cacao",
@@ -10316,12 +11009,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice, strain into a chilled cocktail glass, and serve."
+            "instructions": "Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Owen's Grandmother's Revenge",
+            "name": "OWEN'S GRANDMOTHER'S REVENGE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/0wt4uo1503565321.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Whiskey",
@@ -10340,12 +11035,14 @@ const cocktailData = {
                     "1 cup crushed "
                 ]
             ],
-            "instructions": "Add ingredients and mix in blender."
+            "instructions": "Add ingredients and mix in blender.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Paradise",
+            "name": "PARADISE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ejozd71504351060.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -10360,12 +11057,14 @@ const cocktailData = {
                     "3 parts "
                 ]
             ],
-            "instructions": "Shake together over ice. Strain into cocktail glass and serve chilled."
+            "instructions": "Shake together over ice. Strain into cocktail glass and serve chilled.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Pina Colada",
+            "name": "PINA COLADA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/cpf4j51504371346.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -10380,12 +11079,14 @@ const cocktailData = {
                     "3 tblsp "
                 ]
             ],
-            "instructions": "Mix with crushed ice in blender until smooth. Pour into chilled glass, garnish and serve."
+            "instructions": "Mix with crushed ice in blender until smooth. Pour into chilled glass, garnish and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Pineapple Gingerale Smoothie",
+            "name": "PINEAPPLE GINGERALE SMOOTHIE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/eg9i1d1487603469.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Ginger",
@@ -10396,12 +11097,14 @@ const cocktailData = {
                     "1/2 "
                 ]
             ],
-            "instructions": "Throw everything into a blender and liquify."
+            "instructions": "Throw everything into a blender and liquify.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Pink Gin",
+            "name": "PINK GIN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qyr51e1504888618.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Bitters",
@@ -10412,12 +11115,14 @@ const cocktailData = {
                     "2 oz "
                 ]
             ],
-            "instructions": "Pour the bitters into a wine glass. Swirl the glass to coat the inside with the bitters, shake out the excess. Pour the gin into the glass. Do not add ice."
+            "instructions": "Pour the bitters into a wine glass. Swirl the glass to coat the inside with the bitters, shake out the excess. Pour the gin into the glass. Do not add ice.",
+            "category": "ORDINARY DRINK",
+            "glass": "WHITE WINE GLASS"
         },
         {
-            "name": "Pink Lady",
+            "name": "PINK LADY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/5ia6j21504887829.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -10436,12 +11141,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Pink Panty Pulldowns",
+            "name": "PINK PANTY PULLDOWNS",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/squsuy1468926657.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sprite",
@@ -10456,12 +11163,14 @@ const cocktailData = {
                     "2 cups "
                 ]
             ],
-            "instructions": "Shake well"
+            "instructions": "Shake well",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Pink Penocha",
+            "name": "PINK PENOCHA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/6vigjx1503564007.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Everclear",
@@ -10484,12 +11193,14 @@ const cocktailData = {
                     "1 gal "
                 ]
             ],
-            "instructions": "mix all ingredients into bowl keep iced stir frequently"
+            "instructions": "mix all ingredients into bowl keep iced stir frequently",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "PUNCH BOWL"
         },
         {
-            "name": "Pisco Sour",
+            "name": "PISCO SOUR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/tsssur1439907622.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Pisco",
@@ -10504,12 +11215,14 @@ const cocktailData = {
                     "1-2 tblsp "
                 ]
             ],
-            "instructions": "Vigorously shake and strain contents in a cocktail shaker with ice cubes, then pour into glass and garnish with bitters.[1]"
+            "instructions": "Vigorously shake and strain contents in a cocktail shaker with ice cubes, then pour into glass and garnish with bitters.[1]",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Planter's Punch",
+            "name": "PLANTER'S PUNCH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yvos231504351384.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Dark rum",
@@ -10528,12 +11241,14 @@ const cocktailData = {
                     "1 part "
                 ]
             ],
-            "instructions": "Pour all ingredients, except the bitters, into shaker filled with ice. Shake well. Pour into large glass, filled with ice. Add Angostura bitters, \"on top\". Garnish with cocktail cherry and pineapple."
+            "instructions": "Pour all ingredients, except the bitters, into shaker filled with ice. Shake well. Pour into large glass, filled with ice. Add Angostura bitters, \"on top\". Garnish with cocktail cherry and pineapple.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Popped cherry",
+            "name": "POPPED CHERRY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/sxvrwv1473344825.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -10552,12 +11267,14 @@ const cocktailData = {
                     "4 oz "
                 ]
             ],
-            "instructions": "Served over ice in a tall glass with a popped cherry (can add more popped cherries if in the mood)!"
+            "instructions": "Served over ice in a tall glass with a popped cherry (can add more popped cherries if in the mood)!",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Poppy Cocktail",
+            "name": "POPPY COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/cslw1w1504389915.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -10568,12 +11285,14 @@ const cocktailData = {
                     "3/4 oz white "
                 ]
             ],
-            "instructions": "Shake ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Shake ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Port And Starboard",
+            "name": "PORT AND STARBOARD",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wxvupx1441553911.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Grenadine",
@@ -10584,12 +11303,14 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "Pour carefully into a pousse-cafe glass, so that creme de menthe floats on grenadine. Serve without mixing."
+            "instructions": "Pour carefully into a pousse-cafe glass, so that creme de menthe floats on grenadine. Serve without mixing.",
+            "category": "ORDINARY DRINK",
+            "glass": "POUSSE CAFE GLASS"
         },
         {
-            "name": "Port Wine Cocktail",
+            "name": "PORT WINE COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qruprq1441553976.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Port",
@@ -10600,12 +11321,14 @@ const cocktailData = {
                     "1/2 tsp "
                 ]
             ],
-            "instructions": "Stir ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Stir ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Port Wine Flip",
+            "name": "PORT WINE FLIP",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vrprxu1441553844.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Port",
@@ -10624,12 +11347,14 @@ const cocktailData = {
                     "1 whole "
                 ]
             ],
-            "instructions": "Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve."
+            "instructions": "Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "WHISKEY SOUR GLASS"
         },
         {
-            "name": "Porto flip",
+            "name": "PORTO FLIP",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/64x5j41504351518.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Brandy",
@@ -10644,12 +11369,14 @@ const cocktailData = {
                     "2 parts"
                 ]
             ],
-            "instructions": "Shake ingredients together in a mixer with ice. Strain into glass, garnish and serve."
+            "instructions": "Shake ingredients together in a mixer with ice. Strain into glass, garnish and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Pysch Vitamin Light",
+            "name": "PYSCH VITAMIN LIGHT",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xsqsxw1441553580.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Orange juice",
@@ -10664,12 +11391,14 @@ const cocktailData = {
                     "1 part "
                 ]
             ],
-            "instructions": "Shake with ice."
+            "instructions": "Shake with ice.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Quaker's Cocktail",
+            "name": "QUAKER'S COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yrqppx1478962314.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -10688,12 +11417,14 @@ const cocktailData = {
                     "2 tsp "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Quarter Deck Cocktail",
+            "name": "QUARTER DECK COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qrwvps1478963017.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -10708,12 +11439,14 @@ const cocktailData = {
                     "Juice of 1/2 "
                 ]
             ],
-            "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Queen Bee",
+            "name": "QUEEN BEE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rvvpxu1478963194.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Coffee brandy",
@@ -10728,12 +11461,14 @@ const cocktailData = {
                     "1/2 oz cream "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Queen Charlotte",
+            "name": "QUEEN CHARLOTTE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vqruyt1478963249.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Red wine",
@@ -10744,12 +11479,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon-lime soda, stir, and serve."
+            "instructions": "Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon-lime soda, stir, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Queen Elizabeth",
+            "name": "QUEEN ELIZABETH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vpqspv1478963339.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Dry Vermouth",
@@ -10764,12 +11501,14 @@ const cocktailData = {
                     "1 1/2 tsp "
                 ]
             ],
-            "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Quentin",
+            "name": "QUENTIN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/spxtqp1478963398.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Dark rum",
@@ -10788,12 +11527,14 @@ const cocktailData = {
                     "1/8 tsp grated "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine the rum, Kahlua, and cream. Shake well. Strain into a cocktail glass and garnish with the nutmeg."
+            "instructions": "In a shaker half-filled with ice cubes, combine the rum, Kahlua, and cream. Shake well. Strain into a cocktail glass and garnish with the nutmeg.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Quick F**K",
+            "name": "QUICK F**K",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wvtwpp1478963454.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Kahlua",
@@ -10808,12 +11549,14 @@ const cocktailData = {
                     "1 part "
                 ]
             ],
-            "instructions": "In a shot glass add 1/3 Kahlua first. Then 1/3 Miduri, topping it off with a 1/3 bailey's irish cream"
+            "instructions": "In a shot glass add 1/3 Kahlua first. Then 1/3 Miduri, topping it off with a 1/3 bailey's irish cream",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Quick-sand",
+            "name": "QUICK-SAND",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vprxqv1478963533.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Black Sambuca",
@@ -10824,12 +11567,14 @@ const cocktailData = {
                     "Add 250 ml "
                 ]
             ],
-            "instructions": "Simply add the orange juice, quite a quick pour in order to mix the sambucca with the orange juice. The juice MUST have fruit pulp!"
+            "instructions": "Simply add the orange juice, quite a quick pour in order to mix the sambucca with the orange juice. The juice MUST have fruit pulp!",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Radioactive Long Island Iced Tea",
+            "name": "RADIOACTIVE LONG ISLAND ICED TEA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rdvqmh1503563512.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Rum",
@@ -10864,12 +11609,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Pour all ingredients over ice in a very tall glass. Sip cautiously."
+            "instructions": "Pour all ingredients over ice in a very tall glass. Sip cautiously.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Radler",
+            "name": "RADLER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xz8igv1504888995.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Beer",
@@ -10880,24 +11627,28 @@ const cocktailData = {
                     "12 oz "
                 ]
             ],
-            "instructions": "Pour beer into large mug, slowly add the 7-up (or Sprite)."
+            "instructions": "Pour beer into large mug, slowly add the 7-up (or Sprite).",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Rail Splitter",
+            "name": "RAIL SPLITTER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/stsuqq1441207660.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Sugar syrup",
                     "2 tsp "
                 ]
             ],
-            "instructions": "Mix sugar syrup with lemon juice in a tall glass. Fill up with ginger ale."
+            "instructions": "Mix sugar syrup with lemon juice in a tall glass. Fill up with ginger ale.",
+            "category": "COCKTAIL",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Raspberry Cooler",
+            "name": "RASPBERRY COOLER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/suqyyx1441254346.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Raspberry vodka",
@@ -10908,12 +11659,14 @@ const cocktailData = {
                     "4 oz "
                 ]
             ],
-            "instructions": "Pour the raspberry vodka and soda into a highball glass almost filled with ice cubes. Stir well."
+            "instructions": "Pour the raspberry vodka and soda into a highball glass almost filled with ice cubes. Stir well.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Red Snapper",
+            "name": "RED SNAPPER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/7p607y1504735343.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Crown Royal",
@@ -10928,12 +11681,14 @@ const cocktailData = {
                     "1 shot "
                 ]
             ],
-            "instructions": "One shot each, shake n shoot"
+            "instructions": "One shot each, shake n shoot",
+            "category": "SHOT",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Rose",
+            "name": "ROSE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/8kxbvq1504371462.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Dry Vermouth",
@@ -10956,12 +11711,14 @@ const cocktailData = {
                     "1 tsp "
                 ]
             ],
-            "instructions": "Shake together in a cocktail shaker, then strain into chilled glass. Garnish and serve."
+            "instructions": "Shake together in a cocktail shaker, then strain into chilled glass. Garnish and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Royal Bitch",
+            "name": "ROYAL BITCH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qupuyr1441210090.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Frangelico",
@@ -10972,12 +11729,14 @@ const cocktailData = {
                     "1 part "
                 ]
             ],
-            "instructions": "Into a shot glass layer the Crown Royal on top of the Frangelico."
+            "instructions": "Into a shot glass layer the Crown Royal on top of the Frangelico.",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Royal Fizz",
+            "name": "ROYAL FIZZ",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wrh44j1504390609.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -10992,12 +11751,14 @@ const cocktailData = {
                     "1 whole "
                 ]
             ],
-            "instructions": "Shake all ingredients (except cola) with ice and strain into a chilled collins glass. Fill with cola and serve."
+            "instructions": "Shake all ingredients (except cola) with ice and strain into a chilled collins glass. Fill with cola and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Royal Flush",
+            "name": "ROYAL FLUSH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/7rnm8u1504888527.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Crown Royal",
@@ -11016,12 +11777,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Pour all the ingredients into tumbler over ice. Strain into glass."
+            "instructions": "Pour all the ingredients into tumbler over ice. Strain into glass.",
+            "category": "SHOT",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Royal Gin Fizz",
+            "name": "ROYAL GIN FIZZ",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/pe1x1c1504735672.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -11040,12 +11803,14 @@ const cocktailData = {
                     "1 whole "
                 ]
             ],
-            "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve."
+            "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Ruby Tuesday",
+            "name": "RUBY TUESDAY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qsyqqq1441553437.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -11060,12 +11825,14 @@ const cocktailData = {
                     "2 splashes "
                 ]
             ],
-            "instructions": "Pour gin and cranberry into a highball filled with ice cubes. Add grenadine and stir."
+            "instructions": "Pour gin and cranberry into a highball filled with ice cubes. Add grenadine and stir.",
+            "category": "COCKTAIL",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Rum Cobbler",
+            "name": "RUM COBBLER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/5vh9ld1504390683.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sugar",
@@ -11092,12 +11859,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice until the glass is almost full. Add the rum. Stir well. Garnish with the cherry and the orange and lemon slices."
+            "instructions": "In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice until the glass is almost full. Add the rum. Stir well. Garnish with the cherry and the orange and lemon slices.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Rum Cooler",
+            "name": "RUM COOLER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/2hgwsb1504888674.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Rum",
@@ -11112,12 +11881,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Pour the rum and soda into a collins glass almost filled with ice cubes. Stir well and garnish with the lemon wedge."
+            "instructions": "Pour the rum and soda into a collins glass almost filled with ice cubes. Stir well and garnish with the lemon wedge.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Rum Milk Punch",
+            "name": "RUM MILK PUNCH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/w64lqm1504888810.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -11132,12 +11903,14 @@ const cocktailData = {
                     "1 tsp "
                 ]
             ],
-            "instructions": "Shake all ingredients (except nutmeg) with ice and strain into a collins glass. Sprinkle nutmeg on top and serve."
+            "instructions": "Shake all ingredients (except nutmeg) with ice and strain into a collins glass. Sprinkle nutmeg on top and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Rum Old-fashioned",
+            "name": "RUM OLD-FASHIONED",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/otn2011504820649.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -11164,12 +11937,14 @@ const cocktailData = {
                     "Twist of "
                 ]
             ],
-            "instructions": "Stir powdered sugar, water, and bitters in an old-fashioned glass. When sugar has dissolved add ice cubes and light rum. Add the twist of lime peel, float 151 proof rum on top, and serve."
+            "instructions": "Stir powdered sugar, water, and bitters in an old-fashioned glass. When sugar has dissolved add ice cubes and light rum. Add the twist of lime peel, float 151 proof rum on top, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Rum Punch",
+            "name": "RUM PUNCH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wyrsxu1441554538.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Rum",
@@ -11192,12 +11967,14 @@ const cocktailData = {
                     "crushed "
                 ]
             ],
-            "instructions": "Mix all ingredients in a punch bowl and serve."
+            "instructions": "Mix all ingredients in a punch bowl and serve.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "PUNCH BOWL"
         },
         {
-            "name": "Rum Runner",
+            "name": "RUM RUNNER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vqws6t1504888857.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Malibu rum",
@@ -11220,12 +11997,14 @@ const cocktailData = {
                     "3-4 oz "
                 ]
             ],
-            "instructions": "Mix all ingredients in glass & add ice."
+            "instructions": "Mix all ingredients in glass & add ice.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Rum Screwdriver",
+            "name": "RUM SCREWDRIVER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/pwl7v81504886372.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -11236,12 +12015,14 @@ const cocktailData = {
                     "5 oz "
                 ]
             ],
-            "instructions": "Pour rum into a highball glass over ice cubes. Add orange juice, stir, and serve."
+            "instructions": "Pour rum into a highball glass over ice cubes. Add orange juice, stir, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Rum Sour",
+            "name": "RUM SOUR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/bylfi21504886323.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -11264,12 +12045,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine the rum, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry."
+            "instructions": "In a shaker half-filled with ice cubes, combine the rum, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry.",
+            "category": "ORDINARY DRINK",
+            "glass": "WHISKEY SOUR GLASS"
         },
         {
-            "name": "Rum Toddy",
+            "name": "RUM TODDY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/athdk71504886286.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Rum",
@@ -11288,12 +12071,14 @@ const cocktailData = {
                     "2 tsp "
                 ]
             ],
-            "instructions": "Dissolve powdered sugar in water in an old-fashioned glass. Add rum and one ice cube and stir. Add the twist of lemon peel and serve."
+            "instructions": "Dissolve powdered sugar in water in an old-fashioned glass. Add rum and one ice cube and stir. Add the twist of lemon peel and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Russian Spring Punch",
+            "name": "RUSSIAN SPRING PUNCH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ctt20s1504373488.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -11312,12 +12097,14 @@ const cocktailData = {
                     "2.5 cl"
                 ]
             ],
-            "instructions": "Pour the ingredients into an highball glass, top with Sparkling wine."
+            "instructions": "Pour the ingredients into an highball glass, top with Sparkling wine.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Rusty Nail",
+            "name": "RUSTY NAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yqsvtw1478252982.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Scotch",
@@ -11332,12 +12119,14 @@ const cocktailData = {
                     "1 twist of "
                 ]
             ],
-            "instructions": "Pour the Scotch and Drambuie into an old-fashioned glass almost filled with ice cubes. Stir well. Garnish with the lemon twist."
+            "instructions": "Pour the Scotch and Drambuie into an old-fashioned glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Salty Dog",
+            "name": "SALTY DOG",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/4vfge01504890216.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Grapefruit juice",
@@ -11352,12 +12141,14 @@ const cocktailData = {
                     "1/4 tsp "
                 ]
             ],
-            "instructions": "Pour all ingredients over ice cubes in a highball glass. Stir well and serve. (Vodka may be substituted for gin, if preferred.)"
+            "instructions": "Pour all ingredients over ice cubes in a highball glass. Stir well and serve. (Vodka may be substituted for gin, if preferred.)",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "San Francisco",
+            "name": "SAN FRANCISCO",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/szmj2d1504889961.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -11368,12 +12159,14 @@ const cocktailData = {
                     "2 cl "
                 ]
             ],
-            "instructions": "Take a tall glass and put in a few ice cubes, fill the vodka over it and fill with juice then the \"creme\", to end fill in the grenadine but very carefully at the side of the glass so it will lay down in the bottom. garnish with orange and strawberry."
+            "instructions": "Take a tall glass and put in a few ice cubes, fill the vodka over it and fill with juice then the \"creme\", to end fill in the grenadine but very carefully at the side of the glass so it will lay down in the bottom. garnish with orange and strawberry.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Sangria #1",
+            "name": "SANGRIA #1",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xrvxpp1441249280.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Red wine",
@@ -11392,12 +12185,14 @@ const cocktailData = {
                     "1 cup "
                 ]
             ],
-            "instructions": "Mix all together in a pitcher and refrigerate. Add cloves and cinnamon sticks to taste. Serve in wine glasses."
+            "instructions": "Mix all together in a pitcher and refrigerate. Add cloves and cinnamon sticks to taste. Serve in wine glasses.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "PITCHER"
         },
         {
-            "name": "Sangria - The World's Best",
+            "name": "SANGRIA - THE WORLD'S BEST",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vysywu1468924264.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Red wine",
@@ -11424,12 +12219,14 @@ const cocktailData = {
                     "3-4 oz plain "
                 ]
             ],
-            "instructions": "Mix wine, sugar and fruit, and let sit in the fridge for 18-24 hours. The mixture will have a somewhat syrupy consistency. Before serving stir in brandy and cut the mixture with soda water until it have a thinner, more wine like consistency. Serve from a pitcher in wine glasses."
+            "instructions": "Mix wine, sugar and fruit, and let sit in the fridge for 18-24 hours. The mixture will have a somewhat syrupy consistency. Before serving stir in brandy and cut the mixture with soda water until it have a thinner, more wine like consistency. Serve from a pitcher in wine glasses.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "PITCHER"
         },
         {
-            "name": "Sazerac",
+            "name": "SAZERAC",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vvpxwy1439907208.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Ricard",
@@ -11456,12 +12253,14 @@ const cocktailData = {
                     "1 twist of "
                 ]
             ],
-            "instructions": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice, and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Add the lemon peel for garnish."
+            "instructions": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice, and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Add the lemon peel for garnish.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Scooter",
+            "name": "SCOOTER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/twuptu1483388307.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Brandy",
@@ -11476,12 +12275,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Shake all ingredients well with cracked ice, strain into a cocktail glass, and serve."
+            "instructions": "Shake all ingredients well with cracked ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Scotch Cobbler",
+            "name": "SCOTCH COBBLER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/1q7coh1504736227.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Scotch",
@@ -11504,12 +12305,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Pour scotch, brandy, and curacao over ice in an old-fashioned glass. Add the orange slice, top with the mint sprig, and serve."
+            "instructions": "Pour scotch, brandy, and curacao over ice in an old-fashioned glass. Add the orange slice, top with the mint sprig, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Scotch Sour",
+            "name": "SCOTCH SOUR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/0dnb6k1504890436.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Scotch",
@@ -11532,12 +12335,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Shake scotch, juice of lime, and powdered sugar with ice and strain into a whiskey sour glass. Decorate with 1/2 slice lemon, top with the cherry, and serve."
+            "instructions": "Shake scotch, juice of lime, and powdered sugar with ice and strain into a whiskey sour glass. Decorate with 1/2 slice lemon, top with the cherry, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "WHISKEY SOUR GLASS"
         },
         {
-            "name": "Scottish Highland Liqueur",
+            "name": "SCOTTISH HIGHLAND LIQUEUR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/upqvvp1441253441.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Johnnie Walker",
@@ -11560,12 +12365,14 @@ const cocktailData = {
                     "2 2 inch strips "
                 ]
             ],
-            "instructions": "Combine all ingreds in aging container. Cover tightly and shake gently several times during the first 24 hrs. After 24 hrs, remove the lemon zest. Cover again and let stand in a cool, dark place for 2 weeks, shaking gently every other day. Strain through a wire sieve to remove the angelica root and fennel. Return to aging container, cover and let stand undisturbed in a cool dark place for 6 months. Siphon or pour clear liqueur into a sterile bottle. The cloudy dregs may be saved for cooking."
+            "instructions": "Combine all ingreds in aging container. Cover tightly and shake gently several times during the first 24 hrs. After 24 hrs, remove the lemon zest. Cover again and let stand in a cool, dark place for 2 weeks, shaking gently every other day. Strain through a wire sieve to remove the angelica root and fennel. Return to aging container, cover and let stand undisturbed in a cool dark place for 6 months. Siphon or pour clear liqueur into a sterile bottle. The cloudy dregs may be saved for cooking.",
+            "category": "HOMEMADE LIQUEUR",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Screaming Orgasm",
+            "name": "SCREAMING ORGASM",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/x894cs1504388670.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -11580,24 +12387,28 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "Pour first vodka, then Bailey's, then Kahlua into a cocktail glass over crushed ice. Stir. Caution: use only high quality vodka. Cheap vodka can cause the Bailey's to curdle. Test your brand of vodka by mixing 1 Tsp each of vodka and Bailey's first."
+            "instructions": "Pour first vodka, then Bailey's, then Kahlua into a cocktail glass over crushed ice. Stir. Caution: use only high quality vodka. Cheap vodka can cause the Bailey's to curdle. Test your brand of vodka by mixing 1 Tsp each of vodka and Bailey's first.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Screwdriver",
+            "name": "SCREWDRIVER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/8xnyke1504352207.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
                     "2 oz "
                 ]
             ],
-            "instructions": "Mix in a highball glass with ice. Garnish and serve."
+            "instructions": "Mix in a highball glass with ice. Garnish and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Sea breeze",
+            "name": "SEA BREEZE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/7rfuks1504371562.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -11612,12 +12423,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Build all ingredients in a highball glass filled with ice. Garnish with lime wedge."
+            "instructions": "Build all ingredients in a highball glass filled with ice. Garnish with lime wedge.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Sex on the Beach",
+            "name": "SEX ON THE BEACH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/twsvwr1469092365.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -11628,12 +12441,14 @@ const cocktailData = {
                     "3/4 oz "
                 ]
             ],
-            "instructions": "Build all ingredients in a highball glass filled with ice. Garnish with orange slice."
+            "instructions": "Build all ingredients in a highball glass filled with ice. Garnish with orange slice.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Shanghai Cocktail",
+            "name": "SHANGHAI COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ttyrxr1478820678.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -11652,12 +12467,14 @@ const cocktailData = {
                     "Juice of 1/4 "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Shark Attack",
+            "name": "SHARK ATTACK",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uv96zr1504793256.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Lemonade",
@@ -11672,12 +12489,14 @@ const cocktailData = {
                     "1 1/2 cup "
                 ]
             ],
-            "instructions": "Mix lemonade and water according to instructions on back of can. If the instructions say to add 4 1/3 cans of water do so. Mix into pitcher. Add 1 1/2 cup of Vodka (Absolut). Mix well. Pour into glass of crushed ice. Excellent!"
+            "instructions": "Mix lemonade and water according to instructions on back of can. If the instructions say to add 4 1/3 cans of water do so. Mix into pitcher. Add 1 1/2 cup of Vodka (Absolut). Mix well. Pour into glass of crushed ice. Excellent!",
+            "category": "COCKTAIL",
+            "glass": "PITCHER"
         },
         {
-            "name": "Sherry Eggnog",
+            "name": "SHERRY EGGNOG",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xwrpsv1478820541.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sherry",
@@ -11692,12 +12511,14 @@ const cocktailData = {
                     "1 whole "
                 ]
             ],
-            "instructions": "Shake sherry, powdered sugar, and egg with ice and strain into a collins glass. Fill with milk and stir. Sprinkle nutmeg on top and serve."
+            "instructions": "Shake sherry, powdered sugar, and egg with ice and strain into a collins glass. Fill with milk and stir. Sprinkle nutmeg on top and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Sherry Flip",
+            "name": "SHERRY FLIP",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qrryvq1478820428.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sherry",
@@ -11716,12 +12537,14 @@ const cocktailData = {
                     "1 whole "
                 ]
             ],
-            "instructions": "Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve."
+            "instructions": "Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "WHISKEY SOUR GLASS"
         },
         {
-            "name": "Shot-gun",
+            "name": "SHOT-GUN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/2j1m881503563583.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Jim Beam",
@@ -11736,12 +12559,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Pour one part Jack Daneils and one part Jim Beam into shot glass then float Wild Turkey on top."
+            "instructions": "Pour one part Jack Daneils and one part Jim Beam into shot glass then float Wild Turkey on top.",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Sidecar",
+            "name": "SIDECAR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/stwxuq1439906852.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Cognac",
@@ -11756,12 +12581,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass."
+            "instructions": "Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Sidecar Cocktail",
+            "name": "SIDECAR COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ewjxui1504820428.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Brandy",
@@ -11776,12 +12603,14 @@ const cocktailData = {
                     "Juice of 1/4 "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Singapore Sling",
+            "name": "SINGAPORE SLING",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/tvtrrt1439906288.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Cherry brandy",
@@ -11800,12 +12629,14 @@ const cocktailData = {
                     "2 oz "
                 ]
             ],
-            "instructions": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake well. Strain into highball glass. Garnish with pineapple and cocktail cherry."
+            "instructions": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake well. Strain into highball glass. Garnish with pineapple and cocktail cherry.",
+            "category": "ORDINARY DRINK",
+            "glass": "HURRICANE GLASS"
         },
         {
-            "name": "Sloe Gin Cocktail",
+            "name": "SLOE GIN COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/d7mo481504889531.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sloe gin",
@@ -11820,12 +12651,14 @@ const cocktailData = {
                     "1 dash "
                 ]
             ],
-            "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Smut",
+            "name": "SMUT",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rx8k8e1504365812.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Red wine",
@@ -11844,12 +12677,14 @@ const cocktailData = {
                     "1/3 part "
                 ]
             ],
-            "instructions": "Throw it all together and serve real cold."
+            "instructions": "Throw it all together and serve real cold.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "BEER MUG"
         },
         {
-            "name": "Snake Bite (UK)",
+            "name": "SNAKE BITE (UK)",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xuwpyu1441248734.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Lager",
@@ -11860,12 +12695,14 @@ const cocktailData = {
                     "1/2 pint sweet or dry "
                 ]
             ],
-            "instructions": "Pour ingredients into a pint glass. Drink. Fall over."
+            "instructions": "Pour ingredients into a pint glass. Drink. Fall over.",
+            "category": "BEER",
+            "glass": "PINT GLASS"
         },
         {
-            "name": "Snakebite and Black",
+            "name": "SNAKEBITE AND BLACK",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rssvwv1441248863.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Lager",
@@ -11880,12 +12717,14 @@ const cocktailData = {
                     "A little bit of "
                 ]
             ],
-            "instructions": "Put blackcurrant squash in first up to about 1cm in glass. Then add the larger and cider one after another."
+            "instructions": "Put blackcurrant squash in first up to about 1cm in glass. Then add the larger and cider one after another.",
+            "category": "BEER",
+            "glass": "PINT GLASS"
         },
         {
-            "name": "Snowball",
+            "name": "SNOWBALL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/7ibfs61504735416.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Advocaat",
@@ -11904,12 +12743,14 @@ const cocktailData = {
                     " cubes\n"
                 ]
             ],
-            "instructions": "Place one ice cube in the glass and add 1 1/2 oz of Advocaat. Fill up the glass with lemonade and decorate with a slice of lemon. Serve at once."
+            "instructions": "Place one ice cube in the glass and add 1 1/2 oz of Advocaat. Fill up the glass with lemonade and decorate with a slice of lemon. Serve at once.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Sol Y Sombra",
+            "name": "SOL Y SOMBRA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/3gz2vw1503425983.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Brandy",
@@ -11920,12 +12761,14 @@ const cocktailData = {
                     "1 1/2 oz "
                 ]
             ],
-            "instructions": "Shake ingredients with ice, strain into a brandy snifter, and serve. (The English translation of the name of this drink is \"Sun and Shade\", and after sampling this drink, you'll understand why. Thanks, Kirby.)"
+            "instructions": "Shake ingredients with ice, strain into a brandy snifter, and serve. (The English translation of the name of this drink is \"Sun and Shade\", and after sampling this drink, you'll understand why. Thanks, Kirby.)",
+            "category": "ORDINARY DRINK",
+            "glass": "BRANDY SNIFTER"
         },
         {
-            "name": "Space Odyssey",
+            "name": "SPACE ODYSSEY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vxtjbx1504817842.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "151 proof rum",
@@ -11940,12 +12783,14 @@ const cocktailData = {
                     "1 shot "
                 ]
             ],
-            "instructions": "Fill glass with ice and add shots of Bacardi and Malibu. Add splash of pineapple juice and top with orange juice. Add grenadine for color and garnish with cherries."
+            "instructions": "Fill glass with ice and add shots of Bacardi and Malibu. Add splash of pineapple juice and top with orange juice. Add grenadine for color and garnish with cherries.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Spanish chocolate",
+            "name": "SPANISH CHOCOLATE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/pra8vt1487603054.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Milk",
@@ -11964,12 +12809,14 @@ const cocktailData = {
                     "2 beaten "
                 ]
             ],
-            "instructions": "Stir the milk with the chocolate and the cinnamon over low heat until the chocolate dissolves. Add the eggs and beat the mixture until it becomes thick, taking care not to boil. Serve in coffee mug."
+            "instructions": "Stir the milk with the chocolate and the cinnamon over low heat until the chocolate dissolves. Add the eggs and beat the mixture until it becomes thick, taking care not to boil. Serve in coffee mug.",
+            "category": "COCOA",
+            "glass": "COFFEE MUG"
         },
         {
-            "name": "Spiced Peach Punch",
+            "name": "SPICED PEACH PUNCH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qxvypq1468924331.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Peach nectar",
@@ -11996,19 +12843,23 @@ const cocktailData = {
                     "2 tblsp "
                 ]
             ],
-            "instructions": "Combine peach nectar, orange juice and brown sugar in a large saucepan. Tie cinnamon and cloves in a small cheesecloth bag. Drop into saucepan. Heat slowly, stirring constantly, until sugar dissolves. Simmer 10 minutes. Stir in lime juice. Serve in hot mugs."
+            "instructions": "Combine peach nectar, orange juice and brown sugar in a large saucepan. Tie cinnamon and cloves in a small cheesecloth bag. Drop into saucepan. Heat slowly, stirring constantly, until sugar dissolves. Simmer 10 minutes. Stir in lime juice. Serve in hot mugs.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Spiking coffee",
+            "name": "SPIKING COFFEE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/isql6y1487602375.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [],
-            "instructions": "Incidentally, a pinch of cinnamon is indeed a nice addition to coffee but true heaven is a cardamom seed. Of course, you serve it in a coffee mug."
+            "instructions": "Incidentally, a pinch of cinnamon is indeed a nice addition to coffee but true heaven is a cardamom seed. Of course, you serve it in a coffee mug.",
+            "category": "COFFEE / TEA",
+            "glass": "COFFEE MUG"
         },
         {
-            "name": "Spritz",
+            "name": "SPRITZ",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/j9evx11504373665.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Prosecco",
@@ -12023,12 +12874,14 @@ const cocktailData = {
                     "splash"
                 ]
             ],
-            "instructions": "Build into glass over ice, garnish and serve."
+            "instructions": "Build into glass over ice, garnish and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Stinger",
+            "name": "STINGER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/2ahv791504352433.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Brandy",
@@ -12039,12 +12892,14 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "Pour in a mixing glass with ice, stir and strain into a cocktail glass. May also be served on rocks in a rocks glass."
+            "instructions": "Pour in a mixing glass with ice, stir and strain into a cocktail glass. May also be served on rocks in a rocks glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Stone Sour",
+            "name": "STONE SOUR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vruvtp1472719895.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Apricot brandy",
@@ -12059,12 +12914,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice, strain into a chilled whiskey sour glass, and serve."
+            "instructions": "Shake all ingredients with ice, strain into a chilled whiskey sour glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "WHISKEY SOUR GLASS"
         },
         {
-            "name": "Strawberry Daiquiri",
+            "name": "STRAWBERRY DAIQUIRI",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/deu59m1504736135.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Strawberry schnapps",
@@ -12087,12 +12944,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass."
+            "instructions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Strawberry Lemonade",
+            "name": "STRAWBERRY LEMONADE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/spvvxp1468924425.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Lemon",
@@ -12111,12 +12970,14 @@ const cocktailData = {
                     "1 cup "
                 ]
             ],
-            "instructions": "Throw everything into a blender and mix until fairly smooth. Serve over ice."
+            "instructions": "Throw everything into a blender and mix until fairly smooth. Serve over ice.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Strawberry Margarita",
+            "name": "STRAWBERRY MARGARITA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/tqyrpw1439905311.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Strawberry schnapps",
@@ -12139,12 +13000,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Rub rim of cocktail glass with lemon juice and dip rim in salt. Shake schnapps, tequila, triple sec, lemon juice, and strawberries with ice, strain into the salt-rimmed glass, and serve."
+            "instructions": "Rub rim of cocktail glass with lemon juice and dip rim in salt. Shake schnapps, tequila, triple sec, lemon juice, and strawberries with ice, strain into the salt-rimmed glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Strawberry Shivers",
+            "name": "STRAWBERRY SHIVERS",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/9h1vvt1487603404.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Strawberries",
@@ -12159,12 +13022,14 @@ const cocktailData = {
                     "1/2 cup "
                 ]
             ],
-            "instructions": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up."
+            "instructions": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Sunny Holiday Punch",
+            "name": "SUNNY HOLIDAY PUNCH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rywtwy1468924758.jpg",
-            "alcoholic": "Optional alcohol",
+            "alcoholic": "OPTIONAL ALCOHOL",
             "ingredients": [
                 [
                     "Pineapple juice",
@@ -12191,12 +13056,14 @@ const cocktailData = {
                     "1 bottle "
                 ]
             ],
-            "instructions": "Combine all ingredients in a punch bowl."
+            "instructions": "Combine all ingredients in a punch bowl.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "PUNCH BOWL"
         },
         {
-            "name": "Surf City Lifesaver",
+            "name": "SURF CITY LIFESAVER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/2rzfer1487602699.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Ouzo",
@@ -12215,12 +13082,14 @@ const cocktailData = {
                     "1/2 part "
                 ]
             ],
-            "instructions": "Lots of ice and soda top up in tall glass with cherry and a grin."
+            "instructions": "Lots of ice and soda top up in tall glass with cherry and a grin.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Swedish Coffee",
+            "name": "SWEDISH COFFEE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ywtrvt1441246783.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Coffee",
@@ -12235,12 +13104,14 @@ const cocktailData = {
                     "By taste "
                 ]
             ],
-            "instructions": "Pour the coffee in an ordinary coffee cup. Add the aquavit. Add sugar by taste. Stir and have a nice evening (morning)"
+            "instructions": "Pour the coffee in an ordinary coffee cup. Add the aquavit. Add sugar by taste. Stir and have a nice evening (morning)",
+            "category": "COFFEE / TEA",
+            "glass": "COFFEE MUG"
         },
         {
-            "name": "Sweet Bananas",
+            "name": "SWEET BANANAS",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/sxpcj71487603345.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Milk",
@@ -12255,12 +13126,14 @@ const cocktailData = {
                     "1 tblsp "
                 ]
             ],
-            "instructions": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up."
+            "instructions": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.",
+            "category": "MILK / FLOAT / SHAKE",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Sweet Sangria",
+            "name": "SWEET SANGRIA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/uqqvsp1468924228.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Red wine",
@@ -12287,24 +13160,28 @@ const cocktailData = {
                     " wedges\n"
                 ]
             ],
-            "instructions": "Dissolve the sugar in hot water and cool. Peel the citrus fruits and break into wedges. Mix the wine, sugar syrup, fruit, and Fresca in a pitcher and put in the fridge for a few hours. Serve in tall glasses with a straw."
+            "instructions": "Dissolve the sugar in hot water and cool. Peel the citrus fruits and break into wedges. Mix the wine, sugar syrup, fruit, and Fresca in a pitcher and put in the fridge for a few hours. Serve in tall glasses with a straw.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "PITCHER"
         },
         {
-            "name": "Sweet Tooth",
+            "name": "SWEET TOOTH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/j6rq6h1503563821.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Godiva liqueur",
                     "2 shots "
                 ]
             ],
-            "instructions": "Put 2 shots Godiva Liquour into a glass, add as much or as little milk as you would like."
+            "instructions": "Put 2 shots Godiva Liquour into a glass, add as much or as little milk as you would like.",
+            "category": "MILK / FLOAT / SHAKE",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Talos Coffee",
+            "name": "TALOS COFFEE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rswqpy1441246518.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Grand Marnier",
@@ -12315,12 +13192,14 @@ const cocktailData = {
                     "1 part "
                 ]
             ],
-            "instructions": "Add your GM and then add your coffee."
+            "instructions": "Add your GM and then add your coffee.",
+            "category": "COFFEE / TEA",
+            "glass": "BRANDY SNIFTER"
         },
         {
-            "name": "Tennesee Mud",
+            "name": "TENNESEE MUD",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/txruqv1441245770.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Coffee",
@@ -12335,12 +13214,14 @@ const cocktailData = {
                     "4 oz "
                 ]
             ],
-            "instructions": "Mix Coffee, Jack Daniels and Amaretto. Add Cream on top."
+            "instructions": "Mix Coffee, Jack Daniels and Amaretto. Add Cream on top.",
+            "category": "COFFEE / TEA",
+            "glass": "COFFEE MUG"
         },
         {
-            "name": "Tequila Fizz",
+            "name": "TEQUILA FIZZ",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/2bcase1504889637.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Tequila",
@@ -12359,12 +13240,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Shake all ingredients (except ginger ale) with ice and strain into a collins glass over ice cubes. Fill with ginger ale, stir, and serve."
+            "instructions": "Shake all ingredients (except ginger ale) with ice and strain into a collins glass over ice cubes. Fill with ginger ale, stir, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Tequila Sour",
+            "name": "TEQUILA SOUR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ek0mlq1504820601.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Tequila",
@@ -12387,24 +13270,28 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Shake tequila, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Add the half-slice of lemon, top with the cherry, and serve."
+            "instructions": "Shake tequila, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Add the half-slice of lemon, top with the cherry, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "WHISKEY SOUR GLASS"
         },
         {
-            "name": "Tequila Sunrise",
+            "name": "TEQUILA SUNRISE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/quqyqp1480879103.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Tequila",
                     "2 measures "
                 ]
             ],
-            "instructions": "Pour the tequila and orange juice into glass over ice. Add the grenadine, which will sink to the bottom. Stir gently to create the sunrise effect. Garnish and serve."
+            "instructions": "Pour the tequila and orange juice into glass over ice. Add the grenadine, which will sink to the bottom. Stir gently to create the sunrise effect. Garnish and serve.",
+            "category": "COCKTAIL",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Tequila Surprise",
+            "name": "TEQUILA SURPRISE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/8189p51504735581.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Tequila",
@@ -12415,12 +13302,14 @@ const cocktailData = {
                     "About 8 drops "
                 ]
             ],
-            "instructions": "Fill shot glass with Tequila. Add drops of Tobasco sauce."
+            "instructions": "Fill shot glass with Tequila. Add drops of Tobasco sauce.",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Texas Rattlesnake",
+            "name": "TEXAS RATTLESNAKE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rtohqp1504889750.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Yukon Jack",
@@ -12439,12 +13328,14 @@ const cocktailData = {
                     "1 splash "
                 ]
             ],
-            "instructions": "Mix all ingredients and Shake well. Sweet at first, with a BITE at the end..."
+            "instructions": "Mix all ingredients and Shake well. Sweet at first, with a BITE at the end...",
+            "category": "SHOT",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Texas Sling",
+            "name": "TEXAS SLING",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ypl13s1504890158.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Kahlua",
@@ -12467,12 +13358,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Blend with Ice until smooth. Serve in a tulip glass, top with whip cream."
+            "instructions": "Blend with Ice until smooth. Serve in a tulip glass, top with whip cream.",
+            "category": "MILK / FLOAT / SHAKE",
+            "glass": "WINE GLASS"
         },
         {
-            "name": "Thai Coffee",
+            "name": "THAI COFFEE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wquwxs1441247025.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Coffee",
@@ -12487,12 +13380,14 @@ const cocktailData = {
                     "4-5 whole green "
                 ]
             ],
-            "instructions": "Place the coffee and spices in the filter cone of your coffee maker. Brew coffee as usual, let it cool. In a tall glass, dissolve 1 or 2 teaspoons of sugar in an ounce of the coffee (it's easier to dissolve than if you put it right over ice). Add 5-6 ice cubes and pour coffee to within about 1 inch of the top of the glass. Rest a spoon on top of the coffee and slowly pour whipping cream into the spoon. This will make the cream float on top of the coffee rather than dispersing into it right away."
+            "instructions": "Place the coffee and spices in the filter cone of your coffee maker. Brew coffee as usual, let it cool. In a tall glass, dissolve 1 or 2 teaspoons of sugar in an ounce of the coffee (it's easier to dissolve than if you put it right over ice). Add 5-6 ice cubes and pour coffee to within about 1 inch of the top of the glass. Rest a spoon on top of the coffee and slowly pour whipping cream into the spoon. This will make the cream float on top of the coffee rather than dispersing into it right away.",
+            "category": "COFFEE / TEA",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Thai Iced Coffee",
+            "name": "THAI ICED COFFEE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rqpypv1441245650.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Coffee",
@@ -12503,12 +13398,14 @@ const cocktailData = {
                     " pods\n"
                 ]
             ],
-            "instructions": "Prepare a pot of coffee at a good European strength. In the ground coffee, add 2 or 3 freshly ground cardamom pods. Sweeten while hot, then cool quickly. Serve in highball glass over ice, with cream. To get the layered effect, place a spoon atop the coffee and pour the milk carefully into the spoon so that it floats on the top of the coffee."
+            "instructions": "Prepare a pot of coffee at a good European strength. In the ground coffee, add 2 or 3 freshly ground cardamom pods. Sweeten while hot, then cool quickly. Serve in highball glass over ice, with cream. To get the layered effect, place a spoon atop the coffee and pour the milk carefully into the spoon so that it floats on the top of the coffee.",
+            "category": "COFFEE / TEA",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Thai Iced Tea",
+            "name": "THAI ICED TEA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/trvwpu1441245568.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Tea",
@@ -12527,12 +13424,14 @@ const cocktailData = {
                     " cubes\n"
                 ]
             ],
-            "instructions": "Combine Thai tea (i.e., the powder), boiling water, and sweetened condensed milk, stir until blended. Pour into 2 tall glasses filled with ice cubes. Garnish with mint leaves. Makes 2 servings."
+            "instructions": "Combine Thai tea (i.e., the powder), boiling water, and sweetened condensed milk, stir until blended. Pour into 2 tall glasses filled with ice cubes. Garnish with mint leaves. Makes 2 servings.",
+            "category": "COFFEE / TEA",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "The Evil Blue Thing",
+            "name": "THE EVIL BLUE THING",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ojnpz71504793059.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Creme de Cacao",
@@ -12547,12 +13446,14 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "Pour ingredients into glass, and drop in a blue whale! The blue whale isn't really necessary, but it makes the drink more \"fun\"."
+            "instructions": "Pour ingredients into glass, and drop in a blue whale! The blue whale isn't really necessary, but it makes the drink more \"fun\".",
+            "category": "COCKTAIL",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Thriller",
+            "name": "THRILLER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rvuswq1461867714.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Scotch",
@@ -12567,12 +13468,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass."
+            "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Tia-Maria",
+            "name": "TIA-MARIA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/sih81u1504367097.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Water",
@@ -12595,12 +13498,14 @@ const cocktailData = {
                     "4 tsp "
                 ]
             ],
-            "instructions": "Boil water, sugar and coffe for 10 mins and let cool. Add rum and vanilla. Put in clean bottle(s) and leave for 1 week before using."
+            "instructions": "Boil water, sugar and coffe for 10 mins and let cool. Add rum and vanilla. Put in clean bottle(s) and leave for 1 week before using.",
+            "category": "HOMEMADE LIQUEUR",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Tom Collins",
+            "name": "TOM COLLINS",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qystvv1439907682.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -12627,12 +13532,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a collins glass alomst filled with ice cubes. Add the club soda. Stir and garnish with the cherry and the orange slice."
+            "instructions": "In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a collins glass alomst filled with ice cubes. Add the club soda. Stir and garnish with the cherry and the orange slice.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Tomato Tang",
+            "name": "TOMATO TANG",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/869qr81487603278.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Tomato juice",
@@ -12647,12 +13554,14 @@ const cocktailData = {
                     "1 dash "
                 ]
             ],
-            "instructions": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up."
+            "instructions": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Tommy's Margarita",
+            "name": "TOMMY'S MARGARITA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/loezxn1504373874.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Tequila",
@@ -12667,12 +13576,14 @@ const cocktailData = {
                     "2 spoons"
                 ]
             ],
-            "instructions": "Shake and strain into a chilled cocktail glass."
+            "instructions": "Shake and strain into a chilled cocktail glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Turf Cocktail",
+            "name": "TURF COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/utypqq1441554367.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Dry Vermouth",
@@ -12695,12 +13606,14 @@ const cocktailData = {
                     "Twist of "
                 ]
             ],
-            "instructions": "Stir all ingredients (except orange peel) with ice and strain into a cocktail glass. Add the twist of orange peel and serve."
+            "instructions": "Stir all ingredients (except orange peel) with ice and strain into a cocktail glass. Add the twist of orange peel and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Turkeyball",
+            "name": "TURKEYBALL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rxurpr1441554292.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Wild Turkey",
@@ -12715,12 +13628,14 @@ const cocktailData = {
                     "1 splash "
                 ]
             ],
-            "instructions": "Shake with ice and strain into a shot glass."
+            "instructions": "Shake with ice and strain into a shot glass.",
+            "category": "SHOT",
+            "glass": "SHOT GLASS"
         },
         {
-            "name": "Tuxedo Cocktail",
+            "name": "TUXEDO COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/4u0nbl1504352551.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Dry Vermouth",
@@ -12747,12 +13662,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Stir all ingredients with ice and strain into a cocktail glass. Garnish with a cherry and a twist of lemon zest."
+            "instructions": "Stir all ingredients with ice and strain into a cocktail glass. Garnish with a cherry and a twist of lemon zest.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Valencia Cocktail",
+            "name": "VALENCIA COCKTAIL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/9myuc11492975640.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Apricot brandy",
@@ -12767,12 +13684,14 @@ const cocktailData = {
                     "2 dashes "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Vampiro",
+            "name": "VAMPIRO",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yfhn371504374246.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Tequila",
@@ -12799,12 +13718,14 @@ const cocktailData = {
                     "1 pinch"
                 ]
             ],
-            "instructions": "Vampiros may be made in a tall glass or an old fashioned glass. Bartenders may first \"rim\" the glass with Kosher Salt, which is done by placing a layer of Kosher Salt on a chopping board, moistening the glass' rim with lime juice or water, and then placing the upside down glass rim onto the Kosher Salt, so that the salt sticks to the moistened rim. The second step is to fill half the glass with ice and add one or two shooter glasses full of high quality Tequila. The next stage is to add the flavouring elements. This is done by squeezing a fresh lime into the glass, adding a few grains of salt, adding citrus-flavoured soda pop, until the glass is 4/5 full, and then adding spicy Viuda de Sanchez (or orange juice, lime juice and pico de gallo). The final step is to stir the ingredients so that the flavours are properly blended."
+            "instructions": "Vampiros may be made in a tall glass or an old fashioned glass. Bartenders may first \"rim\" the glass with Kosher Salt, which is done by placing a layer of Kosher Salt on a chopping board, moistening the glass' rim with lime juice or water, and then placing the upside down glass rim onto the Kosher Salt, so that the salt sticks to the moistened rim. The second step is to fill half the glass with ice and add one or two shooter glasses full of high quality Tequila. The next stage is to add the flavouring elements. This is done by squeezing a fresh lime into the glass, adding a few grains of salt, adding citrus-flavoured soda pop, until the glass is 4/5 full, and then adding spicy Viuda de Sanchez (or orange juice, lime juice and pico de gallo). The final step is to stir the ingredients so that the flavours are properly blended.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Van Vleet",
+            "name": "VAN VLEET",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/fgq2bl1492975771.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -12819,12 +13740,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice, strain into an old-fashioned glass over ice cubes, and serve."
+            "instructions": "Shake all ingredients with ice, strain into an old-fashioned glass over ice cubes, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Vermouth Cassis",
+            "name": "VERMOUTH CASSIS",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/tswpxx1441554674.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Dry Vermouth",
@@ -12835,12 +13758,14 @@ const cocktailData = {
                     "3/4 oz "
                 ]
             ],
-            "instructions": "Stir vermouth and creme de cassis in a highball glass with ice cubes. Fill with carbonated water, stir again, and serve."
+            "instructions": "Stir vermouth and creme de cassis in a highball glass with ice cubes. Fill with carbonated water, stir again, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Vesper",
+            "name": "VESPER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/mtdxpa1504374514.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -12855,12 +13780,14 @@ const cocktailData = {
                     "0.75 cl"
                 ]
             ],
-            "instructions": "Shake over ice until well chilled, then strain into a deep goblet and garnish with a thin slice of lemon peel."
+            "instructions": "Shake over ice until well chilled, then strain into a deep goblet and garnish with a thin slice of lemon peel.",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Vesuvio",
+            "name": "VESUVIO",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/26cq601492976203.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Light rum",
@@ -12883,12 +13810,14 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice, strain into an old-fashioned glass over ice cubes, and serve."
+            "instructions": "Shake all ingredients with ice, strain into an old-fashioned glass over ice cubes, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Veteran",
+            "name": "VETERAN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/iwml9t1492976255.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Dark rum",
@@ -12899,12 +13828,14 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "Pour the rum and cherry brandy into an old-fashioned glass almost filled with ice cubes. Stir well."
+            "instructions": "Pour the rum and cherry brandy into an old-fashioned glass almost filled with ice cubes. Stir well.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Victor",
+            "name": "VICTOR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/voapgc1492976416.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -12919,12 +13850,14 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Victory Collins",
+            "name": "VICTORY COLLINS",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/lx0lvs1492976619.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -12947,24 +13880,28 @@ const cocktailData = {
                     "1 slice "
                 ]
             ],
-            "instructions": "Shake all ingredients (except orange slice) with ice and strain into a collins glass over ice cubes. Add the slice of orange and serve."
+            "instructions": "Shake all ingredients (except orange slice) with ice and strain into a collins glass over ice cubes. Add the slice of orange and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Vodka And Tonic",
+            "name": "VODKA AND TONIC",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/lmj2yt1504820500.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
                     "2 oz "
                 ]
             ],
-            "instructions": "Pour vodka into a highball glass over ice cubes. Fill with tonic water, stir, and serve."
+            "instructions": "Pour vodka into a highball glass over ice cubes. Fill with tonic water, stir, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Vodka Fizz",
+            "name": "VODKA FIZZ",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xwxyux1441254243.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -12979,12 +13916,14 @@ const cocktailData = {
                     "2 oz "
                 ]
             ],
-            "instructions": "Blend all ingredients, save nutmeg. Pour into large white wine glass and sprinkle nutmeg on top."
+            "instructions": "Blend all ingredients, save nutmeg. Pour into large white wine glass and sprinkle nutmeg on top.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "WHITE WINE GLASS"
         },
         {
-            "name": "Vodka Martini",
+            "name": "VODKA MARTINI",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qyxrqw1439906528.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -12999,24 +13938,28 @@ const cocktailData = {
                     "1 "
                 ]
             ],
-            "instructions": "Shake the vodka and vermouth together with a number of ice cubes, strain into a cocktail glass, add the olive and serve."
+            "instructions": "Shake the vodka and vermouth together with a number of ice cubes, strain into a cocktail glass, add the olive and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Vodka Russian",
+            "name": "VODKA RUSSIAN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/rpttur1454515129.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
                     "2 oz "
                 ]
             ],
-            "instructions": "Mix it as a ordinary drink ."
+            "instructions": "Mix it as a ordinary drink .",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Waikiki Beachcomber",
+            "name": "WAIKIKI BEACHCOMBER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ysuqus1441208583.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Triple sec",
@@ -13031,12 +13974,14 @@ const cocktailData = {
                     "1 tblsp "
                 ]
             ],
-            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve."
+            "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Whiskey Sour",
+            "name": "WHISKEY SOUR",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/o56h041504352725.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Blended whiskey",
@@ -13059,12 +14004,14 @@ const cocktailData = {
                     "1/2 slice "
                 ]
             ],
-            "instructions": "Shake with ice. Strain into chilled glass, garnish and serve. If served 'On the rocks', strain ingredients into old-fashioned glass filled with ice."
+            "instructions": "Shake with ice. Strain into chilled glass, garnish and serve. If served 'On the rocks', strain ingredients into old-fashioned glass filled with ice.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Whisky Mac",
+            "name": "WHISKY MAC",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yvvwys1461867858.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Scotch",
@@ -13075,12 +14022,14 @@ const cocktailData = {
                     "1 oz Green Ginger "
                 ]
             ],
-            "instructions": "Pour both of the ingredients into a wine goblet with no ice."
+            "instructions": "Pour both of the ingredients into a wine goblet with no ice.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "White Lady",
+            "name": "WHITE LADY",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/jofsaz1504352991.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Gin",
@@ -13095,12 +14044,14 @@ const cocktailData = {
                     "2cl"
                 ]
             ],
-            "instructions": "Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass."
+            "instructions": "Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.",
+            "category": "ORDINARY DRINK",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "White Russian",
+            "name": "WHITE RUSSIAN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/vsrupw1472405732.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -13111,12 +14062,14 @@ const cocktailData = {
                     "1 oz "
                 ]
             ],
-            "instructions": "Pour vodka and coffee liqueur over ice cubes in an old-fashioned glass. Fill with light cream and serve."
+            "instructions": "Pour vodka and coffee liqueur over ice cubes in an old-fashioned glass. Fill with light cream and serve.",
+            "category": "ORDINARY DRINK",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Whitecap Margarita",
+            "name": "WHITECAP MARGARITA",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/srpxxp1441209622.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Ice",
@@ -13135,12 +14088,14 @@ const cocktailData = {
                     "3 tblsp fresh "
                 ]
             ],
-            "instructions": "Place all ingredients in a blender and blend until smooth. This makes one drink."
+            "instructions": "Place all ingredients in a blender and blend until smooth. This makes one drink.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "MARGARITA/COUPETTE GLASS"
         },
         {
-            "name": "Wine Cooler",
+            "name": "WINE COOLER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/yutxtv1473344210.jpg",
-            "alcoholic": "Optional alcohol",
+            "alcoholic": "OPTIONAL ALCOHOL",
             "ingredients": [
                 [
                     "Red wine",
@@ -13155,12 +14110,14 @@ const cocktailData = {
                     " cubes\n"
                 ]
             ],
-            "instructions": "Mix wine and soft drink. Pour into glass. Add ice."
+            "instructions": "Mix wine and soft drink. Pour into glass. Add ice.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Wine Punch",
+            "name": "WINE PUNCH",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/txustu1473344310.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Red wine",
@@ -13183,12 +14140,14 @@ const cocktailData = {
                     "1 cup "
                 ]
             ],
-            "instructions": "Combine all of the ingredients and pour over a block of ice."
+            "instructions": "Combine all of the ingredients and pour over a block of ice.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Yellow Bird",
+            "name": "YELLOW BIRD",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/2t9r6w1504374811.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "White Rum",
@@ -13207,12 +14166,14 @@ const cocktailData = {
                     "1.5 cl"
                 ]
             ],
-            "instructions": "Shake and strain into a chilled cocktail glass"
+            "instructions": "Shake and strain into a chilled cocktail glass",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Yoghurt Cooler",
+            "name": "YOGHURT COOLER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/trttrv1441254466.jpg",
-            "alcoholic": "Non alcoholic",
+            "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
                     "Yoghurt",
@@ -13223,12 +14184,14 @@ const cocktailData = {
                     "1 cup "
                 ]
             ],
-            "instructions": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up. Note: Use lots of ice in this one - great on hot days! To add ice: Remove the center of the cover while the blender is on - drop 3 or 4 ice cubs and blend until they're completely crushed."
+            "instructions": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up. Note: Use lots of ice in this one - great on hot days! To add ice: Remove the center of the cover while the blender is on - drop 3 or 4 ice cubs and blend until they're completely crushed.",
+            "category": "OTHER/UNKNOWN",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Zambeer",
+            "name": "ZAMBEER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/bje5401485619578.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sambuca",
@@ -13243,12 +14206,14 @@ const cocktailData = {
                     " cubes\n"
                 ]
             ],
-            "instructions": "Mix sambuca with rootbeer and stir. Add ice"
+            "instructions": "Mix sambuca with rootbeer and stir. Add ice",
+            "category": "SOFT DRINK / SODA",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Zenmeister",
+            "name": "ZENMEISTER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/qyuvsu1479209462.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "J\u00e4germeister",
@@ -13259,12 +14224,14 @@ const cocktailData = {
                     "1/2 oz "
                 ]
             ],
-            "instructions": "Mix together and enjoy"
+            "instructions": "Mix together and enjoy",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Ziemes Martini Apfelsaft",
+            "name": "ZIEMES MARTINI APFELSAFT",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/xnzr2p1485619687.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vermouth",
@@ -13275,12 +14242,14 @@ const cocktailData = {
                     "16 cl "
                 ]
             ],
-            "instructions": "Serve without ice. At least the juice shold have room temperature."
+            "instructions": "Serve without ice. At least the juice shold have room temperature.",
+            "category": "ORDINARY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Zima Blaster",
+            "name": "ZIMA BLASTER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/1wifuv1485619797.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Zima",
@@ -13291,12 +14260,14 @@ const cocktailData = {
                     "3 oz "
                 ]
             ],
-            "instructions": "Fill glass with ice. Pour in Chambord, then fill with Zima. Mix and enjoy."
+            "instructions": "Fill glass with ice. Pour in Chambord, then fill with Zima. Mix and enjoy.",
+            "category": "ORDINARY DRINK",
+            "glass": "HURRICANE GLASS"
         },
         {
-            "name": "Zimadori Zinger",
+            "name": "ZIMADORI ZINGER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/bw8gzx1485619920.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Midori melon liqueur",
@@ -13307,12 +14278,14 @@ const cocktailData = {
                     "12 oz "
                 ]
             ],
-            "instructions": "Pour Zima in a collins glass over ice and then pour the shot of Midori. Don't stir. Garnish with a cherry."
+            "instructions": "Pour Zima in a collins glass over ice and then pour the shot of Midori. Don't stir. Garnish with a cherry.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "COLLINS GLASS"
         },
         {
-            "name": "Zinger",
+            "name": "ZINGER",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/iixv4l1485620014.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Peachtree schnapps",
@@ -13323,12 +14296,14 @@ const cocktailData = {
                     "4 shots "
                 ]
             ],
-            "instructions": "Get a shot glass and pour in three shots of the schnapps. Do the same with the Surge Cola. Then down it like Scheetz would."
+            "instructions": "Get a shot glass and pour in three shots of the schnapps. Do the same with the Surge Cola. Then down it like Scheetz would.",
+            "category": "SOFT DRINK / SODA",
+            "glass": "HIGHBALL GLASS"
         },
         {
-            "name": "Zipperhead",
+            "name": "ZIPPERHEAD",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/r2qzhu1485620235.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Chambord raspberry liqueur",
@@ -13343,12 +14318,14 @@ const cocktailData = {
                     "Fill with "
                 ]
             ],
-            "instructions": "Fill glass with rocks, add straw before putting in liquor. Then add the ingredients in order, trying to keep layered as much as possible (i.e. Chambord on bottom, then Vodka, Then soda on top)."
+            "instructions": "Fill glass with rocks, add straw before putting in liquor. Then add the ingredients in order, trying to keep layered as much as possible (i.e. Chambord on bottom, then Vodka, Then soda on top).",
+            "category": "SHOT",
+            "glass": "WHISKEY SOUR GLASS"
         },
         {
-            "name": "Zippy's Revenge",
+            "name": "ZIPPY'S REVENGE",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/1sqm7n1485620312.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Amaretto",
@@ -13363,12 +14340,14 @@ const cocktailData = {
                     "4 oz Grape "
                 ]
             ],
-            "instructions": "Mix Kool-Aid to taste then add Rum and ammaretto. shake well to disolve the sugar in the Kool-Aid... serve cold"
+            "instructions": "Mix Kool-Aid to taste then add Rum and ammaretto. shake well to disolve the sugar in the Kool-Aid... serve cold",
+            "category": "COCKTAIL",
+            "glass": "OLD-FASHIONED GLASS"
         },
         {
-            "name": "Zizi Coin-coin",
+            "name": "ZIZI COIN-COIN",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/0fbo2t1485620752.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Cointreau",
@@ -13387,24 +14366,28 @@ const cocktailData = {
                     " or lime\n"
                 ]
             ],
-            "instructions": "Pour 5cl of Cointreau on ice, add 2cl of fresh lemon (or lime) juice, stir gently, and finally add slices of lemon/lime in glass."
+            "instructions": "Pour 5cl of Cointreau on ice, add 2cl of fresh lemon (or lime) juice, stir gently, and finally add slices of lemon/lime in glass.",
+            "category": "PUNCH / PARTY DRINK",
+            "glass": "MARGARITA/COUPETTE GLASS"
         },
         {
-            "name": "Zoksel",
+            "name": "ZOKSEL",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/ft8ed01485620930.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Beer",
                     " slice\n"
                 ]
             ],
-            "instructions": "No specific mixinginstructions, just poor every ingredient in one glass. The lemon goes with it."
+            "instructions": "No specific mixinginstructions, just poor every ingredient in one glass. The lemon goes with it.",
+            "category": "SOFT DRINK / SODA",
+            "glass": "BEER PILSNER"
         },
         {
-            "name": "Zorbatini",
+            "name": "ZORBATINI",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/wtkqgb1485621155.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Vodka",
@@ -13415,12 +14398,14 @@ const cocktailData = {
                     "1/4 oz "
                 ]
             ],
-            "instructions": "Prepare like a Martini. Garnish with a green olive."
+            "instructions": "Prepare like a Martini. Garnish with a green olive.",
+            "category": "COCKTAIL",
+            "glass": "COCKTAIL GLASS"
         },
         {
-            "name": "Zorro",
+            "name": "ZORRO",
             "img_path": "http://www.thecocktaildb.com/images/media/drink/kvvd4z1485621283.jpg",
-            "alcoholic": "Alcoholic",
+            "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
                     "Sambuca",
@@ -13435,7 +14420,9 @@ const cocktailData = {
                     "2 cl "
                 ]
             ],
-            "instructions": "add all and pour black coffee and add whipped cream on top."
+            "instructions": "add all and pour black coffee and add whipped cream on top.",
+            "category": "COFFEE / TEA",
+            "glass": "COFFEE MUG"
         }
     ]
 }
