@@ -5,7 +5,17 @@ export default function DefaultLayout({ children, bg }) {
   return (
     <div>
       <NavBar />
-      <Box bg={bg}>{children}</Box>
+      <Box
+        px={{ base: 4 }}
+        pt={24}
+        mx={'auto'}
+        maxW={'960px'}
+        minH={'100vh'}
+        w={'100%'}
+        bg={bg}
+      >
+        {children}
+      </Box>
     </div>
   );
 }

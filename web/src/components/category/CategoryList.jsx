@@ -1,3 +1,4 @@
+import { Button , SimpleGrid, Skeleton } from '@chakra-ui/react';
 import { useCategoriesQuery } from '../../generated/graphql.tsx';
 import ListCelll from '../ListCelll.jsx';
 
@@ -9,13 +10,15 @@ export default function CategoryList() {
   }
 
   return (
-    <>
-      {loading && <>loading...</>}
+    <SimpleGrid columns={[2, null, 2]} spacing={[2, null, 10]}>
+      {loading && <Skeleton>loading...</Skeleton>}
       {!loading &&
         data &&
         data.Categories.map((category, index) => (
+          <Button colorScheme="teal">
           <ListCelll key={index} name={category.name} />
+          </Button>
         ))}
-    </>
+    </SimpleGrid>
   );
 }

@@ -1,7 +1,10 @@
 export default function DrinkCard({ Drink }) {
   return (
     <>
-      <div>{Drink.name}</div>
+      <div>
+        <p>{Drink.name}</p>
+        <img src={Drink.img_path} alt="" srcset="" />
+      </div>
     </>
   );
 }
