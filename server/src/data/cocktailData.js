@@ -1053,12 +1053,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Creme de Cacao",
-                    "1 oz white "
+                    "CREME DE CACAO",
+                    "1 OZ WHITE "
                 ],
                 [
-                    "Vodka",
-                    "1 oz "
+                    "VODKA",
+                    "1 OZ "
                 ]
             ],
             "instructions": "1. Fill a rocks glass with ice 2.add white creme de cacao and vodka 3.stir",
@@ -1071,36 +1071,36 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Absolut Kurant",
-                    "1/2 oz "
+                    "ABSOLUT KURANT",
+                    "1/2 OZ "
                 ],
                 [
-                    "Grand Marnier",
-                    "1/4 oz "
+                    "GRAND MARNIER",
+                    "1/4 OZ "
                 ],
                 [
-                    "Chambord raspberry liqueur",
-                    "1/4 oz "
+                    "CHAMBORD RASPBERRY LIQUEUR",
+                    "1/4 OZ "
                 ],
                 [
-                    "Midori melon liqueur",
-                    "1/4 oz "
+                    "MIDORI MELON LIQUEUR",
+                    "1/4 OZ "
                 ],
                 [
-                    "Malibu rum",
-                    "1/4 oz "
+                    "MALIBU RUM",
+                    "1/4 OZ "
                 ],
                 [
-                    "Amaretto",
-                    "1/4 oz "
+                    "AMARETTO",
+                    "1/4 OZ "
                 ],
                 [
-                    "Cranberry juice",
-                    "1/2 oz "
+                    "CRANBERRY JUICE",
+                    "1/2 OZ "
                 ],
                 [
-                    "Pineapple juice",
-                    "1/4 oz "
+                    "PINEAPPLE JUICE",
+                    "1/4 OZ "
                 ]
             ],
             "instructions": "Shake ingredients in a mixing tin filled with ice cubes. Strain into a rocks glass.",
@@ -1113,12 +1113,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Lager",
-                    "16 oz "
+                    "LAGER",
+                    "16 OZ "
                 ],
                 [
-                    "Tequila",
-                    "1.5 oz "
+                    "TEQUILA",
+                    "1.5 OZ "
                 ]
             ],
             "instructions": "Drop shooter in glass. Fill with beer",
@@ -1131,36 +1131,36 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Malibu rum",
-                    "1/2 oz "
+                    "MALIBU RUM",
+                    "1/2 OZ "
                 ],
                 [
-                    "Light rum",
-                    "1/2 oz "
+                    "LIGHT RUM",
+                    "1/2 OZ "
                 ],
                 [
-                    "151 proof rum",
-                    "1/2 oz Bacardi "
+                    "151 PROOF RUM",
+                    "1/2 OZ BACARDI "
                 ],
                 [
-                    "Dark Creme de Cacao",
-                    "1 oz "
+                    "DARK CREME DE CACAO",
+                    "1 OZ "
                 ],
                 [
-                    "Cointreau",
-                    "1 oz "
+                    "COINTREAU",
+                    "1 OZ "
                 ],
                 [
-                    "Milk",
-                    "3 oz "
+                    "MILK",
+                    "3 OZ "
                 ],
                 [
-                    "Coconut liqueur",
-                    "1 oz "
+                    "COCONUT LIQUEUR",
+                    "1 OZ "
                 ],
                 [
-                    "Vanilla ice-cream",
-                    "1 cup "
+                    "VANILLA ICE-CREAM",
+                    "1 CUP "
                 ]
             ],
             "instructions": "Combine all ingredients. Blend until smooth. Garnish with chocolate shavings if desired.",
@@ -1173,20 +1173,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Dark rum",
-                    "1 shot "
+                    "DARK RUM",
+                    "1 SHOT "
                 ],
                 [
-                    "Light rum",
-                    "2 shots "
+                    "LIGHT RUM",
+                    "2 SHOTS "
                 ],
                 [
-                    "Vodka",
-                    "1 shot "
+                    "VODKA",
+                    "1 SHOT "
                 ],
                 [
-                    "Orange juice",
-                    "1 shot "
+                    "ORANGE JUICE",
+                    "1 SHOT "
                 ]
             ],
             "instructions": "Blend with ice. Serve in a wine glass. Garnish with carrot.",
@@ -1199,20 +1199,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Goldschlager",
-                    "1/2 oz "
+                    "GOLDSCHLAGER",
+                    "1/2 OZ "
                 ],
                 [
-                    "J\u00e4germeister",
-                    "1/2 oz "
+                    "J\u00c4GERMEISTER",
+                    "1/2 OZ "
                 ],
                 [
-                    "Rumple Minze",
-                    "1/2 oz "
+                    "RUMPLE MINZE",
+                    "1/2 OZ "
                 ],
                 [
-                    "151 proof rum",
-                    "1/2 oz Bacardi "
+                    "151 PROOF RUM",
+                    "1/2 OZ BACARDI "
                 ]
             ],
             "instructions": "Add over ice,shake and pour.",
@@ -1225,12 +1225,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "151 proof rum",
-                    "1/2 shot Bacardi "
+                    "151 PROOF RUM",
+                    "1/2 SHOT BACARDI "
                 ],
                 [
-                    "Wild Turkey",
-                    "1/2 shot "
+                    "WILD TURKEY",
+                    "1/2 SHOT "
                 ]
             ],
             "instructions": "Add both ingredients to shot glass, shoot, and get drunk quick",
@@ -1243,16 +1243,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Jack Daniels",
-                    "1/3 oz "
+                    "JACK DANIELS",
+                    "1/3 OZ "
                 ],
                 [
-                    "Johnnie Walker",
-                    "1/3 oz "
+                    "JOHNNIE WALKER",
+                    "1/3 OZ "
                 ],
                 [
-                    "Jim Beam",
-                    "1/3 oz "
+                    "JIM BEAM",
+                    "1/3 OZ "
                 ]
             ],
             "instructions": "put them them in a glass... and slam it to tha head.",
@@ -1265,32 +1265,32 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1/2 oz "
+                    "GIN",
+                    "1/2 OZ "
                 ],
                 [
-                    "Light rum",
-                    "1/2 oz "
+                    "LIGHT RUM",
+                    "1/2 OZ "
                 ],
                 [
-                    "Tequila",
-                    "1/2 oz "
+                    "TEQUILA",
+                    "1/2 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1/2 oz "
+                    "TRIPLE SEC",
+                    "1/2 OZ "
                 ],
                 [
-                    "Vodka",
-                    "1/2 oz "
+                    "VODKA",
+                    "1/2 OZ "
                 ],
                 [
-                    "Coca-Cola",
-                    "1-2 dash "
+                    "COCA-COLA",
+                    "1-2 DASH "
                 ],
                 [
-                    "Sweet and sour",
-                    "1 wedge "
+                    "SWEET AND SOUR",
+                    "1 WEDGE "
                 ]
             ],
             "instructions": "Fill 14oz glass with ice and alcohol. Fill 2/3 glass with cola and remainder with sweet & sour. Top with dash of bitters and lemon wedge.",
@@ -1303,8 +1303,8 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Peach Vodka",
-                    "2-3 oz"
+                    "PEACH VODKA",
+                    "2-3 OZ"
                 ]
             ],
             "instructions": "",
@@ -1317,16 +1317,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vanilla vodka",
-                    "2 1/2 oz "
+                    "VANILLA VODKA",
+                    "2 1/2 OZ "
                 ],
                 [
-                    "Grand Marnier",
-                    "1 splash "
+                    "GRAND MARNIER",
+                    "1 SPLASH "
                 ],
                 [
-                    "Orange juice",
-                    "Fill with "
+                    "ORANGE JUICE",
+                    "FILL WITH "
                 ]
             ],
             "instructions": "fill glass with crushed ice. Add vodka. Add a splash of grand-marnier. Fill with o.j.",
@@ -1348,16 +1348,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 oz dry "
+                    "GIN",
+                    "2 OZ DRY "
                 ],
                 [
-                    "7-Up",
-                    "4 oz "
+                    "7-UP",
+                    "4 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "0.75 oz "
+                    "LEMON JUICE",
+                    "0.75 OZ "
                 ]
             ],
             "instructions": "Pour 2 oz. gin. Add 4 oz. 7-up. Add Lemon Juice for flavor. If you are weak, top up glass with more 7-Up.",
@@ -1370,16 +1370,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Kahlua",
-                    "1/3 part "
+                    "KAHLUA",
+                    "1/3 PART "
                 ],
                 [
-                    "Bailey's irish cream",
-                    "1/3 part "
+                    "BAILEY'S IRISH CREAM",
+                    "1/3 PART "
                 ],
                 [
-                    "Frangelico",
-                    "1/3 part "
+                    "FRANGELICO",
+                    "1/3 PART "
                 ]
             ],
             "instructions": "pour kaluha, then Baileys, then Frangelico not chilled and not layered -- SERVE!!!",
@@ -1392,20 +1392,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Absolut Citron",
-                    "2 oz "
+                    "ABSOLUT CITRON",
+                    "2 OZ "
                 ],
                 [
-                    "Orange Curacao",
-                    "1/2 oz "
+                    "ORANGE CURACAO",
+                    "1/2 OZ "
                 ],
                 [
-                    "Strawberry liqueur",
-                    "1 splash "
+                    "STRAWBERRY LIQUEUR",
+                    "1 SPLASH "
                 ],
                 [
-                    "Orange juice",
-                    "1 oz "
+                    "ORANGE JUICE",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Combine all ingredients in glass mixer. Chill and strain into Cocktail glass. Garnish with sliced strawberry.",
@@ -1418,20 +1418,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Coconut rum",
-                    "1 oz "
+                    "COCONUT RUM",
+                    "1 OZ "
                 ],
                 [
-                    "Amaretto",
-                    "1/2 oz "
+                    "AMARETTO",
+                    "1/2 OZ "
                 ],
                 [
-                    "Orange juice",
-                    "4 oz "
+                    "ORANGE JUICE",
+                    "4 OZ "
                 ],
                 [
-                    "Grenadine",
-                    "1/2 oz "
+                    "GRENADINE",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "Shake Rum, Amaretto, and Orange Juice in a shaker filled with ice. Strain over ice into a highball glass. Add Grenadine and garnish with a Pineapple Wedge and a Strawberry.",
@@ -1444,16 +1444,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "2 oz "
+                    "LIGHT RUM",
+                    "2 OZ "
                 ],
                 [
-                    "Ginger beer",
-                    "4 oz "
+                    "GINGER BEER",
+                    "4 OZ "
                 ],
                 [
-                    "Lemon peel",
-                    "1 twist of "
+                    "LEMON PEEL",
+                    "1 TWIST OF "
                 ]
             ],
             "instructions": "Pour the rum and ginger beer into a highball glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.",
@@ -1466,20 +1466,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1 oz "
+                    "VODKA",
+                    "1 OZ "
                 ],
                 [
-                    "Peach schnapps",
-                    "1 oz "
+                    "PEACH SCHNAPPS",
+                    "1 OZ "
                 ],
                 [
-                    "Orange juice",
-                    "3 oz "
+                    "ORANGE JUICE",
+                    "3 OZ "
                 ],
                 [
-                    "Cranberry juice",
-                    "3 oz "
+                    "CRANBERRY JUICE",
+                    "3 OZ "
                 ]
             ],
             "instructions": "Shaken, not stirred!",
@@ -1492,28 +1492,28 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "1 oz "
+                    "LIGHT RUM",
+                    "1 OZ "
                 ],
                 [
-                    "A\u00f1ejo rum",
-                    "1 oz "
+                    "A\u00d1EJO RUM",
+                    "1 OZ "
                 ],
                 [
-                    "Orange juice",
-                    "1 oz "
+                    "ORANGE JUICE",
+                    "1 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1/2 oz "
+                    "LEMON JUICE",
+                    "1/2 OZ "
                 ],
                 [
-                    "Ginger ale",
-                    "3 oz "
+                    "GINGER ALE",
+                    "3 OZ "
                 ],
                 [
-                    "Lemon peel",
-                    "1 twist of "
+                    "LEMON PEEL",
+                    "1 TWIST OF "
                 ]
             ],
             "instructions": "In a shaker half-filled with ice cubes, combine the light rum, a\u00f1ejo rum, orange juice, and lemon juice. Shake well. Strain into a highball glass almost filled with ice cubes. Top with the ginger ale. Garnish with the lemon twist.",
@@ -1526,16 +1526,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Amaretto",
-                    "1 shot "
+                    "AMARETTO",
+                    "1 SHOT "
                 ],
                 [
-                    "Southern Comfort",
-                    "1 shot "
+                    "SOUTHERN COMFORT",
+                    "1 SHOT "
                 ],
                 [
-                    "Ice",
-                    " cubes\n"
+                    "ICE",
+                    " CUBES\n"
                 ]
             ],
             "instructions": "Put ice in glass. Pour in shots. Fill with Sour Mix.",
@@ -1548,20 +1548,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Cranberry juice",
-                    "2 oz "
+                    "CRANBERRY JUICE",
+                    "2 OZ "
                 ],
                 [
-                    "Soda water",
-                    "2 oz "
+                    "SODA WATER",
+                    "2 OZ "
                 ],
                 [
-                    "Midori melon liqueur",
-                    "0.5 oz "
+                    "MIDORI MELON LIQUEUR",
+                    "0.5 OZ "
                 ],
                 [
-                    "Creme de Banane",
-                    "0.5 oz "
+                    "CREME DE BANANE",
+                    "0.5 OZ "
                 ]
             ],
             "instructions": "Drop shot glass with banana & melon liquers into a 9 oz hi- ball glass containing soda water and cranberry juice. Drink in one shot.",
@@ -1574,12 +1574,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Amaretto",
-                    "1 jigger "
+                    "AMARETTO",
+                    "1 JIGGER "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1/2 "
+                    "LEMON",
+                    "JUICE OF 1/2 "
                 ]
             ],
             "instructions": "Rub the rim of an old fashioned glass with lemon, and dip repeatedly into granulated sugar until it has a good \"frosted\" rim. Shake a jigger of Amaretto with the juice of 1/2 a lemon. Strain into glass and add ice. Garnish with a Marachino Cherry.",
@@ -1592,19 +1592,19 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "2 oz "
+                    "VODKA",
+                    "2 OZ "
                 ],
                 [
-                    "Kirschwasser",
-                    "1 oz "
+                    "KIRSCHWASSER",
+                    "1 OZ "
                 ],
                 [
-                    "Strawberry liqueur",
-                    "1 tsp "
+                    "STRAWBERRY LIQUEUR",
+                    "1 TSP "
                 ],
                 [
-                    "Strawberries",
+                    "STRAWBERRIES",
                     "5 "
                 ]
             ],
@@ -1618,12 +1618,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Applejack",
-                    "1 1/2 oz "
+                    "APPLEJACK",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Grapefruit juice",
-                    "1 oz "
+                    "GRAPEFRUIT JUICE",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Shake ingredients with ice, strain into a cocktail glass, and serve.",
@@ -1636,20 +1636,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "White Creme de Menthe",
-                    "1/2 oz "
+                    "WHITE CREME DE MENTHE",
+                    "1/2 OZ "
                 ],
                 [
-                    "Southern Comfort",
-                    "3/4 oz "
+                    "SOUTHERN COMFORT",
+                    "3/4 OZ "
                 ],
                 [
-                    "Vodka",
-                    "1/2 oz "
+                    "VODKA",
+                    "1/2 OZ "
                 ],
                 [
-                    "Hot chocolate",
-                    "Fill with "
+                    "HOT CHOCOLATE",
+                    "FILL WITH "
                 ]
             ],
             "instructions": "shake vigorously",
@@ -1662,20 +1662,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 3/4 shot "
+                    "GIN",
+                    "1 3/4 SHOT "
                 ],
                 [
-                    "Grand Marnier",
-                    "1 Shot "
+                    "GRAND MARNIER",
+                    "1 SHOT "
                 ],
                 [
-                    "Lemon Juice",
-                    "1/4 Shot"
+                    "LEMON JUICE",
+                    "1/4 SHOT"
                 ],
                 [
-                    "Grenadine",
-                    "1/8 Shot"
+                    "GRENADINE",
+                    "1/8 SHOT"
                 ]
             ],
             "instructions": "Pour all ingredients into a cocktail shaker, mix and serve over ice into a chilled glass.",
@@ -1688,15 +1688,15 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Amaretto",
+                    "AMARETTO",
                     "1/3 "
                 ],
                 [
-                    "Bailey's irish cream",
+                    "BAILEY'S IRISH CREAM",
                     "1/3 "
                 ],
                 [
-                    "Cognac",
+                    "COGNAC",
                     "1/3 "
                 ]
             ],
@@ -1710,12 +1710,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "151 proof rum",
-                    "1 oz Bacardi "
+                    "151 PROOF RUM",
+                    "1 OZ BACARDI "
                 ],
                 [
-                    "Wild Turkey",
-                    "1 oz "
+                    "WILD TURKEY",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Poor in the 151 first followed by the 101 served with a Coke or Dr Pepper chaser.",
@@ -1728,16 +1728,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Absolut Vodka",
-                    "1 oz "
+                    "ABSOLUT VODKA",
+                    "1 OZ "
                 ],
                 [
-                    "Gin",
-                    "1 oz "
+                    "GIN",
+                    "1 OZ "
                 ],
                 [
-                    "Tonic water",
-                    "4 oz "
+                    "TONIC WATER",
+                    "4 OZ "
                 ]
             ],
             "instructions": "Pour Vodka and Gin over ice, add Tonic and Stir",
@@ -1750,19 +1750,19 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Orange bitters",
-                    "1 dash "
+                    "ORANGE BITTERS",
+                    "1 DASH "
                 ],
                 [
-                    "Orange",
-                    "Juice of 1/4 "
+                    "ORANGE",
+                    "JUICE OF 1/4 "
                 ],
                 [
-                    "Cherry",
+                    "CHERRY",
                     "1 "
                 ]
             ],
@@ -1776,20 +1776,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 shots "
+                    "GIN",
+                    "2 SHOTS "
                 ],
                 [
-                    "Sweet Vermouth",
-                    "1 shot "
+                    "SWEET VERMOUTH",
+                    "1 SHOT "
                 ],
                 [
-                    "Orange Juice",
-                    "1 shot "
+                    "ORANGE JUICE",
+                    "1 SHOT "
                 ],
                 [
-                    "Angostura Bitters",
-                    "3 dashes "
+                    "ANGOSTURA BITTERS",
+                    "3 DASHES "
                 ]
             ],
             "instructions": "Put all ingredients into a shaker and mix, then strain contents into a chilled cocktail glass.",
@@ -1802,16 +1802,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Dark rum",
-                    "1 1/2 oz "
+                    "DARK RUM",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Peach nectar",
-                    "2 oz "
+                    "PEACH NECTAR",
+                    "2 OZ "
                 ],
                 [
-                    "Orange juice",
-                    "3 oz "
+                    "ORANGE JUICE",
+                    "3 OZ "
                 ]
             ],
             "instructions": "Pour all of the ingredients into a highball glass almost filled with ice cubes. Stir well.",
@@ -1824,23 +1824,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1 bottle "
+                    "VODKA",
+                    "1 BOTTLE "
                 ],
                 [
-                    "Sugar",
-                    "50 gr "
+                    "SUGAR",
+                    "50 GR "
                 ],
                 [
-                    "Anise",
-                    "50 ml pure "
+                    "ANISE",
+                    "50 ML PURE "
                 ],
                 [
-                    "Licorice root",
-                    "1 tblsp "
+                    "LICORICE ROOT",
+                    "1 TBLSP "
                 ],
                 [
-                    "Wormwood",
+                    "WORMWOOD",
                     "1 "
                 ]
             ],
@@ -1854,16 +1854,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Absolut Citron",
-                    "2/3 part "
+                    "ABSOLUT CITRON",
+                    "2/3 PART "
                 ],
                 [
-                    "Pisang Ambon",
-                    "1/3 part "
+                    "PISANG AMBON",
+                    "1/3 PART "
                 ],
                 [
-                    "Ice",
-                    " cubes\n"
+                    "ICE",
+                    " CUBES\n"
                 ]
             ],
             "instructions": "Mix, pour over ice and top up with Bitter Lemon.",
@@ -1876,20 +1876,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Absolut Kurant",
-                    "3/4 oz "
+                    "ABSOLUT KURANT",
+                    "3/4 OZ "
                 ],
                 [
-                    "Midori melon liqueur",
-                    "3/4 oz "
+                    "MIDORI MELON LIQUEUR",
+                    "3/4 OZ "
                 ],
                 [
-                    "Cranberry juice",
-                    "1 oz "
+                    "CRANBERRY JUICE",
+                    "1 OZ "
                 ],
                 [
-                    "Sprite",
-                    "1 splash "
+                    "SPRITE",
+                    "1 SPLASH "
                 ]
             ],
             "instructions": "Shake Absolut Kurant, Midori, and Cranberry juice in shaker with ice: Strain into rocks glass: Splash of seven on top.Absolut Sex.",
@@ -1902,24 +1902,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Absolut Vodka",
-                    "1 1/2 oz "
+                    "ABSOLUT VODKA",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Peach schnapps",
-                    "1/2 oz "
+                    "PEACH SCHNAPPS",
+                    "1/2 OZ "
                 ],
                 [
-                    "Coconut liqueur",
-                    "1/2 oz "
+                    "COCONUT LIQUEUR",
+                    "1/2 OZ "
                 ],
                 [
-                    "Cranberry juice",
-                    "1 1/2 oz "
+                    "CRANBERRY JUICE",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Pineapple juice",
-                    "1 1/2 oz "
+                    "PINEAPPLE JUICE",
+                    "1 1/2 OZ "
                 ]
             ],
             "instructions": "Mix well. Garnish with Orange and Cherry. Enjoy",
@@ -1932,24 +1932,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Absolut Citron",
-                    "1 1/2 oz "
+                    "ABSOLUT CITRON",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Sweet and sour",
-                    "3/4 oz "
+                    "SWEET AND SOUR",
+                    "3/4 OZ "
                 ],
                 [
-                    "Sprite",
-                    "1/2 oz "
+                    "SPRITE",
+                    "1/2 OZ "
                 ],
                 [
-                    "Soda water",
-                    "3 oz "
+                    "SODA WATER",
+                    "3 OZ "
                 ],
                 [
-                    "Lemon",
-                    "1 slice "
+                    "LEMON",
+                    "1 SLICE "
                 ]
             ],
             "instructions": "Add all ingredients except lemon to shaker filled with ice. Cover and shake vigorously. Strain contents into ice filled collins glass. Garnish with lemon.",
@@ -1962,20 +1962,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Absolut Citron",
+                    "ABSOLUT CITRON",
                     "2/3 "
                 ],
                 [
-                    "Lime juice",
+                    "LIME JUICE",
                     "1/3 "
                 ],
                 [
-                    "Ice",
-                    "Fill with "
+                    "ICE",
+                    "FILL WITH "
                 ],
                 [
-                    "Tonic water",
-                    "Top it up with "
+                    "TONIC WATER",
+                    "TOP IT UP WITH "
                 ]
             ],
             "instructions": "Fill Absolut into a glass. Add Lime juice. Add Ice and lime wedges.",
@@ -1988,20 +1988,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Absolut Vodka",
-                    "2 oz "
+                    "ABSOLUT VODKA",
+                    "2 OZ "
                 ],
                 [
-                    "Cranberry juice",
-                    "4 oz "
+                    "CRANBERRY JUICE",
+                    "4 OZ "
                 ],
                 [
-                    "Ginger ale",
-                    "2 oz "
+                    "GINGER ALE",
+                    "2 OZ "
                 ],
                 [
-                    "Ice",
-                    "Add "
+                    "ICE",
+                    "ADD "
                 ]
             ],
             "instructions": "Stir ingredients together. Serve over ice.",
@@ -2014,16 +2014,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1 shot "
+                    "VODKA",
+                    "1 SHOT "
                 ],
                 [
-                    "Cranberry Juice",
-                    "2 shots "
+                    "CRANBERRY JUICE",
+                    "2 SHOTS "
                 ],
                 [
-                    "Champagne",
-                    "Top up with"
+                    "CHAMPAGNE",
+                    "TOP UP WITH"
                 ]
             ],
             "instructions": "Mix the Vodka and Cranberry juice together in a shaker and strain into a glass. Top up with Champagne.",
@@ -2036,20 +2036,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Absolut Citron",
-                    "1 shot "
+                    "ABSOLUT CITRON",
+                    "1 SHOT "
                 ],
                 [
-                    "Orange juice",
-                    "1 shot "
+                    "ORANGE JUICE",
+                    "1 SHOT "
                 ],
                 [
-                    "Triple sec",
-                    "1 shot "
+                    "TRIPLE SEC",
+                    "1 SHOT "
                 ],
                 [
-                    "Ginger ale",
-                    "Fill to top "
+                    "GINGER ALE",
+                    "FILL TO TOP "
                 ]
             ],
             "instructions": "Shake it up it tasts better that way, but you can stir it if you want. 6 of those and you will be wasted for the rest of the night.",
@@ -2062,27 +2062,27 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "1 1/2 oz "
+                    "LIGHT RUM",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1 1/2 tsp "
+                    "TRIPLE SEC",
+                    "1 1/2 TSP "
                 ],
                 [
-                    "Lime juice",
-                    "1 tblsp "
+                    "LIME JUICE",
+                    "1 TBLSP "
                 ],
                 [
-                    "Sugar",
-                    "1 tsp "
+                    "SUGAR",
+                    "1 TSP "
                 ],
                 [
-                    "Egg white",
+                    "EGG WHITE",
                     "1 "
                 ],
                 [
-                    "Mint",
+                    "MINT",
                     "1 "
                 ]
             ],
@@ -2096,24 +2096,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 shots "
+                    "GIN",
+                    "2 SHOTS "
                 ],
                 [
-                    "Grenadine",
-                    "1/2 shot "
+                    "GRENADINE",
+                    "1/2 SHOT "
                 ],
                 [
-                    "Heavy cream",
-                    "1/2 shot "
+                    "HEAVY CREAM",
+                    "1/2 SHOT "
                 ],
                 [
-                    "Milk",
-                    "1/2 shot "
+                    "MILK",
+                    "1/2 SHOT "
                 ],
                 [
-                    "Egg White",
-                    "1/2 Fresh"
+                    "EGG WHITE",
+                    "1/2 FRESH"
                 ]
             ],
             "instructions": "Shake all the ingredients in a cocktail shaker and ice then strain in a cold glass.",
@@ -2126,16 +2126,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Dark rum",
-                    "2 oz "
+                    "DARK RUM",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1 oz "
+                    "LEMON JUICE",
+                    "1 OZ "
                 ],
                 [
-                    "Grenadine",
-                    "1 tsp "
+                    "GRENADINE",
+                    "1 TSP "
                 ]
             ],
             "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",
@@ -2148,20 +2148,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 shot "
+                    "GIN",
+                    "1 SHOT "
                 ],
                 [
-                    "Cognac",
-                    "1 shot "
+                    "COGNAC",
+                    "1 SHOT "
                 ],
                 [
-                    "Creme de Cassis",
-                    "1 shot "
+                    "CREME DE CASSIS",
+                    "1 SHOT "
                 ],
                 [
-                    "Fresh Lemon Juice",
-                    "1/8 shot "
+                    "FRESH LEMON JUICE",
+                    "1/8 SHOT "
                 ]
             ],
             "instructions": "Shake together all the ingredients and strain into a cold glass.",
@@ -2174,24 +2174,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Rum",
-                    "1 part "
+                    "RUM",
+                    "1 PART "
                 ],
                 [
-                    "Vodka",
-                    "1 part "
+                    "VODKA",
+                    "1 PART "
                 ],
                 [
-                    "Tequila",
-                    "1 part "
+                    "TEQUILA",
+                    "1 PART "
                 ],
                 [
-                    "Triple sec",
-                    "1/2 part "
+                    "TRIPLE SEC",
+                    "1/2 PART "
                 ],
                 [
-                    "Fruit",
-                    "1-3 pint "
+                    "FRUIT",
+                    "1-3 PINT "
                 ]
             ],
             "instructions": "Add ice to blender (or to glass if prefer on the rocks) then fruit, and fruite juice depending on personal prefference then add the Rum, Vodka, Tequila, and triple sec. blend till smooth, rim glass with sugar or salt and pour mixture in. garnish with lemon or lime slice.",
@@ -2204,20 +2204,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
+                    "VODKA",
                     "1/2 "
                 ],
                 [
-                    "Lemonade",
-                    "1/2 can "
+                    "LEMONADE",
+                    "1/2 CAN "
                 ],
                 [
-                    "Water",
+                    "WATER",
                     "1/2 "
                 ],
                 [
-                    "Sugar",
-                    "10 tsp "
+                    "SUGAR",
+                    "10 TSP "
                 ]
             ],
             "instructions": "Fill blender up with ice. Fill half with Bartons Vodka. Put 10 tsp of sugar, add 1/2 can lemonade concentrate, fill to top with water. Blend for 60 seconds.",
@@ -2230,16 +2230,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sweet Vermouth",
-                    "2 shots "
+                    "SWEET VERMOUTH",
+                    "2 SHOTS "
                 ],
                 [
-                    "Dry Vermouth",
-                    "1 shot "
+                    "DRY VERMOUTH",
+                    "1 SHOT "
                 ],
                 [
-                    "Soda Water",
-                    "Top up with\n"
+                    "SODA WATER",
+                    "TOP UP WITH\n"
                 ]
             ],
             "instructions": "Mix both the vermouth's in a shaker and strain into a cold glass. Top up with a squirt of Soda Water. ",
@@ -2252,12 +2252,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 1/2 shot "
+                    "GIN",
+                    "1 1/2 SHOT "
                 ],
                 [
-                    "Vermouth",
-                    "1 1/2 shot "
+                    "VERMOUTH",
+                    "1 1/2 SHOT "
                 ]
             ],
             "instructions": "Shake together all the ingredients and strain into a cold glass.",
@@ -2270,16 +2270,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1 shot "
+                    "VODKA",
+                    "1 SHOT "
                 ],
                 [
-                    "Grenadine",
-                    "1 tblsp "
+                    "GRENADINE",
+                    "1 TBLSP "
                 ],
                 [
-                    "Orange juice",
-                    "Fill with "
+                    "ORANGE JUICE",
+                    "FILL WITH "
                 ]
             ],
             "instructions": "Combine ingredients in the order listed into a shaker. Fill half full with ice and shake well. Strain into glass with ice and garnish with a cherry and orange wedge.",
@@ -2292,32 +2292,32 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Rum",
-                    "1 shot "
+                    "RUM",
+                    "1 SHOT "
                 ],
                 [
-                    "Dry Vermouth",
-                    "1/2 shot "
+                    "DRY VERMOUTH",
+                    "1/2 SHOT "
                 ],
                 [
-                    "Cognac",
-                    "1/2 shot "
+                    "COGNAC",
+                    "1/2 SHOT "
                 ],
                 [
-                    "Gin",
-                    "1/2 shot "
+                    "GIN",
+                    "1/2 SHOT "
                 ],
                 [
-                    "Fresh Lime Juice",
-                    "1/4 shot"
+                    "FRESH LIME JUICE",
+                    "1/4 SHOT"
                 ],
                 [
-                    "Sugar Syrup",
-                    "1/4 shot"
+                    "SUGAR SYRUP",
+                    "1/4 SHOT"
                 ],
                 [
-                    "Water",
-                    "1/2 shot "
+                    "WATER",
+                    "1/2 SHOT "
                 ]
             ],
             "instructions": "Shake together all the ingredients and strain into a cold glass.",
@@ -2330,16 +2330,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sweet Vermouth",
-                    "3/4 oz "
+                    "SWEET VERMOUTH",
+                    "3/4 OZ "
                 ],
                 [
-                    "Sherry",
-                    "1 1/2 oz dry "
+                    "SHERRY",
+                    "1 1/2 OZ DRY "
                 ],
                 [
-                    "Orange bitters",
-                    "1 dash "
+                    "ORANGE BITTERS",
+                    "1 DASH "
                 ]
             ],
             "instructions": "Stir all ingredients with ice, strain contents into a cocktail glass, and serve.",
@@ -2352,16 +2352,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Strawberry schnapps",
-                    "2 oz "
+                    "STRAWBERRY SCHNAPPS",
+                    "2 OZ "
                 ],
                 [
-                    "Orange juice",
-                    "2 oz "
+                    "ORANGE JUICE",
+                    "2 OZ "
                 ],
                 [
-                    "Cranberry juice",
-                    "2 oz "
+                    "CRANBERRY JUICE",
+                    "2 OZ "
                 ]
             ],
             "instructions": "Pour schnapps, orange juice, and cranberry juice over ice in a highball glass. Top with club soda and serve.",
@@ -2374,20 +2374,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Scotch",
-                    "1 1/2 oz "
+                    "SCOTCH",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Sweet Vermouth",
-                    "1 oz "
+                    "SWEET VERMOUTH",
+                    "1 OZ "
                 ],
                 [
-                    "Dry Vermouth",
-                    "1 oz "
+                    "DRY VERMOUTH",
+                    "1 OZ "
                 ],
                 [
-                    "Orange bitters",
-                    "2 dashes "
+                    "ORANGE BITTERS",
+                    "2 DASHES "
                 ]
             ],
             "instructions": "In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.",
@@ -2400,19 +2400,19 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Apricot brandy",
-                    "1 oz "
+                    "APRICOT BRANDY",
+                    "1 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1 oz "
+                    "TRIPLE SEC",
+                    "1 OZ "
                 ],
                 [
-                    "Lime",
-                    "Juice of 1 "
+                    "LIME",
+                    "JUICE OF 1 "
                 ],
                 [
-                    "Lime",
+                    "LIME",
                     "1 "
                 ]
             ],
@@ -2435,16 +2435,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Triple sec",
-                    "1 oz "
+                    "TRIPLE SEC",
+                    "1 OZ "
                 ],
                 [
-                    "Apricot brandy",
-                    "1 oz "
+                    "APRICOT BRANDY",
+                    "1 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1/2 tsp "
+                    "LEMON JUICE",
+                    "1/2 TSP "
                 ]
             ],
             "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
@@ -2457,12 +2457,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "2 cl "
+                    "VODKA",
+                    "2 CL "
                 ],
                 [
-                    "Creme de Banane",
-                    "1 cl "
+                    "CREME DE BANANE",
+                    "1 CL "
                 ]
             ],
             "instructions": "Pour the vodka and creme over some ice cubes in a tall glass and fill up with juice. to make it beuty full make the top of the glass with a grenadine and sugar",
@@ -2475,16 +2475,16 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Grenadine",
-                    "1 part "
+                    "GRENADINE",
+                    "1 PART "
                 ],
                 [
-                    "Orange juice",
-                    "4 parts "
+                    "ORANGE JUICE",
+                    "4 PARTS "
                 ],
                 [
-                    "Pineapple juice",
-                    "4 parts "
+                    "PINEAPPLE JUICE",
+                    "4 PARTS "
                 ]
             ],
             "instructions": "Mix. Serve over ice.",
@@ -2497,20 +2497,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Kahlua",
-                    "1 cl "
+                    "KAHLUA",
+                    "1 CL "
                 ],
                 [
-                    "Bailey's irish cream",
-                    "1 cl "
+                    "BAILEY'S IRISH CREAM",
+                    "1 CL "
                 ],
                 [
-                    "Frangelico",
+                    "FRANGELICO",
                     "1 1/2 "
                 ],
                 [
-                    "Coffee",
-                    "4 cl hot "
+                    "COFFEE",
+                    "4 CL HOT "
                 ]
             ],
             "instructions": "Build into a suiting glass, with no ice. Cream on top if wanted. Served directly.",
@@ -2523,20 +2523,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Southern Comfort",
-                    "1 oz "
+                    "SOUTHERN COMFORT",
+                    "1 OZ "
                 ],
                 [
-                    "Amaretto",
-                    "1 oz "
+                    "AMARETTO",
+                    "1 OZ "
                 ],
                 [
-                    "Sloe gin",
-                    "1/2 oz "
+                    "SLOE GIN",
+                    "1/2 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1 dash "
+                    "LEMON JUICE",
+                    "1 DASH "
                 ]
             ],
             "instructions": "Pour all ingredients (except for lemon juice) over ice in a highball glass. Stir, add a dash of lemon juice, and serve.",
@@ -2549,20 +2549,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Orange bitters",
-                    "2 dashes "
+                    "ORANGE BITTERS",
+                    "2 DASHES "
                 ],
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Yellow Chartreuse",
-                    "3/4 oz "
+                    "YELLOW CHARTREUSE",
+                    "3/4 OZ "
                 ],
                 [
-                    "Lemon peel",
-                    "Twist of "
+                    "LEMON PEEL",
+                    "TWIST OF "
                 ]
             ],
             "instructions": "Stir all ingredients with ice, strain contents into a cocktail glass. Drop in a twist of lemon and serve.",
@@ -2575,16 +2575,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1/2 oz "
+                    "GIN",
+                    "1/2 OZ "
                 ],
                 [
-                    "Creme de Cacao",
-                    "1/2 oz white "
+                    "CREME DE CACAO",
+                    "1/2 OZ WHITE "
                 ],
                 [
-                    "Light cream",
-                    "2 oz "
+                    "LIGHT CREAM",
+                    "2 OZ "
                 ]
             ],
             "instructions": "Shake all ingredients with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.",
@@ -2597,16 +2597,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Lemon vodka",
-                    "1 1/2 oz "
+                    "LEMON VODKA",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1 dash "
+                    "TRIPLE SEC",
+                    "1 DASH "
                 ],
                 [
-                    "Pineapple juice",
-                    "1 tblsp "
+                    "PINEAPPLE JUICE",
+                    "1 TBLSP "
                 ]
             ],
             "instructions": "Combine and shake all ingredients with ice, strain into a cocktail glass, and serve.",
@@ -2619,16 +2619,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Blended whiskey",
-                    "1 1/2 oz "
+                    "BLENDED WHISKEY",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Dry Vermouth",
-                    "1 oz "
+                    "DRY VERMOUTH",
+                    "1 OZ "
                 ],
                 [
-                    "Pineapple juice",
-                    "1 oz "
+                    "PINEAPPLE JUICE",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Combine and shake all ingredients with ice, strain contents into a cocktail glass, and serve.",
@@ -2641,20 +2641,20 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Grenadine",
-                    "1 cl "
+                    "GRENADINE",
+                    "1 CL "
                 ],
                 [
-                    "Orange juice",
-                    "1 cl "
+                    "ORANGE JUICE",
+                    "1 CL "
                 ],
                 [
-                    "Pineapple juice",
-                    "2 cl "
+                    "PINEAPPLE JUICE",
+                    "2 CL "
                 ],
                 [
-                    "Cream",
-                    "4 cl "
+                    "CREAM",
+                    "4 CL "
                 ]
             ],
             "instructions": "Shake well, strain into a large cocktail glass.",
@@ -2667,16 +2667,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Amaretto",
-                    "1 shot "
+                    "AMARETTO",
+                    "1 SHOT "
                 ],
                 [
-                    "Grand Marnier",
-                    "1 shot "
+                    "GRAND MARNIER",
+                    "1 SHOT "
                 ],
                 [
-                    "Southern Comfort",
-                    "1 shot "
+                    "SOUTHERN COMFORT",
+                    "1 SHOT "
                 ]
             ],
             "instructions": "Just mix the three ingredients one to one to one",
@@ -2689,24 +2689,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Dry Vermouth",
-                    "1 oz "
+                    "DRY VERMOUTH",
+                    "1 OZ "
                 ],
                 [
-                    "Bourbon",
-                    "1 oz "
+                    "BOURBON",
+                    "1 OZ "
                 ],
                 [
-                    "Blackberry brandy",
-                    "1 1/2 tsp "
+                    "BLACKBERRY BRANDY",
+                    "1 1/2 TSP "
                 ],
                 [
-                    "Lemon juice",
-                    "1 1/2 tsp "
+                    "LEMON JUICE",
+                    "1 1/2 TSP "
                 ],
                 [
-                    "Lemon peel",
-                    "1 twist of "
+                    "LEMON PEEL",
+                    "1 TWIST OF "
                 ]
             ],
             "instructions": "Shake all ingredients (except lemon peel) with ice and strain into a cocktail glass. Top with the twist of lemon peel and serve.",
@@ -2719,16 +2719,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Dry Vermouth",
-                    "1 oz "
+                    "DRY VERMOUTH",
+                    "1 OZ "
                 ],
                 [
-                    "Gin",
-                    "1 oz "
+                    "GIN",
+                    "1 OZ "
                 ],
                 [
-                    "Kummel",
-                    "1/2 tsp "
+                    "KUMMEL",
+                    "1/2 TSP "
                 ]
             ],
             "instructions": "Stir all ingredients with ice, strain contents into a cocktail glass, and serve.",
@@ -2741,15 +2741,15 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Dark rum",
-                    "2 oz "
+                    "DARK RUM",
+                    "2 OZ "
                 ],
                 [
-                    "Kahlua",
-                    "1 oz "
+                    "KAHLUA",
+                    "1 OZ "
                 ],
                 [
-                    "Egg white",
+                    "EGG WHITE",
                     "1 "
                 ]
             ],
@@ -2763,16 +2763,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Amaretto",
-                    "3/4 oz "
+                    "AMARETTO",
+                    "3/4 OZ "
                 ],
                 [
-                    "Dark Creme de Cacao",
-                    "1/2 oz "
+                    "DARK CREME DE CACAO",
+                    "1/2 OZ "
                 ],
                 [
-                    "Coffee",
-                    "8 oz "
+                    "COFFEE",
+                    "8 OZ "
                 ]
             ],
             "instructions": "Pour in order into coffee cup. Top with whipped creme and chocolate shcvings.",
@@ -2785,16 +2785,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Amaretto",
-                    "1/2 oz "
+                    "AMARETTO",
+                    "1/2 OZ "
                 ],
                 [
-                    "Creme de Cacao",
-                    "1/2 oz white "
+                    "CREME DE CACAO",
+                    "1/2 OZ WHITE "
                 ],
                 [
-                    "Light cream",
-                    "2 oz "
+                    "LIGHT CREAM",
+                    "2 OZ "
                 ]
             ],
             "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
@@ -2807,32 +2807,32 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Water",
-                    "3/4 cup "
+                    "WATER",
+                    "3/4 CUP "
                 ],
                 [
-                    "Ginger",
-                    "2 tsp "
+                    "GINGER",
+                    "2 TSP "
                 ],
                 [
-                    "Guava juice",
-                    "2 cups "
+                    "GUAVA JUICE",
+                    "2 CUPS "
                 ],
                 [
-                    "Lemon juice",
-                    "1 1/2 tblsp "
+                    "LEMON JUICE",
+                    "1 1/2 TBLSP "
                 ],
                 [
-                    "Pineapple",
-                    "1 1/2 cup "
+                    "PINEAPPLE",
+                    "1 1/2 CUP "
                 ],
                 [
-                    "Sugar",
-                    "1 cup "
+                    "SUGAR",
+                    "1 CUP "
                 ],
                 [
-                    "Pineapple juice",
-                    "3-4 cups "
+                    "PINEAPPLE JUICE",
+                    "3-4 CUPS "
                 ]
             ],
             "instructions": "Add 1/4 cup water to ginger root. Boil 3 minutes. Strain. Add the liquid to the guava, lemon and pineapple juices. Make a syrup of sugar and remaining water. Cool. Combine with juices and pineapple. Chill throroughly.",
@@ -2845,12 +2845,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Amaretto",
-                    "1 1/2 oz "
+                    "AMARETTO",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Light cream",
-                    "1 1/2 oz "
+                    "LIGHT CREAM",
+                    "1 1/2 OZ "
                 ]
             ],
             "instructions": "Shake well with cracked ice, strain contents into a cocktail glass, and serve.",
@@ -2863,48 +2863,48 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sugar",
-                    "1 cup"
+                    "SUGAR",
+                    "1 CUP"
                 ],
                 [
-                    "Water",
-                    "3/4 cup "
+                    "WATER",
+                    "3/4 CUP "
                 ],
                 [
-                    "Apricot",
+                    "APRICOT",
                     "2 "
                 ],
                 [
-                    "Almond flavoring",
-                    "1 tblsp "
+                    "ALMOND FLAVORING",
+                    "1 TBLSP "
                 ],
                 [
-                    "Grain alcohol",
-                    "1/2 cup pure "
+                    "GRAIN ALCOHOL",
+                    "1/2 CUP PURE "
                 ],
                 [
-                    "Water",
-                    "1/2 cup "
+                    "WATER",
+                    "1/2 CUP "
                 ],
                 [
-                    "Brandy",
-                    "1 cup "
+                    "BRANDY",
+                    "1 CUP "
                 ],
                 [
-                    "Food coloring",
-                    "3 drops yellow "
+                    "FOOD COLORING",
+                    "3 DROPS YELLOW "
                 ],
                 [
-                    "Food coloring",
-                    "6 drops red "
+                    "FOOD COLORING",
+                    "6 DROPS RED "
                 ],
                 [
-                    "Food coloring",
-                    "2 drops blue "
+                    "FOOD COLORING",
+                    "2 DROPS BLUE "
                 ],
                 [
-                    "Glycerine",
-                    "1/2 tsp "
+                    "GLYCERINE",
+                    "1/2 TSP "
                 ]
             ],
             "instructions": "Combine sugar and 3/4 cup water in a small saucepan. Bring to a boil, stirring constantly. Reduce heat and simmer until all sugar is dissolved. Remove from heat and cool. In an aging container, combine apricot halves, almond extract, grain alcohol with 1/2 cup water, and brandy. Stir in cooled sugar syrup mixture. Cap and let age for 2 days. Remove apricot halves. (Save apricot halves, can be used for cooking). Add food coloring and glycerine. Stir, recap and continue aging for 1 to 2 months. Re-bottle as desired. Liqueur is ready to serve but will continue to improve with additional aging.",
@@ -2917,11 +2917,11 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Amaretto",
-                    "1 1/2 oz "
+                    "AMARETTO",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Lime",
+                    "LIME",
                     "1 "
                 ]
             ],
@@ -2935,12 +2935,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Amaretto",
-                    "1 1/2 oz "
+                    "AMARETTO",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Lime juice",
-                    "1/2 oz "
+                    "LIME JUICE",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "Pour amaretto and lime juice over ice in a collins glass. Fill with club soda and serve.",
@@ -2953,16 +2953,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Chocolate ice-cream",
-                    "2 scoops "
+                    "CHOCOLATE ICE-CREAM",
+                    "2 SCOOPS "
                 ],
                 [
-                    "Brandy",
-                    "2 oz "
+                    "BRANDY",
+                    "2 OZ "
                 ],
                 [
-                    "Amaretto",
-                    "2 oz "
+                    "AMARETTO",
+                    "2 OZ "
                 ]
             ],
             "instructions": "Combine all ingredients in a blender and blend at high speed until smooth. Serve in chilled glass garnished with bittersweet chocolate shavings.",
@@ -2975,12 +2975,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Amaretto",
-                    "1 1/2 oz "
+                    "AMARETTO",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Sour mix",
-                    "3 oz "
+                    "SOUR MIX",
+                    "3 OZ "
                 ]
             ],
             "instructions": "Shake and strain. Garnish with a cherry and an orange slice.",
@@ -2993,12 +2993,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Amaretto",
-                    "1 1/2 oz "
+                    "AMARETTO",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "White Creme de Menthe",
-                    "3/4 oz "
+                    "WHITE CREME DE MENTHE",
+                    "3/4 OZ "
                 ]
             ],
             "instructions": "Shake ingredients well with cracked ice, strain into a cocktail glass, and serve.",
@@ -3011,16 +3011,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Amaretto",
-                    "1 part "
+                    "AMARETTO",
+                    "1 PART "
                 ],
                 [
-                    "Sour mix",
-                    "1 part "
+                    "SOUR MIX",
+                    "1 PART "
                 ],
                 [
-                    "Orange juice",
-                    "1 part "
+                    "ORANGE JUICE",
+                    "1 PART "
                 ]
             ],
             "instructions": "Shake and Serve over ice",
@@ -3033,20 +3033,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sour mix",
-                    "2 oz "
+                    "SOUR MIX",
+                    "2 OZ "
                 ],
                 [
-                    "Amaretto",
-                    "2 oz "
+                    "AMARETTO",
+                    "2 OZ "
                 ],
                 [
-                    "Tequila",
-                    "2 oz "
+                    "TEQUILA",
+                    "2 OZ "
                 ],
                 [
-                    "Orange juice",
-                    "Add splash "
+                    "ORANGE JUICE",
+                    "ADD SPLASH "
                 ]
             ],
             "instructions": "Shake sour mix, tequila and amaretto with ice. Strain into highball glass. Add a splash of OJ. Garnish with orange slice and a cherry.",
@@ -3059,16 +3059,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Amaretto",
-                    "1 cl "
+                    "AMARETTO",
+                    "1 CL "
                 ],
                 [
-                    "Orange juice",
-                    "4 oz "
+                    "ORANGE JUICE",
+                    "4 OZ "
                 ],
                 [
-                    "Grenadine",
-                    "1/4 cl "
+                    "GRENADINE",
+                    "1/4 CL "
                 ]
             ],
             "instructions": "Mix together the amaretto and orange juice. Pour into glass and then add the grenadine untill you see the sunrise.",
@@ -3081,20 +3081,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Triple sec",
-                    "1/2 jigger "
+                    "TRIPLE SEC",
+                    "1/2 JIGGER "
                 ],
                 [
-                    "Amaretto",
-                    "3 shots "
+                    "AMARETTO",
+                    "3 SHOTS "
                 ],
                 [
-                    "Cider",
-                    "1/2 cup "
+                    "CIDER",
+                    "1/2 CUP "
                 ],
                 [
-                    "Ice",
-                    "Add 1/2 cup "
+                    "ICE",
+                    "ADD 1/2 CUP "
                 ]
             ],
             "instructions": "Shake ingredients in bartender's mixer quickly, just 5 shakes. Strain out ice, serve in glass immediately with a slice of orange.",
@@ -3116,16 +3116,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Tea",
-                    "6 oz hot "
+                    "TEA",
+                    "6 OZ HOT "
                 ],
                 [
-                    "Amaretto",
-                    "2 oz "
+                    "AMARETTO",
+                    "2 OZ "
                 ],
                 [
-                    "Whipped cream",
-                    "Chilled "
+                    "WHIPPED CREAM",
+                    "CHILLED "
                 ]
             ],
             "instructions": "Pour hot tea into a pousse-cafe glass, using a spoon in glass to prevent cracking. Add amaretto, but do not stir. Top with chilled whipped cream and serve.",
@@ -3138,20 +3138,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Campari",
-                    "1 oz "
+                    "CAMPARI",
+                    "1 OZ "
                 ],
                 [
-                    "Sweet Vermouth",
-                    "1 oz red "
+                    "SWEET VERMOUTH",
+                    "1 OZ RED "
                 ],
                 [
-                    "Lemon peel",
-                    "Twist of "
+                    "LEMON PEEL",
+                    "TWIST OF "
                 ],
                 [
-                    "Orange peel",
-                    "Twist of "
+                    "ORANGE PEEL",
+                    "TWIST OF "
                 ]
             ],
             "instructions": "Pour the Campari and vermouth over ice into glass, add a splash of soda water and garnish with half orange slice.",
@@ -3164,16 +3164,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Apricot brandy",
-                    "1/2 oz "
+                    "APRICOT BRANDY",
+                    "1/2 OZ "
                 ],
                 [
-                    "Apple brandy",
-                    "1/2 oz "
+                    "APPLE BRANDY",
+                    "1/2 OZ "
                 ],
                 [
-                    "Gin",
-                    "1 oz "
+                    "GIN",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Shake all ingredients with ice and strain contents into a cocktail glass.",
@@ -3186,52 +3186,52 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Angelica root",
-                    "3 tblsp chopped"
+                    "ANGELICA ROOT",
+                    "3 TBLSP CHOPPED"
                 ],
                 [
-                    "Almond",
-                    "1 tblsp chopped "
+                    "ALMOND",
+                    "1 TBLSP CHOPPED "
                 ],
                 [
-                    "Allspice",
-                    "1 cracked "
+                    "ALLSPICE",
+                    "1 CRACKED "
                 ],
                 [
-                    "Cinnamon",
-                    "1 one-inch "
+                    "CINNAMON",
+                    "1 ONE-INCH "
                 ],
                 [
-                    "Anise",
-                    "3-6 crushed "
+                    "ANISE",
+                    "3-6 CRUSHED "
                 ],
                 [
-                    "Coriander",
-                    "1/8 tsp powdered "
+                    "CORIANDER",
+                    "1/8 TSP POWDERED "
                 ],
                 [
-                    "Marjoram leaves",
-                    "1 tblsp fresh chopped "
+                    "MARJORAM LEAVES",
+                    "1 TBLSP FRESH CHOPPED "
                 ],
                 [
-                    "Vodka",
-                    "1.5 cup "
+                    "VODKA",
+                    "1.5 CUP "
                 ],
                 [
-                    "Sugar",
-                    "1/2 cup granulated "
+                    "SUGAR",
+                    "1/2 CUP GRANULATED "
                 ],
                 [
-                    "Water",
-                    "1/4 cup "
+                    "WATER",
+                    "1/4 CUP "
                 ],
                 [
-                    "Food coloring",
-                    "1 drop yellow "
+                    "FOOD COLORING",
+                    "1 DROP YELLOW "
                 ],
                 [
-                    "Food coloring",
-                    "1 drop green "
+                    "FOOD COLORING",
+                    "1 DROP GREEN "
                 ]
             ],
             "instructions": "Combine all herbs, nuts and spices with vodka in a 1 quart or larger aging container. Cap tightly and shake daily for 2 weeks. Strain through a fine muslin cloth or coffee filter, discarding solids. Clean out aging container. Place liquid back in container. Place sugar and water in saucepan and stir to combine over medium heat. When sugar is completely dissolved, set aside and let cool. When cool combine with food coloring and add to liqueur liquid. Cap and allow to age and mellow in a cool, dark place for one month.",
@@ -3244,19 +3244,19 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Orange juice",
-                    "4 cl "
+                    "ORANGE JUICE",
+                    "4 CL "
                 ],
                 [
-                    "Grapefruit juice",
-                    "3 cl "
+                    "GRAPEFRUIT JUICE",
+                    "3 CL "
                 ],
                 [
-                    "Apple juice",
-                    "1 cl "
+                    "APPLE JUICE",
+                    "1 CL "
                 ],
                 [
-                    "Maraschino cherry",
+                    "MARASCHINO CHERRY",
                     "1 "
                 ]
             ],
@@ -3270,11 +3270,11 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Berries",
-                    "1 cup "
+                    "BERRIES",
+                    "1 CUP "
                 ],
                 [
-                    "Apple",
+                    "APPLE",
                     "2 "
                 ]
             ],
@@ -3288,36 +3288,36 @@ const cocktailData = {
             "alcoholic": "OPTIONAL ALCOHOL",
             "ingredients": [
                 [
-                    "Apple cider",
-                    "4 qt "
+                    "APPLE CIDER",
+                    "4 QT "
                 ],
                 [
-                    "Brown sugar",
-                    "1 cup "
+                    "BROWN SUGAR",
+                    "1 CUP "
                 ],
                 [
-                    "Lemonade",
-                    "6 oz frozen "
+                    "LEMONADE",
+                    "6 OZ FROZEN "
                 ],
                 [
-                    "Orange juice",
-                    "6 oz frozen "
+                    "ORANGE JUICE",
+                    "6 OZ FROZEN "
                 ],
                 [
-                    "Cloves",
-                    "6 whole "
+                    "CLOVES",
+                    "6 WHOLE "
                 ],
                 [
-                    "Allspice",
-                    "6 whole "
+                    "ALLSPICE",
+                    "6 WHOLE "
                 ],
                 [
-                    "Nutmeg",
-                    "1 tsp ground "
+                    "NUTMEG",
+                    "1 TSP GROUND "
                 ],
                 [
-                    "Cinnamon",
-                    "3 sticks "
+                    "CINNAMON",
+                    "3 STICKS "
                 ]
             ],
             "instructions": "If you use the whole all spice and cloves, tie them in cheesecloth. Heat the mixture. Stir occasionally. If you want an alcoholic drink, rum would be nice.",
@@ -3330,12 +3330,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Tequila",
-                    "3 oz "
+                    "TEQUILA",
+                    "3 OZ "
                 ],
                 [
-                    "Apple cider",
-                    "12 oz "
+                    "APPLE CIDER",
+                    "12 OZ "
                 ]
             ],
             "instructions": "Chill both ingredients!! Mix in a tumbler and enjoy!",
@@ -3348,12 +3348,12 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Apple juice",
-                    "2 cups "
+                    "APPLE JUICE",
+                    "2 CUPS "
                 ],
                 [
-                    "Carrot",
-                    "1 large "
+                    "CARROT",
+                    "1 LARGE "
                 ]
             ],
             "instructions": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.",
@@ -3366,16 +3366,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Apple juice",
-                    "3 parts "
+                    "APPLE JUICE",
+                    "3 PARTS "
                 ],
                 [
-                    "Malibu rum",
-                    "1 part "
+                    "MALIBU RUM",
+                    "1 PART "
                 ],
                 [
-                    "Cinnamon",
-                    "3 dashes "
+                    "CINNAMON",
+                    "3 DASHES "
                 ]
             ],
             "instructions": "Just mix the two liquids and sprinkle in the cinnamon. Serve either cold or heated.",
@@ -3388,12 +3388,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "7-Up",
-                    "1 part "
+                    "7-UP",
+                    "1 PART "
                 ],
                 [
-                    "Apple schnapps",
-                    "1 part "
+                    "APPLE SCHNAPPS",
+                    "1 PART "
                 ]
             ],
             "instructions": "pour into a shot glass and present to consumer, they are expected to cover the top of the shotglass with thier palm, raise the glass, slam it on the bar and the swallow quickly.",
@@ -3406,16 +3406,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Applejack",
-                    "1 oz "
+                    "APPLEJACK",
+                    "1 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1 oz "
+                    "TRIPLE SEC",
+                    "1 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1 oz "
+                    "LEMON JUICE",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
@@ -3428,16 +3428,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Jack Daniels",
-                    "1 oz "
+                    "JACK DANIELS",
+                    "1 OZ "
                 ],
                 [
-                    "Midori melon liqueur",
-                    "1/2 oz "
+                    "MIDORI MELON LIQUEUR",
+                    "1/2 OZ "
                 ],
                 [
-                    "Sour mix",
-                    "2 oz "
+                    "SOUR MIX",
+                    "2 OZ "
                 ]
             ],
             "instructions": "Add all ingredients into mixing glass, chill and strain into cocktail glass",
@@ -3450,27 +3450,27 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "1 1/2 oz "
+                    "LIGHT RUM",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Apricot brandy",
-                    "1 oz "
+                    "APRICOT BRANDY",
+                    "1 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1 tsp "
+                    "TRIPLE SEC",
+                    "1 TSP "
                 ],
                 [
-                    "Lemon juice",
-                    "1/2 oz "
+                    "LEMON JUICE",
+                    "1/2 OZ "
                 ],
                 [
-                    "Egg white",
+                    "EGG WHITE",
                     "1 "
                 ],
                 [
-                    "Orange",
+                    "ORANGE",
                     "1 "
                 ]
             ],
@@ -3484,24 +3484,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Apricot brandy",
-                    "1 qt "
+                    "APRICOT BRANDY",
+                    "1 QT "
                 ],
                 [
-                    "Champagne",
-                    "4 fifth "
+                    "CHAMPAGNE",
+                    "4 FIFTH "
                 ],
                 [
-                    "Vodka",
-                    "1 fifth "
+                    "VODKA",
+                    "1 FIFTH "
                 ],
                 [
-                    "7-Up",
+                    "7-UP",
                     "4 L "
                 ],
                 [
-                    "Orange juice",
-                    "1/2 gal "
+                    "ORANGE JUICE",
+                    "1/2 GAL "
                 ]
             ],
             "instructions": "Pour all ingrediants into a large punch bowl. Add ice and 4 oranges that are peeled and divided.",
@@ -3514,19 +3514,19 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ],
                 [
-                    "Wine",
-                    "1 oz Green Ginger "
+                    "WINE",
+                    "1 OZ GREEN GINGER "
                 ],
                 [
-                    "Benedictine",
-                    "1 tsp "
+                    "BENEDICTINE",
+                    "1 TSP "
                 ],
                 [
-                    "Lime",
+                    "LIME",
                     "1 "
                 ]
             ],
@@ -3540,24 +3540,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1/3 part "
+                    "VODKA",
+                    "1/3 PART "
                 ],
                 [
-                    "Grape soda",
-                    "1/3 part "
+                    "GRAPE SODA",
+                    "1/3 PART "
                 ],
                 [
-                    "Orange juice",
-                    "1/3 part "
+                    "ORANGE JUICE",
+                    "1/3 PART "
                 ],
                 [
-                    "Ice",
-                    "lots "
+                    "ICE",
+                    "LOTS "
                 ],
                 [
-                    "Candy",
-                    "1 dash "
+                    "CANDY",
+                    "1 DASH "
                 ]
             ],
             "instructions": "Fill glass with ice and fish, add vodka, grape soda and orange juice. DO NOT STIR!!!!! Serve well chilled.",
@@ -3570,16 +3570,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Maui",
-                    "5 oz blue "
+                    "MAUI",
+                    "5 OZ BLUE "
                 ],
                 [
-                    "Mountain Dew",
-                    "5 oz "
+                    "MOUNTAIN DEW",
+                    "5 OZ "
                 ],
                 [
-                    "Ice",
-                    " cubes\n"
+                    "ICE",
+                    " CUBES\n"
                 ]
             ],
             "instructions": "Blend all ingredients in a blender on high until ice is finely crushed. It should be of a slushy consistency. Pour immediately and serve.",
@@ -3592,12 +3592,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Champagne",
-                    "Chilled "
+                    "CHAMPAGNE",
+                    "CHILLED "
                 ],
                 [
-                    "Green Creme de Menthe",
-                    "1 tsp "
+                    "GREEN CREME DE MENTHE",
+                    "1 TSP "
                 ]
             ],
             "instructions": "Put creme de menthe into a champagne flute. Fill with chilled champagne and serve.",
@@ -3610,16 +3610,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1/3 oz "
+                    "VODKA",
+                    "1/3 OZ "
                 ],
                 [
-                    "Midori melon liqueur",
-                    "1/3 oz "
+                    "MIDORI MELON LIQUEUR",
+                    "1/3 OZ "
                 ],
                 [
-                    "Sweet and sour",
-                    "1/3 oz "
+                    "SWEET AND SOUR",
+                    "1/3 OZ "
                 ]
             ],
             "instructions": "Pour all ingredients into shot glass and slam !!!!",
@@ -3632,12 +3632,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Absolut Vodka",
-                    "2 shots "
+                    "ABSOLUT VODKA",
+                    "2 SHOTS "
                 ],
                 [
-                    "Iced tea",
-                    "12 oz lemon "
+                    "ICED TEA",
+                    "12 OZ LEMON "
                 ]
             ],
             "instructions": "Place ice cubes in the hurricane glass . Add the 2 HEAPING shots of Absolute Vodka (Note: You can add as many shots of Absolute as you want!) Fill the rest of glass with the Arizona Icetea with lemon. Stir to mix using a spoon. Drink up and enjoy!!!!!!!",
@@ -3650,40 +3650,40 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1 shot "
+                    "VODKA",
+                    "1 SHOT "
                 ],
                 [
-                    "Malibu rum",
-                    "1 shot "
+                    "MALIBU RUM",
+                    "1 SHOT "
                 ],
                 [
-                    "Gold tequila",
-                    "1 shot "
+                    "GOLD TEQUILA",
+                    "1 SHOT "
                 ],
                 [
-                    "Orange juice",
-                    "1 splash "
+                    "ORANGE JUICE",
+                    "1 SPLASH "
                 ],
                 [
-                    "Pineapple juice",
-                    "1 splash "
+                    "PINEAPPLE JUICE",
+                    "1 SPLASH "
                 ],
                 [
-                    "Cream of coconut",
-                    "1 splash "
+                    "CREAM OF COCONUT",
+                    "1 SPLASH "
                 ],
                 [
-                    "Grenadine",
-                    "1 dash "
+                    "GRENADINE",
+                    "1 DASH "
                 ],
                 [
-                    "Ice",
-                    "crushed "
+                    "ICE",
+                    "CRUSHED "
                 ],
                 [
-                    "Pineapple",
-                    "1 wedge "
+                    "PINEAPPLE",
+                    "1 WEDGE "
                 ]
             ],
             "instructions": "Just mix in the shots of rum, vodka, and tequila. Add splashes of the three juices, heavy on the pineapple. Top off with grenadine. Crushed ice should already be in glass. Top off the glass with a pineapple wedge.",
@@ -3696,20 +3696,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "30 ml "
+                    "VODKA",
+                    "30 ML "
                 ],
                 [
-                    "Gin",
-                    "30 ml "
+                    "GIN",
+                    "30 ML "
                 ],
                 [
-                    "Lime juice cordial",
-                    "45 ml "
+                    "LIME JUICE CORDIAL",
+                    "45 ML "
                 ],
                 [
-                    "Ice",
-                    "1/2 glass crushed "
+                    "ICE",
+                    "1/2 GLASS CRUSHED "
                 ]
             ],
             "instructions": "Pour Vodka, Gin and lime cordial into glass, and top up with crushed ice. Wait for ice to melt slightly and sip without a straw.",
@@ -3722,20 +3722,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ],
                 [
-                    "Grand Marnier",
-                    "1/2 oz "
+                    "GRAND MARNIER",
+                    "1/2 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "2 tsp "
+                    "LEMON JUICE",
+                    "2 TSP "
                 ],
                 [
-                    "Lemon peel",
-                    "1 twist of "
+                    "LEMON PEEL",
+                    "1 TWIST OF "
                 ]
             ],
             "instructions": "In a shaker half-filled with ice cubes, combine the gin, Grand Marnier, and lemon juice. Shake well. Strain into a sour glass and garnish with the lemon twist.",
@@ -3748,16 +3748,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sweet Vermouth",
-                    "1 1/2 tsp "
+                    "SWEET VERMOUTH",
+                    "1 1/2 TSP "
                 ],
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Bitters",
-                    "2 dashes "
+                    "BITTERS",
+                    "2 DASHES "
                 ]
             ],
             "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
@@ -3770,36 +3770,36 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Tea",
-                    "1 quart black "
+                    "TEA",
+                    "1 QUART BLACK "
                 ],
                 [
-                    "Rye whiskey",
-                    "1 quart "
+                    "RYE WHISKEY",
+                    "1 QUART "
                 ],
                 [
-                    "Red wine",
-                    "1 fifth "
+                    "RED WINE",
+                    "1 FIFTH "
                 ],
                 [
-                    "Rum",
-                    "1 pint Jamaican "
+                    "RUM",
+                    "1 PINT JAMAICAN "
                 ],
                 [
-                    "Brandy",
-                    "1/2 pint "
+                    "BRANDY",
+                    "1/2 PINT "
                 ],
                 [
-                    "Benedictine",
-                    "1 1/2 oz "
+                    "BENEDICTINE",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Orange juice",
-                    "1 pint "
+                    "ORANGE JUICE",
+                    "1 PINT "
                 ],
                 [
-                    "Lemon juice",
-                    "1/2 pint "
+                    "LEMON JUICE",
+                    "1/2 PINT "
                 ]
             ],
             "instructions": "Combine all the ingredients in a large punch bowl with a block of ice. If found too dry, sugar syrup may be added. Decorate with twists of lemon peel.",
@@ -3812,24 +3812,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "2 cl Smirnoff "
+                    "VODKA",
+                    "2 CL SMIRNOFF "
                 ],
                 [
-                    "Southern Comfort",
-                    "2 cl "
+                    "SOUTHERN COMFORT",
+                    "2 CL "
                 ],
                 [
-                    "Passion fruit syrup",
-                    "2 cl "
+                    "PASSION FRUIT SYRUP",
+                    "2 CL "
                 ],
                 [
-                    "Sweet and sour",
-                    "6 cl "
+                    "SWEET AND SOUR",
+                    "6 CL "
                 ],
                 [
-                    "Club soda",
-                    "1 dash "
+                    "CLUB SODA",
+                    "1 DASH "
                 ]
             ],
             "instructions": "Shake all the ingredients, top the drink with soda. Garnish with a slice of orange.",
@@ -3842,20 +3842,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Lemonade",
-                    "5 oz "
+                    "LEMONADE",
+                    "5 OZ "
                 ],
                 [
-                    "Vodka",
-                    "1 oz "
+                    "VODKA",
+                    "1 OZ "
                 ],
                 [
-                    "Blue Curacao",
-                    "1/2 oz "
+                    "BLUE CURACAO",
+                    "1/2 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1/2 oz "
+                    "TRIPLE SEC",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "In a shaker, place lemonade, vodka, blue Curacao, and triple sec together. Shake with ice and strain into glass. Add sugar to taste",
@@ -3868,12 +3868,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "J\u00e4germeister",
-                    "1 oz "
+                    "J\u00c4GERMEISTER",
+                    "1 OZ "
                 ],
                 [
-                    "Goldschlager",
-                    "1 oz "
+                    "GOLDSCHLAGER",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Mix in spread glass over ice. Strain and pour in shot glass. Sit down before shotting. ENJOY!!",
@@ -3886,12 +3886,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "4 cl "
+                    "VODKA",
+                    "4 CL "
                 ],
                 [
-                    "Lime juice",
-                    "1 dash "
+                    "LIME JUICE",
+                    "1 DASH "
                 ]
             ],
             "instructions": "Mix and fill up with soda water. Drunk by finns on a sunny day any time of the year and day.",
@@ -3904,16 +3904,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Crown Royal",
-                    "1 shot "
+                    "CROWN ROYAL",
+                    "1 SHOT "
                 ],
                 [
-                    "Kahlua",
-                    "1 shot "
+                    "KAHLUA",
+                    "1 SHOT "
                 ],
                 [
-                    "Cream",
-                    "Fill with "
+                    "CREAM",
+                    "FILL WITH "
                 ]
             ],
             "instructions": "Mix in highball glass over ice, shake well.",
@@ -3926,20 +3926,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "3 parts"
+                    "VODKA",
+                    "3 PARTS"
                 ],
                 [
-                    "Pisang Ambon",
-                    "1 part "
+                    "PISANG AMBON",
+                    "1 PART "
                 ],
                 [
-                    "Apple juice",
-                    "6 parts "
+                    "APPLE JUICE",
+                    "6 PARTS "
                 ],
                 [
-                    "Lemon juice",
-                    "1 1/2 part "
+                    "LEMON JUICE",
+                    "1 1/2 PART "
                 ]
             ],
             "instructions": "Fill a tall glass with ice. Layer the Finlandia Vodka, lemon and apple juices, Pisang Ambon, and top up with lemonade. Stir slightly and garnish with a spiralled cucumber skin and a red cherry. The cucumber provides zest and looks attractive. This drink, created by Timo Haimi, took first prize in the 1991 Finlandia Vodka Long Drink Competition.",
@@ -3952,16 +3952,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "4.5 cl"
+                    "GIN",
+                    "4.5 CL"
                 ],
                 [
-                    "lemon juice",
-                    "1.5 cl"
+                    "LEMON JUICE",
+                    "1.5 CL"
                 ],
                 [
-                    "maraschino liqueur",
-                    "1.5 cl"
+                    "MARASCHINO LIQUEUR",
+                    "1.5 CL"
                 ]
             ],
             "instructions": "Add all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass. Garnish with a cherry.",
@@ -3974,20 +3974,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Lemonade",
-                    "1 can "
+                    "LEMONADE",
+                    "1 CAN "
                 ],
                 [
-                    "Vodka",
-                    "5 oz "
+                    "VODKA",
+                    "5 OZ "
                 ],
                 [
-                    "Rum",
-                    "7 oz "
+                    "RUM",
+                    "7 OZ "
                 ],
                 [
-                    "Ginger ale",
-                    "About 1 bottle "
+                    "GINGER ALE",
+                    "ABOUT 1 BOTTLE "
                 ]
             ],
             "instructions": "Mix all ingredients in a pitcher. Mix thoroughly and pour into whatever is available, the bigger the better! This drink packs a big punch, so don't over do it.",
@@ -4000,15 +4000,15 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Bailey's irish cream",
+                    "BAILEY'S IRISH CREAM",
                     "1/3 "
                 ],
                 [
-                    "Grand Marnier",
+                    "GRAND MARNIER",
                     "1/3 "
                 ],
                 [
-                    "Kahlua",
+                    "KAHLUA",
                     "1/4 "
                 ]
             ],
@@ -4022,16 +4022,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Kahlua",
-                    "1/3 shot "
+                    "KAHLUA",
+                    "1/3 SHOT "
                 ],
                 [
-                    "Sambuca",
-                    "1/3 shot "
+                    "SAMBUCA",
+                    "1/3 SHOT "
                 ],
                 [
-                    "Grand Marnier",
-                    "1/3 shot "
+                    "GRAND MARNIER",
+                    "1/3 SHOT "
                 ]
             ],
             "instructions": "Layer the Kahlua, Sambucca and Grand Marnier into a shot glas in that order. Better than B-52",
@@ -4044,16 +4044,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Kahlua",
-                    "2 oz "
+                    "KAHLUA",
+                    "2 OZ "
                 ],
                 [
-                    "Milk",
-                    "8 oz "
+                    "MILK",
+                    "8 OZ "
                 ],
                 [
-                    "Vanilla ice-cream",
-                    "2 scoops "
+                    "VANILLA ICE-CREAM",
+                    "2 SCOOPS "
                 ]
             ],
             "instructions": "Leave ice-cream out for about 10 minutes. Add ingredients in order, stir with chopstick (butter knife or spoon works too). Consume immediately and often. Nice and light, great for following a heavy drink.",
@@ -4066,12 +4066,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Kahlua",
-                    "2 1/2 oz "
+                    "KAHLUA",
+                    "2 1/2 OZ "
                 ],
                 [
-                    "Bailey's irish cream",
-                    "1/2 oz "
+                    "BAILEY'S IRISH CREAM",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "Pour Kahlua, almost filling shot glass. Then, carefully pour Baileys, using wall of shot glass. This will give the \"Guinness\" its \"head\".",
@@ -4084,20 +4084,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "1 3/4 oz Bacardi "
+                    "LIGHT RUM",
+                    "1 3/4 OZ BACARDI "
                 ],
                 [
-                    "Lime juice",
-                    "1 oz "
+                    "LIME JUICE",
+                    "1 OZ "
                 ],
                 [
-                    "Sugar syrup",
-                    "1/2 tsp "
+                    "SUGAR SYRUP",
+                    "1/2 TSP "
                 ],
                 [
-                    "Grenadine",
-                    "1 dash "
+                    "GRENADINE",
+                    "1 DASH "
                 ]
             ],
             "instructions": "Shake together with ice. Strain into glass and serve.",
@@ -4110,12 +4110,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Bailey's irish cream",
-                    "2 oz "
+                    "BAILEY'S IRISH CREAM",
+                    "2 OZ "
                 ],
                 [
-                    "Vanilla ice-cream",
-                    "2 scoops "
+                    "VANILLA ICE-CREAM",
+                    "2 SCOOPS "
                 ]
             ],
             "instructions": "Blend ingredients for 30 seconds. Definitely refreshing for a hot summer's day !",
@@ -4128,20 +4128,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Scotch",
-                    "1 1/2 oz "
+                    "SCOTCH",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Sweet Vermouth",
-                    "1/2 oz "
+                    "SWEET VERMOUTH",
+                    "1/2 OZ "
                 ],
                 [
-                    "Dry Vermouth",
-                    "1/2 oz "
+                    "DRY VERMOUTH",
+                    "1/2 OZ "
                 ],
                 [
-                    "Bitters",
-                    "2 dashes "
+                    "BITTERS",
+                    "2 DASHES "
                 ]
             ],
             "instructions": "In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.",
@@ -4154,11 +4154,11 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Cantaloupe",
-                    "Juice of 1/2 "
+                    "CANTALOUPE",
+                    "JUICE OF 1/2 "
                 ],
                 [
-                    "Banana",
+                    "BANANA",
                     "1 "
                 ]
             ],
@@ -4172,27 +4172,27 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "1 1/2 oz "
+                    "LIGHT RUM",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1 tblsp "
+                    "TRIPLE SEC",
+                    "1 TBLSP "
                 ],
                 [
-                    "Banana",
+                    "BANANA",
                     "1 "
                 ],
                 [
-                    "Lime juice",
-                    "1 1/2 oz "
+                    "LIME JUICE",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Sugar",
-                    "1 tsp "
+                    "SUGAR",
+                    "1 TSP "
                 ],
                 [
-                    "Cherry",
+                    "CHERRY",
                     "1 "
                 ]
             ],
@@ -4206,19 +4206,19 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Milk",
-                    "10 cl cold "
+                    "MILK",
+                    "10 CL COLD "
                 ],
                 [
-                    "Orange juice",
-                    "4 cl "
+                    "ORANGE JUICE",
+                    "4 CL "
                 ],
                 [
-                    "Sugar syrup",
-                    "2 tsp "
+                    "SUGAR SYRUP",
+                    "2 TSP "
                 ],
                 [
-                    "Banana",
+                    "BANANA",
                     "1/2 "
                 ]
             ],
@@ -4232,24 +4232,24 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Strawberries",
-                    "1/2 lb frozen "
+                    "STRAWBERRIES",
+                    "1/2 LB FROZEN "
                 ],
                 [
-                    "Banana",
-                    "1 frozen "
+                    "BANANA",
+                    "1 FROZEN "
                 ],
                 [
-                    "Yoghurt",
-                    "1 cup plain "
+                    "YOGHURT",
+                    "1 CUP PLAIN "
                 ],
                 [
-                    "Milk",
-                    "1 cup "
+                    "MILK",
+                    "1 CUP "
                 ],
                 [
-                    "Honey",
-                    " to taste\n"
+                    "HONEY",
+                    " TO TASTE\n"
                 ]
             ],
             "instructions": "Blend all together in a blender until smooth.",
@@ -4262,16 +4262,16 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Strawberries",
-                    "1/2 lb frozen "
+                    "STRAWBERRIES",
+                    "1/2 LB FROZEN "
                 ],
                 [
-                    "Banana",
-                    "1 frozen "
+                    "BANANA",
+                    "1 FROZEN "
                 ],
                 [
-                    "Apple juice",
-                    "2 cups fresh "
+                    "APPLE JUICE",
+                    "2 CUPS FRESH "
                 ]
             ],
             "instructions": "Blend all together in a blender until smooth.",
@@ -4284,24 +4284,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Rum",
-                    "4.5 cl"
+                    "RUM",
+                    "4.5 CL"
                 ],
                 [
-                    "Galliano",
-                    "1.5 cl"
+                    "GALLIANO",
+                    "1.5 CL"
                 ],
                 [
-                    "Pineapple Juice",
-                    "6 cl"
+                    "PINEAPPLE JUICE",
+                    "6 CL"
                 ],
                 [
-                    "Lime Juice",
-                    " 1 dash"
+                    "LIME JUICE",
+                    " 1 DASH"
                 ],
                 [
-                    "Prosecco",
-                    "top up "
+                    "PROSECCO",
+                    "TOP UP "
                 ]
             ],
             "instructions": "Shake pour ingredients with ice. Strain into glass, top with Sparkling wine.",
@@ -4314,20 +4314,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "2 cl "
+                    "VODKA",
+                    "2 CL "
                 ],
                 [
-                    "Coconut liqueur",
-                    "1 cl "
+                    "COCONUT LIQUEUR",
+                    "1 CL "
                 ],
                 [
-                    "Blue Curacao",
-                    "1 cl "
+                    "BLUE CURACAO",
+                    "1 CL "
                 ],
                 [
-                    "Sprite",
-                    "Fill with "
+                    "SPRITE",
+                    "FILL WITH "
                 ]
             ],
             "instructions": "Just pour all ingredients in the glass and stir...",
@@ -4340,12 +4340,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Champagne",
-                    "6 oz "
+                    "CHAMPAGNE",
+                    "6 OZ "
                 ],
                 [
-                    "Peach schnapps",
-                    "1 oz "
+                    "PEACH SCHNAPPS",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Pour peach pur\u00e9e into chilled flute, add sparkling wine. Stir gently.",
@@ -4358,23 +4358,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Ice",
-                    "8 cubes "
+                    "ICE",
+                    "8 CUBES "
                 ],
                 [
-                    "Vodka",
-                    "3 oz "
+                    "VODKA",
+                    "3 OZ "
                 ],
                 [
-                    "Peach nectar",
-                    "1.5 oz "
+                    "PEACH NECTAR",
+                    "1.5 OZ "
                 ],
                 [
-                    "Peach schnapps",
-                    "1.5 oz "
+                    "PEACH SCHNAPPS",
+                    "1.5 OZ "
                 ],
                 [
-                    "Lemon peel",
+                    "LEMON PEEL",
                     "1 "
                 ]
             ],
@@ -4388,16 +4388,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Brandy",
-                    "3/4 oz "
+                    "BRANDY",
+                    "3/4 OZ "
                 ],
                 [
-                    "Gin",
-                    "3/4 oz "
+                    "GIN",
+                    "3/4 OZ "
                 ],
                 [
-                    "Dry Vermouth",
-                    "3/4 oz "
+                    "DRY VERMOUTH",
+                    "3/4 OZ "
                 ]
             ],
             "instructions": "Pour brandy, gin, and dry vermouth into a highball glass over ice cubes. Fill with carbonated water and stir. Add the twist of lemon and serve. (Ginger ale may be substituted for carbonated water, if preferred.)",
@@ -4410,20 +4410,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Everclear",
-                    "2 pint "
+                    "EVERCLEAR",
+                    "2 PINT "
                 ],
                 [
-                    "Wine",
-                    "1 bottle Boone Strawberry Hill "
+                    "WINE",
+                    "1 BOTTLE BOONE STRAWBERRY HILL "
                 ],
                 [
-                    "Orange juice",
-                    "1/2 gal "
+                    "ORANGE JUICE",
+                    "1/2 GAL "
                 ],
                 [
-                    "Kool-Aid",
-                    "1 gal Tropical Berry "
+                    "KOOL-AID",
+                    "1 GAL TROPICAL BERRY "
                 ]
             ],
             "instructions": "Add all ingredients to large bowl. Stir gently. Serve chilled.",
@@ -4436,20 +4436,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Brandy",
-                    "1 oz "
+                    "BRANDY",
+                    "1 OZ "
                 ],
                 [
-                    "Light rum",
-                    "1 oz "
+                    "LIGHT RUM",
+                    "1 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1 oz "
+                    "TRIPLE SEC",
+                    "1 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1 oz "
+                    "LEMON JUICE",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Pour all ingredients into shaker with ice cubes, shake, strain into chilled cocktail glass.",
@@ -4462,20 +4462,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Southern Comfort",
-                    "2 oz "
+                    "SOUTHERN COMFORT",
+                    "2 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1/2 oz "
+                    "TRIPLE SEC",
+                    "1/2 OZ "
                 ],
                 [
-                    "Lime",
-                    "2 wedges "
+                    "LIME",
+                    "2 WEDGES "
                 ],
                 [
-                    "Sour mix",
-                    "2 oz "
+                    "SOUR MIX",
+                    "2 OZ "
                 ]
             ],
             "instructions": "Mix all ingredients, and pour over ice.",
@@ -4488,12 +4488,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Irish cream",
-                    "1/2 oz "
+                    "IRISH CREAM",
+                    "1/2 OZ "
                 ],
                 [
-                    "Goldschlager",
-                    "1/2 oz "
+                    "GOLDSCHLAGER",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "Pour ingredients into 1 ounce shot glass",
@@ -4506,12 +4506,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Ale",
-                    "1 part Bass pale "
+                    "ALE",
+                    "1 PART BASS PALE "
                 ],
                 [
-                    "Guinness stout",
-                    "1 part "
+                    "GUINNESS STOUT",
+                    "1 PART "
                 ]
             ],
             "instructions": "Fill pint glass half full with Bass. Next pour Guiness over a spoon slowly until glass is full. If done correctly the Guiness will stay on top and the Bass on bottom hence the name Black & Tan.",
@@ -4524,8 +4524,8 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Ice",
-                    " cubes\n"
+                    "ICE",
+                    " CUBES\n"
                 ]
             ],
             "instructions": "In a blender put ice cubes, chocolate syrup, cherry brandy, vodka, and milk. Blend very well.",
@@ -4538,12 +4538,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Coffee liqueur",
-                    "3/4 oz "
+                    "COFFEE LIQUEUR",
+                    "3/4 OZ "
                 ],
                 [
-                    "Vodka",
-                    "1 1/2 oz "
+                    "VODKA",
+                    "1 1/2 OZ "
                 ]
             ],
             "instructions": "Pour the ingredients into an old fashioned glass filled with ice cubes. Stir gently.",
@@ -4556,11 +4556,11 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Guinness stout",
+                    "GUINNESS STOUT",
                     "1/2 "
                 ],
                 [
-                    "Root beer",
+                    "ROOT BEER",
                     "1/2 "
                 ]
             ],
@@ -4574,16 +4574,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sweet Vermouth",
-                    "1 oz "
+                    "SWEET VERMOUTH",
+                    "1 OZ "
                 ],
                 [
-                    "Sloe gin",
-                    "1 1/2 oz "
+                    "SLOE GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Lemon peel",
-                    "1 twist of "
+                    "LEMON PEEL",
+                    "1 TWIST OF "
                 ]
             ],
             "instructions": "Stir sloe gin and vermouth with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.",
@@ -4596,20 +4596,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Dark rum",
-                    "1 shot "
+                    "DARK RUM",
+                    "1 SHOT "
                 ],
                 [
-                    "Orange",
-                    "1 slice "
+                    "ORANGE",
+                    "1 SLICE "
                 ],
                 [
-                    "Surge",
-                    "1/2 glass "
+                    "SURGE",
+                    "1/2 GLASS "
                 ],
                 [
-                    "Cranberry juice",
-                    "1/2 glass "
+                    "CRANBERRY JUICE",
+                    "1/2 GLASS "
                 ]
             ],
             "instructions": "Pour Shot of Rum over slice of orange. Fill the remaining space in glass half way full of surge or similar drink. Finish off glass with cranberry juice. Be carefull, warm surge may foam over the glass.",
@@ -4622,24 +4622,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Bailey's irish cream",
-                    "3/4 oz "
+                    "BAILEY'S IRISH CREAM",
+                    "3/4 OZ "
                 ],
                 [
-                    "Godiva liqueur",
-                    "3/4 oz "
+                    "GODIVA LIQUEUR",
+                    "3/4 OZ "
                 ],
                 [
-                    "Kahlua",
-                    "3/4 oz "
+                    "KAHLUA",
+                    "3/4 OZ "
                 ],
                 [
-                    "Butterscotch schnapps",
-                    "1/2 oz "
+                    "BUTTERSCOTCH SCHNAPPS",
+                    "1/2 OZ "
                 ],
                 [
-                    "Milk",
-                    " to fill\n"
+                    "MILK",
+                    " TO FILL\n"
                 ]
             ],
             "instructions": "Fill glass with ice. Add all liquers. Add milk. shake.",
@@ -4652,28 +4652,28 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Tequila",
-                    "1 oz "
+                    "TEQUILA",
+                    "1 OZ "
                 ],
                 [
-                    "Tomato juice",
-                    "2 oz "
+                    "TOMATO JUICE",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1 dash "
+                    "LEMON JUICE",
+                    "1 DASH "
                 ],
                 [
-                    "Tabasco sauce",
-                    "1 dash "
+                    "TABASCO SAUCE",
+                    "1 DASH "
                 ],
                 [
-                    "Celery salt",
-                    "1 dash "
+                    "CELERY SALT",
+                    "1 DASH "
                 ],
                 [
-                    "Lemon",
-                    "1 slice "
+                    "LEMON",
+                    "1 SLICE "
                 ]
             ],
             "instructions": "Shake all ingredients (except lemon slice) with cracked ice and strain into an old-fashioned glass over ice cubes. Add the slice of lemon and serve.",
@@ -4686,28 +4686,28 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1 1/2 oz "
+                    "VODKA",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Tomato juice",
-                    "3 oz "
+                    "TOMATO JUICE",
+                    "3 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1 dash "
+                    "LEMON JUICE",
+                    "1 DASH "
                 ],
                 [
-                    "Worcestershire sauce",
-                    "1/2 tsp "
+                    "WORCESTERSHIRE SAUCE",
+                    "1/2 TSP "
                 ],
                 [
-                    "Tabasco sauce",
-                    "2-3 drops "
+                    "TABASCO SAUCE",
+                    "2-3 DROPS "
                 ],
                 [
-                    "Lime",
-                    "1 wedge "
+                    "LIME",
+                    "1 WEDGE "
                 ]
             ],
             "instructions": "Stirring gently, pour all ingredients into highball glass. Garnish.",
@@ -4720,12 +4720,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1 oz "
+                    "VODKA",
+                    "1 OZ "
                 ],
                 [
-                    "Blue Curacao",
-                    "1 oz "
+                    "BLUE CURACAO",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Pour vodka and curacao over ice in a highball glass. Fill with lemonade, top with the cherry, and serve.",
@@ -4738,20 +4738,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Tequila",
-                    "1 1/2 oz "
+                    "TEQUILA",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Blue Curacao",
-                    "1 oz "
+                    "BLUE CURACAO",
+                    "1 OZ "
                 ],
                 [
-                    "Lime juice",
-                    "1 oz "
+                    "LIME JUICE",
+                    "1 OZ "
                 ],
                 [
-                    "Salt",
-                    "Coarse "
+                    "SALT",
+                    "COARSE "
                 ]
             ],
             "instructions": "Rub rim of cocktail glass with lime juice. Dip rim in coarse salt. Shake tequila, blue curacao, and lime juice with ice, strain into the salt-rimmed glass, and serve.",
@@ -4764,24 +4764,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "A\u00f1ejo rum",
-                    "1 1/2 oz "
+                    "A\u00d1EJO RUM",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Tia maria",
-                    "1/2 oz "
+                    "TIA MARIA",
+                    "1/2 OZ "
                 ],
                 [
-                    "Vodka",
-                    "1/2 oz "
+                    "VODKA",
+                    "1/2 OZ "
                 ],
                 [
-                    "Orange juice",
-                    "1 oz "
+                    "ORANGE JUICE",
+                    "1 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1 tsp "
+                    "LEMON JUICE",
+                    "1 TSP "
                 ]
             ],
             "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into an old-fashioned glass alomst filled with ice cubes.",
@@ -4794,28 +4794,28 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1/2 oz "
+                    "TRIPLE SEC",
+                    "1/2 OZ "
                 ],
                 [
-                    "Blue Curacao",
-                    "1/2 oz "
+                    "BLUE CURACAO",
+                    "1/2 OZ "
                 ],
                 [
-                    "Bitters",
-                    "2 dashes "
+                    "BITTERS",
+                    "2 DASHES "
                 ],
                 [
-                    "Maraschino cherry",
+                    "MARASCHINO CHERRY",
                     "1 "
                 ],
                 [
-                    "Lemon peel",
-                    "1 twist of "
+                    "LEMON PEEL",
+                    "1 TWIST OF "
                 ]
             ],
             "instructions": "In a mixing glass half-filled with crushed ice, combine the gin, triple sec, Curacao, and bitters. Stir well. Strain into a cocktail glass and garnish with the lemon twist and the cherry.",
@@ -4828,16 +4828,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Midori melon liqueur",
-                    "1/2 oz "
+                    "MIDORI MELON LIQUEUR",
+                    "1/2 OZ "
                 ],
                 [
-                    "J\u00e4germeister",
-                    "1/2 oz "
+                    "J\u00c4GERMEISTER",
+                    "1/2 OZ "
                 ],
                 [
-                    "Goldschlager",
-                    "1/2 oz "
+                    "GOLDSCHLAGER",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "Layer in a 2 oz shot glass or pony glass",
@@ -4850,20 +4850,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sweet Vermouth",
-                    "1 1/2 oz "
+                    "SWEET VERMOUTH",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Scotch",
-                    "1 1/2 oz "
+                    "SCOTCH",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Benedictine",
-                    "1 1/4 tsp "
+                    "BENEDICTINE",
+                    "1 1/4 TSP "
                 ],
                 [
-                    "Lemon peel",
-                    "1 twist of "
+                    "LEMON PEEL",
+                    "1 TWIST OF "
                 ]
             ],
             "instructions": "Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.",
@@ -4876,23 +4876,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ],
                 [
-                    "Dry Vermouth",
-                    "1/2 oz "
+                    "DRY VERMOUTH",
+                    "1/2 OZ "
                 ],
                 [
-                    "Bitters",
-                    "2 dashes "
+                    "BITTERS",
+                    "2 DASHES "
                 ],
                 [
-                    "Maraschino liqueur",
-                    "1/2 tsp "
+                    "MARASCHINO LIQUEUR",
+                    "1/2 TSP "
                 ],
                 [
-                    "Maraschino cherry",
+                    "MARASCHINO CHERRY",
                     "1 "
                 ]
             ],
@@ -4906,31 +4906,31 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vanilla Ice-Cream",
-                    "3 cups "
+                    "VANILLA ICE-CREAM",
+                    "3 CUPS "
                 ],
                 [
-                    "Milk",
-                    "1 cup "
+                    "MILK",
+                    "1 CUP "
                 ],
                 [
-                    "Godiva liqueur",
-                    "1/2 cup "
+                    "GODIVA LIQUEUR",
+                    "1/2 CUP "
                 ],
                 [
-                    "Whipped Cream",
-                    "for topping"
+                    "WHIPPED CREAM",
+                    "FOR TOPPING"
                 ],
                 [
-                    "caramel sauce",
-                    "4 tablespoons\n"
+                    "CARAMEL SAUCE",
+                    "4 TABLESPOONS\n"
                 ],
                 [
-                    "chocolate sauce",
-                    "4 tablespoons\n"
+                    "CHOCOLATE SAUCE",
+                    "4 TABLESPOONS\n"
                 ],
                 [
-                    "Mini-snickers bars",
+                    "MINI-SNICKERS BARS",
                     "15\n"
                 ]
             ],
@@ -4944,20 +4944,20 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Pineapple juice",
-                    "10 cl "
+                    "PINEAPPLE JUICE",
+                    "10 CL "
                 ],
                 [
-                    "Passion fruit juice",
-                    "6 cl "
+                    "PASSION FRUIT JUICE",
+                    "6 CL "
                 ],
                 [
-                    "Lemon juice",
-                    "1 cl "
+                    "LEMON JUICE",
+                    "1 CL "
                 ],
                 [
-                    "Grenadine",
-                    "1 cl "
+                    "GRENADINE",
+                    "1 CL "
                 ]
             ],
             "instructions": "Prepare in a blender or shaker, serve in a highball glass on the rocks. Garnish with 1 slice of pineapple and one cherry.",
@@ -4970,20 +4970,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "3/4 oz "
+                    "LIGHT RUM",
+                    "3/4 OZ "
                 ],
                 [
-                    "Brandy",
-                    "3/4 oz "
+                    "BRANDY",
+                    "3/4 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "3/4 oz "
+                    "TRIPLE SEC",
+                    "3/4 OZ "
                 ],
                 [
-                    "Lime",
-                    "Juice of 1/2 "
+                    "LIME",
+                    "JUICE OF 1/2 "
                 ]
             ],
             "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
@@ -4996,27 +4996,27 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Blended whiskey",
-                    "2 oz "
+                    "BLENDED WHISKEY",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1/2 "
+                    "LEMON",
+                    "JUICE OF 1/2 "
                 ],
                 [
-                    "Powdered sugar",
-                    "1 tsp "
+                    "POWDERED SUGAR",
+                    "1 TSP "
                 ],
                 [
-                    "Egg white",
+                    "EGG WHITE",
                     "1 "
                 ],
                 [
-                    "Lemon",
-                    "1 slice "
+                    "LEMON",
+                    "1 SLICE "
                 ],
                 [
-                    "Cherry",
+                    "CHERRY",
                     "1 "
                 ]
             ],
@@ -5030,24 +5030,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sugar",
-                    "1 tsp superfine "
+                    "SUGAR",
+                    "1 TSP SUPERFINE "
                 ],
                 [
-                    "Water",
-                    "2 tsp "
+                    "WATER",
+                    "2 TSP "
                 ],
                 [
-                    "Lemon juice",
-                    "1 oz "
+                    "LEMON JUICE",
+                    "1 OZ "
                 ],
                 [
-                    "Bourbon",
-                    "2 oz "
+                    "BOURBON",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon peel",
-                    "1 twist of "
+                    "LEMON PEEL",
+                    "1 TWIST OF "
                 ]
             ],
             "instructions": "In a shaker half-filled with ice cubes, combine the sugar, water, lemon juice, and bourbon. Shake well. Strain well. Strain into a highball glass. Garnish with the lemon twist.",
@@ -5060,23 +5060,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Bourbon",
-                    "2 oz "
+                    "BOURBON",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1 oz "
+                    "LEMON JUICE",
+                    "1 OZ "
                 ],
                 [
-                    "Sugar",
-                    "1/2 tsp superfine "
+                    "SUGAR",
+                    "1/2 TSP SUPERFINE "
                 ],
                 [
-                    "Orange",
+                    "ORANGE",
                     "1 "
                 ],
                 [
-                    "Maraschino cherry",
+                    "MARASCHINO CHERRY",
                     "1 "
                 ]
             ],
@@ -5090,23 +5090,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1 oz "
+                    "TRIPLE SEC",
+                    "1 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1 tsp "
+                    "LEMON JUICE",
+                    "1 TSP "
                 ],
                 [
-                    "Grenadine",
-                    "1/2 tsp "
+                    "GRENADINE",
+                    "1/2 TSP "
                 ],
                 [
-                    "Egg white",
+                    "EGG WHITE",
                     "1 "
                 ]
             ],
@@ -5120,28 +5120,28 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Everclear",
-                    "1 fifth "
+                    "EVERCLEAR",
+                    "1 FIFTH "
                 ],
                 [
-                    "Vodka",
-                    "1 fifth Smirnoff red label "
+                    "VODKA",
+                    "1 FIFTH SMIRNOFF RED LABEL "
                 ],
                 [
-                    "Mountain Dew",
+                    "MOUNTAIN DEW",
                     "2 L "
                 ],
                 [
-                    "Surge",
+                    "SURGE",
                     "2 L "
                 ],
                 [
-                    "Lemon juice",
-                    "1 small bottle "
+                    "LEMON JUICE",
+                    "1 SMALL BOTTLE "
                 ],
                 [
-                    "Rum",
-                    "1 pint "
+                    "RUM",
+                    "1 PINT "
                 ]
             ],
             "instructions": "Mix all ingredients together. Slowly and gently. Works best if ice is added to punch bowl and soda's are very cold.",
@@ -5154,16 +5154,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sambuca",
-                    "30 ml white "
+                    "SAMBUCA",
+                    "30 ML WHITE "
                 ],
                 [
-                    "Erin Cream",
-                    "30 ml "
+                    "ERIN CREAM",
+                    "30 ML "
                 ],
                 [
-                    "Advocaat",
-                    "5 ml "
+                    "ADVOCAAT",
+                    "5 ML "
                 ]
             ],
             "instructions": "layered erin first, then sambuca and then avocart(should sit in middle of other two. To drink: use a straw to suck up avocart then shot the rest and then suck fumes up through straw.",
@@ -5176,20 +5176,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "4 cl"
+                    "GIN",
+                    "4 CL"
                 ],
                 [
-                    "lemon juice",
-                    "1.5 cl"
+                    "LEMON JUICE",
+                    "1.5 CL"
                 ],
                 [
-                    "Sugar syrup",
-                    "1 cl"
+                    "SUGAR SYRUP",
+                    "1 CL"
                 ],
                 [
-                    "Creme de Mure",
-                    "1.5 cl"
+                    "CREME DE MURE",
+                    "1.5 CL"
                 ]
             ],
             "instructions": "Fill glass with crushed ice. Build gin, lemon juice and simple syrup over. Stir, and then pour blackberry liqueur over in a circular fashion to create marbling effect. Garnish with two blackberries and lemon slice.",
@@ -5202,16 +5202,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vanilla ice-cream",
-                    "2 scoops "
+                    "VANILLA ICE-CREAM",
+                    "2 SCOOPS "
                 ],
                 [
-                    "Coca-Cola",
-                    "1 can "
+                    "COCA-COLA",
+                    "1 CAN "
                 ],
                 [
-                    "Bourbon",
-                    "2 oz "
+                    "BOURBON",
+                    "2 OZ "
                 ]
             ],
             "instructions": "Scoop two large scoops of vanilla ice-cream into frosted beer mug. Next, add 2 ounces Maker's Mark. Then, pour in coke. Gently stir and enjoy.",
@@ -5224,16 +5224,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Brandy",
-                    "1 oz "
+                    "BRANDY",
+                    "1 OZ "
                 ],
                 [
-                    "Creme de Cacao",
-                    "1 oz white "
+                    "CREME DE CACAO",
+                    "1 OZ WHITE "
                 ],
                 [
-                    "Light cream",
-                    "1 oz "
+                    "LIGHT CREAM",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Shake all ingredients (except nutmeg) with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.",
@@ -5246,27 +5246,27 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sugar",
-                    "1 tsp superfine "
+                    "SUGAR",
+                    "1 TSP SUPERFINE "
                 ],
                 [
-                    "Club soda",
-                    "3 oz "
+                    "CLUB SODA",
+                    "3 OZ "
                 ],
                 [
-                    "Lemon",
+                    "LEMON",
                     "1 "
                 ],
                 [
-                    "Brandy",
-                    "2 oz "
+                    "BRANDY",
+                    "2 OZ "
                 ],
                 [
-                    "Maraschino cherry",
+                    "MARASCHINO CHERRY",
                     "1 "
                 ],
                 [
-                    "Orange",
+                    "ORANGE",
                     "1 "
                 ]
             ],
@@ -5280,24 +5280,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Brandy",
-                    "2 oz "
+                    "BRANDY",
+                    "2 OZ "
                 ],
                 [
-                    "Egg",
-                    "1 whole "
+                    "EGG",
+                    "1 WHOLE "
                 ],
                 [
-                    "Sugar",
-                    "1 tsp superfine "
+                    "SUGAR",
+                    "1 TSP SUPERFINE "
                 ],
                 [
-                    "Light cream",
-                    "1/2 oz "
+                    "LIGHT CREAM",
+                    "1/2 OZ "
                 ],
                 [
-                    "Nutmeg",
-                    "1/8 tsp grated "
+                    "NUTMEG",
+                    "1/8 TSP GRATED "
                 ]
             ],
             "instructions": "In a shaker half-filled with ice cubes, combine the brandy, egg, sugar, and cream. Shake well. Strain into a sour glass and garnish with the nutmeg.",
@@ -5310,23 +5310,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Brandy",
-                    "2 oz "
+                    "BRANDY",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1/2 "
+                    "LEMON",
+                    "JUICE OF 1/2 "
                 ],
                 [
-                    "Powdered sugar",
-                    "1/2 tsp "
+                    "POWDERED SUGAR",
+                    "1/2 TSP "
                 ],
                 [
-                    "Lemon",
-                    "1/2 slice "
+                    "LEMON",
+                    "1/2 SLICE "
                 ],
                 [
-                    "Cherry",
+                    "CHERRY",
                     "1 "
                 ]
             ],
@@ -5340,12 +5340,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Tequila",
-                    "1/2 oz "
+                    "TEQUILA",
+                    "1/2 OZ "
                 ],
                 [
-                    "Tabasco sauce",
-                    "1/2 oz "
+                    "TABASCO SAUCE",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "Pour Tabasco into bottom of shot glass and fill with tequila.",
@@ -5367,20 +5367,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1/2 oz "
+                    "VODKA",
+                    "1/2 OZ "
                 ],
                 [
-                    "Chambord raspberry liqueur",
-                    "1/2 oz "
+                    "CHAMBORD RASPBERRY LIQUEUR",
+                    "1/2 OZ "
                 ],
                 [
-                    "Peachtree schnapps",
-                    "1/2 oz "
+                    "PEACHTREE SCHNAPPS",
+                    "1/2 OZ "
                 ],
                 [
-                    "Cranberry juice",
-                    "1/2 oz "
+                    "CRANBERRY JUICE",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "Pour all ingredients in a mixing tin over ice, stir, and strain into shot glass",
@@ -5393,19 +5393,19 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
+                    "VODKA",
                     "1/4 "
                 ],
                 [
-                    "Banana liqueur",
+                    "BANANA LIQUEUR",
                     "1/4 "
                 ],
                 [
-                    "Orange juice",
+                    "ORANGE JUICE",
                     "1/4 "
                 ],
                 [
-                    "Peach schnapps",
+                    "PEACH SCHNAPPS",
                     "1/4 "
                 ]
             ],
@@ -5419,12 +5419,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Corona",
+                    "CORONA",
                     "1 "
                 ],
                 [
-                    "Bacardi Limon",
-                    "1 shot "
+                    "BACARDI LIMON",
+                    "1 SHOT "
                 ]
             ],
             "instructions": "Pour the corona into an 18oz beer glass pour the bacardi limon into the beer stir very gently",
@@ -5437,16 +5437,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Bailey's irish cream",
-                    "1/3 oz "
+                    "BAILEY'S IRISH CREAM",
+                    "1/3 OZ "
                 ],
                 [
-                    "Kahlua",
-                    "1/3 oz "
+                    "KAHLUA",
+                    "1/3 OZ "
                 ],
                 [
-                    "Sambuca",
-                    "1/3 oz "
+                    "SAMBUCA",
+                    "1/3 OZ "
                 ]
             ],
             "instructions": "This is a layered shot. First pour the Bailey's into the shot glass. Then take an upside down spoon and touch it to the inside wall of the glass. Carefully add the Kahlua. Repeat this process for the Sambuca. If done properly, the alcohol will stay separated and resemble a bumble bee. Enjoy!!!",
@@ -5459,20 +5459,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vanilla Ice-Cream",
-                    "2 scoops "
+                    "VANILLA ICE-CREAM",
+                    "2 SCOOPS "
                 ],
                 [
-                    "Butterscotch schnapps",
-                    "1 part "
+                    "BUTTERSCOTCH SCHNAPPS",
+                    "1 PART "
                 ],
                 [
-                    "Milk",
-                    "full glass "
+                    "MILK",
+                    "FULL GLASS "
                 ],
                 [
-                    "Vodka",
-                    "2 parts "
+                    "VODKA",
+                    "2 PARTS "
                 ]
             ],
             "instructions": "Blend together in a blender. Serve in a chilled Beer mug with Fresh Blueberries and caramel for topping.",
@@ -5485,12 +5485,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Coffee",
-                    "1/2 oz "
+                    "COFFEE",
+                    "1/2 OZ "
                 ],
                 [
-                    "Milk",
-                    "1/2 oz "
+                    "MILK",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "Fill mug almost to top with coffee.Add milk, triple sec and brandy. Stir.",
@@ -5503,16 +5503,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sugar",
-                    "2 tsp"
+                    "SUGAR",
+                    "2 TSP"
                 ],
                 [
-                    "Lime",
+                    "LIME",
                     "1 "
                 ],
                 [
-                    "Cachaca",
-                    "2 1/2 oz "
+                    "CACHACA",
+                    "2 1/2 OZ "
                 ]
             ],
             "instructions": "Place lime and sugar into old fashioned glass and muddle (mash the two ingredients together using a muddler or a wooden spoon). Fill the glass with ice and add the Cacha\u00e7a.",
@@ -5525,20 +5525,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Lime",
+                    "LIME",
                     "2 "
                 ],
                 [
-                    "Sugar",
-                    "2 tblsp "
+                    "SUGAR",
+                    "2 TBLSP "
                 ],
                 [
-                    "White rum",
-                    "2-3 oz "
+                    "WHITE RUM",
+                    "2-3 OZ "
                 ],
                 [
-                    "Ice",
-                    "crushed "
+                    "ICE",
+                    "CRUSHED "
                 ]
             ],
             "instructions": "Same as Caipirinha but instead of cachaca you add WHITE RUM. It's great!!!!!!!!",
@@ -5551,24 +5551,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Blended whiskey",
-                    "2 oz "
+                    "BLENDED WHISKEY",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1 "
+                    "LEMON",
+                    "JUICE OF 1 "
                 ],
                 [
-                    "Lime",
-                    "Juice of 1 "
+                    "LIME",
+                    "JUICE OF 1 "
                 ],
                 [
-                    "Powdered sugar",
-                    "1 tblsp "
+                    "POWDERED SUGAR",
+                    "1 TBLSP "
                 ],
                 [
-                    "Grenadine",
-                    "1/4 tsp "
+                    "GRENADINE",
+                    "1/4 TSP "
                 ]
             ],
             "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a collins glass over shaved ice. Fill with carbonated water and stir. Decorate with slices of orange and lemon. Add the cherry and serve with a straw.",
@@ -5581,16 +5581,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Kahlua",
-                    "3/4 oz "
+                    "KAHLUA",
+                    "3/4 OZ "
                 ],
                 [
-                    "Galliano",
-                    "3/4 oz "
+                    "GALLIANO",
+                    "3/4 OZ "
                 ],
                 [
-                    "Soda water",
-                    "Fill with "
+                    "SODA WATER",
+                    "FILL WITH "
                 ]
             ],
             "instructions": "Put Kahlua and Galliano in highball glass fill with soda",
@@ -5603,12 +5603,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Lager",
-                    "1 bottle "
+                    "LAGER",
+                    "1 BOTTLE "
                 ],
                 [
-                    "Campari",
-                    "1 1/2 cl "
+                    "CAMPARI",
+                    "1 1/2 CL "
                 ]
             ],
             "instructions": "Use a 15 oz glass. Add Campari first. Fill with beer.",
@@ -5621,12 +5621,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Corona",
-                    "1 bottle "
+                    "CORONA",
+                    "1 BOTTLE "
                 ],
                 [
-                    "Light rum",
-                    "1 shot "
+                    "LIGHT RUM",
+                    "1 SHOT "
                 ]
             ],
             "instructions": "Pour the Corona into an 18oz beer glass pour the rum into the beer.",
@@ -5639,16 +5639,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Orange",
-                    "3 large "
+                    "ORANGE",
+                    "3 LARGE "
                 ],
                 [
-                    "Vodka",
-                    "3 cups "
+                    "VODKA",
+                    "3 CUPS "
                 ],
                 [
-                    "Sugar",
-                    "1 1/3 cup superfine "
+                    "SUGAR",
+                    "1 1/3 CUP SUPERFINE "
                 ]
             ],
             "instructions": "Pare very thinly the bright-colored rind from the oranges (no white). Blot the peel on paper towels to remove any excess oil. Put peel in a 4 cup screw-top jar. Add 2 cups vodka. Close jar. Store in a cool, dark place for 2 days or until the vodka has absorbed the flavor. Remove peel and add remaining vodka. Close jar and add remaining cup of vodka. Close the jar and store in a cool dark place at least 1 month to age.",
@@ -5661,23 +5661,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ],
                 [
-                    "Maraschino liqueur",
-                    "1/4 tsp "
+                    "MARASCHINO LIQUEUR",
+                    "1/4 TSP "
                 ],
                 [
-                    "Lemon juice",
-                    "1/4 tsp "
+                    "LEMON JUICE",
+                    "1/4 TSP "
                 ],
                 [
-                    "Orange bitters",
-                    "2 dashes "
+                    "ORANGE BITTERS",
+                    "2 DASHES "
                 ],
                 [
-                    "Cherry",
+                    "CHERRY",
                     "1 "
                 ]
             ],
@@ -5691,23 +5691,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1/2 oz "
+                    "LEMON JUICE",
+                    "1/2 OZ "
                 ],
                 [
-                    "Maraschino liqueur",
-                    "1 tsp "
+                    "MARASCHINO LIQUEUR",
+                    "1 TSP "
                 ],
                 [
-                    "Orange bitters",
-                    "1 dash "
+                    "ORANGE BITTERS",
+                    "1 DASH "
                 ],
                 [
-                    "Egg yolk",
+                    "EGG YOLK",
                     "1 "
                 ]
             ],
@@ -5721,24 +5721,24 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Cocoa powder",
-                    "1/2 cup "
+                    "COCOA POWDER",
+                    "1/2 CUP "
                 ],
                 [
-                    "Sugar",
-                    "1 cup "
+                    "SUGAR",
+                    "1 CUP "
                 ],
                 [
-                    "Cornstarch",
-                    "7 tsp "
+                    "CORNSTARCH",
+                    "7 TSP "
                 ],
                 [
-                    "Water",
-                    "1/2 cup "
+                    "WATER",
+                    "1/2 CUP "
                 ],
                 [
-                    "Milk",
-                    "1 qt "
+                    "MILK",
+                    "1 QT "
                 ]
             ],
             "instructions": "Shift the cocoa and sugar together into a medium-sized saucepan. Dissolve the cornstarch in the water, and stir into the cocoa and sugar until it is a smooth paste. Begin heating the mixture, stirring it with a whisk, and gradually pour in the milk. Continue stirring with the whisk as you bring the liquid to a simmer. Allow the chocolate to simmer for about 10 minutes, stirring often, until it is thick, glossy and completely smooth. Serve steaming hot in coffee mug. Serves six.",
@@ -5751,24 +5751,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Champagne",
-                    "Chilled "
+                    "CHAMPAGNE",
+                    "CHILLED "
                 ],
                 [
-                    "Sugar",
-                    "1 piece "
+                    "SUGAR",
+                    "1 PIECE "
                 ],
                 [
-                    "Bitters",
-                    "2 dashes "
+                    "BITTERS",
+                    "2 DASHES "
                 ],
                 [
-                    "Lemon peel",
-                    "1 twist of "
+                    "LEMON PEEL",
+                    "1 TWIST OF "
                 ],
                 [
-                    "Cognac",
-                    "1 dash"
+                    "COGNAC",
+                    "1 DASH"
                 ]
             ],
             "instructions": "Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. Add cognac followed by gently pouring chilled champagne. Garnish with orange slice and maraschino cherry.",
@@ -5781,36 +5781,36 @@ const cocktailData = {
             "alcoholic": "",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 oz"
+                    "GIN",
+                    "1 OZ"
                 ],
                 [
-                    "Tequila",
-                    "1 oz"
+                    "TEQUILA",
+                    "1 OZ"
                 ],
                 [
-                    "Vodka",
-                    "1 oz"
+                    "VODKA",
+                    "1 OZ"
                 ],
                 [
-                    "White rum",
-                    "1 oz"
+                    "WHITE RUM",
+                    "1 OZ"
                 ],
                 [
-                    "Triple Sec",
-                    "1 oz"
+                    "TRIPLE SEC",
+                    "1 OZ"
                 ],
                 [
-                    "Cherry Grenadine",
-                    "1 oz"
+                    "CHERRY GRENADINE",
+                    "1 OZ"
                 ],
                 [
-                    "Sweet and sour",
-                    "1 oz"
+                    "SWEET AND SOUR",
+                    "1 OZ"
                 ],
                 [
-                    "Club soda",
-                    "3 oz"
+                    "CLUB SODA",
+                    "3 OZ"
                 ]
             ],
             "instructions": "Now stir vigorously and then pour over a large cup of ice. Now drink it with a straw and stir occasionally.",
@@ -5823,16 +5823,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "1 1/4 oz "
+                    "LIGHT RUM",
+                    "1 1/4 OZ "
                 ],
                 [
-                    "Cherry brandy",
-                    "1 1/2 tsp "
+                    "CHERRY BRANDY",
+                    "1 1/2 TSP "
                 ],
                 [
-                    "Light cream",
-                    "1 tblsp "
+                    "LIGHT CREAM",
+                    "1 TBLSP "
                 ]
             ],
             "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
@@ -5845,23 +5845,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "1 oz "
+                    "LIGHT RUM",
+                    "1 OZ "
                 ],
                 [
-                    "Port",
-                    "1 oz "
+                    "PORT",
+                    "1 OZ "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1/2 "
+                    "LEMON",
+                    "JUICE OF 1/2 "
                 ],
                 [
-                    "Powdered sugar",
-                    "1 tsp "
+                    "POWDERED SUGAR",
+                    "1 TSP "
                 ],
                 [
-                    "Egg white",
+                    "EGG WHITE",
                     "1 "
                 ]
             ],
@@ -5875,19 +5875,19 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Milk",
-                    "6 cups "
+                    "MILK",
+                    "6 CUPS "
                 ],
                 [
-                    "Chocolate",
-                    "3 oz Mexican "
+                    "CHOCOLATE",
+                    "3 OZ MEXICAN "
                 ],
                 [
-                    "Cinnamon",
-                    "1 tsp powdered "
+                    "CINNAMON",
+                    "1 TSP POWDERED "
                 ],
                 [
-                    "Egg",
+                    "EGG",
                     "3 "
                 ]
             ],
@@ -5901,16 +5901,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Kahlua",
-                    "1 oz "
+                    "KAHLUA",
+                    "1 OZ "
                 ],
                 [
-                    "Vodka",
-                    "1/2 oz "
+                    "VODKA",
+                    "1/2 OZ "
                 ],
                 [
-                    "Chocolate ice-cream",
-                    "5 oz "
+                    "CHOCOLATE ICE-CREAM",
+                    "5 OZ "
                 ]
             ],
             "instructions": "Combine all ingredients in an electric blender and blend at a low speed for a short length of time. Pour into a chilled champagne flute and serve.",
@@ -5923,11 +5923,11 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Chocolate",
-                    "125 gr"
+                    "CHOCOLATE",
+                    "125 GR"
                 ],
                 [
-                    "Milk",
+                    "MILK",
                     "3/4 L "
                 ]
             ],
@@ -5941,16 +5941,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Chocolate liqueur",
-                    "1/2 shot "
+                    "CHOCOLATE LIQUEUR",
+                    "1/2 SHOT "
                 ],
                 [
-                    "Milk",
-                    "1/2 shot "
+                    "MILK",
+                    "1/2 SHOT "
                 ],
                 [
-                    "Amaretto",
-                    "1 dash "
+                    "AMARETTO",
+                    "1 DASH "
                 ]
             ],
             "instructions": "Put the milk in the bottom, pour the Liquer on top and add the dash of amaretto. Do not mix. SLAM IT!",
@@ -5963,36 +5963,36 @@ const cocktailData = {
             "alcoholic": "OPTIONAL ALCOHOL",
             "ingredients": [
                 [
-                    "Banana liqueur",
-                    "1 shot "
+                    "BANANA LIQUEUR",
+                    "1 SHOT "
                 ],
                 [
-                    "Creme de Cacao",
-                    "2 shots "
+                    "CREME DE CACAO",
+                    "2 SHOTS "
                 ],
                 [
-                    "Chocolate ice-cream",
-                    "2 scoops "
+                    "CHOCOLATE ICE-CREAM",
+                    "2 SCOOPS "
                 ],
                 [
-                    "Chocolate syrup",
-                    "1 oz "
+                    "CHOCOLATE SYRUP",
+                    "1 OZ "
                 ],
                 [
-                    "Chocolate milk",
-                    "4 oz "
+                    "CHOCOLATE MILK",
+                    "4 OZ "
                 ],
                 [
-                    "Whipped cream",
+                    "WHIPPED CREAM",
                     "1 "
                 ],
                 [
-                    "Cherry",
+                    "CHERRY",
                     "1 "
                 ],
                 [
-                    "Banana",
-                    "1 piece "
+                    "BANANA",
+                    "1 PIECE "
                 ]
             ],
             "instructions": "blend liqeuors with ice-cream, milk and syrup. pour into parfait glass, top with whipped cream and garnish with banana and cherry.",
@@ -6005,12 +6005,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Bacardi Limon",
-                    "1 part "
+                    "BACARDI LIMON",
+                    "1 PART "
                 ],
                 [
-                    "Coca-Cola",
-                    "2 parts "
+                    "COCA-COLA",
+                    "2 PARTS "
                 ]
             ],
             "instructions": "Pour half of coke in a glass. Then add Bacardi and top it off with the remaining coke. Stir and drink up!",
@@ -6023,16 +6023,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Brandy",
-                    "2 oz "
+                    "BRANDY",
+                    "2 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1/2 oz "
+                    "TRIPLE SEC",
+                    "1/2 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1 tblsp "
+                    "LEMON JUICE",
+                    "1 TBLSP "
                 ]
             ],
             "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",
@@ -6045,27 +6045,27 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Bitters",
-                    "3 dashes "
+                    "BITTERS",
+                    "3 DASHES "
                 ],
                 [
-                    "Water",
-                    "1 tsp "
+                    "WATER",
+                    "1 TSP "
                 ],
                 [
-                    "Sugar",
+                    "SUGAR",
                     "1 "
                 ],
                 [
-                    "Bourbon",
-                    "3 oz "
+                    "BOURBON",
+                    "3 OZ "
                 ],
                 [
-                    "Orange",
+                    "ORANGE",
                     "1 "
                 ],
                 [
-                    "Maraschino cherry",
+                    "MARASCHINO CHERRY",
                     "1 "
                 ]
             ],
@@ -6079,16 +6079,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sweet Vermouth",
-                    "1 oz "
+                    "SWEET VERMOUTH",
+                    "1 OZ "
                 ],
                 [
-                    "Sloe gin",
-                    "1/2 oz "
+                    "SLOE GIN",
+                    "1/2 OZ "
                 ],
                 [
-                    "Wine",
-                    "1/2 oz Muscatel "
+                    "WINE",
+                    "1/2 OZ MUSCATEL "
                 ]
             ],
             "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
@@ -6101,19 +6101,19 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Grenadine",
-                    "2 tsp "
+                    "GRENADINE",
+                    "2 TSP "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1/2 "
+                    "LEMON",
+                    "JUICE OF 1/2 "
                 ],
                 [
-                    "Egg white",
+                    "EGG WHITE",
                     "1 "
                 ]
             ],
@@ -6127,24 +6127,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Coffee",
-                    "10 tblsp instant "
+                    "COFFEE",
+                    "10 TBLSP INSTANT "
                 ],
                 [
-                    "Vanilla extract",
-                    "4 tblsp "
+                    "VANILLA EXTRACT",
+                    "4 TBLSP "
                 ],
                 [
-                    "Sugar",
-                    "2 1/2 cups "
+                    "SUGAR",
+                    "2 1/2 CUPS "
                 ],
                 [
-                    "Vodka",
-                    "1 qt "
+                    "VODKA",
+                    "1 QT "
                 ],
                 [
-                    "Water",
-                    "2 1/2 cups "
+                    "WATER",
+                    "2 1/2 CUPS "
                 ]
             ],
             "instructions": "Combine coffee, sugar and water. Simmer 1 hour and let cool. Add vanilla and vodka. Age in sealed jar 2 to 3 weeks.",
@@ -6157,24 +6157,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Water",
-                    "2 cups "
+                    "WATER",
+                    "2 CUPS "
                 ],
                 [
-                    "Sugar",
-                    "2 cups white "
+                    "SUGAR",
+                    "2 CUPS WHITE "
                 ],
                 [
-                    "Coffee",
-                    "1/2 cup instant "
+                    "COFFEE",
+                    "1/2 CUP INSTANT "
                 ],
                 [
-                    "Vanilla",
+                    "VANILLA",
                     "1/2 "
                 ],
                 [
-                    "Vodka",
-                    "1 1/2 cup "
+                    "VODKA",
+                    "1 1/2 CUP "
                 ]
             ],
             "instructions": "Boil water and sugar until dissolved. Turn off heat. Slowly add dry instant coffee and continue stirring. Add a chopped vanilla bean to the vodka, then combine the cooled sugar syrup and coffee solution with the vodka. Cover tightly and shake vigorously each day for 3 weeks. Strain and filter. Its also best to let the sugar mixture cool completely so the vodka won't evaporate when its added. If you like a smoother feel to the liqueur you can add about 1 teaspoon of glycerine to the finished product.",
@@ -6187,12 +6187,12 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Coca-Cola",
-                    "1 dl "
+                    "COCA-COLA",
+                    "1 DL "
                 ],
                 [
-                    "Lemon juice",
-                    "7 drops "
+                    "LEMON JUICE",
+                    "7 DROPS "
                 ]
             ],
             "instructions": "Take a glass, pour the Coke in the glass, then you take 7 drops of lemon juice. Granish with a lemon slice on the rim of the glass.",
@@ -6205,20 +6205,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Absolut Citron",
-                    "1 1/4 oz "
+                    "ABSOLUT CITRON",
+                    "1 1/4 OZ "
                 ],
                 [
-                    "Lime juice",
-                    "1/4 oz "
+                    "LIME JUICE",
+                    "1/4 OZ "
                 ],
                 [
-                    "Cointreau",
-                    "1/4 oz "
+                    "COINTREAU",
+                    "1/4 OZ "
                 ],
                 [
-                    "Cranberry juice",
-                    "1/4 cup "
+                    "CRANBERRY JUICE",
+                    "1/4 CUP "
                 ]
             ],
             "instructions": "Add all ingredients into cocktail shaker filled with ice. Shake well and double strain into large cocktail glass. Garnish with lime wheel.",
@@ -6231,20 +6231,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Cointreau",
-                    "1/2 oz "
+                    "COINTREAU",
+                    "1/2 OZ "
                 ],
                 [
-                    "Vodka",
-                    "1 oz "
+                    "VODKA",
+                    "1 OZ "
                 ],
                 [
-                    "Lime",
-                    "Juice of 1/2 "
+                    "LIME",
+                    "JUICE OF 1/2 "
                 ],
                 [
-                    "Cranberry juice",
-                    "1 splash "
+                    "CRANBERRY JUICE",
+                    "1 SPLASH "
                 ]
             ],
             "instructions": "Pour all ingredients in mixing glass half filled with ice, shake and strain into chilled Martini glass.",
@@ -6257,15 +6257,15 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Cranberries",
-                    "1/2 kg chopped "
+                    "CRANBERRIES",
+                    "1/2 KG CHOPPED "
                 ],
                 [
-                    "Sugar",
+                    "SUGAR",
                     "3/4 L "
                 ],
                 [
-                    "Light rum",
+                    "LIGHT RUM",
                     "1/2 L "
                 ]
             ],
@@ -6279,24 +6279,24 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Cranberry juice",
-                    "4 cups "
+                    "CRANBERRY JUICE",
+                    "4 CUPS "
                 ],
                 [
-                    "Sugar",
-                    "1 1/2 cup "
+                    "SUGAR",
+                    "1 1/2 CUP "
                 ],
                 [
-                    "Pineapple juice",
-                    "4 cups "
+                    "PINEAPPLE JUICE",
+                    "4 CUPS "
                 ],
                 [
-                    "Almond flavoring",
-                    "1 tblsp "
+                    "ALMOND FLAVORING",
+                    "1 TBLSP "
                 ],
                 [
-                    "Ginger ale",
-                    "2 qt "
+                    "GINGER ALE",
+                    "2 QT "
                 ]
             ],
             "instructions": "Combine first four ingredients. Stir until sugar is dissolved, chill. Then add ginger ale just before serving. Add ice ring to keep punch cold.",
@@ -6309,8 +6309,8 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Spiced rum",
-                    "1 oz "
+                    "SPICED RUM",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Pour 1oz of Spiced Rum into a highball glass with ice. Fill with Ginger Ale.",
@@ -6323,24 +6323,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sugar",
-                    "8 cups "
+                    "SUGAR",
+                    "8 CUPS "
                 ],
                 [
-                    "Water",
-                    "6 cups "
+                    "WATER",
+                    "6 CUPS "
                 ],
                 [
-                    "Grain alcohol",
-                    "1 pint "
+                    "GRAIN ALCOHOL",
+                    "1 PINT "
                 ],
                 [
-                    "Peppermint extract",
-                    "1 oz pure "
+                    "PEPPERMINT EXTRACT",
+                    "1 OZ PURE "
                 ],
                 [
-                    "Food coloring",
-                    "1 tblsp green "
+                    "FOOD COLORING",
+                    "1 TBLSP GREEN "
                 ]
             ],
             "instructions": "Bring sugar and water to a boil and simmer for 10 minutes. Cool. Add the remaining ingredients and stir. Cover and let ripen for 1 month.",
@@ -6353,16 +6353,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Dark rum",
-                    "1-2 shot "
+                    "DARK RUM",
+                    "1-2 SHOT "
                 ],
                 [
-                    "Lime",
-                    "Squeeze "
+                    "LIME",
+                    "SQUEEZE "
                 ],
                 [
-                    "Coca-Cola",
-                    "Fill with "
+                    "COCA-COLA",
+                    "FILL WITH "
                 ]
             ],
             "instructions": "Fill tall glass with ice cubes. Add rum. Rub cut edge of lime on rim of glass then squeeze juice into glass. Fill with Coca-Cola. Garnish with lime slice. Enjoy!",
@@ -6375,12 +6375,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "2 oz "
+                    "LIGHT RUM",
+                    "2 OZ "
                 ],
                 [
-                    "Lime",
-                    "Juice of 1/2 "
+                    "LIME",
+                    "JUICE OF 1/2 "
                 ]
             ],
             "instructions": "Build all ingredients in a Collins glass filled with ice. Garnish with lime wedge.",
@@ -6393,16 +6393,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "1 1/2 oz "
+                    "LIGHT RUM",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Lime",
-                    "Juice of 1/2 "
+                    "LIME",
+                    "JUICE OF 1/2 "
                 ],
                 [
-                    "Powdered sugar",
-                    "1 tsp "
+                    "POWDERED SUGAR",
+                    "1 TSP "
                 ]
             ],
             "instructions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.",
@@ -6415,12 +6415,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Whiskey",
-                    "0.75 oz "
+                    "WHISKEY",
+                    "0.75 OZ "
                 ],
                 [
-                    "Hot Damn",
-                    "0.25 oz "
+                    "HOT DAMN",
+                    "0.25 OZ "
                 ]
             ],
             "instructions": "Pour into shot glass. Put in mouth. Repeat as deemed necessary.",
@@ -6433,12 +6433,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Coffee",
-                    "3 parts "
+                    "COFFEE",
+                    "3 PARTS "
                 ],
                 [
-                    "Everclear",
-                    "1 part "
+                    "EVERCLEAR",
+                    "1 PART "
                 ]
             ],
             "instructions": "pour it in and mix it.",
@@ -6451,16 +6451,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "demerara Sugar",
-                    "2 tsp "
+                    "DEMERARA SUGAR",
+                    "2 TSP "
                 ],
                 [
-                    "Lime",
+                    "LIME",
                     "1"
                 ],
                 [
-                    "Cachaca",
-                    "2 1/2 oz"
+                    "CACHACA",
+                    "2 1/2 OZ"
                 ]
             ],
             "instructions": "Muddle the sugar into the lime wedges in an old-fashioned glass.\nFill the glass with ice cubes.\nPour the cachaca into the glass.\nStir well.",
@@ -6473,12 +6473,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Dark Rum",
-                    "5 cl"
+                    "DARK RUM",
+                    "5 CL"
                 ],
                 [
-                    "Ginger Beer",
-                    "10 cl"
+                    "GINGER BEER",
+                    "10 CL"
                 ]
             ],
             "instructions": "In a highball glass filled with ice add 6cl dark rum and top with ginger beer. Garnish with lime wedge.",
@@ -6491,20 +6491,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Cherry Heering",
-                    "1 part "
+                    "CHERRY HEERING",
+                    "1 PART "
                 ],
                 [
-                    "Soda water",
-                    "1 part "
+                    "SODA WATER",
+                    "1 PART "
                 ],
                 [
-                    "Orange juice",
-                    "1 part "
+                    "ORANGE JUICE",
+                    "1 PART "
                 ],
                 [
-                    "Ice",
-                    " cubes\n"
+                    "ICE",
+                    " CUBES\n"
                 ]
             ],
             "instructions": "There are many good cherry liqueurs you can use, but I prefere Heering. Add one share of the liqueur. Then you add one share of Soda. For a sour sling use Tonic (most people prefer the drink without Tonic). Afterwards you fill the glass with Orange Juice and ice cubes.",
@@ -6517,16 +6517,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "gin",
-                    "6 cl"
+                    "GIN",
+                    "6 CL"
                 ],
                 [
-                    "Peach Bitters",
-                    "2 dashes"
+                    "PEACH BITTERS",
+                    "2 DASHES"
                 ],
                 [
-                    "Mint",
-                    "2 Fresh leaves"
+                    "MINT",
+                    "2 FRESH LEAVES"
                 ]
             ],
             "instructions": "Pour all ingredients into a mixing glass with ice. Stir. Strain into a cocktail glass. Garnish with a sprig of fresh mint in the drink.",
@@ -6539,16 +6539,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Lager",
-                    "1/2 pint "
+                    "LAGER",
+                    "1/2 PINT "
                 ],
                 [
-                    "Cider",
-                    "1/2 pint "
+                    "CIDER",
+                    "1/2 PINT "
                 ],
                 [
-                    "Blackcurrant cordial",
-                    "1 dash "
+                    "BLACKCURRANT CORDIAL",
+                    "1 DASH "
                 ]
             ],
             "instructions": "Pour the lager first then add the blackcurrant cordial. Top up with the cider. The colour sholud be very dark approaching the colour of Guiness.",
@@ -6561,23 +6561,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "70ml/2fl oz"
+                    "VODKA",
+                    "70ML/2FL OZ"
                 ],
                 [
-                    "Dry Vermouth",
-                    "1 tbsp"
+                    "DRY VERMOUTH",
+                    "1 TBSP"
                 ],
                 [
-                    "Olive Brine",
-                    "2 tbsp"
+                    "OLIVE BRINE",
+                    "2 TBSP"
                 ],
                 [
-                    "Lemon",
-                    "1 wedge"
+                    "LEMON",
+                    "1 WEDGE"
                 ],
                 [
-                    "Olive",
+                    "OLIVE",
                     "1"
                 ]
             ],
@@ -6600,20 +6600,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Fruit punch",
-                    "2 part "
+                    "FRUIT PUNCH",
+                    "2 PART "
                 ],
                 [
-                    "Sprite",
-                    "1 part "
+                    "SPRITE",
+                    "1 PART "
                 ],
                 [
-                    "Tequila",
-                    "2 shots "
+                    "TEQUILA",
+                    "2 SHOTS "
                 ],
                 [
-                    "151 proof rum",
-                    "Float Bacardi "
+                    "151 PROOF RUM",
+                    "FLOAT BACARDI "
                 ]
             ],
             "instructions": "Start with the Sprite. Next comes the tequila. After that, add the Minute Maid Fruit Punch, then float the 151. Rocks optional.",
@@ -6626,15 +6626,15 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Ginger ale",
-                    "4 oz "
+                    "GINGER ALE",
+                    "4 OZ "
                 ],
                 [
-                    "Lime",
+                    "LIME",
                     "1 "
                 ]
             ],
@@ -6648,28 +6648,28 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Heavy cream",
-                    "2 oz "
+                    "HEAVY CREAM",
+                    "2 OZ "
                 ],
                 [
-                    "Milk",
-                    "6-8 oz "
+                    "MILK",
+                    "6-8 OZ "
                 ],
                 [
-                    "Cinnamon",
-                    "1 stick "
+                    "CINNAMON",
+                    "1 STICK "
                 ],
                 [
-                    "Vanilla",
+                    "VANILLA",
                     "1 "
                 ],
                 [
-                    "Chocolate",
-                    "2 oz finely chopped dark "
+                    "CHOCOLATE",
+                    "2 OZ FINELY CHOPPED DARK "
                 ],
                 [
-                    "Whipped cream",
-                    "Fresh "
+                    "WHIPPED CREAM",
+                    "FRESH "
                 ]
             ],
             "instructions": "Heat the cream and milk with the cinnamon and vanilla bean very slowly for 15-20 minutes. (If you don't have any beans add 1-2 tsp of vanilla after heating). Remove the bean and cinnamon. Add the chocolate. Mix until fully melted. Serve topped with some very dense fresh whipped cream. Serves 1-2 depending upon how much of a glutton you are. For a richer chocolate, use 4 oz of milk, 4 oz of cream, 4 oz of chocolate. Serve in coffee mug.",
@@ -6682,16 +6682,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Scotch",
-                    "2 1/2 oz "
+                    "SCOTCH",
+                    "2 1/2 OZ "
                 ],
                 [
-                    "Dry Vermouth",
-                    "1 1/2 tsp "
+                    "DRY VERMOUTH",
+                    "1 1/2 TSP "
                 ],
                 [
-                    "Lemon peel",
-                    "1 twist of "
+                    "LEMON PEEL",
+                    "1 TWIST OF "
                 ]
             ],
             "instructions": "In a mixing glass half-filled with ice cubes, combine the Scotch and vermouth. Stir well. Strain into a cocktail glass. Garnish with the lemon twist.",
@@ -6704,20 +6704,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Dubonnet Rouge",
-                    "1 1/2 oz "
+                    "DUBONNET ROUGE",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Gin",
-                    "3/4 oz "
+                    "GIN",
+                    "3/4 OZ "
                 ],
                 [
-                    "Bitters",
-                    "1 dash "
+                    "BITTERS",
+                    "1 DASH "
                 ],
                 [
-                    "Lemon peel",
-                    "1 twist of "
+                    "LEMON PEEL",
+                    "1 TWIST OF "
                 ]
             ],
             "instructions": "Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.",
@@ -6730,32 +6730,32 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Pisco",
-                    "5 cl"
+                    "PISCO",
+                    "5 CL"
                 ],
                 [
-                    "Lime Juice",
-                    "2.5 cl"
+                    "LIME JUICE",
+                    "2.5 CL"
                 ],
                 [
-                    "Pineapple Syrup",
-                    "2.5 cl"
+                    "PINEAPPLE SYRUP",
+                    "2.5 CL"
                 ],
                 [
-                    "St. Germain",
-                    "1.5 cl"
+                    "ST. GERMAIN",
+                    "1.5 CL"
                 ],
                 [
-                    "Angostura Bitters",
-                    "2 Dashes"
+                    "ANGOSTURA BITTERS",
+                    "2 DASHES"
                 ],
                 [
-                    "Pepper",
-                    "Pinch"
+                    "PEPPER",
+                    "PINCH"
                 ],
                 [
-                    "Lavender",
-                    "2 sprigs"
+                    "LAVENDER",
+                    "2 SPRIGS"
                 ]
             ],
             "instructions": "Shake all ingredients.\nDouble strain in a chilled double old fashioned glass with abig ice cube.\nGarnish with a couple of lavender sprigs",
@@ -6768,16 +6768,16 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Chocolate syrup",
-                    "2 tblsp "
+                    "CHOCOLATE SYRUP",
+                    "2 TBLSP "
                 ],
                 [
-                    "Milk",
-                    "6 oz whole "
+                    "MILK",
+                    "6 OZ WHOLE "
                 ],
                 [
-                    "Soda water",
-                    "6 oz "
+                    "SODA WATER",
+                    "6 OZ "
                 ]
             ],
             "instructions": "Mix syrup and milk in a fountain glass. Add soda water, serve with a straw.",
@@ -6790,48 +6790,48 @@ const cocktailData = {
             "alcoholic": "OPTIONAL ALCOHOL",
             "ingredients": [
                 [
-                    "Egg yolk",
+                    "EGG YOLK",
                     "6 "
                 ],
                 [
-                    "Sugar",
-                    "1/4 cup "
+                    "SUGAR",
+                    "1/4 CUP "
                 ],
                 [
-                    "Milk",
-                    "2 cups "
+                    "MILK",
+                    "2 CUPS "
                 ],
                 [
-                    "Light rum",
-                    "1/2 cup "
+                    "LIGHT RUM",
+                    "1/2 CUP "
                 ],
                 [
-                    "Bourbon",
-                    "1/2 cup "
+                    "BOURBON",
+                    "1/2 CUP "
                 ],
                 [
-                    "Vanilla extract",
-                    "1 tsp "
+                    "VANILLA EXTRACT",
+                    "1 TSP "
                 ],
                 [
-                    "Salt",
-                    "1/4 tsp "
+                    "SALT",
+                    "1/4 TSP "
                 ],
                 [
-                    "Whipping cream",
-                    "1 cup "
+                    "WHIPPING CREAM",
+                    "1 CUP "
                 ],
                 [
-                    "Egg white",
+                    "EGG WHITE",
                     "6 "
                 ],
                 [
-                    "Sugar",
-                    "1/4 cup "
+                    "SUGAR",
+                    "1/4 CUP "
                 ],
                 [
-                    "Nutmeg",
-                    "Ground "
+                    "NUTMEG",
+                    "GROUND "
                 ]
             ],
             "instructions": "In a small mixer bowl beat egg yolks till blended. Gradually add 1/4 cup sugar, beating at high speed till thick and lemon colored. Stir in milk, stir in rum, bourbon, vanilla, and salt. Chill thoroughly. Whip cream. Wash beaters well. In a large mixer bowl beat egg whites till soft peaks form. Gradually add remaining 1/4 cup sugar, beating to stiff peaks. Fold yolk mixture and whipped cream into egg whites. Serve immediately. Sprinkle nutmeg over each serving. Serve in a punch bowl or another big bowl. NOTE: For a nonalcoholic eggnog, prepare Eggnog as above, except omit the bourbon and rum and increase the milk to 3 cups.",
@@ -6844,28 +6844,28 @@ const cocktailData = {
             "alcoholic": "OPTIONAL ALCOHOL",
             "ingredients": [
                 [
-                    "Egg",
-                    "1/2 cup "
+                    "EGG",
+                    "1/2 CUP "
                 ],
                 [
-                    "Sugar",
-                    "3 tblsp "
+                    "SUGAR",
+                    "3 TBLSP "
                 ],
                 [
-                    "Condensed milk",
-                    "13 oz skimmed "
+                    "CONDENSED MILK",
+                    "13 OZ SKIMMED "
                 ],
                 [
-                    "Milk",
-                    "3/4 cup skimmed "
+                    "MILK",
+                    "3/4 CUP SKIMMED "
                 ],
                 [
-                    "Vanilla extract",
-                    "1 tsp "
+                    "VANILLA EXTRACT",
+                    "1 TSP "
                 ],
                 [
-                    "Rum",
-                    "1 tsp "
+                    "RUM",
+                    "1 TSP "
                 ]
             ],
             "instructions": "Whip egg substitute and sugar together, combine with the two kinds of milk, vanilla, and rum. Mix well. Chill over night. Sprinkle with nutmeg. Makes 6 servings.",
@@ -6878,24 +6878,24 @@ const cocktailData = {
             "alcoholic": "OPTIONAL ALCOHOL",
             "ingredients": [
                 [
-                    "Egg",
+                    "EGG",
                     "6 "
                 ],
                 [
-                    "Sugar",
-                    "1/4 cup "
+                    "SUGAR",
+                    "1/4 CUP "
                 ],
                 [
-                    "Salt",
-                    "1/4 tsp "
+                    "SALT",
+                    "1/4 TSP "
                 ],
                 [
-                    "Milk",
-                    "1 qt "
+                    "MILK",
+                    "1 QT "
                 ],
                 [
-                    "Vanilla extract",
-                    "1 tsp "
+                    "VANILLA EXTRACT",
+                    "1 TSP "
                 ]
             ],
             "instructions": "In large saucepan, beat together eggs, sugar and salt, if desired. Stir in 2 cups of the milk. Cook over low heat, stirring constantly, until mixture is thick enough to coat a metal spoon and reaches 160 degrees F. Remove from heat. Stir in remaining 2 cups milk and vanilla. Cover and regfigerate until thoroughly chilled, several hours or overnight. Just before serving, pour into bowl or pitcher. Garnish or add stir-ins, if desired. Choose 1 or several of: Chocolate curls, cinnamon sticks, extracts of flavorings, flavored brandy or liqueur, fruit juice or nectar, ground nutmeg, maraschino cherries, orange slices, peppermint sticks or candy canes, plain brandy, run or whiskey, sherbet or ice-cream, whipping cream, whipped. Serve immediately.",
@@ -6908,16 +6908,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Brandy",
-                    "3/4 oz "
+                    "BRANDY",
+                    "3/4 OZ "
                 ],
                 [
-                    "Gin",
-                    "3/4 oz "
+                    "GIN",
+                    "3/4 OZ "
                 ],
                 [
-                    "Sweet Vermouth",
-                    "3/4 oz "
+                    "SWEET VERMOUTH",
+                    "3/4 OZ "
                 ]
             ],
             "instructions": "Pour brandy, gin, and sweet vermouth into a highball glass over ice cubes. Fill with carbonated water. Add the twist of lemon peel, stir, and serve. (Ginger ale may be substituted for carbonated water, if preferred.)",
@@ -6930,27 +6930,27 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Apricot brandy",
-                    "3/4 oz "
+                    "APRICOT BRANDY",
+                    "3/4 OZ "
                 ],
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Dry Vermouth",
-                    "3/4 oz "
+                    "DRY VERMOUTH",
+                    "3/4 OZ "
                 ],
                 [
-                    "Grenadine",
-                    "1 tsp "
+                    "GRENADINE",
+                    "1 TSP "
                 ],
                 [
-                    "Lemon juice",
-                    "1/4 tsp "
+                    "LEMON JUICE",
+                    "1/4 TSP "
                 ],
                 [
-                    "Cherry",
+                    "CHERRY",
                     "1 "
                 ]
             ],
@@ -6964,16 +6964,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "5 cl"
+                    "VODKA",
+                    "5 CL"
                 ],
                 [
-                    "Kahlua",
-                    "1 cl"
+                    "KAHLUA",
+                    "1 CL"
                 ],
                 [
-                    "Sugar syrup",
-                    "1 dash"
+                    "SUGAR SYRUP",
+                    "1 DASH"
                 ]
             ],
             "instructions": "Pour ingredients into shaker filled with ice, shake vigorously, and strain into chilled martini glass",
@@ -6986,16 +6986,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Firewater",
-                    "1/2 oz "
+                    "FIREWATER",
+                    "1/2 OZ "
                 ],
                 [
-                    "Absolut Peppar",
-                    "1/2 oz "
+                    "ABSOLUT PEPPAR",
+                    "1/2 OZ "
                 ],
                 [
-                    "Tabasco sauce",
-                    "1 dash "
+                    "TABASCO SAUCE",
+                    "1 DASH "
                 ]
             ],
             "instructions": "Cover bottom of shot glass with Tabasco Sauce and then fill with half Firewater and half Absolut Peppar.",
@@ -7008,24 +7008,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Amaretto",
-                    "1 oz "
+                    "AMARETTO",
+                    "1 OZ "
                 ],
                 [
-                    "Vodka",
-                    "1 oz "
+                    "VODKA",
+                    "1 OZ "
                 ],
                 [
-                    "151 proof rum",
-                    "1 oz Bacardi "
+                    "151 PROOF RUM",
+                    "1 OZ BACARDI "
                 ],
                 [
-                    "Dr. Pepper",
-                    "1 oz "
+                    "DR. PEPPER",
+                    "1 OZ "
                 ],
                 [
-                    "Beer",
-                    "1 oz "
+                    "BEER",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Add Amaretto, Bacardi, and vodka. Mix in the Dr. Pepper and beer",
@@ -7038,20 +7038,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Kahlua",
-                    "1 oz "
+                    "KAHLUA",
+                    "1 OZ "
                 ],
                 [
-                    "Sambuca",
-                    "1 oz "
+                    "SAMBUCA",
+                    "1 OZ "
                 ],
                 [
-                    "Blue Curacao",
-                    "1 oz "
+                    "BLUE CURACAO",
+                    "1 OZ "
                 ],
                 [
-                    "Bailey's irish cream",
-                    "1 oz "
+                    "BAILEY'S IRISH CREAM",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Pour the Sambuca and Kahlua into the Cocktail Glass and give the drinker a straw. Pour the Baileys and Blue Curacao into two sepsrate shot glasses either side of the cocktail glass. Set light the concotion in the cocktail glass and start to drink through the straw (this drink should be drunk in one) , as the bottom of the glass is reached put out the fire by pouring the Baileys and Blue Curacao into the cocktail glass and keep drinking till it's all gone!!",
@@ -7064,12 +7064,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sambuca",
-                    "1/4 glass "
+                    "SAMBUCA",
+                    "1/4 GLASS "
                 ],
                 [
-                    "Sarsaparilla",
-                    "3/4 glass "
+                    "SARSAPARILLA",
+                    "3/4 GLASS "
                 ]
             ],
             "instructions": "Bang 'em both in.",
@@ -7082,12 +7082,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1/2 oz "
+                    "TRIPLE SEC",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "In an old-fashioned glass almost filled with ice cubes, combine the gin and triple sec. Stir well.",
@@ -7100,20 +7100,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Scotch",
-                    "1 oz "
+                    "SCOTCH",
+                    "1 OZ "
                 ],
                 [
-                    "Sweet Vermouth",
-                    "1 oz "
+                    "SWEET VERMOUTH",
+                    "1 OZ "
                 ],
                 [
-                    "Bitters",
-                    "1 dash "
+                    "BITTERS",
+                    "1 DASH "
                 ],
                 [
-                    "Sugar syrup",
-                    "1/4 tsp "
+                    "SUGAR SYRUP",
+                    "1/4 TSP "
                 ]
             ],
             "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
@@ -7126,16 +7126,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Amaretto",
-                    "1/2 oz "
+                    "AMARETTO",
+                    "1/2 OZ "
                 ],
                 [
-                    "Creme de Cacao",
-                    "1/2 oz "
+                    "CREME DE CACAO",
+                    "1/2 OZ "
                 ],
                 [
-                    "Light cream",
-                    "2 oz "
+                    "LIGHT CREAM",
+                    "2 OZ "
                 ]
             ],
             "instructions": "Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.",
@@ -7148,16 +7148,16 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Coffee",
-                    "1/2 cup black "
+                    "COFFEE",
+                    "1/2 CUP BLACK "
                 ],
                 [
-                    "Milk",
-                    "1/2 cup "
+                    "MILK",
+                    "1/2 CUP "
                 ],
                 [
-                    "Sugar",
-                    "1-2 tsp "
+                    "SUGAR",
+                    "1-2 TSP "
                 ]
             ],
             "instructions": "Mix together. Blend at highest blender speed for about 1 minute. Pour into a glass and drink with a straw. Notes: This works best if everything is cold (if you make fresh coffee, mix it with the milk and let it sit in the fridge for 1/2 hour. If it is not frothy, add more milk, or even just some more milk powder. The froth gradually turns to liquid at the bottom of the glass, so you will find that you can sit and drink this for about 1/2 hour, with more iced coffee continually appearing at the bottom. Very refreshing.",
@@ -7170,16 +7170,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "J\u00e4germeister",
-                    "1/2 oz "
+                    "J\u00c4GERMEISTER",
+                    "1/2 OZ "
                 ],
                 [
-                    "Sambuca",
-                    "1/2 oz "
+                    "SAMBUCA",
+                    "1/2 OZ "
                 ],
                 [
-                    "Vodka",
-                    "1/2 oz "
+                    "VODKA",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "make it an ample size shot!!",
@@ -7192,27 +7192,27 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Sugar",
-                    "2 tsp superfine "
+                    "SUGAR",
+                    "2 TSP SUPERFINE "
                 ],
                 [
-                    "Lemon juice",
-                    "1 1/2 oz "
+                    "LEMON JUICE",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Champagne",
-                    "4 oz Chilled "
+                    "CHAMPAGNE",
+                    "4 OZ CHILLED "
                 ],
                 [
-                    "Orange",
+                    "ORANGE",
                     "1 "
                 ],
                 [
-                    "Maraschino cherry",
+                    "MARASCHINO CHERRY",
                     "1 "
                 ]
             ],
@@ -7226,27 +7226,27 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Sugar",
-                    "2 tsp superfine "
+                    "SUGAR",
+                    "2 TSP SUPERFINE "
                 ],
                 [
-                    "Lemon juice",
-                    "1 1/2 oz "
+                    "LEMON JUICE",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Champagne",
-                    "4 oz Chilled "
+                    "CHAMPAGNE",
+                    "4 OZ CHILLED "
                 ],
                 [
-                    "Orange",
+                    "ORANGE",
                     "1 "
                 ],
                 [
-                    "Maraschino cherry",
+                    "MARASCHINO CHERRY",
                     "1 "
                 ]
             ],
@@ -7260,12 +7260,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Cognac",
-                    "1 1/2 oz "
+                    "COGNAC",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Amaretto",
-                    "3/4 oz "
+                    "AMARETTO",
+                    "3/4 OZ "
                 ]
             ],
             "instructions": "Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.",
@@ -7278,16 +7278,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "4.5 cl"
+                    "VODKA",
+                    "4.5 CL"
                 ],
                 [
-                    "Raspberry Liqueur",
-                    "1.5 cl"
+                    "RASPBERRY LIQUEUR",
+                    "1.5 CL"
                 ],
                 [
-                    "pineapple juice",
-                    "1.5 cl"
+                    "PINEAPPLE JUICE",
+                    "1.5 CL"
                 ]
             ],
             "instructions": "Pour all ingredients into shaker with ice cubes. Shake well and strain into a chilled cocktail glass. Squeeze oil from lemon peel onto the drink.",
@@ -7300,28 +7300,28 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Blended whiskey",
-                    "2 oz "
+                    "BLENDED WHISKEY",
+                    "2 OZ "
                 ],
                 [
-                    "Benedictine",
-                    "1/2 oz "
+                    "BENEDICTINE",
+                    "1/2 OZ "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1/4 "
+                    "LEMON",
+                    "JUICE OF 1/4 "
                 ],
                 [
-                    "Lime",
-                    "Juice of 1/2 "
+                    "LIME",
+                    "JUICE OF 1/2 "
                 ],
                 [
-                    "Lemon",
-                    "1 slice "
+                    "LEMON",
+                    "1 SLICE "
                 ],
                 [
-                    "Lime",
-                    "1 slice "
+                    "LIME",
+                    "1 SLICE "
                 ]
             ],
             "instructions": "Shake all ingredients (except slices of lemon and lime) with ice and strain into a whiskey sour glass. Decorate with the slices of lemon and lime and serve.",
@@ -7334,28 +7334,28 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "1 1/2 oz "
+                    "LIGHT RUM",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1 tblsp "
+                    "TRIPLE SEC",
+                    "1 TBLSP "
                 ],
                 [
-                    "Lime juice",
-                    "1 1/2 oz "
+                    "LIME JUICE",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Sugar",
-                    "1 tsp "
+                    "SUGAR",
+                    "1 TSP "
                 ],
                 [
-                    "Cherry",
+                    "CHERRY",
                     "1 "
                 ],
                 [
-                    "Ice",
-                    "1 cup crushed "
+                    "ICE",
+                    "1 CUP CRUSHED "
                 ]
             ],
             "instructions": "Combine all ingredients (except for the cherry) in an electric blender and blend at a low speed for five seconds, then blend at a high speed until firm. Pour contents into a champagne flute, top with the cherry, and serve.",
@@ -7368,20 +7368,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "2 oz "
+                    "LIGHT RUM",
+                    "2 OZ "
                 ],
                 [
-                    "Lime juice",
-                    "1 tblsp "
+                    "LIME JUICE",
+                    "1 TBLSP "
                 ],
                 [
-                    "Mint",
+                    "MINT",
                     "6 "
                 ],
                 [
-                    "Sugar",
-                    "1 tsp "
+                    "SUGAR",
+                    "1 TSP "
                 ]
             ],
             "instructions": "Combine all ingredients with 1 cup of crushed ice in an electric blender. Blend at a low speed for a short length of time. Pour into an old-fashioned glass and serve.",
@@ -7394,20 +7394,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "1 1/2 oz "
+                    "LIGHT RUM",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Pineapple",
-                    "4 chunks "
+                    "PINEAPPLE",
+                    "4 CHUNKS "
                 ],
                 [
-                    "Lime juice",
-                    "1 tblsp "
+                    "LIME JUICE",
+                    "1 TBLSP "
                 ],
                 [
-                    "Sugar",
-                    "1/2 tsp "
+                    "SUGAR",
+                    "1/2 TSP "
                 ]
             ],
             "instructions": "Combine all ingredients with 1 cup of crushed ice in an electric blender. Blend at a low speed for a short length of time. Pour into a champagne flute and serve.",
@@ -7420,27 +7420,27 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Apple juice",
-                    "1 can frozen "
+                    "APPLE JUICE",
+                    "1 CAN FROZEN "
                 ],
                 [
-                    "Strawberries",
-                    "1 cup "
+                    "STRAWBERRIES",
+                    "1 CUP "
                 ],
                 [
-                    "Sugar",
-                    "2 tblsp "
+                    "SUGAR",
+                    "2 TBLSP "
                 ],
                 [
-                    "Lemon",
+                    "LEMON",
                     "1 "
                 ],
                 [
-                    "Apple",
+                    "APPLE",
                     "1 "
                 ],
                 [
-                    "Soda water",
+                    "SODA WATER",
                     "1 L "
                 ]
             ],
@@ -7454,12 +7454,12 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Yoghurt",
-                    "1 cup "
+                    "YOGHURT",
+                    "1 CUP "
                 ],
                 [
-                    "Fruit juice",
-                    "1 cup "
+                    "FRUIT JUICE",
+                    "1 CUP "
                 ]
             ],
             "instructions": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.",
@@ -7472,23 +7472,23 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Yoghurt",
-                    "1 cup fruit "
+                    "YOGHURT",
+                    "1 CUP FRUIT "
                 ],
                 [
-                    "Banana",
+                    "BANANA",
                     "1 "
                 ],
                 [
-                    "Orange juice",
-                    "4 oz frozen "
+                    "ORANGE JUICE",
+                    "4 OZ FROZEN "
                 ],
                 [
-                    "Fruit",
-                    "1/2 piece textural "
+                    "FRUIT",
+                    "1/2 PIECE TEXTURAL "
                 ],
                 [
-                    "Ice",
+                    "ICE",
                     "6 "
                 ]
             ],
@@ -7502,11 +7502,11 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Coffee",
+                    "COFFEE",
                     "1/2 "
                 ],
                 [
-                    "Peach schnapps",
+                    "PEACH SCHNAPPS",
                     "1/2 "
                 ]
             ],
@@ -7520,8 +7520,8 @@ const cocktailData = {
             "alcoholic": "OPTIONAL ALCOHOL",
             "ingredients": [
                 [
-                    "Galliano",
-                    "2 1/2 shots "
+                    "GALLIANO",
+                    "2 1/2 SHOTS "
                 ]
             ],
             "instructions": "Pour the Galliano liqueur over ice. Fill the remainder of the glass with ginger ale and thats all there is to it. You now have a your very own GG.",
@@ -7534,20 +7534,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Peach Vodka",
-                    "5 parts "
+                    "PEACH VODKA",
+                    "5 PARTS "
                 ],
                 [
-                    "Lemon juice",
-                    "3 parts "
+                    "LEMON JUICE",
+                    "3 PARTS "
                 ],
                 [
-                    "Galliano",
-                    "1 part "
+                    "GALLIANO",
+                    "1 PART "
                 ],
                 [
-                    "Sirup of roses",
-                    "1 part "
+                    "SIRUP OF ROSES",
+                    "1 PART "
                 ]
             ],
             "instructions": "Shake well and serve in a cocktail glass. This is a home cocktail of American/Internet Bar del Pozzo, Pavia, Italy.",
@@ -7560,20 +7560,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Brandy",
-                    "1 oz "
+                    "BRANDY",
+                    "1 OZ "
                 ],
                 [
-                    "Sweet Vermouth",
-                    "1 oz "
+                    "SWEET VERMOUTH",
+                    "1 OZ "
                 ],
                 [
-                    "Club soda",
-                    "1 oz "
+                    "CLUB SODA",
+                    "1 OZ "
                 ]
             ],
             "instructions": "In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.",
@@ -7586,28 +7586,28 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Dark rum",
-                    "1/2 oz "
+                    "DARK RUM",
+                    "1/2 OZ "
                 ],
                 [
-                    "Vodka",
-                    "1/2 oz "
+                    "VODKA",
+                    "1/2 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1/2 oz "
+                    "TRIPLE SEC",
+                    "1/2 OZ "
                 ],
                 [
-                    "Tequila",
-                    "1/2 oz "
+                    "TEQUILA",
+                    "1/2 OZ "
                 ],
                 [
-                    "Melon liqueur",
-                    "1/2 oz "
+                    "MELON LIQUEUR",
+                    "1/2 OZ "
                 ],
                 [
-                    "Mountain Dew",
-                    "Fill with "
+                    "MOUNTAIN DEW",
+                    "FILL WITH "
                 ]
             ],
             "instructions": "Add all ingredients in collins glass with ice and stir.",
@@ -7620,15 +7620,15 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ],
                 [
-                    "Tonic water",
-                    "5 oz "
+                    "TONIC WATER",
+                    "5 OZ "
                 ],
                 [
-                    "Lime",
+                    "LIME",
                     "1 "
                 ]
             ],
@@ -7642,8 +7642,8 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ]
             ],
             "instructions": "Stir powdered sugar and 2 oz. carbonated water in a collins glass. Fill glass with ice and add gin. Fill with carbonated water and stir. Add the lemon peel and the orange spiral so that the end of the orange spiral dangles over rim of glass.",
@@ -7656,27 +7656,27 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1 oz "
+                    "LEMON JUICE",
+                    "1 OZ "
                 ],
                 [
-                    "Sugar",
-                    "1/2 tsp superfine "
+                    "SUGAR",
+                    "1/2 TSP SUPERFINE "
                 ],
                 [
-                    "Grenadine",
-                    "1/2 tsp "
+                    "GRENADINE",
+                    "1/2 TSP "
                 ],
                 [
-                    "Maraschino cherry",
+                    "MARASCHINO CHERRY",
                     "1 "
                 ],
                 [
-                    "Orange",
+                    "ORANGE",
                     "1 "
                 ]
             ],
@@ -7690,16 +7690,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1/2 "
+                    "LEMON",
+                    "JUICE OF 1/2 "
                 ],
                 [
-                    "Powdered sugar",
-                    "1 tsp "
+                    "POWDERED SUGAR",
+                    "1 TSP "
                 ]
             ],
             "instructions": "Shake all ingredients with ice cubes, except soda water. Pour into glass. Top with soda water.",
@@ -7712,24 +7712,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ],
                 [
-                    "Grenadine",
-                    "1 tsp "
+                    "GRENADINE",
+                    "1 TSP "
                 ],
                 [
-                    "lemon",
-                    "Juice of 1/2 "
+                    "LEMON",
+                    "JUICE OF 1/2 "
                 ],
                 [
-                    "Soda Water",
-                    "Top up with"
+                    "SODA WATER",
+                    "TOP UP WITH"
                 ],
                 [
-                    "Lime",
-                    "Garnish"
+                    "LIME",
+                    "GARNISH"
                 ]
             ],
             "instructions": "Half-fill a tall glass with ice. Mix the gin and Grenadine together and pour over the ice. Add the lime or lemon juice and top off with soda water. Decorate the glass with lime and/or lemon slices.",
@@ -7742,24 +7742,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1/2 "
+                    "LEMON",
+                    "JUICE OF 1/2 "
                 ],
                 [
-                    "Powdered sugar",
-                    "1 tsp "
+                    "POWDERED SUGAR",
+                    "1 TSP "
                 ],
                 [
-                    "Water",
-                    "1 tsp "
+                    "WATER",
+                    "1 TSP "
                 ],
                 [
-                    "Orange peel",
-                    "Twist of "
+                    "ORANGE PEEL",
+                    "TWIST OF "
                 ]
             ],
             "instructions": "Dissolve powdered sugar in mixture of water and juice of lemon. Add gin. Pour into an old-fashioned glass over ice cubes and stir. Add the twist of orange peel and serve.",
@@ -7772,27 +7772,27 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ],
                 [
-                    "Carbonated water",
-                    "1 oz "
+                    "CARBONATED WATER",
+                    "1 OZ "
                 ],
                 [
-                    "Sugar",
-                    "1 cube "
+                    "SUGAR",
+                    "1 CUBE "
                 ],
                 [
-                    "Mint",
+                    "MINT",
                     "4 "
                 ],
                 [
-                    "Orange",
-                    "1 slice "
+                    "ORANGE",
+                    "1 SLICE "
                 ],
                 [
-                    "Cherry",
+                    "CHERRY",
                     "1 "
                 ]
             ],
@@ -7806,23 +7806,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1 oz "
+                    "LEMON JUICE",
+                    "1 OZ "
                 ],
                 [
-                    "Sugar",
-                    "1/2 tsp superfine "
+                    "SUGAR",
+                    "1/2 TSP SUPERFINE "
                 ],
                 [
-                    "Orange",
+                    "ORANGE",
                     "1 "
                 ],
                 [
-                    "Maraschino cherry",
+                    "MARASCHINO CHERRY",
                     "1 "
                 ]
             ],
@@ -7836,23 +7836,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Grenadine",
-                    "1 tsp "
+                    "GRENADINE",
+                    "1 TSP "
                 ],
                 [
-                    "Powdered sugar",
-                    "1 tblsp "
+                    "POWDERED SUGAR",
+                    "1 TBLSP "
                 ],
                 [
-                    "Pineapple",
-                    "3 chunks "
+                    "PINEAPPLE",
+                    "3 CHUNKS "
                 ],
                 [
-                    "Strawberries",
+                    "STRAWBERRIES",
                     "2 "
                 ]
             ],
@@ -7866,24 +7866,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Lime juice",
-                    "1 1/2 oz "
+                    "LIME JUICE",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Sugar",
-                    "1 tsp superfine "
+                    "SUGAR",
+                    "1 TSP SUPERFINE "
                 ],
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ],
                 [
-                    "Bitters",
-                    "1 dash "
+                    "BITTERS",
+                    "1 DASH "
                 ],
                 [
-                    "Club soda",
-                    "3 oz "
+                    "CLUB SODA",
+                    "3 OZ "
                 ]
             ],
             "instructions": "In a shaker half-filled with ice cubes, combine the lime juice, sugar, gin, and bitters. Shake well. Almost fill a colling glass with ice cubes. Stir until the glass is frosted. Strain the mixture in the shaker into the glass and add the club soda.",
@@ -7896,20 +7896,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ],
                 [
-                    "Water",
-                    "2 tsp "
+                    "WATER",
+                    "2 TSP "
                 ],
                 [
-                    "Powdered sugar",
-                    "1/2 tsp "
+                    "POWDERED SUGAR",
+                    "1/2 TSP "
                 ],
                 [
-                    "Lemon peel",
-                    "1 twist of "
+                    "LEMON PEEL",
+                    "1 TWIST OF "
                 ]
             ],
             "instructions": "Mix powdered sugar and water in an old-fashioned glass. Add gin and one ice cube. Stir, add the twist of lemon peel, and serve.",
@@ -7922,20 +7922,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Cachaca",
-                    "25 ml"
+                    "CACHACA",
+                    "25 ML"
                 ],
                 [
-                    "Lemon Juice",
-                    "15 ml"
+                    "LEMON JUICE",
+                    "15 ML"
                 ],
                 [
-                    "Agave Syrup",
-                    "10 ml"
+                    "AGAVE SYRUP",
+                    "10 ML"
                 ],
                 [
-                    "Champagne",
-                    "top up with"
+                    "CHAMPAGNE",
+                    "TOP UP WITH"
                 ]
             ],
             "instructions": "Add the cachaca, lemon juice and syrup to your boston glass. Add ice and shake until ice cold. Pour into a chilled flute and top-up with Champagne",
@@ -7948,28 +7948,28 @@ const cocktailData = {
             "alcoholic": "OPTIONAL ALCOHOL",
             "ingredients": [
                 [
-                    "Red wine",
+                    "RED WINE",
                     "1 L "
                 ],
                 [
-                    "Water",
-                    "125 ml "
+                    "WATER",
+                    "125 ML "
                 ],
                 [
-                    "Sugar",
-                    "60 gr "
+                    "SUGAR",
+                    "60 GR "
                 ],
                 [
-                    "Cinnamon",
+                    "CINNAMON",
                     "1 "
                 ],
                 [
-                    "Cloves",
+                    "CLOVES",
                     "3 "
                 ],
                 [
-                    "Lemon peel",
-                    "1 tblsp "
+                    "LEMON PEEL",
+                    "1 TBLSP "
                 ]
             ],
             "instructions": "Boil sugar and spices in water, leave in the water for 30 minutes. Strain the spiced water and mix with the wine. Heat slowly until short of boiling temperature. (To remove alcohol, let it boil for a while.) You may add lemon or orange juice to taste. Serve in irish coffee cup.",
@@ -7982,16 +7982,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1 oz "
+                    "VODKA",
+                    "1 OZ "
                 ],
                 [
-                    "Amaretto",
-                    "1 oz "
+                    "AMARETTO",
+                    "1 OZ "
                 ],
                 [
-                    "Heavy cream",
-                    "1 oz "
+                    "HEAVY CREAM",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Shake all ingredients well with cracked ice, strain into a champagne flute, and serve.",
@@ -8004,12 +8004,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Scotch",
-                    "1 1/2 oz "
+                    "SCOTCH",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Amaretto",
-                    "3/4 oz "
+                    "AMARETTO",
+                    "3/4 OZ "
                 ]
             ],
             "instructions": "Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.",
@@ -8022,12 +8022,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1 1/2 oz "
+                    "VODKA",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Amaretto",
-                    "3/4 oz "
+                    "AMARETTO",
+                    "3/4 OZ "
                 ]
             ],
             "instructions": "Pour vodka and amaretto into an old-fashioned glass over ice and serve.",
@@ -8040,20 +8040,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Galliano",
-                    "2 parts"
+                    "GALLIANO",
+                    "2 PARTS"
                 ],
                 [
-                    "Triple Sec",
-                    "2 parts"
+                    "TRIPLE SEC",
+                    "2 PARTS"
                 ],
                 [
-                    "orange juice",
-                    "2 parts"
+                    "ORANGE JUICE",
+                    "2 PARTS"
                 ],
                 [
-                    "Cream",
-                    "1 part"
+                    "CREAM",
+                    "1 PART"
                 ]
             ],
             "instructions": "Shake with cracked ice. Strain into glass and serve.",
@@ -8066,20 +8066,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Malibu rum",
-                    "1 1/2 cl "
+                    "MALIBU RUM",
+                    "1 1/2 CL "
                 ],
                 [
-                    "Peach schnapps",
-                    "1 1/2 cl "
+                    "PEACH SCHNAPPS",
+                    "1 1/2 CL "
                 ],
                 [
-                    "Blue Curacao",
-                    "1 1/2 cl "
+                    "BLUE CURACAO",
+                    "1 1/2 CL "
                 ],
                 [
-                    "Sweet and sour",
-                    "3 cl "
+                    "SWEET AND SOUR",
+                    "3 CL "
                 ]
             ],
             "instructions": "Serve in an old fashioned glass.",
@@ -8092,15 +8092,15 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Grapes",
-                    "1 cup "
+                    "GRAPES",
+                    "1 CUP "
                 ],
                 [
-                    "Lemon",
+                    "LEMON",
                     "1/4 "
                 ],
                 [
-                    "Pineapple",
+                    "PINEAPPLE",
                     "1/2 "
                 ]
             ],
@@ -8114,23 +8114,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1 oz "
+                    "TRIPLE SEC",
+                    "1 OZ "
                 ],
                 [
-                    "Pineapple juice",
-                    "1 oz "
+                    "PINEAPPLE JUICE",
+                    "1 OZ "
                 ],
                 [
-                    "Grenadine",
-                    "1/2 tsp "
+                    "GRENADINE",
+                    "1/2 TSP "
                 ],
                 [
-                    "Pineapple",
+                    "PINEAPPLE",
                     "1 "
                 ]
             ],
@@ -8144,16 +8144,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Green Creme de Menthe",
-                    "3/4 oz "
+                    "GREEN CREME DE MENTHE",
+                    "3/4 OZ "
                 ],
                 [
-                    "Creme de Cacao",
-                    "3/4 oz white "
+                    "CREME DE CACAO",
+                    "3/4 OZ WHITE "
                 ],
                 [
-                    "Light cream",
-                    "3/4 oz "
+                    "LIGHT CREAM",
+                    "3/4 OZ "
                 ]
             ],
             "instructions": "Pour ingredients into a cocktail shaker with ice. Shake briskly and then strain into a chilled cocktail glass.",
@@ -8166,16 +8166,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Cider",
-                    "1/2 pint hard "
+                    "CIDER",
+                    "1/2 PINT HARD "
                 ],
                 [
-                    "Lager",
-                    "1/2 pint "
+                    "LAGER",
+                    "1/2 PINT "
                 ],
                 [
-                    "Blue Curacao",
-                    "1 shot "
+                    "BLUE CURACAO",
+                    "1 SHOT "
                 ]
             ],
             "instructions": "Cider First, Lager then Curacao",
@@ -8188,16 +8188,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Kahlua",
-                    "1 oz "
+                    "KAHLUA",
+                    "1 OZ "
                 ],
                 [
-                    "151 proof rum",
-                    "1 oz Bacardi "
+                    "151 PROOF RUM",
+                    "1 OZ BACARDI "
                 ],
                 [
-                    "Grenadine",
-                    "1 dash "
+                    "GRENADINE",
+                    "1 DASH "
                 ]
             ],
             "instructions": "Mix Kahlua and 151 in glass. Quickly add ice and pour grenadine over ice to give ice red tint.",
@@ -8210,20 +8210,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Amaretto",
-                    "1 part "
+                    "AMARETTO",
+                    "1 PART "
                 ],
                 [
-                    "J\u00e4germeister",
-                    "1 part "
+                    "J\u00c4GERMEISTER",
+                    "1 PART "
                 ],
                 [
-                    "Kahlua",
-                    "1 part "
+                    "KAHLUA",
+                    "1 PART "
                 ],
                 [
-                    "Milk",
-                    "2 1/2 parts "
+                    "MILK",
+                    "2 1/2 PARTS "
                 ]
             ],
             "instructions": "Served over ice. Sounds nasty, but tastes great.",
@@ -8236,12 +8236,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Whisky",
-                    "4 cl "
+                    "WHISKY",
+                    "4 CL "
                 ],
                 [
-                    "Bailey's irish cream",
-                    "8 cl "
+                    "BAILEY'S IRISH CREAM",
+                    "8 CL "
                 ]
             ],
             "instructions": "Mix the whisky and Baileys Cream in a beer-glass (at least 50 cl). Fill the rest of the glass with coffee.",
@@ -8254,8 +8254,8 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Spiced rum",
-                    "1 1/2 cl "
+                    "SPICED RUM",
+                    "1 1/2 CL "
                 ]
             ],
             "instructions": "Pour Captain Morgan's Spiced Rum over ice, fill glass to top with Ginger Ale. Garnish with lime. Tastes like a cream soda. Named for the Gilligan's Island reference (\"The Captain\" *in* \"Ginger\" is a Happy Skipper!)",
@@ -8268,16 +8268,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1 oz "
+                    "VODKA",
+                    "1 OZ "
                 ],
                 [
-                    "Galliano",
-                    "1/2 oz "
+                    "GALLIANO",
+                    "1/2 OZ "
                 ],
                 [
-                    "Orange juice",
-                    "4 oz "
+                    "ORANGE JUICE",
+                    "4 OZ "
                 ]
             ],
             "instructions": "Stir the vodka and orange juice with ice in the glass, then float the Galliano on top. Garnish and serve.",
@@ -8290,16 +8290,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "1 oz "
+                    "LIGHT RUM",
+                    "1 OZ "
                 ],
                 [
-                    "Pineapple juice",
-                    "1 oz "
+                    "PINEAPPLE JUICE",
+                    "1 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1 tsp "
+                    "LEMON JUICE",
+                    "1 TSP "
                 ]
             ],
             "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",
@@ -8312,16 +8312,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1/2 oz "
+                    "TRIPLE SEC",
+                    "1/2 OZ "
                 ],
                 [
-                    "Pineapple juice",
-                    "1 tblsp "
+                    "PINEAPPLE JUICE",
+                    "1 TBLSP "
                 ]
             ],
             "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
@@ -8334,20 +8334,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Rum",
-                    "12 parts"
+                    "RUM",
+                    "12 PARTS"
                 ],
                 [
-                    "Grapefruit Juice",
-                    "8 parts"
+                    "GRAPEFRUIT JUICE",
+                    "8 PARTS"
                 ],
                 [
-                    "Maraschino Liqueur",
-                    "3 parts"
+                    "MARASCHINO LIQUEUR",
+                    "3 PARTS"
                 ],
                 [
-                    "Lime Juice",
-                    "3 parts"
+                    "LIME JUICE",
+                    "3 PARTS"
                 ]
             ],
             "instructions": "Pour all ingredients into a shaker with ice. Shake.",
@@ -8360,12 +8360,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Hot Damn",
-                    "5 shots "
+                    "HOT DAMN",
+                    "5 SHOTS "
                 ],
                 [
-                    "Tea",
-                    "very sweet "
+                    "TEA",
+                    "VERY SWEET "
                 ]
             ],
             "instructions": "Pour Hot Damn 100 in bottom of a jar or regular glass. Fill the rest of the glass with sweet tea. Stir with spoon, straw, or better yet a cinnamon stick and leave it in.",
@@ -8378,19 +8378,19 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Scotch",
-                    "1 1/2 oz "
+                    "SCOTCH",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Sweet Vermouth",
-                    "3/4 oz "
+                    "SWEET VERMOUTH",
+                    "3/4 OZ "
                 ],
                 [
-                    "Orange bitters",
-                    "2 dashes "
+                    "ORANGE BITTERS",
+                    "2 DASHES "
                 ],
                 [
-                    "Olive",
+                    "OLIVE",
                     "1 "
                 ]
             ],
@@ -8404,8 +8404,8 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Grape juice",
-                    ", orange\n"
+                    "GRAPE JUICE",
+                    ", ORANGE\n"
                 ]
             ],
             "instructions": "Take a bunch of grape juice and a bunch of fizzy stuff (club soda, ginger ale, lemonlime, whatever). Mix them in a punch bowl. Take orange sherbet and lime sherbet. Scoop out scoops and float them in the punch, let them melt a little so that a nasty film spreads all over the top of the punch but there are still \"bubbles\" in it in the form of sherbet scoops. Looks horrible, tastes just fine.",
@@ -8418,28 +8418,28 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sugar",
-                    "2 1/2 cups "
+                    "SUGAR",
+                    "2 1/2 CUPS "
                 ],
                 [
-                    "Corn syrup",
-                    "1 cup "
+                    "CORN SYRUP",
+                    "1 CUP "
                 ],
                 [
-                    "Coffee",
-                    "1 1/2 oz instant "
+                    "COFFEE",
+                    "1 1/2 OZ INSTANT "
                 ],
                 [
-                    "Vanilla extract",
-                    "2 oz "
+                    "VANILLA EXTRACT",
+                    "2 OZ "
                 ],
                 [
-                    "Water",
-                    "3 cups boiling "
+                    "WATER",
+                    "3 CUPS BOILING "
                 ],
                 [
-                    "Vodka",
-                    "1 fifth "
+                    "VODKA",
+                    "1 FIFTH "
                 ]
             ],
             "instructions": "Dissolve sugar in 2 cups of boiling water and add corn syrup. Dissolve the instant coffee in the remaining water. Pour syrup and coffee in a gallon jug. Let it cool. Add vodka and vanilla when cold. For the best result, let the mixture \"mature\" for 4-5 weeks.",
@@ -8452,20 +8452,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Lemon peel",
-                    "1 long strip "
+                    "LEMON PEEL",
+                    "1 LONG STRIP "
                 ],
                 [
-                    "Brandy",
-                    "2 oz "
+                    "BRANDY",
+                    "2 OZ "
                 ],
                 [
-                    "Ginger ale",
-                    "5 oz "
+                    "GINGER ALE",
+                    "5 OZ "
                 ],
                 [
-                    "Bitters",
-                    "2 dashes "
+                    "BITTERS",
+                    "2 DASHES "
                 ]
             ],
             "instructions": "Pour brandy and ginger ale directly into highball glass with ice cubes. Stir gently. Garnish with lemon zest. If desired, add dashes of Angostura Bitter.",
@@ -8478,24 +8478,24 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Chocolate",
-                    "12 oz fine "
+                    "CHOCOLATE",
+                    "12 OZ FINE "
                 ],
                 [
-                    "Butter",
-                    "1 tsp "
+                    "BUTTER",
+                    "1 TSP "
                 ],
                 [
-                    "Vanilla extract",
-                    "1/2 tsp "
+                    "VANILLA EXTRACT",
+                    "1/2 TSP "
                 ],
                 [
-                    "Half-and-half",
-                    "1 cup "
+                    "HALF-AND-HALF",
+                    "1 CUP "
                 ],
                 [
-                    "Marshmallows",
-                    "mini "
+                    "MARSHMALLOWS",
+                    "MINI "
                 ]
             ],
             "instructions": "Melt the chocolate, butter and vanilla in a double boiler. When just smooth stir in the cream.",
@@ -8508,16 +8508,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Irish whiskey",
-                    "1 shot "
+                    "IRISH WHISKEY",
+                    "1 SHOT "
                 ],
                 [
-                    "Bailey's irish cream",
-                    "3/4 shot "
+                    "BAILEY'S IRISH CREAM",
+                    "3/4 SHOT "
                 ],
                 [
-                    "Coffee",
-                    "6 oz hot "
+                    "COFFEE",
+                    "6 OZ HOT "
                 ]
             ],
             "instructions": "Combine all ingredients in glass",
@@ -8530,16 +8530,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1 1/2 oz "
+                    "VODKA",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Iced tea",
-                    "6 oz "
+                    "ICED TEA",
+                    "6 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    " to taste\n"
+                    "LEMON JUICE",
+                    " TO TASTE\n"
                 ]
             ],
             "instructions": "Put Vodka in glass fill with iced tea. Stir in lemon to taste.",
@@ -8552,20 +8552,20 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Coffee",
-                    "1/4 cup instant "
+                    "COFFEE",
+                    "1/4 CUP INSTANT "
                 ],
                 [
-                    "Sugar",
-                    "1/4 cup "
+                    "SUGAR",
+                    "1/4 CUP "
                 ],
                 [
-                    "Water",
-                    "1/4 cup hot "
+                    "WATER",
+                    "1/4 CUP HOT "
                 ],
                 [
-                    "Milk",
-                    "4 cups cold "
+                    "MILK",
+                    "4 CUPS COLD "
                 ]
             ],
             "instructions": "Mix together until coffee and sugar is dissolved. Add milk. Shake well. Using a blender or milk shake maker produces a very foamy drink. Serve in coffee mug.",
@@ -8578,12 +8578,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Kahlua",
-                    "2 tsp "
+                    "KAHLUA",
+                    "2 TSP "
                 ],
                 [
-                    "Coffee",
-                    "Strong cold "
+                    "COFFEE",
+                    "STRONG COLD "
                 ]
             ],
             "instructions": "Mix together in a coffee mug and chill before serving.",
@@ -8596,16 +8596,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Lime juice",
-                    "4 cl "
+                    "LIME JUICE",
+                    "4 CL "
                 ],
                 [
-                    "Gin",
-                    "2 cl "
+                    "GIN",
+                    "2 CL "
                 ],
                 [
-                    "Aperol",
-                    "4 cl "
+                    "APEROL",
+                    "4 CL "
                 ]
             ],
             "instructions": "Shake with ice and strain into cocktail glass.",
@@ -8618,20 +8618,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "1/2 oz "
+                    "LIGHT RUM",
+                    "1/2 OZ "
                 ],
                 [
-                    "Blended whiskey",
-                    "1 1/2 oz "
+                    "BLENDED WHISKEY",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1/2 "
+                    "LEMON",
+                    "JUICE OF 1/2 "
                 ],
                 [
-                    "Powdered sugar",
-                    "1 tsp "
+                    "POWDERED SUGAR",
+                    "1 TSP "
                 ]
             ],
             "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.",
@@ -8644,24 +8644,24 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Lime",
+                    "LIME",
                     "\u00bd"
                 ],
                 [
-                    "Brown sugar",
-                    "2 tsp"
+                    "BROWN SUGAR",
+                    "2 TSP"
                 ],
                 [
-                    "Passion fruit juice",
-                    "4 cl"
+                    "PASSION FRUIT JUICE",
+                    "4 CL"
                 ],
                 [
-                    "Ginger ale",
-                    "top up with"
+                    "GINGER ALE",
+                    "TOP UP WITH"
                 ],
                 [
-                    "Ice",
-                    "fill"
+                    "ICE",
+                    "FILL"
                 ]
             ],
             "instructions": "Cut half a lime into pieces, place in a shaker, add the sugar and crush. Measure the passion fruit juice, add it to the shaker and fill up with ice cubes. Close the shaker and shake vigorously. Pour the liquid into a glass, top up with ginger ale, stir with a teaspoon and then garnish the rim of the glass with a slice of lime",
@@ -8674,20 +8674,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Irish whiskey",
-                    "1 1/2 oz "
+                    "IRISH WHISKEY",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Coffee",
-                    "8 oz "
+                    "COFFEE",
+                    "8 OZ "
                 ],
                 [
-                    "Sugar",
-                    "1 tsp "
+                    "SUGAR",
+                    "1 TSP "
                 ],
                 [
-                    "Whipped cream",
-                    "1 tblsp "
+                    "WHIPPED CREAM",
+                    "1 TBLSP "
                 ]
             ],
             "instructions": "Heat the coffee, whiskey and sugar; do not boil. Pour into glass and top with cream; serve hot.",
@@ -8700,24 +8700,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Scotch",
-                    "1 cup "
+                    "SCOTCH",
+                    "1 CUP "
                 ],
                 [
-                    "Half-and-half",
-                    "1 1/4 cup "
+                    "HALF-AND-HALF",
+                    "1 1/4 CUP "
                 ],
                 [
-                    "Condensed milk",
-                    "1 can sweetened "
+                    "CONDENSED MILK",
+                    "1 CAN SWEETENED "
                 ],
                 [
-                    "Coconut syrup",
-                    "3 drops "
+                    "COCONUT SYRUP",
+                    "3 DROPS "
                 ],
                 [
-                    "Chocolate syrup",
-                    "1 tblsp "
+                    "CHOCOLATE SYRUP",
+                    "1 TBLSP "
                 ]
             ],
             "instructions": "Mix scotch and milk. Add half-and-half. Add rest.",
@@ -8730,20 +8730,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Bailey's irish cream",
-                    "3/4 oz "
+                    "BAILEY'S IRISH CREAM",
+                    "3/4 OZ "
                 ],
                 [
-                    "Bourbon",
-                    "3/4 oz "
+                    "BOURBON",
+                    "3/4 OZ "
                 ],
                 [
-                    "Vodka",
-                    "3/4 oz "
+                    "VODKA",
+                    "3/4 OZ "
                 ],
                 [
-                    "Orange juice",
-                    "2-3 oz "
+                    "ORANGE JUICE",
+                    "2-3 OZ "
                 ]
             ],
             "instructions": "Pour Irish Cream, Vodka, and Bourbon in a glass. Add some ice and mix in the orange juice.",
@@ -8756,20 +8756,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1 shot "
+                    "VODKA",
+                    "1 SHOT "
                 ],
                 [
-                    "Kahlua",
-                    "1 shot "
+                    "KAHLUA",
+                    "1 SHOT "
                 ],
                 [
-                    "Coca-Cola",
-                    "1 dash "
+                    "COCA-COLA",
+                    "1 DASH "
                 ],
                 [
-                    "Guinness stout",
-                    "Fill with "
+                    "GUINNESS STOUT",
+                    "FILL WITH "
                 ]
             ],
             "instructions": "Add the ingredients in the order listed in the recipe. Care must be taken when adding the Guinness to prevent an excess of foam. Do Not add ice.",
@@ -8782,27 +8782,27 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Irish whiskey",
-                    "1 oz "
+                    "IRISH WHISKEY",
+                    "1 OZ "
                 ],
                 [
-                    "Peach brandy",
-                    "1/2 oz "
+                    "PEACH BRANDY",
+                    "1/2 OZ "
                 ],
                 [
-                    "Orange juice",
-                    "1 oz "
+                    "ORANGE JUICE",
+                    "1 OZ "
                 ],
                 [
-                    "Sweet and sour",
-                    "1 oz "
+                    "SWEET AND SOUR",
+                    "1 OZ "
                 ],
                 [
-                    "Orange",
-                    "1 slice "
+                    "ORANGE",
+                    "1 SLICE "
                 ],
                 [
-                    "Cherry",
+                    "CHERRY",
                     "1 "
                 ]
             ],
@@ -8816,16 +8816,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Apple brandy",
-                    "1 1/2 oz "
+                    "APPLE BRANDY",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Grenadine",
-                    "1 tsp "
+                    "GRENADINE",
+                    "1 TSP "
                 ],
                 [
-                    "Lime",
-                    "Juice of 1/2 "
+                    "LIME",
+                    "JUICE OF 1/2 "
                 ]
             ],
             "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
@@ -8838,20 +8838,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Ice",
+                    "ICE",
                     "4-5 "
                 ],
                 [
-                    "Tennessee whiskey",
-                    "2 oz "
+                    "TENNESSEE WHISKEY",
+                    "2 OZ "
                 ],
                 [
-                    "Vanilla extract",
-                    "1 tsp "
+                    "VANILLA EXTRACT",
+                    "1 TSP "
                 ],
                 [
-                    "Coca-Cola",
-                    "10-12 oz "
+                    "COCA-COLA",
+                    "10-12 OZ "
                 ]
             ],
             "instructions": "After pouring in your ingredients, and adding 3-5 ice cubes, according to taste. Stir the drink with a stirrer to get the Vanilla off the bottom.",
@@ -8864,12 +8864,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Jack Daniels",
-                    "1 oz "
+                    "JACK DANIELS",
+                    "1 OZ "
                 ],
                 [
-                    "Amaretto",
-                    "1 oz "
+                    "AMARETTO",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Serve over ice- Warning,Deadly!",
@@ -8882,20 +8882,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Baileys irish cream",
-                    "2/3 oz"
+                    "BAILEYS IRISH CREAM",
+                    "2/3 OZ"
                 ],
                 [
-                    "Chambord raspberry liqueur",
-                    "1/3 oz"
+                    "CHAMBORD RASPBERRY LIQUEUR",
+                    "1/3 OZ"
                 ],
                 [
-                    "Sugar syrup",
-                    "1 tsp"
+                    "SUGAR SYRUP",
+                    "1 TSP"
                 ],
                 [
-                    "Sugar",
-                    "2 pinches"
+                    "SUGAR",
+                    "2 PINCHES"
                 ]
             ],
             "instructions": "Coat the rim of a shot glass with sugar using sugar syrup to stick. Add the Chambord raspberry liqueur to the shot glass, and carefully layer the Baileys Irish Cream on top. Serve.",
@@ -8908,16 +8908,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Coffee liqueur",
-                    "1 shot "
+                    "COFFEE LIQUEUR",
+                    "1 SHOT "
                 ],
                 [
-                    "Light rum",
-                    "1 shot Jamaican "
+                    "LIGHT RUM",
+                    "1 SHOT JAMAICAN "
                 ],
                 [
-                    "Ice",
-                    " cubes\n"
+                    "ICE",
+                    " CUBES\n"
                 ]
             ],
             "instructions": "Fill a tumbler with ice cubes. Add a shot of Tia Maria and a shot of Jamaican light rum. Fill the tumbler with milk. Blend until smooth and serve immediately.",
@@ -8930,16 +8930,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Rum",
-                    "1/6 glass "
+                    "RUM",
+                    "1/6 GLASS "
                 ],
                 [
-                    "Coffee",
-                    "1/6 glass strong black "
+                    "COFFEE",
+                    "1/6 GLASS STRONG BLACK "
                 ],
                 [
-                    "Water",
-                    "1/2 glass cold "
+                    "WATER",
+                    "1/2 GLASS COLD "
                 ]
             ],
             "instructions": "Stir the rum, coffee and water together. Top with the whipped cream. Sprinkle with a pinch of well ground coffee and drink with a straw.",
@@ -8952,23 +8952,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Blended whiskey",
-                    "1 1/2 oz "
+                    "BLENDED WHISKEY",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1/2 "
+                    "LEMON",
+                    "JUICE OF 1/2 "
                 ],
                 [
-                    "Powdered sugar",
-                    "1 tsp "
+                    "POWDERED SUGAR",
+                    "1 TSP "
                 ],
                 [
-                    "Port",
-                    "1 tblsp "
+                    "PORT",
+                    "1 TBLSP "
                 ],
                 [
-                    "Egg white",
+                    "EGG WHITE",
                     "1 "
                 ]
             ],
@@ -8982,16 +8982,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "2 cups "
+                    "VODKA",
+                    "2 CUPS "
                 ],
                 [
-                    "Jello",
-                    "3 packages "
+                    "JELLO",
+                    "3 PACKAGES "
                 ],
                 [
-                    "Water",
-                    "3 cups "
+                    "WATER",
+                    "3 CUPS "
                 ]
             ],
             "instructions": "Boil 3 cups of water then add jello. Mix jello and water until jello is completely disolved. Add the two cups of vodka and mix together. Pour mixture into plastic shot glasses and chill until firm. Then, eat away...",
@@ -9004,12 +9004,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Blackberry brandy",
-                    "1 oz "
+                    "BLACKBERRY BRANDY",
+                    "1 OZ "
                 ],
                 [
-                    "Anis",
-                    "1 oz "
+                    "ANIS",
+                    "1 OZ "
                 ]
             ],
             "instructions": "mix equal parts in pony glass-tastes just like a jelly bean!",
@@ -9022,16 +9022,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Green Chartreuse",
-                    "1/2 oz "
+                    "GREEN CHARTREUSE",
+                    "1/2 OZ "
                 ],
                 [
-                    "Yellow Chartreuse",
-                    "1/2 oz "
+                    "YELLOW CHARTREUSE",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.",
@@ -9044,32 +9044,32 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 jiggers "
+                    "GIN",
+                    "2 JIGGERS "
                 ],
                 [
-                    "Vodka",
-                    "1 jigger "
+                    "VODKA",
+                    "1 JIGGER "
                 ],
                 [
-                    "Grenadine",
-                    "3 dashes "
+                    "GRENADINE",
+                    "3 DASHES "
                 ],
                 [
-                    "Lime juice",
-                    "1 shot "
+                    "LIME JUICE",
+                    "1 SHOT "
                 ],
                 [
-                    "Sugar",
-                    "Around rim put 1 pinch "
+                    "SUGAR",
+                    "AROUND RIM PUT 1 PINCH "
                 ],
                 [
-                    "Sugar syrup",
-                    "3 dashes "
+                    "SUGAR SYRUP",
+                    "3 DASHES "
                 ],
                 [
-                    "Soda water",
-                    "Fill to top with "
+                    "SODA WATER",
+                    "FILL TO TOP WITH "
                 ]
             ],
             "instructions": "Wet glass, dip rim in sugar. Then add Ice. Then add everything else. It's that simple!",
@@ -9082,27 +9082,27 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Bourbon",
-                    "2 oz "
+                    "BOURBON",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1 oz "
+                    "LEMON JUICE",
+                    "1 OZ "
                 ],
                 [
-                    "Sugar",
-                    "1 tsp superfine "
+                    "SUGAR",
+                    "1 TSP SUPERFINE "
                 ],
                 [
-                    "Club soda",
-                    "3 oz "
+                    "CLUB SODA",
+                    "3 OZ "
                 ],
                 [
-                    "Maraschino cherry",
+                    "MARASCHINO CHERRY",
                     "1 "
                 ],
                 [
-                    "Orange",
+                    "ORANGE",
                     "1 "
                 ]
             ],
@@ -9116,8 +9116,8 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Milk",
-                    "2 cups "
+                    "MILK",
+                    "2 CUPS "
                 ]
             ],
             "instructions": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.",
@@ -9130,16 +9130,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1 oz "
+                    "VODKA",
+                    "1 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1 oz "
+                    "TRIPLE SEC",
+                    "1 OZ "
                 ],
                 [
-                    "Lime juice",
-                    "1 oz "
+                    "LIME JUICE",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Shake all ingredients together with ice. Strain into glass, garnish and serve.",
@@ -9152,12 +9152,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Coffee",
-                    "1 part "
+                    "COFFEE",
+                    "1 PART "
                 ],
                 [
-                    "Grain alcohol",
-                    "2 parts "
+                    "GRAIN ALCOHOL",
+                    "2 PARTS "
                 ]
             ],
             "instructions": "Put a copper coin in a coffe-cup and fill up with coffee until you no longer see the coin, then add alcohol until you see the coin. Norwegian speciality.",
@@ -9170,12 +9170,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Bourbon",
-                    "2 oz "
+                    "BOURBON",
+                    "2 OZ "
                 ],
                 [
-                    "Benedictine",
-                    "1/2 oz "
+                    "BENEDICTINE",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "Pour the bourbon and Benedictine into a brandy snifter.",
@@ -9188,16 +9188,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Bourbon",
-                    "3 oz "
+                    "BOURBON",
+                    "3 OZ "
                 ],
                 [
-                    "Benedictine",
-                    "1/2 oz "
+                    "BENEDICTINE",
+                    "1/2 OZ "
                 ],
                 [
-                    "Lemon peel",
-                    "1 twist of "
+                    "LEMON PEEL",
+                    "1 TWIST OF "
                 ]
             ],
             "instructions": "In a shaker half-filled with ice cubes combine the courbon and Benedictine. Shake and strain into a cocktail glass. Garnish with the lemon twist.",
@@ -9210,16 +9210,16 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Ginger",
-                    "1 inch "
+                    "GINGER",
+                    "1 INCH "
                 ],
                 [
-                    "Lemon",
+                    "LEMON",
                     "1/4 "
                 ],
                 [
-                    "Water",
-                    "1 cup hot "
+                    "WATER",
+                    "1 CUP HOT "
                 ]
             ],
             "instructions": "Juice ginger and lemon and add it to hot water. You may add cardomom.",
@@ -9232,12 +9232,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Kahlua",
-                    "1 oz "
+                    "KAHLUA",
+                    "1 OZ "
                 ],
                 [
-                    "Brandy",
-                    "1/2 oz "
+                    "BRANDY",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "Stir. Add whipped cream to the top.",
@@ -9250,12 +9250,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Creme de Cassis",
-                    "1 part "
+                    "CREME DE CASSIS",
+                    "1 PART "
                 ],
                 [
-                    "Champagne",
-                    "5 parts "
+                    "CHAMPAGNE",
+                    "5 PARTS "
                 ]
             ],
             "instructions": "Add the cr\u00e8me de cassis to the bottom of the glass, then top up with wine.",
@@ -9268,12 +9268,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Creme de Cassis",
-                    "1 part "
+                    "CREME DE CASSIS",
+                    "1 PART "
                 ],
                 [
-                    "Champagne",
-                    "5 parts "
+                    "CHAMPAGNE",
+                    "5 PARTS "
                 ]
             ],
             "instructions": "Pour Creme de cassis in glass, gently pour champagne on top",
@@ -9286,24 +9286,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Cranberry vodka",
-                    "4 cl "
+                    "CRANBERRY VODKA",
+                    "4 CL "
                 ],
                 [
-                    "Apfelkorn",
-                    "2 cl "
+                    "APFELKORN",
+                    "2 CL "
                 ],
                 [
-                    "Schweppes Russchian",
-                    "7 cl "
+                    "SCHWEPPES RUSSCHIAN",
+                    "7 CL "
                 ],
                 [
-                    "Apple juice",
-                    "8 cl "
+                    "APPLE JUICE",
+                    "8 CL "
                 ],
                 [
-                    "Ice",
-                    " cubes\n"
+                    "ICE",
+                    " CUBES\n"
                 ]
             ],
             "instructions": "mix in the glass",
@@ -9316,16 +9316,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Kiwi liqueur",
-                    "1 part "
+                    "KIWI LIQUEUR",
+                    "1 PART "
                 ],
                 [
-                    "Bitter lemon",
-                    "2 parts "
+                    "BITTER LEMON",
+                    "2 PARTS "
                 ],
                 [
-                    "Ice",
-                    " cubes\n"
+                    "ICE",
+                    " CUBES\n"
                 ]
             ],
             "instructions": "Mix in highball glass. Stirr. Garnish with slice of kiwi.",
@@ -9338,11 +9338,11 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Kiwi",
+                    "KIWI",
                     "3 "
                 ],
                 [
-                    "Papaya",
+                    "PAPAYA",
                     "1/2 "
                 ]
             ],
@@ -9356,12 +9356,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "151 proof rum",
-                    "2 oz light "
+                    "151 PROOF RUM",
+                    "2 OZ LIGHT "
                 ],
                 [
-                    "Kool-Aid",
-                    "1/2 tsp Tropical "
+                    "KOOL-AID",
+                    "1/2 TSP TROPICAL "
                 ]
             ],
             "instructions": "Add Kool Aid to a double shot glass, and top with rum. Slam and shoot.",
@@ -9374,20 +9374,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1 shot "
+                    "VODKA",
+                    "1 SHOT "
                 ],
                 [
-                    "Amaretto",
-                    "1 shot "
+                    "AMARETTO",
+                    "1 SHOT "
                 ],
                 [
-                    "Sloe gin",
-                    "1 shot "
+                    "SLOE GIN",
+                    "1 SHOT "
                 ],
                 [
-                    "Triple sec",
-                    "1 shot "
+                    "TRIPLE SEC",
+                    "1 SHOT "
                 ]
             ],
             "instructions": "Pour into a large glass with ice and stir. Add a little cranberry juice to taste.",
@@ -9400,12 +9400,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Kool-Aid",
-                    "1/2 oz Grape "
+                    "KOOL-AID",
+                    "1/2 OZ GRAPE "
                 ],
                 [
-                    "Vodka",
-                    "1/2 oz "
+                    "VODKA",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "Fill half the shot glass with the kool-aid first. Then put a paper towel over the top of the glass and slowly pour in the vodka. If you do it right, you should be able to see that the two liquids are separated, with the vodka on top. Now slam it! The last thing you'll taste is the kool-aid.",
@@ -9418,16 +9418,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Absolut Kurant",
-                    "4 cl "
+                    "ABSOLUT KURANT",
+                    "4 CL "
                 ],
                 [
-                    "Tea",
-                    "Turkish apple "
+                    "TEA",
+                    "TURKISH APPLE "
                 ],
                 [
-                    "Sugar",
-                    " (if needed)\n"
+                    "SUGAR",
+                    " (IF NEEDED)\n"
                 ]
             ],
             "instructions": "Pour Absolut Kurant into a comfortably big tea-cup. Add the not too hot(!) apple tea and, if you like, some sugar. Enjoy!",
@@ -9440,23 +9440,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ],
                 [
-                    "Light cream",
-                    "2 tsp "
+                    "LIGHT CREAM",
+                    "2 TSP "
                 ],
                 [
-                    "Powdered sugar",
-                    "1 tsp "
+                    "POWDERED SUGAR",
+                    "1 TSP "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1/2 "
+                    "LEMON",
+                    "JUICE OF 1/2 "
                 ],
                 [
-                    "Egg white",
+                    "EGG WHITE",
                     "1 "
                 ]
             ],
@@ -9470,24 +9470,24 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Yoghurt",
-                    "1/2 cup plain "
+                    "YOGHURT",
+                    "1/2 CUP PLAIN "
                 ],
                 [
-                    "Water",
-                    "1 1/4 cup cold "
+                    "WATER",
+                    "1 1/4 CUP COLD "
                 ],
                 [
-                    "Cumin seed",
-                    "1/2 tsp ground roasted "
+                    "CUMIN SEED",
+                    "1/2 TSP GROUND ROASTED "
                 ],
                 [
-                    "Salt",
-                    "1/4 tsp "
+                    "SALT",
+                    "1/4 TSP "
                 ],
                 [
-                    "Mint",
-                    "1/4 tsp dried "
+                    "MINT",
+                    "1/4 TSP DRIED "
                 ]
             ],
             "instructions": "Blend in a blender for 3 seconds. Lassi is one of the easiest things to make, and there are many ways of making it. Basically, it is buttermilk (yoghurt whisked with water), and you can choose almost any consistency that you like, from the thinnest to the thickest. Serve cold.",
@@ -9500,20 +9500,20 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Mango",
+                    "MANGO",
                     "2 "
                 ],
                 [
-                    "Yoghurt",
-                    "2 cups "
+                    "YOGHURT",
+                    "2 CUPS "
                 ],
                 [
-                    "Sugar",
-                    "1/2 cup "
+                    "SUGAR",
+                    "1/2 CUP "
                 ],
                 [
-                    "Water",
-                    "1 cup iced "
+                    "WATER",
+                    "1 CUP ICED "
                 ]
             ],
             "instructions": "Put it all in a blender and pour over crushed ice. You can also use other fruits like strawberries and bananas.",
@@ -9526,24 +9526,24 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Yoghurt",
-                    "1 cup "
+                    "YOGHURT",
+                    "1 CUP "
                 ],
                 [
-                    "Water",
-                    "2 cups cold "
+                    "WATER",
+                    "2 CUPS COLD "
                 ],
                 [
-                    "Sugar",
-                    "4 tblsp "
+                    "SUGAR",
+                    "4 TBLSP "
                 ],
                 [
-                    "Salt",
-                    "pinch "
+                    "SALT",
+                    "PINCH "
                 ],
                 [
-                    "Lemon juice",
-                    "2 tblsp "
+                    "LEMON JUICE",
+                    "2 TBLSP "
                 ]
             ],
             "instructions": "Put all ingredients into a blender and blend until nice and frothy. Serve chilled.",
@@ -9556,20 +9556,20 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Yoghurt",
-                    "1 cup "
+                    "YOGHURT",
+                    "1 CUP "
                 ],
                 [
-                    "Water",
-                    "2 cups cold "
+                    "WATER",
+                    "2 CUPS COLD "
                 ],
                 [
-                    "Salt",
-                    "1 tsp "
+                    "SALT",
+                    "1 TSP "
                 ],
                 [
-                    "Asafoetida",
-                    "1 pinch "
+                    "ASAFOETIDA",
+                    "1 PINCH "
                 ]
             ],
             "instructions": "Blend (frappe) in blender until frothy. Add torn curry leaves and serve cold.",
@@ -9582,11 +9582,11 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Yoghurt",
-                    "2 cups "
+                    "YOGHURT",
+                    "2 CUPS "
                 ],
                 [
-                    "Ice",
+                    "ICE",
                     "4-6 "
                 ]
             ],
@@ -9600,16 +9600,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Absolut Vodka",
-                    "1 1/2 shot "
+                    "ABSOLUT VODKA",
+                    "1 1/2 SHOT "
                 ],
                 [
-                    "Cointreau",
-                    "1 1/2 shot "
+                    "COINTREAU",
+                    "1 1/2 SHOT "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1 wedge "
+                    "LEMON",
+                    "JUICE OF 1 WEDGE "
                 ]
             ],
             "instructions": "Shake and strain into a chilled cocktail glass rimmed with sugar.",
@@ -9622,20 +9622,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Galliano",
-                    "1/2 oz "
+                    "GALLIANO",
+                    "1/2 OZ "
                 ],
                 [
-                    "Absolut Citron",
-                    "1/2 oz "
+                    "ABSOLUT CITRON",
+                    "1/2 OZ "
                 ],
                 [
-                    "Lemon",
-                    " wedge\n"
+                    "LEMON",
+                    " WEDGE\n"
                 ],
                 [
-                    "Sugar",
-                    "Bacardi "
+                    "SUGAR",
+                    "BACARDI "
                 ]
             ],
             "instructions": "Mix Galliano and Absolut Citron in a shot glass, lay lemon wedge sprinkled with sugar over glass and pour a rum over wedge and glass. light rum with a lighter and let burn for a second. Do shot quickly and suck on lemon. If it is done correctly, this will taste like a shot of sweet lemonade.",
@@ -9648,24 +9648,24 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Ginger",
-                    "2 pieces "
+                    "GINGER",
+                    "2 PIECES "
                 ],
                 [
-                    "Water",
-                    "1 gal "
+                    "WATER",
+                    "1 GAL "
                 ],
                 [
-                    "Lemon",
-                    "1 lb "
+                    "LEMON",
+                    "1 LB "
                 ],
                 [
-                    "Sugar",
-                    "1 cup "
+                    "SUGAR",
+                    "1 CUP "
                 ],
                 [
-                    "Cayenne pepper",
-                    "ground "
+                    "CAYENNE PEPPER",
+                    "GROUND "
                 ]
             ],
             "instructions": "Juice the lemons. Peel and grate the ginger. Place the grated ginger and a liberal dash of the cayenne pepper into a piece of cheesecloth, and tie it into a knot. Let soak in the water. After 15 minutes or so, add the sugar, and the lemon juice. Chill, and serve.",
@@ -9678,16 +9678,16 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Lime",
-                    "Juice of 1 "
+                    "LIME",
+                    "JUICE OF 1 "
                 ],
                 [
-                    "Sugar",
-                    "1 tblsp "
+                    "SUGAR",
+                    "1 TBLSP "
                 ],
                 [
-                    "Soda water",
-                    " (seltzer water)\n"
+                    "SODA WATER",
+                    " (SELTZER WATER)\n"
                 ]
             ],
             "instructions": "In a large glass, put the lime juice and sugar, and stir well. Add cold seltzer water to fill. Put the lime peels in the glass. Drink. Repeat until limes or soda run out.",
@@ -9700,12 +9700,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Corona",
-                    "1 bottle "
+                    "CORONA",
+                    "1 BOTTLE "
                 ],
                 [
-                    "Bacardi Limon",
-                    "1 oz "
+                    "BACARDI LIMON",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Open the Corona. Fill the empty space in the neck in the bottle with the rum. The bottle should be filled to the top. Plug the bottle with your thumb or the palm of your hand. Turn the bottle upside-down so the rum and beer mix. Turn the bottle rightside-up, unplug, and drink.",
@@ -9718,20 +9718,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Scotch",
-                    "2 oz "
+                    "SCOTCH",
+                    "2 OZ "
                 ],
                 [
-                    "Drambuie",
-                    "1/2 oz "
+                    "DRAMBUIE",
+                    "1/2 OZ "
                 ],
                 [
-                    "Dry Vermouth",
-                    "1/2 oz "
+                    "DRY VERMOUTH",
+                    "1/2 OZ "
                 ],
                 [
-                    "Lemon peel",
-                    "1 twist of "
+                    "LEMON PEEL",
+                    "1 TWIST OF "
                 ]
             ],
             "instructions": "In a mixing glass half-filled with ice cubes, combine the Scotch, Drambuie, and vermouth. Stir well. Strain into a cocktail glass. Garnish with the lemon twist.",
@@ -9744,16 +9744,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Maraschino liqueur",
-                    "1/2 oz "
+                    "MARASCHINO LIQUEUR",
+                    "1/2 OZ "
                 ],
                 [
-                    "Orange bitters",
-                    "2 dashes "
+                    "ORANGE BITTERS",
+                    "2 DASHES "
                 ]
             ],
             "instructions": "In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.",
@@ -9766,12 +9766,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sweet Vermouth",
-                    "3/4 oz "
+                    "SWEET VERMOUTH",
+                    "3/4 OZ "
                 ],
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ]
             ],
             "instructions": "Stir ingredients with ice, strain into a cocktail glass, and serve.",
@@ -9793,28 +9793,28 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1/2 oz "
+                    "VODKA",
+                    "1/2 OZ "
                 ],
                 [
-                    "Tequila",
-                    "1/2 oz "
+                    "TEQUILA",
+                    "1/2 OZ "
                 ],
                 [
-                    "Light rum",
-                    "1/2 oz "
+                    "LIGHT RUM",
+                    "1/2 OZ "
                 ],
                 [
-                    "Gin",
-                    "1/2 oz "
+                    "GIN",
+                    "1/2 OZ "
                 ],
                 [
-                    "Coca-Cola",
-                    "1 dash "
+                    "COCA-COLA",
+                    "1 DASH "
                 ],
                 [
-                    "Lemon peel",
-                    "Twist of "
+                    "LEMON PEEL",
+                    "TWIST OF "
                 ]
             ],
             "instructions": "Mix all contents in a highball glass and sitr gently. Add dash of Coca-Cola for the coloring and garnish with lemon or lime twist.",
@@ -9827,28 +9827,28 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1/2 oz "
+                    "VODKA",
+                    "1/2 OZ "
                 ],
                 [
-                    "Light rum",
-                    "1/2 oz "
+                    "LIGHT RUM",
+                    "1/2 OZ "
                 ],
                 [
-                    "Gin",
-                    "1/2 oz "
+                    "GIN",
+                    "1/2 OZ "
                 ],
                 [
-                    "Tequila",
-                    "1/2 oz "
+                    "TEQUILA",
+                    "1/2 OZ "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1/2 "
+                    "LEMON",
+                    "JUICE OF 1/2 "
                 ],
                 [
-                    "Coca-Cola",
-                    "1 splash "
+                    "COCA-COLA",
+                    "1 SPLASH "
                 ]
             ],
             "instructions": "Combine all ingredients (except cola) and pour over ice in a highball glass. Add the splash of cola for color. Decorate with a slice of lemon and serve.",
@@ -9861,23 +9861,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "5 cl "
+                    "VODKA",
+                    "5 CL "
                 ],
                 [
-                    "Lime",
+                    "LIME",
                     "1/2 "
                 ],
                 [
-                    "Angostura bitters",
-                    "4 dashes "
+                    "ANGOSTURA BITTERS",
+                    "4 DASHES "
                 ],
                 [
-                    "Tonic water",
-                    "1 dl Schweppes "
+                    "TONIC WATER",
+                    "1 DL SCHWEPPES "
                 ],
                 [
-                    "Ice",
+                    "ICE",
                     "4 "
                 ]
             ],
@@ -9891,12 +9891,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Dark rum",
-                    "1 1/2 oz "
+                    "DARK RUM",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Tia maria",
-                    "1/2 oz "
+                    "TIA MARIA",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "Pour the rum and Tia Maria into an old-fashioned glass almost filled with ice cubes. Stir well.",
@@ -9909,16 +9909,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Beer",
-                    "3/4 bottle "
+                    "BEER",
+                    "3/4 BOTTLE "
                 ],
                 [
-                    "Amaretto",
-                    "1 shot "
+                    "AMARETTO",
+                    "1 SHOT "
                 ],
                 [
-                    "Orange juice",
-                    "1 oz "
+                    "ORANGE JUICE",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Fill a pint glass almost full with beer. Then fill the rest with orange juice (careful not to fill it to the top). Then take the shot of Amaretto and drop it in.",
@@ -9931,23 +9931,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "1 oz "
+                    "LIGHT RUM",
+                    "1 OZ "
                 ],
                 [
-                    "Orgeat syrup",
-                    "1/2 oz "
+                    "ORGEAT SYRUP",
+                    "1/2 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1/2 oz "
+                    "TRIPLE SEC",
+                    "1/2 OZ "
                 ],
                 [
-                    "Sweet and sour",
-                    "1 1/2 oz "
+                    "SWEET AND SOUR",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Cherry",
+                    "CHERRY",
                     "1 "
                 ]
             ],
@@ -9961,16 +9961,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Malibu rum",
-                    "2 parts "
+                    "MALIBU RUM",
+                    "2 PARTS "
                 ],
                 [
-                    "Tropicana",
-                    "2 parts "
+                    "TROPICANA",
+                    "2 PARTS "
                 ],
                 [
-                    "Cranberry juice",
-                    "1 part "
+                    "CRANBERRY JUICE",
+                    "1 PART "
                 ]
             ],
             "instructions": "Add rum & trister then, add cranberry jucie,stir",
@@ -9983,11 +9983,11 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Mango",
+                    "MANGO",
                     "1 "
                 ],
                 [
-                    "Orange",
+                    "ORANGE",
                     "2 "
                 ]
             ],
@@ -10001,28 +10001,28 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sweet Vermouth",
-                    "3/4 oz "
+                    "SWEET VERMOUTH",
+                    "3/4 OZ "
                 ],
                 [
-                    "Bourbon",
-                    "2 1/2 oz Blended "
+                    "BOURBON",
+                    "2 1/2 OZ BLENDED "
                 ],
                 [
-                    "Angostura bitters",
-                    "dash "
+                    "ANGOSTURA BITTERS",
+                    "DASH "
                 ],
                 [
-                    "Ice",
-                    "2 or 3 "
+                    "ICE",
+                    "2 OR 3 "
                 ],
                 [
-                    "Maraschino cherry",
+                    "MARASCHINO CHERRY",
                     "1 "
                 ],
                 [
-                    "Orange peel",
-                    "1 twist of "
+                    "ORANGE PEEL",
+                    "1 TWIST OF "
                 ]
             ],
             "instructions": "Stirred over ice, strained into a chilled glass, garnished, and served up.",
@@ -10035,16 +10035,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Tequila",
-                    "1 1/2 oz "
+                    "TEQUILA",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1/2 oz "
+                    "TRIPLE SEC",
+                    "1/2 OZ "
                 ],
                 [
-                    "Lime juice",
-                    "1 oz "
+                    "LIME JUICE",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Rub the rim of the glass with the lime slice to make the salt stick to it. Take care to moisten only the outer rim and sprinkle the salt on it. The salt should present to the lips of the imbiber and never mix into the cocktail. Shake the other ingredients with ice, then carefully pour into the glass.",
@@ -10057,23 +10057,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 oz "
+                    "GIN",
+                    "1 OZ "
                 ],
                 [
-                    "Dry Vermouth",
-                    "1 oz "
+                    "DRY VERMOUTH",
+                    "1 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1/4 tsp "
+                    "TRIPLE SEC",
+                    "1/4 TSP "
                 ],
                 [
-                    "Orange bitters",
-                    "1 dash "
+                    "ORANGE BITTERS",
+                    "1 DASH "
                 ],
                 [
-                    "Cherry",
+                    "CHERRY",
                     "1 "
                 ]
             ],
@@ -10087,15 +10087,15 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 2/3 oz "
+                    "GIN",
+                    "1 2/3 OZ "
                 ],
                 [
-                    "Dry Vermouth",
-                    "1/3 oz "
+                    "DRY VERMOUTH",
+                    "1/3 OZ "
                 ],
                 [
-                    "Olive",
+                    "OLIVE",
                     "1 "
                 ]
             ],
@@ -10109,23 +10109,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "1 1/2 oz "
+                    "LIGHT RUM",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Pineapple juice",
-                    "1 oz "
+                    "PINEAPPLE JUICE",
+                    "1 OZ "
                 ],
                 [
-                    "Maraschino liqueur",
-                    "1/2 tsp "
+                    "MARASCHINO LIQUEUR",
+                    "1/2 TSP "
                 ],
                 [
-                    "Grenadine",
-                    "1/2 tsp "
+                    "GRENADINE",
+                    "1/2 TSP "
                 ],
                 [
-                    "Maraschino cherry",
+                    "MARASCHINO CHERRY",
                     "1 "
                 ]
             ],
@@ -10139,36 +10139,36 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Water",
-                    "2 cups "
+                    "WATER",
+                    "2 CUPS "
                 ],
                 [
-                    "Tea",
-                    "3-4 tsp "
+                    "TEA",
+                    "3-4 TSP "
                 ],
                 [
-                    "Ginger",
-                    "1 chunk dried "
+                    "GINGER",
+                    "1 CHUNK DRIED "
                 ],
                 [
-                    "Cardamom",
-                    "3-4 crushed "
+                    "CARDAMOM",
+                    "3-4 CRUSHED "
                 ],
                 [
-                    "Cloves",
+                    "CLOVES",
                     "3 "
                 ],
                 [
-                    "Cinnamon",
-                    "1 piece "
+                    "CINNAMON",
+                    "1 PIECE "
                 ],
                 [
-                    "Black pepper",
-                    "1-2 whole "
+                    "BLACK PEPPER",
+                    "1-2 WHOLE "
                 ],
                 [
-                    "Sugar",
-                    " to taste\n"
+                    "SUGAR",
+                    " TO TASTE\n"
                 ]
             ],
             "instructions": "Bring 2 cups of water to boil. Add all the ingredients and boil again for about 15 seconds. Let stand for a minute. Warm milk in a pot. Filter tea into cups. Add milk and sugar. That's IT.",
@@ -10181,8 +10181,8 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Espresso",
-                    "Unsweetened "
+                    "ESPRESSO",
+                    "UNSWEETENED "
                 ]
             ],
             "instructions": "Brew espresso. In a coffee mug, place 1 teaspoon of unsweetened powdered cocoa, then cover a teaspoon with honey and drizzle it into the cup. Stir while the coffee brews, this is the fun part. The cocoa seems to coat the honey without mixing, so you get a dusty, sticky mass that looks as though it will never mix. Then all at once, presto! It looks like dark chocolate sauce. Pour hot espresso over the honey, stirring to dissolve. Serve with cream.",
@@ -10195,16 +10195,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "151 proof rum",
-                    "5 oz Bacardi "
+                    "151 PROOF RUM",
+                    "5 OZ BACARDI "
                 ],
                 [
-                    "Pina colada mix",
-                    "frozen "
+                    "PINA COLADA MIX",
+                    "FROZEN "
                 ],
                 [
-                    "Daiquiri mix",
-                    "frozen "
+                    "DAIQUIRI MIX",
+                    "FROZEN "
                 ]
             ],
             "instructions": "First: Mix pina colada with 2.5 oz. of rum with ice(set aside). Second: Mix daiquiri with 2.5 oz. of rum with ice. Third: While frozen, add pina colda mix then daiquiri mix in glass (Making sure they do not get mixed together).",
@@ -10217,28 +10217,28 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sugar",
-                    "5 tblsp "
+                    "SUGAR",
+                    "5 TBLSP "
                 ],
                 [
-                    "Cocoa powder",
-                    "3 tblsp "
+                    "COCOA POWDER",
+                    "3 TBLSP "
                 ],
                 [
-                    "Salt",
-                    "1 dash "
+                    "SALT",
+                    "1 DASH "
                 ],
                 [
-                    "Water",
-                    "3 tblsp hot "
+                    "WATER",
+                    "3 TBLSP HOT "
                 ],
                 [
-                    "Milk",
-                    "2 cups "
+                    "MILK",
+                    "2 CUPS "
                 ],
                 [
-                    "Vanilla extract",
-                    "1/4 tsp "
+                    "VANILLA EXTRACT",
+                    "1/4 TSP "
                 ]
             ],
             "instructions": "Combine sugar, cocoa, salt and hot water in 1-quart micro-proof measuring cup (or coffee mug). Microwave at HIGH (100%) for 1 to 1 1/2 minutes or until boiling. Add milk, sitr and microwave an additonal 1 1/2 to 2 minutes or until hot. Stir in vanilla, blend well.",
@@ -10251,16 +10251,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Bourbon",
-                    "2 oz "
+                    "BOURBON",
+                    "2 OZ "
                 ],
                 [
-                    "Dark rum",
-                    "1 oz "
+                    "DARK RUM",
+                    "1 OZ "
                 ],
                 [
-                    "Heavy cream",
-                    "1/2 oz "
+                    "HEAVY CREAM",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",
@@ -10273,24 +10273,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Kahlua",
-                    "1 oz "
+                    "KAHLUA",
+                    "1 OZ "
                 ],
                 [
-                    "Bailey's irish cream",
-                    "1 oz "
+                    "BAILEY'S IRISH CREAM",
+                    "1 OZ "
                 ],
                 [
-                    "Goldschlager",
-                    "dash "
+                    "GOLDSCHLAGER",
+                    "DASH "
                 ],
                 [
-                    "Heavy cream",
-                    "2 oz "
+                    "HEAVY CREAM",
+                    "2 OZ "
                 ],
                 [
-                    "Coffee",
-                    "2 oz Hazlenut "
+                    "COFFEE",
+                    "2 OZ HAZLENUT "
                 ]
             ],
             "instructions": "Fill a mixer with ice and add Baileys, Kahlua, Goldshlager, and cream. Shake for 5 seconds and Strain into a double rocks glass filled with ice. Add chilled coffee Stir and enjoy!",
@@ -10303,16 +10303,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Bailey's irish cream",
-                    "1 oz "
+                    "BAILEY'S IRISH CREAM",
+                    "1 OZ "
                 ],
                 [
-                    "White Creme de Menthe",
-                    "3/4 oz "
+                    "WHITE CREME DE MENTHE",
+                    "3/4 OZ "
                 ],
                 [
-                    "Cream",
-                    "3/4 oz double "
+                    "CREAM",
+                    "3/4 OZ DOUBLE "
                 ]
             ],
             "instructions": "If available, rim cocktail (Martini) glass with sugar syrup then dip into chocolate flakes or powder. Add ingredients into shaker with ice. Shake well then strain into cocktail glass.",
@@ -10325,12 +10325,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Champagne",
-                    "Chilled "
+                    "CHAMPAGNE",
+                    "CHILLED "
                 ],
                 [
-                    "Orange juice",
-                    "2 oz "
+                    "ORANGE JUICE",
+                    "2 OZ "
                 ]
             ],
             "instructions": "Ensure both ingredients are well chilled, then mix into the glass. Serve cold.",
@@ -10343,24 +10343,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Brandy",
-                    "1 oz "
+                    "BRANDY",
+                    "1 OZ "
                 ],
                 [
-                    "Light rum",
-                    "1/2 oz "
+                    "LIGHT RUM",
+                    "1/2 OZ "
                 ],
                 [
-                    "Bourbon",
-                    "1/2 oz "
+                    "BOURBON",
+                    "1/2 OZ "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1/2 "
+                    "LEMON",
+                    "JUICE OF 1/2 "
                 ],
                 [
-                    "Powdered sugar",
-                    "1 tblsp "
+                    "POWDERED SUGAR",
+                    "1 TBLSP "
                 ]
             ],
             "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a collins glass over ice cubes. Fill with carbonated water, stir, and serve.",
@@ -10373,16 +10373,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Coffee",
-                    "6 oz "
+                    "COFFEE",
+                    "6 OZ "
                 ],
                 [
-                    "Chambord raspberry liqueur",
-                    "2 oz "
+                    "CHAMBORD RASPBERRY LIQUEUR",
+                    "2 OZ "
                 ],
                 [
-                    "Cocoa powder",
-                    "2 tblsp "
+                    "COCOA POWDER",
+                    "2 TBLSP "
                 ]
             ],
             "instructions": "pour 6 oz. of coffee in a mug or Irish coffee cup. add coca mix and chambord, mix well and top off with whipped cream.",
@@ -10395,19 +10395,19 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "2-3 oz "
+                    "LIGHT RUM",
+                    "2-3 OZ "
                 ],
                 [
-                    "Lime",
-                    "Juice of 1 "
+                    "LIME",
+                    "JUICE OF 1 "
                 ],
                 [
-                    "Sugar",
-                    "2 tsp "
+                    "SUGAR",
+                    "2 TSP "
                 ],
                 [
-                    "Mint",
+                    "MINT",
                     "2-4 "
                 ]
             ],
@@ -10421,24 +10421,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Mint",
-                    "1/2 handful "
+                    "MINT",
+                    "1/2 HANDFUL "
                 ],
                 [
-                    "Lemon juice",
-                    "3 cl "
+                    "LEMON JUICE",
+                    "3 CL "
                 ],
                 [
-                    "Dark rum",
-                    "1/8 L Jamaican "
+                    "DARK RUM",
+                    "1/8 L JAMAICAN "
                 ],
                 [
-                    "Club soda",
+                    "CLUB SODA",
                     "1/8 L "
                 ],
                 [
-                    "Angostura bitters",
-                    "8 drops "
+                    "ANGOSTURA BITTERS",
+                    "8 DROPS "
                 ]
             ],
             "instructions": "Put mint with lemon juice in a glas, mash the mint with a spoon, ice, rum & fill up with club soda. Top it with Angostura.",
@@ -10451,20 +10451,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ],
                 [
-                    "Benedictine",
-                    "1 tsp "
+                    "BENEDICTINE",
+                    "1 TSP "
                 ],
                 [
-                    "Orange juice",
-                    "1/2 oz "
+                    "ORANGE JUICE",
+                    "1/2 OZ "
                 ],
                 [
-                    "Grenadine",
-                    "1 tsp "
+                    "GRENADINE",
+                    "1 TSP "
                 ]
             ],
             "instructions": "Shake well over ice cubes in a shaker, strain into a chilled cocktail glass.",
@@ -10477,16 +10477,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "1 1/2 oz "
+                    "LIGHT RUM",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Grapefruit juice",
-                    "3 oz "
+                    "GRAPEFRUIT JUICE",
+                    "3 OZ "
                 ],
                 [
-                    "Bitters",
-                    "1 dash "
+                    "BITTERS",
+                    "1 DASH "
                 ]
             ],
             "instructions": "Pour all of the ingredients into an old-fashioned glass almost filled with ice cubes. Stir well.",
@@ -10499,15 +10499,15 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Absinthe",
+                    "ABSINTHE",
                     "2/5 "
                 ],
                 [
-                    "Tequila",
+                    "TEQUILA",
                     "2/5 "
                 ],
                 [
-                    "Grenadine",
+                    "GRENADINE",
                     "1/5 "
                 ]
             ],
@@ -10521,16 +10521,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "2 oz "
+                    "VODKA",
+                    "2 OZ "
                 ],
                 [
-                    "Lime juice",
-                    "2 oz "
+                    "LIME JUICE",
+                    "2 OZ "
                 ],
                 [
-                    "Ginger ale",
-                    "8 oz "
+                    "GINGER ALE",
+                    "8 OZ "
                 ]
             ],
             "instructions": "Combine vodka and ginger beer in a highball glass filled with ice. Add lime juice. Stir gently. Garnish.",
@@ -10543,16 +10543,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Goldschlager",
-                    "1 oz "
+                    "GOLDSCHLAGER",
+                    "1 OZ "
                 ],
                 [
-                    "Butterscotch schnapps",
-                    "1 oz "
+                    "BUTTERSCOTCH SCHNAPPS",
+                    "1 OZ "
                 ],
                 [
-                    "Milk",
-                    "1 oz "
+                    "MILK",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Shake over ice, strain. Serves two.",
@@ -10565,16 +10565,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Southern Comfort",
-                    "750 ml "
+                    "SOUTHERN COMFORT",
+                    "750 ML "
                 ],
                 [
-                    "Orange juice",
+                    "ORANGE JUICE",
                     "1 L "
                 ],
                 [
-                    "Pepsi Cola",
-                    "750 ml "
+                    "PEPSI COLA",
+                    "750 ML "
                 ]
             ],
             "instructions": "Add all contents to a large jug or punch bowl. Stir well!",
@@ -10587,32 +10587,32 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Water",
-                    "3 cups "
+                    "WATER",
+                    "3 CUPS "
                 ],
                 [
-                    "Sugar",
-                    "1 cup "
+                    "SUGAR",
+                    "1 CUP "
                 ],
                 [
-                    "Cloves",
+                    "CLOVES",
                     "12 "
                 ],
                 [
-                    "Cinnamon",
+                    "CINNAMON",
                     "2 "
                 ],
                 [
-                    "Lemon peel",
+                    "LEMON PEEL",
                     "1 "
                 ],
                 [
-                    "Red wine",
-                    "750 ml "
+                    "RED WINE",
+                    "750 ML "
                 ],
                 [
-                    "Brandy",
-                    "1/4 cup "
+                    "BRANDY",
+                    "1/4 CUP "
                 ]
             ],
             "instructions": "Simmer 3 cups water with, sugar, cloves, cinnamon sticks, and lemon peel in a stainless steel pot for 10 minutes. Add wine heat to a \"coffee temperature\" (DO NOT BOIL) then add the brandy.",
@@ -10625,28 +10625,28 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Rum",
-                    "1/2 oz "
+                    "RUM",
+                    "1/2 OZ "
                 ],
                 [
-                    "Vodka",
-                    "1/2 oz "
+                    "VODKA",
+                    "1/2 OZ "
                 ],
                 [
-                    "Gin",
-                    "1/2 oz "
+                    "GIN",
+                    "1/2 OZ "
                 ],
                 [
-                    "Blue Curacao",
-                    "1/2 oz "
+                    "BLUE CURACAO",
+                    "1/2 OZ "
                 ],
                 [
-                    "Sour mix",
-                    "2 oz "
+                    "SOUR MIX",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon-lime soda",
-                    "1 splash "
+                    "LEMON-LIME SODA",
+                    "1 SPLASH "
                 ]
             ],
             "instructions": "Pour all ingredients into a shaker of ice. Shake well. Serve on the rocks.",
@@ -10659,16 +10659,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 oz "
+                    "GIN",
+                    "1 OZ "
                 ],
                 [
-                    "Campari",
-                    "1 oz "
+                    "CAMPARI",
+                    "1 OZ "
                 ],
                 [
-                    "Sweet Vermouth",
-                    "1 oz "
+                    "SWEET VERMOUTH",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Stir into glass over ice, garnish and serve.",
@@ -10681,20 +10681,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Absolut Citron",
-                    "2 oz "
+                    "ABSOLUT CITRON",
+                    "2 OZ "
                 ],
                 [
-                    "Grand Marnier",
-                    "1 oz "
+                    "GRAND MARNIER",
+                    "1 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "2 oz sweetened "
+                    "LEMON JUICE",
+                    "2 OZ SWEETENED "
                 ],
                 [
-                    "Club soda",
-                    "1 oz "
+                    "CLUB SODA",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Serve in a chilled cocktail glass. Lemon and sugar the rim. Stir and Strain.",
@@ -10707,20 +10707,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Blended whiskey",
-                    "2 oz "
+                    "BLENDED WHISKEY",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1/2 "
+                    "LEMON",
+                    "JUICE OF 1/2 "
                 ],
                 [
-                    "Sugar",
-                    "1 tsp "
+                    "SUGAR",
+                    "1 TSP "
                 ],
                 [
-                    "Red wine",
-                    " (Claret)\n"
+                    "RED WINE",
+                    " (CLARET)\n"
                 ]
             ],
             "instructions": "Shake blended whiskey, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Float claret on top. Decorate with the half-slice of lemon and the cherry and serve.",
@@ -10733,20 +10733,20 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Cocoa powder",
-                    "2 tsp "
+                    "COCOA POWDER",
+                    "2 TSP "
                 ],
                 [
-                    "Sugar",
-                    "1 tsp "
+                    "SUGAR",
+                    "1 TSP "
                 ],
                 [
-                    "Vanilla extract",
-                    "1/2 tsp "
+                    "VANILLA EXTRACT",
+                    "1/2 TSP "
                 ],
                 [
-                    "Milk",
-                    "12 oz "
+                    "MILK",
+                    "12 OZ "
                 ]
             ],
             "instructions": "Mix with a bit of milk (1 oz or so) in coffee mug. Nuke mug for about 30-50 seconds. Stir until the heated cocoa dissolves. Fill mug with milk. Nuke for 1-2 minutes, depending on wattage and preferences as to burnt mouth parts.",
@@ -10759,16 +10759,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Bailey's irish cream",
-                    "1 part "
+                    "BAILEY'S IRISH CREAM",
+                    "1 PART "
                 ],
                 [
-                    "Frangelico",
-                    "1 part "
+                    "FRANGELICO",
+                    "1 PART "
                 ],
                 [
-                    "Milk",
-                    "1 part "
+                    "MILK",
+                    "1 PART "
                 ]
             ],
             "instructions": "Serve over ice",
@@ -10781,20 +10781,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Bourbon",
-                    "4.5 cL"
+                    "BOURBON",
+                    "4.5 CL"
                 ],
                 [
-                    "Angostura bitters",
-                    "2 dashes"
+                    "ANGOSTURA BITTERS",
+                    "2 DASHES"
                 ],
                 [
-                    "Sugar",
-                    "1 cube"
+                    "SUGAR",
+                    "1 CUBE"
                 ],
                 [
-                    "Water",
-                    "dash"
+                    "WATER",
+                    "DASH"
                 ]
             ],
             "instructions": "Place sugar cube in old fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolved.\nFill the glass with ice cubes and add whiskey.\n\nGarnish with orange twist, and a cocktail cherry.",
@@ -10807,16 +10807,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1 oz "
+                    "VODKA",
+                    "1 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1 oz "
+                    "TRIPLE SEC",
+                    "1 OZ "
                 ],
                 [
-                    "Orange juice",
-                    "1 oz "
+                    "ORANGE JUICE",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Add all ingredients to tumbler-Pour as shot",
@@ -10829,16 +10829,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Cherry brandy",
-                    "1/2 oz "
+                    "CHERRY BRANDY",
+                    "1/2 OZ "
                 ],
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Orange juice",
-                    "4 oz "
+                    "ORANGE JUICE",
+                    "4 OZ "
                 ]
             ],
             "instructions": "Shake brandy, gin, and orange juice with ice and strain into a highball glass over ice cubes. Fill with ginger ale, stir, and serve.",
@@ -10851,20 +10851,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Spiced rum",
-                    "1.5 oz "
+                    "SPICED RUM",
+                    "1.5 OZ "
                 ],
                 [
-                    "Grenadine",
-                    "0.5 oz "
+                    "GRENADINE",
+                    "0.5 OZ "
                 ],
                 [
-                    "Orange juice",
-                    "4 oz "
+                    "ORANGE JUICE",
+                    "4 OZ "
                 ],
                 [
-                    "Sour mix",
-                    "1 splash "
+                    "SOUR MIX",
+                    "1 SPLASH "
                 ]
             ],
             "instructions": "Combine liquors in a blender. Add a half scoop of ice and blend. Garnish with an orange and cherry flag. So good it will melt in your mouth!!!",
@@ -10877,24 +10877,24 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Milk",
-                    "2 cups "
+                    "MILK",
+                    "2 CUPS "
                 ],
                 [
-                    "Chocolate",
-                    "4 oz chopped bittersweet or semi-sweet "
+                    "CHOCOLATE",
+                    "4 OZ CHOPPED BITTERSWEET OR SEMI-SWEET "
                 ],
                 [
-                    "Orange peel",
-                    "3 2-inch strips "
+                    "ORANGE PEEL",
+                    "3 2-INCH STRIPS "
                 ],
                 [
-                    "Espresso",
-                    "1/2 tsp instant "
+                    "ESPRESSO",
+                    "1/2 TSP INSTANT "
                 ],
                 [
-                    "Nutmeg",
-                    "1/8 tsp ground "
+                    "NUTMEG",
+                    "1/8 TSP GROUND "
                 ]
             ],
             "instructions": "Combine all ingredients in heavy medium saucepan. Stir over low heat until chocolate melts. Increase heat and bring just to a boil, stirring often. Remove from heat and whisk untily frothy. Return to heat and bring to boil again. Remove from heat, whisk until frothy. Repeat heating and whisking once again. Discard orange peel. (Can be prepared 2 hours ahead. Let stand at room temperature. Before serving, bring just to boil, remove from heat and whisk until frothy.) Pour hot chocolate into coffee mugs. Makes 2 servings.",
@@ -10907,24 +10907,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Orange juice",
-                    "4 oz "
+                    "ORANGE JUICE",
+                    "4 OZ "
                 ],
                 [
-                    "Rum",
-                    "1 oz "
+                    "RUM",
+                    "1 OZ "
                 ],
                 [
-                    "Vodka",
-                    "1 oz "
+                    "VODKA",
+                    "1 OZ "
                 ],
                 [
-                    "Cream",
-                    "1 package "
+                    "CREAM",
+                    "1 PACKAGE "
                 ],
                 [
-                    "Ice",
-                    "Over "
+                    "ICE",
+                    "OVER "
                 ]
             ],
             "instructions": "Pour ingredients over ice and stir.",
@@ -10937,16 +10937,16 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Lemon juice",
-                    "5 cl "
+                    "LEMON JUICE",
+                    "5 CL "
                 ],
                 [
-                    "Orange juice",
-                    "15 cl "
+                    "ORANGE JUICE",
+                    "15 CL "
                 ],
                 [
-                    "Sugar syrup",
-                    "2-3 cl "
+                    "SUGAR SYRUP",
+                    "2-3 CL "
                 ]
             ],
             "instructions": "Place some ice cubes in a large tumbler or highball glass, add lemon juice, orange juice, sugar syrup, and stir well. Top up with cold soda water, serve with a drinking straw.",
@@ -10959,23 +10959,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1 oz "
+                    "VODKA",
+                    "1 OZ "
                 ],
                 [
-                    "Kahlua",
-                    "1 oz "
+                    "KAHLUA",
+                    "1 OZ "
                 ],
                 [
-                    "Bailey's irish cream",
-                    "1 oz "
+                    "BAILEY'S IRISH CREAM",
+                    "1 OZ "
                 ],
                 [
-                    "Vanilla ice-cream",
-                    "2 scoops "
+                    "VANILLA ICE-CREAM",
+                    "2 SCOOPS "
                 ],
                 [
-                    "Oreo cookie",
+                    "OREO COOKIE",
                     "1 "
                 ]
             ],
@@ -10989,24 +10989,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Creme de Cacao",
-                    "1/2 oz white "
+                    "CREME DE CACAO",
+                    "1/2 OZ WHITE "
                 ],
                 [
-                    "Amaretto",
-                    "1/2 oz "
+                    "AMARETTO",
+                    "1/2 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1/2 oz "
+                    "TRIPLE SEC",
+                    "1/2 OZ "
                 ],
                 [
-                    "Vodka",
-                    "1/2 oz "
+                    "VODKA",
+                    "1/2 OZ "
                 ],
                 [
-                    "Light cream",
-                    "1 oz "
+                    "LIGHT CREAM",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.",
@@ -11019,20 +11019,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Whiskey",
-                    "12 oz "
+                    "WHISKEY",
+                    "12 OZ "
                 ],
                 [
-                    "Beer",
-                    "12 oz "
+                    "BEER",
+                    "12 OZ "
                 ],
                 [
-                    "Lemonade",
-                    "12 oz frozen "
+                    "LEMONADE",
+                    "12 OZ FROZEN "
                 ],
                 [
-                    "Ice",
-                    "1 cup crushed "
+                    "ICE",
+                    "1 CUP CRUSHED "
                 ]
             ],
             "instructions": "Add ingredients and mix in blender.",
@@ -11045,16 +11045,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "7 parts"
+                    "GIN",
+                    "7 PARTS"
                 ],
                 [
-                    "Apricot Brandy",
-                    "4 parts"
+                    "APRICOT BRANDY",
+                    "4 PARTS"
                 ],
                 [
-                    "Orange Juice",
-                    "3 parts "
+                    "ORANGE JUICE",
+                    "3 PARTS "
                 ]
             ],
             "instructions": "Shake together over ice. Strain into cocktail glass and serve chilled.",
@@ -11067,16 +11067,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "3 oz "
+                    "LIGHT RUM",
+                    "3 OZ "
                 ],
                 [
-                    "Coconut milk",
-                    "3 tblsp "
+                    "COCONUT MILK",
+                    "3 TBLSP "
                 ],
                 [
-                    "Pineapple",
-                    "3 tblsp "
+                    "PINEAPPLE",
+                    "3 TBLSP "
                 ]
             ],
             "instructions": "Mix with crushed ice in blender until smooth. Pour into chilled glass, garnish and serve.",
@@ -11089,11 +11089,11 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Ginger",
-                    "1/4 inch "
+                    "GINGER",
+                    "1/4 INCH "
                 ],
                 [
-                    "Pineapple",
+                    "PINEAPPLE",
                     "1/2 "
                 ]
             ],
@@ -11107,12 +11107,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Bitters",
-                    "3 dashes "
+                    "BITTERS",
+                    "3 DASHES "
                 ],
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ]
             ],
             "instructions": "Pour the bitters into a wine glass. Swirl the glass to coat the inside with the bitters, shake out the excess. Pour the gin into the glass. Do not add ice.",
@@ -11125,19 +11125,19 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Grenadine",
-                    "1 tsp "
+                    "GRENADINE",
+                    "1 TSP "
                 ],
                 [
-                    "Light cream",
-                    "1 tsp "
+                    "LIGHT CREAM",
+                    "1 TSP "
                 ],
                 [
-                    "Egg white",
+                    "EGG WHITE",
                     "1 "
                 ]
             ],
@@ -11151,16 +11151,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sprite",
+                    "SPRITE",
                     "1 L "
                 ],
                 [
-                    "Pink lemonade",
-                    "2 cups "
+                    "PINK LEMONADE",
+                    "2 CUPS "
                 ],
                 [
-                    "Vodka",
-                    "2 cups "
+                    "VODKA",
+                    "2 CUPS "
                 ]
             ],
             "instructions": "Shake well",
@@ -11173,24 +11173,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Everclear",
-                    "750 ml "
+                    "EVERCLEAR",
+                    "750 ML "
                 ],
                 [
-                    "Vodka",
-                    "1750 ml "
+                    "VODKA",
+                    "1750 ML "
                 ],
                 [
-                    "Peach schnapps",
-                    "1750 ml "
+                    "PEACH SCHNAPPS",
+                    "1750 ML "
                 ],
                 [
-                    "Orange juice",
-                    "1 gal "
+                    "ORANGE JUICE",
+                    "1 GAL "
                 ],
                 [
-                    "Cranberry juice",
-                    "1 gal "
+                    "CRANBERRY JUICE",
+                    "1 GAL "
                 ]
             ],
             "instructions": "mix all ingredients into bowl keep iced stir frequently",
@@ -11203,16 +11203,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Pisco",
-                    "2 oz "
+                    "PISCO",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1 oz "
+                    "LEMON JUICE",
+                    "1 OZ "
                 ],
                 [
-                    "Sugar",
-                    "1-2 tblsp "
+                    "SUGAR",
+                    "1-2 TBLSP "
                 ]
             ],
             "instructions": "Vigorously shake and strain contents in a cocktail shaker with ice cubes, then pour into glass and garnish with bitters.[1]",
@@ -11225,20 +11225,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Dark rum",
-                    "1 part "
+                    "DARK RUM",
+                    "1 PART "
                 ],
                 [
-                    "Orgeat syrup",
-                    "1/2 part "
+                    "ORGEAT SYRUP",
+                    "1/2 PART "
                 ],
                 [
-                    "Orange juice",
-                    "2 parts "
+                    "ORANGE JUICE",
+                    "2 PARTS "
                 ],
                 [
-                    "Pineapple juice",
-                    "1 part "
+                    "PINEAPPLE JUICE",
+                    "1 PART "
                 ]
             ],
             "instructions": "Pour all ingredients, except the bitters, into shaker filled with ice. Shake well. Pour into large glass, filled with ice. Add Angostura bitters, \"on top\". Garnish with cocktail cherry and pineapple.",
@@ -11251,20 +11251,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "2 oz "
+                    "VODKA",
+                    "2 OZ "
                 ],
                 [
-                    "Cherry liqueur",
-                    "2 oz "
+                    "CHERRY LIQUEUR",
+                    "2 OZ "
                 ],
                 [
-                    "Cranberry juice",
-                    "4 oz "
+                    "CRANBERRY JUICE",
+                    "4 OZ "
                 ],
                 [
-                    "Orange juice",
-                    "4 oz "
+                    "ORANGE JUICE",
+                    "4 OZ "
                 ]
             ],
             "instructions": "Served over ice in a tall glass with a popped cherry (can add more popped cherries if in the mood)!",
@@ -11277,12 +11277,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Creme de Cacao",
-                    "3/4 oz white "
+                    "CREME DE CACAO",
+                    "3/4 OZ WHITE "
                 ]
             ],
             "instructions": "Shake ingredients with ice, strain into a cocktail glass, and serve.",
@@ -11295,12 +11295,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Grenadine",
-                    "1 tblsp "
+                    "GRENADINE",
+                    "1 TBLSP "
                 ],
                 [
-                    "Green Creme de Menthe",
-                    "1/2 oz "
+                    "GREEN CREME DE MENTHE",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "Pour carefully into a pousse-cafe glass, so that creme de menthe floats on grenadine. Serve without mixing.",
@@ -11313,12 +11313,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Port",
-                    "2 1/2 oz "
+                    "PORT",
+                    "2 1/2 OZ "
                 ],
                 [
-                    "Brandy",
-                    "1/2 tsp "
+                    "BRANDY",
+                    "1/2 TSP "
                 ]
             ],
             "instructions": "Stir ingredients with ice, strain into a cocktail glass, and serve.",
@@ -11331,20 +11331,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Port",
-                    "1 1/2 oz "
+                    "PORT",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Light cream",
-                    "2 tsp "
+                    "LIGHT CREAM",
+                    "2 TSP "
                 ],
                 [
-                    "Powdered sugar",
-                    "1 tsp "
+                    "POWDERED SUGAR",
+                    "1 TSP "
                 ],
                 [
-                    "Egg",
-                    "1 whole "
+                    "EGG",
+                    "1 WHOLE "
                 ]
             ],
             "instructions": "Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve.",
@@ -11357,16 +11357,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Brandy",
-                    "3 parts"
+                    "BRANDY",
+                    "3 PARTS"
                 ],
                 [
-                    "Port",
-                    "9 parts"
+                    "PORT",
+                    "9 PARTS"
                 ],
                 [
-                    "Egg Yolk",
-                    "2 parts"
+                    "EGG YOLK",
+                    "2 PARTS"
                 ]
             ],
             "instructions": "Shake ingredients together in a mixer with ice. Strain into glass, garnish and serve.",
@@ -11379,16 +11379,16 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Orange juice",
-                    "1 part "
+                    "ORANGE JUICE",
+                    "1 PART "
                 ],
                 [
-                    "Apple juice",
-                    "1 part "
+                    "APPLE JUICE",
+                    "1 PART "
                 ],
                 [
-                    "Pineapple juice",
-                    "1 part "
+                    "PINEAPPLE JUICE",
+                    "1 PART "
                 ]
             ],
             "instructions": "Shake with ice.",
@@ -11401,20 +11401,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "3/4 oz "
+                    "LIGHT RUM",
+                    "3/4 OZ "
                 ],
                 [
-                    "Brandy",
-                    "3/4 oz "
+                    "BRANDY",
+                    "3/4 OZ "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1/4 "
+                    "LEMON",
+                    "JUICE OF 1/4 "
                 ],
                 [
-                    "Raspberry syrup",
-                    "2 tsp "
+                    "RASPBERRY SYRUP",
+                    "2 TSP "
                 ]
             ],
             "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
@@ -11427,16 +11427,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
+                    "LIGHT RUM",
                     "1 1/2 "
                 ],
                 [
-                    "Sherry",
-                    "1/3 oz cream "
+                    "SHERRY",
+                    "1/3 OZ CREAM "
                 ],
                 [
-                    "Lime",
-                    "Juice of 1/2 "
+                    "LIME",
+                    "JUICE OF 1/2 "
                 ]
             ],
             "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
@@ -11449,16 +11449,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Coffee brandy",
-                    "1 oz "
+                    "COFFEE BRANDY",
+                    "1 OZ "
                 ],
                 [
-                    "Lime vodka",
-                    "1 1/2 oz "
+                    "LIME VODKA",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Sherry",
-                    "1/2 oz cream "
+                    "SHERRY",
+                    "1/2 OZ CREAM "
                 ]
             ],
             "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
@@ -11471,12 +11471,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Red wine",
-                    "2 oz "
+                    "RED WINE",
+                    "2 OZ "
                 ],
                 [
-                    "Grenadine",
-                    "1 oz "
+                    "GRENADINE",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon-lime soda, stir, and serve.",
@@ -11489,16 +11489,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Dry Vermouth",
-                    "1/2 oz "
+                    "DRY VERMOUTH",
+                    "1/2 OZ "
                 ],
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Benedictine",
-                    "1 1/2 tsp "
+                    "BENEDICTINE",
+                    "1 1/2 TSP "
                 ]
             ],
             "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
@@ -11511,20 +11511,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Dark rum",
-                    "1 1/2 oz "
+                    "DARK RUM",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Kahlua",
-                    "1/2 oz "
+                    "KAHLUA",
+                    "1/2 OZ "
                 ],
                 [
-                    "Light cream",
-                    "1 oz "
+                    "LIGHT CREAM",
+                    "1 OZ "
                 ],
                 [
-                    "Nutmeg",
-                    "1/8 tsp grated "
+                    "NUTMEG",
+                    "1/8 TSP GRATED "
                 ]
             ],
             "instructions": "In a shaker half-filled with ice cubes, combine the rum, Kahlua, and cream. Shake well. Strain into a cocktail glass and garnish with the nutmeg.",
@@ -11537,16 +11537,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Kahlua",
-                    "1 part "
+                    "KAHLUA",
+                    "1 PART "
                 ],
                 [
-                    "Midori melon liqueur",
-                    "1 part "
+                    "MIDORI MELON LIQUEUR",
+                    "1 PART "
                 ],
                 [
-                    "Bailey's irish cream",
-                    "1 part "
+                    "BAILEY'S IRISH CREAM",
+                    "1 PART "
                 ]
             ],
             "instructions": "In a shot glass add 1/3 Kahlua first. Then 1/3 Miduri, topping it off with a 1/3 bailey's irish cream",
@@ -11559,12 +11559,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Black Sambuca",
-                    "25 ml "
+                    "BLACK SAMBUCA",
+                    "25 ML "
                 ],
                 [
-                    "Orange juice",
-                    "Add 250 ml "
+                    "ORANGE JUICE",
+                    "ADD 250 ML "
                 ]
             ],
             "instructions": "Simply add the orange juice, quite a quick pour in order to mix the sambucca with the orange juice. The juice MUST have fruit pulp!",
@@ -11577,36 +11577,36 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Rum",
-                    "1 oz "
+                    "RUM",
+                    "1 OZ "
                 ],
                 [
-                    "Vodka",
-                    "1 oz "
+                    "VODKA",
+                    "1 OZ "
                 ],
                 [
-                    "Tequila",
-                    "1 oz "
+                    "TEQUILA",
+                    "1 OZ "
                 ],
                 [
-                    "Gin",
-                    "1 oz "
+                    "GIN",
+                    "1 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1 oz "
+                    "TRIPLE SEC",
+                    "1 OZ "
                 ],
                 [
-                    "Chambord raspberry liqueur",
-                    "1 oz "
+                    "CHAMBORD RASPBERRY LIQUEUR",
+                    "1 OZ "
                 ],
                 [
-                    "Midori melon liqueur",
-                    "1 oz "
+                    "MIDORI MELON LIQUEUR",
+                    "1 OZ "
                 ],
                 [
-                    "Malibu rum",
-                    "1 oz "
+                    "MALIBU RUM",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Pour all ingredients over ice in a very tall glass. Sip cautiously.",
@@ -11619,12 +11619,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Beer",
-                    "12 oz "
+                    "BEER",
+                    "12 OZ "
                 ],
                 [
-                    "7-Up",
-                    "12 oz "
+                    "7-UP",
+                    "12 OZ "
                 ]
             ],
             "instructions": "Pour beer into large mug, slowly add the 7-up (or Sprite).",
@@ -11637,8 +11637,8 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sugar syrup",
-                    "2 tsp "
+                    "SUGAR SYRUP",
+                    "2 TSP "
                 ]
             ],
             "instructions": "Mix sugar syrup with lemon juice in a tall glass. Fill up with ginger ale.",
@@ -11651,12 +11651,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Raspberry vodka",
-                    "2 oz "
+                    "RASPBERRY VODKA",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon-lime soda",
-                    "4 oz "
+                    "LEMON-LIME SODA",
+                    "4 OZ "
                 ]
             ],
             "instructions": "Pour the raspberry vodka and soda into a highball glass almost filled with ice cubes. Stir well.",
@@ -11669,16 +11669,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Crown Royal",
-                    "1 shot "
+                    "CROWN ROYAL",
+                    "1 SHOT "
                 ],
                 [
-                    "Amaretto",
-                    "1 shot "
+                    "AMARETTO",
+                    "1 SHOT "
                 ],
                 [
-                    "Cranberry juice",
-                    "1 shot "
+                    "CRANBERRY JUICE",
+                    "1 SHOT "
                 ]
             ],
             "instructions": "One shot each, shake n shoot",
@@ -11691,24 +11691,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Dry Vermouth",
-                    "1/2 oz "
+                    "DRY VERMOUTH",
+                    "1/2 OZ "
                 ],
                 [
-                    "Gin",
-                    "1 oz "
+                    "GIN",
+                    "1 OZ "
                 ],
                 [
-                    "Apricot brandy",
-                    "1/2 oz "
+                    "APRICOT BRANDY",
+                    "1/2 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1/2 tsp "
+                    "LEMON JUICE",
+                    "1/2 TSP "
                 ],
                 [
-                    "Grenadine",
-                    "1 tsp "
+                    "GRENADINE",
+                    "1 TSP "
                 ]
             ],
             "instructions": "Shake together in a cocktail shaker, then strain into chilled glass. Garnish and serve.",
@@ -11721,12 +11721,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Frangelico",
-                    "1 part "
+                    "FRANGELICO",
+                    "1 PART "
                 ],
                 [
-                    "Crown Royal",
-                    "1 part "
+                    "CROWN ROYAL",
+                    "1 PART "
                 ]
             ],
             "instructions": "Into a shot glass layer the Crown Royal on top of the Frangelico.",
@@ -11739,16 +11739,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 oz "
+                    "GIN",
+                    "1 OZ "
                 ],
                 [
-                    "Sweet and sour",
-                    "2 oz "
+                    "SWEET AND SOUR",
+                    "2 OZ "
                 ],
                 [
-                    "Egg",
-                    "1 whole "
+                    "EGG",
+                    "1 WHOLE "
                 ]
             ],
             "instructions": "Shake all ingredients (except cola) with ice and strain into a chilled collins glass. Fill with cola and serve.",
@@ -11761,20 +11761,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Crown Royal",
-                    "1 1/2 oz "
+                    "CROWN ROYAL",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Peach schnapps",
-                    "1 oz "
+                    "PEACH SCHNAPPS",
+                    "1 OZ "
                 ],
                 [
-                    "Chambord raspberry liqueur",
-                    "1/2 oz "
+                    "CHAMBORD RASPBERRY LIQUEUR",
+                    "1/2 OZ "
                 ],
                 [
-                    "Cranberry juice",
-                    "1 oz "
+                    "CRANBERRY JUICE",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Pour all the ingredients into tumbler over ice. Strain into glass.",
@@ -11787,20 +11787,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1/2 "
+                    "LEMON",
+                    "JUICE OF 1/2 "
                 ],
                 [
-                    "Powdered sugar",
-                    "1 tsp "
+                    "POWDERED SUGAR",
+                    "1 TSP "
                 ],
                 [
-                    "Egg",
-                    "1 whole "
+                    "EGG",
+                    "1 WHOLE "
                 ]
             ],
             "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.",
@@ -11813,16 +11813,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ],
                 [
-                    "Cranberry juice",
-                    "5 oz "
+                    "CRANBERRY JUICE",
+                    "5 OZ "
                 ],
                 [
-                    "Grenadine",
-                    "2 splashes "
+                    "GRENADINE",
+                    "2 SPLASHES "
                 ]
             ],
             "instructions": "Pour gin and cranberry into a highball filled with ice cubes. Add grenadine and stir.",
@@ -11835,27 +11835,27 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sugar",
-                    "1 tsp superfine "
+                    "SUGAR",
+                    "1 TSP SUPERFINE "
                 ],
                 [
-                    "Club soda",
-                    "3 oz "
+                    "CLUB SODA",
+                    "3 OZ "
                 ],
                 [
-                    "Lemon",
+                    "LEMON",
                     "1 "
                 ],
                 [
-                    "Dark rum",
-                    "2 oz "
+                    "DARK RUM",
+                    "2 OZ "
                 ],
                 [
-                    "Maraschino cherry",
+                    "MARASCHINO CHERRY",
                     "1 "
                 ],
                 [
-                    "Orange",
+                    "ORANGE",
                     "1 "
                 ]
             ],
@@ -11869,15 +11869,15 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Rum",
-                    "2 oz light or dark "
+                    "RUM",
+                    "2 OZ LIGHT OR DARK "
                 ],
                 [
-                    "Lemon-lime soda",
-                    "4 oz "
+                    "LEMON-LIME SODA",
+                    "4 OZ "
                 ],
                 [
-                    "Lemon",
+                    "LEMON",
                     "1 "
                 ]
             ],
@@ -11891,16 +11891,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "2 oz "
+                    "LIGHT RUM",
+                    "2 OZ "
                 ],
                 [
-                    "Milk",
-                    "1 cup "
+                    "MILK",
+                    "1 CUP "
                 ],
                 [
-                    "Powdered sugar",
-                    "1 tsp "
+                    "POWDERED SUGAR",
+                    "1 TSP "
                 ]
             ],
             "instructions": "Shake all ingredients (except nutmeg) with ice and strain into a collins glass. Sprinkle nutmeg on top and serve.",
@@ -11913,28 +11913,28 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "1 1/2 oz "
+                    "LIGHT RUM",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "151 proof rum",
-                    "1 tsp "
+                    "151 PROOF RUM",
+                    "1 TSP "
                 ],
                 [
-                    "Powdered sugar",
-                    "1/2 tsp "
+                    "POWDERED SUGAR",
+                    "1/2 TSP "
                 ],
                 [
-                    "Bitters",
-                    "1 dash "
+                    "BITTERS",
+                    "1 DASH "
                 ],
                 [
-                    "Water",
-                    "1 tsp "
+                    "WATER",
+                    "1 TSP "
                 ],
                 [
-                    "Lime peel",
-                    "Twist of "
+                    "LIME PEEL",
+                    "TWIST OF "
                 ]
             ],
             "instructions": "Stir powdered sugar, water, and bitters in an old-fashioned glass. When sugar has dissolved add ice cubes and light rum. Add the twist of lime peel, float 151 proof rum on top, and serve.",
@@ -11947,24 +11947,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Rum",
-                    "mikey bottle "
+                    "RUM",
+                    "MIKEY BOTTLE "
                 ],
                 [
-                    "Ginger ale",
-                    "large bottle "
+                    "GINGER ALE",
+                    "LARGE BOTTLE "
                 ],
                 [
-                    "Fruit punch",
-                    "355 ml frozen "
+                    "FRUIT PUNCH",
+                    "355 ML FROZEN "
                 ],
                 [
-                    "Orange juice",
-                    "355 ml frozen "
+                    "ORANGE JUICE",
+                    "355 ML FROZEN "
                 ],
                 [
-                    "Ice",
-                    "crushed "
+                    "ICE",
+                    "CRUSHED "
                 ]
             ],
             "instructions": "Mix all ingredients in a punch bowl and serve.",
@@ -11977,24 +11977,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Malibu rum",
-                    "1 1/2 oz "
+                    "MALIBU RUM",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Blackberry brandy",
-                    "1 oz "
+                    "BLACKBERRY BRANDY",
+                    "1 OZ "
                 ],
                 [
-                    "Orange juice",
-                    "3-4 oz "
+                    "ORANGE JUICE",
+                    "3-4 OZ "
                 ],
                 [
-                    "Pineapple juice",
-                    "3-4 oz "
+                    "PINEAPPLE JUICE",
+                    "3-4 OZ "
                 ],
                 [
-                    "Cranberry juice",
-                    "3-4 oz "
+                    "CRANBERRY JUICE",
+                    "3-4 OZ "
                 ]
             ],
             "instructions": "Mix all ingredients in glass & add ice.",
@@ -12007,12 +12007,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "1 1/2 oz "
+                    "LIGHT RUM",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Orange juice",
-                    "5 oz "
+                    "ORANGE JUICE",
+                    "5 OZ "
                 ]
             ],
             "instructions": "Pour rum into a highball glass over ice cubes. Add orange juice, stir, and serve.",
@@ -12025,23 +12025,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "2 oz "
+                    "LIGHT RUM",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1 oz "
+                    "LEMON JUICE",
+                    "1 OZ "
                 ],
                 [
-                    "Sugar",
-                    "1/2 tsp superfine "
+                    "SUGAR",
+                    "1/2 TSP SUPERFINE "
                 ],
                 [
-                    "Orange",
+                    "ORANGE",
                     "1 "
                 ],
                 [
-                    "Maraschino cherry",
+                    "MARASCHINO CHERRY",
                     "1 "
                 ]
             ],
@@ -12055,20 +12055,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Rum",
-                    "2 oz light or dark "
+                    "RUM",
+                    "2 OZ LIGHT OR DARK "
                 ],
                 [
-                    "Powdered sugar",
-                    "2 tsp "
+                    "POWDERED SUGAR",
+                    "2 TSP "
                 ],
                 [
-                    "Lemon peel",
-                    "1 twist of "
+                    "LEMON PEEL",
+                    "1 TWIST OF "
                 ],
                 [
-                    "Water",
-                    "2 tsp "
+                    "WATER",
+                    "2 TSP "
                 ]
             ],
             "instructions": "Dissolve powdered sugar in water in an old-fashioned glass. Add rum and one ice cube and stir. Add the twist of lemon peel and serve.",
@@ -12081,20 +12081,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "2.5 cl"
+                    "VODKA",
+                    "2.5 CL"
                 ],
                 [
-                    "Creme de Cassis",
-                    "1.5 cl"
+                    "CREME DE CASSIS",
+                    "1.5 CL"
                 ],
                 [
-                    "Sugar Syrup",
-                    "1 cl"
+                    "SUGAR SYRUP",
+                    "1 CL"
                 ],
                 [
-                    "Lemon Juice",
-                    "2.5 cl"
+                    "LEMON JUICE",
+                    "2.5 CL"
                 ]
             ],
             "instructions": "Pour the ingredients into an highball glass, top with Sparkling wine.",
@@ -12107,16 +12107,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Scotch",
-                    "1 1/2 oz "
+                    "SCOTCH",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Drambuie",
-                    "1/2 oz "
+                    "DRAMBUIE",
+                    "1/2 OZ "
                 ],
                 [
-                    "Lemon peel",
-                    "1 twist of "
+                    "LEMON PEEL",
+                    "1 TWIST OF "
                 ]
             ],
             "instructions": "Pour the Scotch and Drambuie into an old-fashioned glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.",
@@ -12129,16 +12129,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Grapefruit juice",
-                    "5 oz "
+                    "GRAPEFRUIT JUICE",
+                    "5 OZ "
                 ],
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Salt",
-                    "1/4 tsp "
+                    "SALT",
+                    "1/4 TSP "
                 ]
             ],
             "instructions": "Pour all ingredients over ice cubes in a highball glass. Stir well and serve. (Vodka may be substituted for gin, if preferred.)",
@@ -12151,12 +12151,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "2 cl "
+                    "VODKA",
+                    "2 CL "
                 ],
                 [
-                    "Creme de Banane",
-                    "2 cl "
+                    "CREME DE BANANE",
+                    "2 CL "
                 ]
             ],
             "instructions": "Take a tall glass and put in a few ice cubes, fill the vodka over it and fill with juice then the \"creme\", to end fill in the grenadine but very carefully at the side of the glass so it will lay down in the bottom. garnish with orange and strawberry.",
@@ -12169,20 +12169,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Red wine",
-                    "1 bottle "
+                    "RED WINE",
+                    "1 BOTTLE "
                 ],
                 [
-                    "Sugar",
-                    "1/2 cup "
+                    "SUGAR",
+                    "1/2 CUP "
                 ],
                 [
-                    "Orange juice",
-                    "1 cup "
+                    "ORANGE JUICE",
+                    "1 CUP "
                 ],
                 [
-                    "Lemon juice",
-                    "1 cup "
+                    "LEMON JUICE",
+                    "1 CUP "
                 ]
             ],
             "instructions": "Mix all together in a pitcher and refrigerate. Add cloves and cinnamon sticks to taste. Serve in wine glasses.",
@@ -12195,28 +12195,28 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Red wine",
+                    "RED WINE",
                     "1 1/2 L "
                 ],
                 [
-                    "Sugar",
-                    "1 cup "
+                    "SUGAR",
+                    "1 CUP "
                 ],
                 [
-                    "Lemon",
-                    "1 large "
+                    "LEMON",
+                    "1 LARGE "
                 ],
                 [
-                    "Orange",
-                    "1 large "
+                    "ORANGE",
+                    "1 LARGE "
                 ],
                 [
-                    "Apple",
-                    "1 large "
+                    "APPLE",
+                    "1 LARGE "
                 ],
                 [
-                    "Brandy",
-                    "3-4 oz plain "
+                    "BRANDY",
+                    "3-4 OZ PLAIN "
                 ]
             ],
             "instructions": "Mix wine, sugar and fruit, and let sit in the fridge for 18-24 hours. The mixture will have a somewhat syrupy consistency. Before serving stir in brandy and cut the mixture with soda water until it have a thinner, more wine like consistency. Serve from a pitcher in wine glasses.",
@@ -12229,28 +12229,28 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Ricard",
-                    "1 tsp "
+                    "RICARD",
+                    "1 TSP "
                 ],
                 [
-                    "Sugar",
-                    "1/2 tsp superfine "
+                    "SUGAR",
+                    "1/2 TSP SUPERFINE "
                 ],
                 [
-                    "Peychaud bitters",
-                    "2 dashes "
+                    "PEYCHAUD BITTERS",
+                    "2 DASHES "
                 ],
                 [
-                    "Water",
-                    "1 tsp "
+                    "WATER",
+                    "1 TSP "
                 ],
                 [
-                    "Bourbon",
-                    "2 oz "
+                    "BOURBON",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon peel",
-                    "1 twist of "
+                    "LEMON PEEL",
+                    "1 TWIST OF "
                 ]
             ],
             "instructions": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice, and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Add the lemon peel for garnish.",
@@ -12263,16 +12263,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Brandy",
-                    "1 oz "
+                    "BRANDY",
+                    "1 OZ "
                 ],
                 [
-                    "Amaretto",
-                    "1 oz "
+                    "AMARETTO",
+                    "1 OZ "
                 ],
                 [
-                    "Light cream",
-                    "1 oz "
+                    "LIGHT CREAM",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Shake all ingredients well with cracked ice, strain into a cocktail glass, and serve.",
@@ -12285,23 +12285,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Scotch",
-                    "2 oz "
+                    "SCOTCH",
+                    "2 OZ "
                 ],
                 [
-                    "Brandy",
-                    "4 dashes "
+                    "BRANDY",
+                    "4 DASHES "
                 ],
                 [
-                    "Curacao",
-                    "4 dashes "
+                    "CURACAO",
+                    "4 DASHES "
                 ],
                 [
-                    "Orange",
-                    "1 slice "
+                    "ORANGE",
+                    "1 SLICE "
                 ],
                 [
-                    "Mint",
+                    "MINT",
                     "1 "
                 ]
             ],
@@ -12315,23 +12315,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Scotch",
-                    "1 1/2 oz "
+                    "SCOTCH",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Lime",
-                    "Juice of 1/2 "
+                    "LIME",
+                    "JUICE OF 1/2 "
                 ],
                 [
-                    "Powdered sugar",
-                    "1/2 tsp "
+                    "POWDERED SUGAR",
+                    "1/2 TSP "
                 ],
                 [
-                    "Lemon",
-                    "1/2 slice "
+                    "LEMON",
+                    "1/2 SLICE "
                 ],
                 [
-                    "Cherry",
+                    "CHERRY",
                     "1 "
                 ]
             ],
@@ -12345,24 +12345,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Johnnie Walker",
-                    "1 fifth "
+                    "JOHNNIE WALKER",
+                    "1 FIFTH "
                 ],
                 [
-                    "Honey",
-                    "1 1/2 cup mild "
+                    "HONEY",
+                    "1 1/2 CUP MILD "
                 ],
                 [
-                    "Angelica root",
-                    "2 tsp dried and chopped "
+                    "ANGELICA ROOT",
+                    "2 TSP DRIED AND CHOPPED "
                 ],
                 [
-                    "Fennel seeds",
-                    "1/4 tsp crushed "
+                    "FENNEL SEEDS",
+                    "1/4 TSP CRUSHED "
                 ],
                 [
-                    "Lemon peel",
-                    "2 2 inch strips "
+                    "LEMON PEEL",
+                    "2 2 INCH STRIPS "
                 ]
             ],
             "instructions": "Combine all ingreds in aging container. Cover tightly and shake gently several times during the first 24 hrs. After 24 hrs, remove the lemon zest. Cover again and let stand in a cool, dark place for 2 weeks, shaking gently every other day. Strain through a wire sieve to remove the angelica root and fennel. Return to aging container, cover and let stand undisturbed in a cool dark place for 6 months. Siphon or pour clear liqueur into a sterile bottle. The cloudy dregs may be saved for cooking.",
@@ -12375,16 +12375,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1 oz "
+                    "VODKA",
+                    "1 OZ "
                 ],
                 [
-                    "Bailey's irish cream",
-                    "1 1/2 oz "
+                    "BAILEY'S IRISH CREAM",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Kahlua",
-                    "1/2 oz "
+                    "KAHLUA",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "Pour first vodka, then Bailey's, then Kahlua into a cocktail glass over crushed ice. Stir. Caution: use only high quality vodka. Cheap vodka can cause the Bailey's to curdle. Test your brand of vodka by mixing 1 Tsp each of vodka and Bailey's first.",
@@ -12397,8 +12397,8 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "2 oz "
+                    "VODKA",
+                    "2 OZ "
                 ]
             ],
             "instructions": "Mix in a highball glass with ice. Garnish and serve.",
@@ -12411,16 +12411,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1 1/2 oz "
+                    "VODKA",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Cranberry juice",
-                    "4 oz "
+                    "CRANBERRY JUICE",
+                    "4 OZ "
                 ],
                 [
-                    "Grapefruit juice",
-                    "1 oz "
+                    "GRAPEFRUIT JUICE",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Build all ingredients in a highball glass filled with ice. Garnish with lime wedge.",
@@ -12433,12 +12433,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1 oz "
+                    "VODKA",
+                    "1 OZ "
                 ],
                 [
-                    "Peach schnapps",
-                    "3/4 oz "
+                    "PEACH SCHNAPPS",
+                    "3/4 OZ "
                 ]
             ],
             "instructions": "Build all ingredients in a highball glass filled with ice. Garnish with orange slice.",
@@ -12451,20 +12451,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "1 oz Jamaican "
+                    "LIGHT RUM",
+                    "1 OZ JAMAICAN "
                 ],
                 [
-                    "Anisette",
-                    "1 tsp "
+                    "ANISETTE",
+                    "1 TSP "
                 ],
                 [
-                    "Grenadine",
-                    "1/2 tsp "
+                    "GRENADINE",
+                    "1/2 TSP "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1/4 "
+                    "LEMON",
+                    "JUICE OF 1/4 "
                 ]
             ],
             "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
@@ -12477,16 +12477,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Lemonade",
-                    "1 can "
+                    "LEMONADE",
+                    "1 CAN "
                 ],
                 [
-                    "Water",
-                    "3 cans "
+                    "WATER",
+                    "3 CANS "
                 ],
                 [
-                    "Vodka",
-                    "1 1/2 cup "
+                    "VODKA",
+                    "1 1/2 CUP "
                 ]
             ],
             "instructions": "Mix lemonade and water according to instructions on back of can. If the instructions say to add 4 1/3 cans of water do so. Mix into pitcher. Add 1 1/2 cup of Vodka (Absolut). Mix well. Pour into glass of crushed ice. Excellent!",
@@ -12499,16 +12499,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sherry",
-                    "2 oz cream "
+                    "SHERRY",
+                    "2 OZ CREAM "
                 ],
                 [
-                    "Powdered sugar",
-                    "1 tsp "
+                    "POWDERED SUGAR",
+                    "1 TSP "
                 ],
                 [
-                    "Egg",
-                    "1 whole "
+                    "EGG",
+                    "1 WHOLE "
                 ]
             ],
             "instructions": "Shake sherry, powdered sugar, and egg with ice and strain into a collins glass. Fill with milk and stir. Sprinkle nutmeg on top and serve.",
@@ -12521,20 +12521,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sherry",
-                    "1 1/2 oz cream "
+                    "SHERRY",
+                    "1 1/2 OZ CREAM "
                 ],
                 [
-                    "Light cream",
-                    "2 tsp "
+                    "LIGHT CREAM",
+                    "2 TSP "
                 ],
                 [
-                    "Powdered sugar",
-                    "1 tsp "
+                    "POWDERED SUGAR",
+                    "1 TSP "
                 ],
                 [
-                    "Egg",
-                    "1 whole "
+                    "EGG",
+                    "1 WHOLE "
                 ]
             ],
             "instructions": "Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve.",
@@ -12547,16 +12547,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Jim Beam",
-                    "1 part "
+                    "JIM BEAM",
+                    "1 PART "
                 ],
                 [
-                    "Jack Daniels",
-                    "1 part "
+                    "JACK DANIELS",
+                    "1 PART "
                 ],
                 [
-                    "Wild Turkey",
-                    "1 oz "
+                    "WILD TURKEY",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Pour one part Jack Daneils and one part Jim Beam into shot glass then float Wild Turkey on top.",
@@ -12569,16 +12569,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Cognac",
-                    "2 oz "
+                    "COGNAC",
+                    "2 OZ "
                 ],
                 [
-                    "Cointreau",
-                    "1/2 oz "
+                    "COINTREAU",
+                    "1/2 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1 oz "
+                    "LEMON JUICE",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass.",
@@ -12591,16 +12591,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Brandy",
-                    "1 oz "
+                    "BRANDY",
+                    "1 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1/2 oz "
+                    "TRIPLE SEC",
+                    "1/2 OZ "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1/4 "
+                    "LEMON",
+                    "JUICE OF 1/4 "
                 ]
             ],
             "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
@@ -12613,20 +12613,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Cherry brandy",
-                    "1/2 oz "
+                    "CHERRY BRANDY",
+                    "1/2 OZ "
                 ],
                 [
-                    "Grenadine",
-                    "1/2 oz "
+                    "GRENADINE",
+                    "1/2 OZ "
                 ],
                 [
-                    "Gin",
-                    "1 oz "
+                    "GIN",
+                    "1 OZ "
                 ],
                 [
-                    "Sweet and sour",
-                    "2 oz "
+                    "SWEET AND SOUR",
+                    "2 OZ "
                 ]
             ],
             "instructions": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake well. Strain into highball glass. Garnish with pineapple and cocktail cherry.",
@@ -12639,16 +12639,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sloe gin",
-                    "2 oz "
+                    "SLOE GIN",
+                    "2 OZ "
                 ],
                 [
-                    "Dry Vermouth",
-                    "1/4 tsp "
+                    "DRY VERMOUTH",
+                    "1/4 TSP "
                 ],
                 [
-                    "Orange bitters",
-                    "1 dash "
+                    "ORANGE BITTERS",
+                    "1 DASH "
                 ]
             ],
             "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
@@ -12661,20 +12661,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Red wine",
-                    "1/3 part "
+                    "RED WINE",
+                    "1/3 PART "
                 ],
                 [
-                    "Peach schnapps",
-                    "1 shot "
+                    "PEACH SCHNAPPS",
+                    "1 SHOT "
                 ],
                 [
-                    "Pepsi Cola",
-                    "1/3 part "
+                    "PEPSI COLA",
+                    "1/3 PART "
                 ],
                 [
-                    "Orange juice",
-                    "1/3 part "
+                    "ORANGE JUICE",
+                    "1/3 PART "
                 ]
             ],
             "instructions": "Throw it all together and serve real cold.",
@@ -12687,12 +12687,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Lager",
-                    "1/2 pint "
+                    "LAGER",
+                    "1/2 PINT "
                 ],
                 [
-                    "Cider",
-                    "1/2 pint sweet or dry "
+                    "CIDER",
+                    "1/2 PINT SWEET OR DRY "
                 ]
             ],
             "instructions": "Pour ingredients into a pint glass. Drink. Fall over.",
@@ -12705,16 +12705,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Lager",
-                    "1/2 pint "
+                    "LAGER",
+                    "1/2 PINT "
                 ],
                 [
-                    "Cider",
-                    "1/2 pint "
+                    "CIDER",
+                    "1/2 PINT "
                 ],
                 [
-                    "Blackcurrant squash",
-                    "A little bit of "
+                    "BLACKCURRANT SQUASH",
+                    "A LITTLE BIT OF "
                 ]
             ],
             "instructions": "Put blackcurrant squash in first up to about 1cm in glass. Then add the larger and cider one after another.",
@@ -12727,20 +12727,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Advocaat",
-                    "1 1/2 oz "
+                    "ADVOCAAT",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Lemonade",
-                    "8-10 oz cold "
+                    "LEMONADE",
+                    "8-10 OZ COLD "
                 ],
                 [
-                    "Lemon",
-                    "1 slice "
+                    "LEMON",
+                    "1 SLICE "
                 ],
                 [
-                    "Ice",
-                    " cubes\n"
+                    "ICE",
+                    " CUBES\n"
                 ]
             ],
             "instructions": "Place one ice cube in the glass and add 1 1/2 oz of Advocaat. Fill up the glass with lemonade and decorate with a slice of lemon. Serve at once.",
@@ -12753,12 +12753,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Brandy",
-                    "1 1/2 oz "
+                    "BRANDY",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Anisette",
-                    "1 1/2 oz "
+                    "ANISETTE",
+                    "1 1/2 OZ "
                 ]
             ],
             "instructions": "Shake ingredients with ice, strain into a brandy snifter, and serve. (The English translation of the name of this drink is \"Sun and Shade\", and after sampling this drink, you'll understand why. Thanks, Kirby.)",
@@ -12771,16 +12771,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "151 proof rum",
-                    "1 shot Bacardi "
+                    "151 PROOF RUM",
+                    "1 SHOT BACARDI "
                 ],
                 [
-                    "Malibu rum",
-                    "1 shot "
+                    "MALIBU RUM",
+                    "1 SHOT "
                 ],
                 [
-                    "Pineapple juice",
-                    "1 shot "
+                    "PINEAPPLE JUICE",
+                    "1 SHOT "
                 ]
             ],
             "instructions": "Fill glass with ice and add shots of Bacardi and Malibu. Add splash of pineapple juice and top with orange juice. Add grenadine for color and garnish with cherries.",
@@ -12793,20 +12793,20 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Milk",
-                    "2 cups "
+                    "MILK",
+                    "2 CUPS "
                 ],
                 [
-                    "Chocolate",
-                    "2 oz sweet "
+                    "CHOCOLATE",
+                    "2 OZ SWEET "
                 ],
                 [
-                    "Cinnamon",
-                    "1/2 tsp "
+                    "CINNAMON",
+                    "1/2 TSP "
                 ],
                 [
-                    "Egg yolk",
-                    "2 beaten "
+                    "EGG YOLK",
+                    "2 BEATEN "
                 ]
             ],
             "instructions": "Stir the milk with the chocolate and the cinnamon over low heat until the chocolate dissolves. Add the eggs and beat the mixture until it becomes thick, taking care not to boil. Serve in coffee mug.",
@@ -12819,28 +12819,28 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Peach nectar",
-                    "46 oz "
+                    "PEACH NECTAR",
+                    "46 OZ "
                 ],
                 [
-                    "Orange juice",
-                    "20 oz "
+                    "ORANGE JUICE",
+                    "20 OZ "
                 ],
                 [
-                    "Brown sugar",
-                    "1/2 cup "
+                    "BROWN SUGAR",
+                    "1/2 CUP "
                 ],
                 [
-                    "Cinnamon",
-                    "3 3-inch "
+                    "CINNAMON",
+                    "3 3-INCH "
                 ],
                 [
-                    "Cloves",
-                    "1/2 tsp "
+                    "CLOVES",
+                    "1/2 TSP "
                 ],
                 [
-                    "Lime juice",
-                    "2 tblsp "
+                    "LIME JUICE",
+                    "2 TBLSP "
                 ]
             ],
             "instructions": "Combine peach nectar, orange juice and brown sugar in a large saucepan. Tie cinnamon and cloves in a small cheesecloth bag. Drop into saucepan. Heat slowly, stirring constantly, until sugar dissolves. Simmer 10 minutes. Stir in lime juice. Serve in hot mugs.",
@@ -12862,16 +12862,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Prosecco",
-                    "6 cl"
+                    "PROSECCO",
+                    "6 CL"
                 ],
                 [
-                    "Campari",
-                    "4 cl"
+                    "CAMPARI",
+                    "4 CL"
                 ],
                 [
-                    "Soda Water",
-                    "splash"
+                    "SODA WATER",
+                    "SPLASH"
                 ]
             ],
             "instructions": "Build into glass over ice, garnish and serve.",
@@ -12884,12 +12884,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Brandy",
-                    "1 1/2 oz "
+                    "BRANDY",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "White Creme de Menthe",
-                    "1/2 oz "
+                    "WHITE CREME DE MENTHE",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "Pour in a mixing glass with ice, stir and strain into a cocktail glass. May also be served on rocks in a rocks glass.",
@@ -12902,16 +12902,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Apricot brandy",
-                    "1 oz "
+                    "APRICOT BRANDY",
+                    "1 OZ "
                 ],
                 [
-                    "Orange juice",
-                    "1 oz "
+                    "ORANGE JUICE",
+                    "1 OZ "
                 ],
                 [
-                    "Sweet and sour",
-                    "1 oz "
+                    "SWEET AND SOUR",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Shake all ingredients with ice, strain into a chilled whiskey sour glass, and serve.",
@@ -12924,24 +12924,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Strawberry schnapps",
-                    "1/2 oz "
+                    "STRAWBERRY SCHNAPPS",
+                    "1/2 OZ "
                 ],
                 [
-                    "Light rum",
-                    "1 oz "
+                    "LIGHT RUM",
+                    "1 OZ "
                 ],
                 [
-                    "Lime juice",
-                    "1 oz "
+                    "LIME JUICE",
+                    "1 OZ "
                 ],
                 [
-                    "Powdered sugar",
-                    "1 tsp "
+                    "POWDERED SUGAR",
+                    "1 TSP "
                 ],
                 [
-                    "Strawberries",
-                    "1 oz "
+                    "STRAWBERRIES",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.",
@@ -12954,20 +12954,20 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Lemon",
-                    "Juice of 1 "
+                    "LEMON",
+                    "JUICE OF 1 "
                 ],
                 [
-                    "Sugar",
-                    "1 tblsp "
+                    "SUGAR",
+                    "1 TBLSP "
                 ],
                 [
-                    "Strawberries",
-                    "8-10 ripe "
+                    "STRAWBERRIES",
+                    "8-10 RIPE "
                 ],
                 [
-                    "Water",
-                    "1 cup "
+                    "WATER",
+                    "1 CUP "
                 ]
             ],
             "instructions": "Throw everything into a blender and mix until fairly smooth. Serve over ice.",
@@ -12980,24 +12980,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Strawberry schnapps",
-                    "1/2 oz "
+                    "STRAWBERRY SCHNAPPS",
+                    "1/2 OZ "
                 ],
                 [
-                    "Tequila",
-                    "1 oz "
+                    "TEQUILA",
+                    "1 OZ "
                 ],
                 [
-                    "Triple sec",
-                    "1/2 oz "
+                    "TRIPLE SEC",
+                    "1/2 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1 oz "
+                    "LEMON JUICE",
+                    "1 OZ "
                 ],
                 [
-                    "Strawberries",
-                    "1 oz "
+                    "STRAWBERRIES",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Rub rim of cocktail glass with lemon juice and dip rim in salt. Shake schnapps, tequila, triple sec, lemon juice, and strawberries with ice, strain into the salt-rimmed glass, and serve.",
@@ -13010,16 +13010,16 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Strawberries",
-                    "1 1/2 cup "
+                    "STRAWBERRIES",
+                    "1 1/2 CUP "
                 ],
                 [
-                    "Honey",
-                    "4 tsp "
+                    "HONEY",
+                    "4 TSP "
                 ],
                 [
-                    "Water",
-                    "1/2 cup "
+                    "WATER",
+                    "1/2 CUP "
                 ]
             ],
             "instructions": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.",
@@ -13032,28 +13032,28 @@ const cocktailData = {
             "alcoholic": "OPTIONAL ALCOHOL",
             "ingredients": [
                 [
-                    "Pineapple juice",
-                    "46 oz chilled "
+                    "PINEAPPLE JUICE",
+                    "46 OZ CHILLED "
                 ],
                 [
-                    "Club soda",
-                    "28 oz "
+                    "CLUB SODA",
+                    "28 OZ "
                 ],
                 [
-                    "Orange juice",
-                    "6 oz frozen "
+                    "ORANGE JUICE",
+                    "6 OZ FROZEN "
                 ],
                 [
-                    "Lemon",
+                    "LEMON",
                     "1 "
                 ],
                 [
-                    "Berries",
-                    "2 cups "
+                    "BERRIES",
+                    "2 CUPS "
                 ],
                 [
-                    "Champagne",
-                    "1 bottle "
+                    "CHAMPAGNE",
+                    "1 BOTTLE "
                 ]
             ],
             "instructions": "Combine all ingredients in a punch bowl.",
@@ -13066,20 +13066,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Ouzo",
-                    "1 part "
+                    "OUZO",
+                    "1 PART "
                 ],
                 [
-                    "Bailey's irish cream",
-                    "1 part "
+                    "BAILEY'S IRISH CREAM",
+                    "1 PART "
                 ],
                 [
-                    "Gin",
-                    "2 parts "
+                    "GIN",
+                    "2 PARTS "
                 ],
                 [
-                    "Grand Marnier",
-                    "1/2 part "
+                    "GRAND MARNIER",
+                    "1/2 PART "
                 ]
             ],
             "instructions": "Lots of ice and soda top up in tall glass with cherry and a grin.",
@@ -13092,16 +13092,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Coffee",
-                    "1 cup"
+                    "COFFEE",
+                    "1 CUP"
                 ],
                 [
-                    "Aquavit",
-                    "4 cl "
+                    "AQUAVIT",
+                    "4 CL "
                 ],
                 [
-                    "Sugar",
-                    "By taste "
+                    "SUGAR",
+                    "BY TASTE "
                 ]
             ],
             "instructions": "Pour the coffee in an ordinary coffee cup. Add the aquavit. Add sugar by taste. Stir and have a nice evening (morning)",
@@ -13114,16 +13114,16 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Milk",
-                    "2 cups "
+                    "MILK",
+                    "2 CUPS "
                 ],
                 [
-                    "Banana",
+                    "BANANA",
                     "1 "
                 ],
                 [
-                    "Honey",
-                    "1 tblsp "
+                    "HONEY",
+                    "1 TBLSP "
                 ]
             ],
             "instructions": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.",
@@ -13136,28 +13136,28 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Red wine",
-                    "2 bottles "
+                    "RED WINE",
+                    "2 BOTTLES "
                 ],
                 [
-                    "Sugar",
-                    "1 cup "
+                    "SUGAR",
+                    "1 CUP "
                 ],
                 [
-                    "Water",
-                    "2 cups hot "
+                    "WATER",
+                    "2 CUPS HOT "
                 ],
                 [
-                    "Apple",
-                    "1 cup "
+                    "APPLE",
+                    "1 CUP "
                 ],
                 [
-                    "Orange",
-                    " wedges\n"
+                    "ORANGE",
+                    " WEDGES\n"
                 ],
                 [
-                    "Lime",
-                    " wedges\n"
+                    "LIME",
+                    " WEDGES\n"
                 ]
             ],
             "instructions": "Dissolve the sugar in hot water and cool. Peel the citrus fruits and break into wedges. Mix the wine, sugar syrup, fruit, and Fresca in a pitcher and put in the fridge for a few hours. Serve in tall glasses with a straw.",
@@ -13170,8 +13170,8 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Godiva liqueur",
-                    "2 shots "
+                    "GODIVA LIQUEUR",
+                    "2 SHOTS "
                 ]
             ],
             "instructions": "Put 2 shots Godiva Liquour into a glass, add as much or as little milk as you would like.",
@@ -13184,12 +13184,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Grand Marnier",
-                    "3 parts "
+                    "GRAND MARNIER",
+                    "3 PARTS "
                 ],
                 [
-                    "Coffee",
-                    "1 part "
+                    "COFFEE",
+                    "1 PART "
                 ]
             ],
             "instructions": "Add your GM and then add your coffee.",
@@ -13202,16 +13202,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Coffee",
-                    "8 oz "
+                    "COFFEE",
+                    "8 OZ "
                 ],
                 [
-                    "Jack Daniels",
-                    "4 oz "
+                    "JACK DANIELS",
+                    "4 OZ "
                 ],
                 [
-                    "Amaretto",
-                    "4 oz "
+                    "AMARETTO",
+                    "4 OZ "
                 ]
             ],
             "instructions": "Mix Coffee, Jack Daniels and Amaretto. Add Cream on top.",
@@ -13224,19 +13224,19 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Tequila",
-                    "2 oz "
+                    "TEQUILA",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1 tblsp "
+                    "LEMON JUICE",
+                    "1 TBLSP "
                 ],
                 [
-                    "Grenadine",
-                    "3/4 oz "
+                    "GRENADINE",
+                    "3/4 OZ "
                 ],
                 [
-                    "Egg white",
+                    "EGG WHITE",
                     "1 "
                 ]
             ],
@@ -13250,23 +13250,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Tequila",
-                    "2 oz "
+                    "TEQUILA",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1/2 "
+                    "LEMON",
+                    "JUICE OF 1/2 "
                 ],
                 [
-                    "Powdered sugar",
-                    "1 tsp "
+                    "POWDERED SUGAR",
+                    "1 TSP "
                 ],
                 [
-                    "Lemon",
-                    "1/2 slice "
+                    "LEMON",
+                    "1/2 SLICE "
                 ],
                 [
-                    "Cherry",
+                    "CHERRY",
                     "1 "
                 ]
             ],
@@ -13280,8 +13280,8 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Tequila",
-                    "2 measures "
+                    "TEQUILA",
+                    "2 MEASURES "
                 ]
             ],
             "instructions": "Pour the tequila and orange juice into glass over ice. Add the grenadine, which will sink to the bottom. Stir gently to create the sunrise effect. Garnish and serve.",
@@ -13294,12 +13294,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Tequila",
-                    "full glass "
+                    "TEQUILA",
+                    "FULL GLASS "
                 ],
                 [
-                    "Tabasco sauce",
-                    "About 8 drops "
+                    "TABASCO SAUCE",
+                    "ABOUT 8 DROPS "
                 ]
             ],
             "instructions": "Fill shot glass with Tequila. Add drops of Tobasco sauce.",
@@ -13312,20 +13312,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Yukon Jack",
-                    "1 part "
+                    "YUKON JACK",
+                    "1 PART "
                 ],
                 [
-                    "Cherry brandy",
-                    "1/2 part "
+                    "CHERRY BRANDY",
+                    "1/2 PART "
                 ],
                 [
-                    "Southern Comfort",
-                    "1 part "
+                    "SOUTHERN COMFORT",
+                    "1 PART "
                 ],
                 [
-                    "Sweet and sour",
-                    "1 splash "
+                    "SWEET AND SOUR",
+                    "1 SPLASH "
                 ]
             ],
             "instructions": "Mix all ingredients and Shake well. Sweet at first, with a BITE at the end...",
@@ -13338,24 +13338,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Kahlua",
-                    "1/2 oz "
+                    "KAHLUA",
+                    "1/2 OZ "
                 ],
                 [
-                    "Irish cream",
-                    "1/2 oz "
+                    "IRISH CREAM",
+                    "1/2 OZ "
                 ],
                 [
-                    "Amaretto",
-                    "1/2 oz "
+                    "AMARETTO",
+                    "1/2 OZ "
                 ],
                 [
-                    "151 proof rum",
-                    "1/2 oz Bacardi "
+                    "151 PROOF RUM",
+                    "1/2 OZ BACARDI "
                 ],
                 [
-                    "Cream",
-                    "1 oz "
+                    "CREAM",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Blend with Ice until smooth. Serve in a tulip glass, top with whip cream.",
@@ -13368,16 +13368,16 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Coffee",
-                    "6 tblsp ground"
+                    "COFFEE",
+                    "6 TBLSP GROUND"
                 ],
                 [
-                    "Coriander",
-                    "1/4 tsp "
+                    "CORIANDER",
+                    "1/4 TSP "
                 ],
                 [
-                    "Cardamom",
-                    "4-5 whole green "
+                    "CARDAMOM",
+                    "4-5 WHOLE GREEN "
                 ]
             ],
             "instructions": "Place the coffee and spices in the filter cone of your coffee maker. Brew coffee as usual, let it cool. In a tall glass, dissolve 1 or 2 teaspoons of sugar in an ounce of the coffee (it's easier to dissolve than if you put it right over ice). Add 5-6 ice cubes and pour coffee to within about 1 inch of the top of the glass. Rest a spoon on top of the coffee and slowly pour whipping cream into the spoon. This will make the cream float on top of the coffee rather than dispersing into it right away.",
@@ -13390,12 +13390,12 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Coffee",
-                    "black"
+                    "COFFEE",
+                    "BLACK"
                 ],
                 [
-                    "Sugar",
-                    " pods\n"
+                    "SUGAR",
+                    " PODS\n"
                 ]
             ],
             "instructions": "Prepare a pot of coffee at a good European strength. In the ground coffee, add 2 or 3 freshly ground cardamom pods. Sweeten while hot, then cool quickly. Serve in highball glass over ice, with cream. To get the layered effect, place a spoon atop the coffee and pour the milk carefully into the spoon so that it floats on the top of the coffee.",
@@ -13408,20 +13408,20 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Tea",
-                    "1/4 cup Thai "
+                    "TEA",
+                    "1/4 CUP THAI "
                 ],
                 [
-                    "Water",
-                    "1/2 cup boiling "
+                    "WATER",
+                    "1/2 CUP BOILING "
                 ],
                 [
-                    "Condensed milk",
-                    "2 tsp sweetened "
+                    "CONDENSED MILK",
+                    "2 TSP SWEETENED "
                 ],
                 [
-                    "Ice",
-                    " cubes\n"
+                    "ICE",
+                    " CUBES\n"
                 ]
             ],
             "instructions": "Combine Thai tea (i.e., the powder), boiling water, and sweetened condensed milk, stir until blended. Pour into 2 tall glasses filled with ice cubes. Garnish with mint leaves. Makes 2 servings.",
@@ -13434,16 +13434,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Creme de Cacao",
-                    "1 1/2 oz "
+                    "CREME DE CACAO",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Blue Curacao",
-                    "1 oz "
+                    "BLUE CURACAO",
+                    "1 OZ "
                 ],
                 [
-                    "Light rum",
-                    "1/2 oz "
+                    "LIGHT RUM",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "Pour ingredients into glass, and drop in a blue whale! The blue whale isn't really necessary, but it makes the drink more \"fun\".",
@@ -13456,16 +13456,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Scotch",
-                    "1 1/2 oz "
+                    "SCOTCH",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Wine",
-                    "1 oz Green Ginger "
+                    "WINE",
+                    "1 OZ GREEN GINGER "
                 ],
                 [
-                    "Orange juice",
-                    "1 oz "
+                    "ORANGE JUICE",
+                    "1 OZ "
                 ]
             ],
             "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",
@@ -13478,24 +13478,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Water",
-                    "1 cup "
+                    "WATER",
+                    "1 CUP "
                 ],
                 [
-                    "Brown sugar",
-                    "3/4-1 cup "
+                    "BROWN SUGAR",
+                    "3/4-1 CUP "
                 ],
                 [
-                    "Coffee",
-                    "4 tsp "
+                    "COFFEE",
+                    "4 TSP "
                 ],
                 [
-                    "Rum",
-                    "1 cup "
+                    "RUM",
+                    "1 CUP "
                 ],
                 [
-                    "Vanilla extract",
-                    "4 tsp "
+                    "VANILLA EXTRACT",
+                    "4 TSP "
                 ]
             ],
             "instructions": "Boil water, sugar and coffe for 10 mins and let cool. Add rum and vanilla. Put in clean bottle(s) and leave for 1 week before using.",
@@ -13508,27 +13508,27 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "2 oz "
+                    "GIN",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1 oz "
+                    "LEMON JUICE",
+                    "1 OZ "
                 ],
                 [
-                    "Sugar",
-                    "1 tsp superfine "
+                    "SUGAR",
+                    "1 TSP SUPERFINE "
                 ],
                 [
-                    "Club soda",
-                    "3 oz "
+                    "CLUB SODA",
+                    "3 OZ "
                 ],
                 [
-                    "Maraschino cherry",
+                    "MARASCHINO CHERRY",
                     "1 "
                 ],
                 [
-                    "Orange",
+                    "ORANGE",
                     "1 "
                 ]
             ],
@@ -13542,16 +13542,16 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Tomato juice",
-                    "2 cups "
+                    "TOMATO JUICE",
+                    "2 CUPS "
                 ],
                 [
-                    "Lemon juice",
-                    "1-2 tblsp "
+                    "LEMON JUICE",
+                    "1-2 TBLSP "
                 ],
                 [
-                    "Celery salt",
-                    "1 dash "
+                    "CELERY SALT",
+                    "1 DASH "
                 ]
             ],
             "instructions": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.",
@@ -13564,16 +13564,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Tequila",
-                    "4.5 cl"
+                    "TEQUILA",
+                    "4.5 CL"
                 ],
                 [
-                    "Lime Juice",
-                    "1.5 cl"
+                    "LIME JUICE",
+                    "1.5 CL"
                 ],
                 [
-                    "Agave syrup",
-                    "2 spoons"
+                    "AGAVE SYRUP",
+                    "2 SPOONS"
                 ]
             ],
             "instructions": "Shake and strain into a chilled cocktail glass.",
@@ -13586,24 +13586,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Dry Vermouth",
-                    "1 oz "
+                    "DRY VERMOUTH",
+                    "1 OZ "
                 ],
                 [
-                    "Gin",
-                    "1 oz "
+                    "GIN",
+                    "1 OZ "
                 ],
                 [
-                    "Anis",
-                    "1/4 tsp "
+                    "ANIS",
+                    "1/4 TSP "
                 ],
                 [
-                    "Bitters",
-                    "2 dashes "
+                    "BITTERS",
+                    "2 DASHES "
                 ],
                 [
-                    "Orange peel",
-                    "Twist of "
+                    "ORANGE PEEL",
+                    "TWIST OF "
                 ]
             ],
             "instructions": "Stir all ingredients (except orange peel) with ice and strain into a cocktail glass. Add the twist of orange peel and serve.",
@@ -13616,16 +13616,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Wild Turkey",
-                    "1 oz "
+                    "WILD TURKEY",
+                    "1 OZ "
                 ],
                 [
-                    "Amaretto",
-                    "3/4 oz "
+                    "AMARETTO",
+                    "3/4 OZ "
                 ],
                 [
-                    "Pineapple juice",
-                    "1 splash "
+                    "PINEAPPLE JUICE",
+                    "1 SPLASH "
                 ]
             ],
             "instructions": "Shake with ice and strain into a shot glass.",
@@ -13638,27 +13638,27 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Dry Vermouth",
-                    "1 1/2 oz "
+                    "DRY VERMOUTH",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Maraschino liqueur",
-                    "1/4 tsp "
+                    "MARASCHINO LIQUEUR",
+                    "1/4 TSP "
                 ],
                 [
-                    "Anis",
-                    "1/4 tsp "
+                    "ANIS",
+                    "1/4 TSP "
                 ],
                 [
-                    "Orange bitters",
-                    "2 dashes "
+                    "ORANGE BITTERS",
+                    "2 DASHES "
                 ],
                 [
-                    "Cherry",
+                    "CHERRY",
                     "1 "
                 ]
             ],
@@ -13672,16 +13672,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Apricot brandy",
-                    "1 1/2 oz "
+                    "APRICOT BRANDY",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Orange juice",
-                    "1 tblsp "
+                    "ORANGE JUICE",
+                    "1 TBLSP "
                 ],
                 [
-                    "Orange bitters",
-                    "2 dashes "
+                    "ORANGE BITTERS",
+                    "2 DASHES "
                 ]
             ],
             "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
@@ -13694,28 +13694,28 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Tequila",
-                    "6 cl"
+                    "TEQUILA",
+                    "6 CL"
                 ],
                 [
-                    "Tomato Juice",
-                    "3 cl"
+                    "TOMATO JUICE",
+                    "3 CL"
                 ],
                 [
-                    "Orange Juice",
-                    "3 cl"
+                    "ORANGE JUICE",
+                    "3 CL"
                 ],
                 [
-                    "Lime Juice",
-                    "1.5 cl"
+                    "LIME JUICE",
+                    "1.5 CL"
                 ],
                 [
-                    "Sugar Syrup",
-                    "1 dash"
+                    "SUGAR SYRUP",
+                    "1 DASH"
                 ],
                 [
-                    "Salt",
-                    "1 pinch"
+                    "SALT",
+                    "1 PINCH"
                 ]
             ],
             "instructions": "Vampiros may be made in a tall glass or an old fashioned glass. Bartenders may first \"rim\" the glass with Kosher Salt, which is done by placing a layer of Kosher Salt on a chopping board, moistening the glass' rim with lime juice or water, and then placing the upside down glass rim onto the Kosher Salt, so that the salt sticks to the moistened rim. The second step is to fill half the glass with ice and add one or two shooter glasses full of high quality Tequila. The next stage is to add the flavouring elements. This is done by squeezing a fresh lime into the glass, adding a few grains of salt, adding citrus-flavoured soda pop, until the glass is 4/5 full, and then adding spicy Viuda de Sanchez (or orange juice, lime juice and pico de gallo). The final step is to stir the ingredients so that the flavours are properly blended.",
@@ -13728,16 +13728,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "3 oz "
+                    "LIGHT RUM",
+                    "3 OZ "
                 ],
                 [
-                    "Maple syrup",
-                    "1 oz "
+                    "MAPLE SYRUP",
+                    "1 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "1 oz "
+                    "LEMON JUICE",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Shake all ingredients with ice, strain into an old-fashioned glass over ice cubes, and serve.",
@@ -13750,12 +13750,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Dry Vermouth",
-                    "1 1/2 oz "
+                    "DRY VERMOUTH",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Creme de Cassis",
-                    "3/4 oz "
+                    "CREME DE CASSIS",
+                    "3/4 OZ "
                 ]
             ],
             "instructions": "Stir vermouth and creme de cassis in a highball glass with ice cubes. Fill with carbonated water, stir again, and serve.",
@@ -13768,16 +13768,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "6 cl"
+                    "GIN",
+                    "6 CL"
                 ],
                 [
-                    "Vodka",
-                    "1.5 cl"
+                    "VODKA",
+                    "1.5 CL"
                 ],
                 [
-                    "Lillet Blanc",
-                    "0.75 cl"
+                    "LILLET BLANC",
+                    "0.75 CL"
                 ]
             ],
             "instructions": "Shake over ice until well chilled, then strain into a deep goblet and garnish with a thin slice of lemon peel.",
@@ -13790,23 +13790,23 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Light rum",
-                    "1 oz "
+                    "LIGHT RUM",
+                    "1 OZ "
                 ],
                 [
-                    "Sweet Vermouth",
-                    "1/2 oz "
+                    "SWEET VERMOUTH",
+                    "1/2 OZ "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1/2 "
+                    "LEMON",
+                    "JUICE OF 1/2 "
                 ],
                 [
-                    "Powdered sugar",
-                    "1 tsp "
+                    "POWDERED SUGAR",
+                    "1 TSP "
                 ],
                 [
-                    "Egg white",
+                    "EGG WHITE",
                     "1 "
                 ]
             ],
@@ -13820,12 +13820,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Dark rum",
-                    "2 oz "
+                    "DARK RUM",
+                    "2 OZ "
                 ],
                 [
-                    "Cherry brandy",
-                    "1/2 oz "
+                    "CHERRY BRANDY",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "Pour the rum and cherry brandy into an old-fashioned glass almost filled with ice cubes. Stir well.",
@@ -13838,16 +13838,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "1 1/2 oz "
+                    "GIN",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Sweet Vermouth",
-                    "1/2 oz "
+                    "SWEET VERMOUTH",
+                    "1/2 OZ "
                 ],
                 [
-                    "Brandy",
-                    "1/2 oz "
+                    "BRANDY",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
@@ -13860,24 +13860,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1 1/2 oz "
+                    "VODKA",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Lemon juice",
-                    "3 oz "
+                    "LEMON JUICE",
+                    "3 OZ "
                 ],
                 [
-                    "Grape juice",
-                    "3 oz unsweetened "
+                    "GRAPE JUICE",
+                    "3 OZ UNSWEETENED "
                 ],
                 [
-                    "Powdered sugar",
-                    "1 tsp "
+                    "POWDERED SUGAR",
+                    "1 TSP "
                 ],
                 [
-                    "Orange",
-                    "1 slice "
+                    "ORANGE",
+                    "1 SLICE "
                 ]
             ],
             "instructions": "Shake all ingredients (except orange slice) with ice and strain into a collins glass over ice cubes. Add the slice of orange and serve.",
@@ -13890,8 +13890,8 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "2 oz "
+                    "VODKA",
+                    "2 OZ "
                 ]
             ],
             "instructions": "Pour vodka into a highball glass over ice cubes. Fill with tonic water, stir, and serve.",
@@ -13904,16 +13904,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "2 oz "
+                    "VODKA",
+                    "2 OZ "
                 ],
                 [
-                    "Half-and-half",
-                    "2 oz "
+                    "HALF-AND-HALF",
+                    "2 OZ "
                 ],
                 [
-                    "Limeade",
-                    "2 oz "
+                    "LIMEADE",
+                    "2 OZ "
                 ]
             ],
             "instructions": "Blend all ingredients, save nutmeg. Pour into large white wine glass and sprinkle nutmeg on top.",
@@ -13926,15 +13926,15 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1 1/2 oz "
+                    "VODKA",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Dry Vermouth",
-                    "3/4 oz "
+                    "DRY VERMOUTH",
+                    "3/4 OZ "
                 ],
                 [
-                    "Olive",
+                    "OLIVE",
                     "1 "
                 ]
             ],
@@ -13948,8 +13948,8 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "2 oz "
+                    "VODKA",
+                    "2 OZ "
                 ]
             ],
             "instructions": "Mix it as a ordinary drink .",
@@ -13962,16 +13962,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Triple sec",
-                    "3/4 oz "
+                    "TRIPLE SEC",
+                    "3/4 OZ "
                 ],
                 [
-                    "Gin",
-                    "3/4 oz "
+                    "GIN",
+                    "3/4 OZ "
                 ],
                 [
-                    "Pineapple juice",
-                    "1 tblsp "
+                    "PINEAPPLE JUICE",
+                    "1 TBLSP "
                 ]
             ],
             "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
@@ -13984,24 +13984,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Blended whiskey",
-                    "2 oz "
+                    "BLENDED WHISKEY",
+                    "2 OZ "
                 ],
                 [
-                    "Lemon",
-                    "Juice of 1/2 "
+                    "LEMON",
+                    "JUICE OF 1/2 "
                 ],
                 [
-                    "Powdered sugar",
-                    "1/2 tsp "
+                    "POWDERED SUGAR",
+                    "1/2 TSP "
                 ],
                 [
-                    "Cherry",
+                    "CHERRY",
                     "1 "
                 ],
                 [
-                    "Lemon",
-                    "1/2 slice "
+                    "LEMON",
+                    "1/2 SLICE "
                 ]
             ],
             "instructions": "Shake with ice. Strain into chilled glass, garnish and serve. If served 'On the rocks', strain ingredients into old-fashioned glass filled with ice.",
@@ -14014,12 +14014,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Scotch",
-                    "1 1/2 oz "
+                    "SCOTCH",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Wine",
-                    "1 oz Green Ginger "
+                    "WINE",
+                    "1 OZ GREEN GINGER "
                 ]
             ],
             "instructions": "Pour both of the ingredients into a wine goblet with no ice.",
@@ -14032,16 +14032,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Gin",
-                    "4cl"
+                    "GIN",
+                    "4CL"
                 ],
                 [
-                    "Triple Sec",
-                    "3cl"
+                    "TRIPLE SEC",
+                    "3CL"
                 ],
                 [
-                    "Lemon Juice",
-                    "2cl"
+                    "LEMON JUICE",
+                    "2CL"
                 ]
             ],
             "instructions": "Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.",
@@ -14054,12 +14054,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "2 oz "
+                    "VODKA",
+                    "2 OZ "
                 ],
                 [
-                    "Coffee liqueur",
-                    "1 oz "
+                    "COFFEE LIQUEUR",
+                    "1 OZ "
                 ]
             ],
             "instructions": "Pour vodka and coffee liqueur over ice cubes in an old-fashioned glass. Fill with light cream and serve.",
@@ -14072,20 +14072,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Ice",
-                    "1 cup "
+                    "ICE",
+                    "1 CUP "
                 ],
                 [
-                    "Tequila",
-                    "2 oz "
+                    "TEQUILA",
+                    "2 OZ "
                 ],
                 [
-                    "Cream of coconut",
-                    "1/4 cup "
+                    "CREAM OF COCONUT",
+                    "1/4 CUP "
                 ],
                 [
-                    "Lime juice",
-                    "3 tblsp fresh "
+                    "LIME JUICE",
+                    "3 TBLSP FRESH "
                 ]
             ],
             "instructions": "Place all ingredients in a blender and blend until smooth. This makes one drink.",
@@ -14098,16 +14098,16 @@ const cocktailData = {
             "alcoholic": "OPTIONAL ALCOHOL",
             "ingredients": [
                 [
-                    "Red wine",
-                    "2 oz white or "
+                    "RED WINE",
+                    "2 OZ WHITE OR "
                 ],
                 [
-                    "Lemon-lime soda",
-                    "5 oz "
+                    "LEMON-LIME SODA",
+                    "5 OZ "
                 ],
                 [
-                    "Ice",
-                    " cubes\n"
+                    "ICE",
+                    " CUBES\n"
                 ]
             ],
             "instructions": "Mix wine and soft drink. Pour into glass. Add ice.",
@@ -14120,24 +14120,24 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Red wine",
-                    "1 bottle "
+                    "RED WINE",
+                    "1 BOTTLE "
                 ],
                 [
-                    "Lemon",
+                    "LEMON",
                     "2 "
                 ],
                 [
-                    "Orange juice",
-                    "1 cup "
+                    "ORANGE JUICE",
+                    "1 CUP "
                 ],
                 [
-                    "Orange",
+                    "ORANGE",
                     "3 "
                 ],
                 [
-                    "Pineapple juice",
-                    "1 cup "
+                    "PINEAPPLE JUICE",
+                    "1 CUP "
                 ]
             ],
             "instructions": "Combine all of the ingredients and pour over a block of ice.",
@@ -14150,20 +14150,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "White Rum",
-                    "3 cl"
+                    "WHITE RUM",
+                    "3 CL"
                 ],
                 [
-                    "Galliano",
-                    "1.5 cl"
+                    "GALLIANO",
+                    "1.5 CL"
                 ],
                 [
-                    "Triple Sec",
-                    "1.5 cl"
+                    "TRIPLE SEC",
+                    "1.5 CL"
                 ],
                 [
-                    "Lime Juice",
-                    "1.5 cl"
+                    "LIME JUICE",
+                    "1.5 CL"
                 ]
             ],
             "instructions": "Shake and strain into a chilled cocktail glass",
@@ -14176,12 +14176,12 @@ const cocktailData = {
             "alcoholic": "NON ALCOHOLIC",
             "ingredients": [
                 [
-                    "Yoghurt",
-                    "1 cup "
+                    "YOGHURT",
+                    "1 CUP "
                 ],
                 [
-                    "Fruit",
-                    "1 cup "
+                    "FRUIT",
+                    "1 CUP "
                 ]
             ],
             "instructions": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up. Note: Use lots of ice in this one - great on hot days! To add ice: Remove the center of the cover while the blender is on - drop 3 or 4 ice cubs and blend until they're completely crushed.",
@@ -14194,16 +14194,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sambuca",
-                    "1 1/2 oz "
+                    "SAMBUCA",
+                    "1 1/2 OZ "
                 ],
                 [
-                    "Root beer",
-                    "Add 10 oz "
+                    "ROOT BEER",
+                    "ADD 10 OZ "
                 ],
                 [
-                    "Ice",
-                    " cubes\n"
+                    "ICE",
+                    " CUBES\n"
                 ]
             ],
             "instructions": "Mix sambuca with rootbeer and stir. Add ice",
@@ -14216,12 +14216,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "J\u00e4germeister",
-                    "1/2 oz "
+                    "J\u00c4GERMEISTER",
+                    "1/2 OZ "
                 ],
                 [
-                    "Root beer",
-                    "1/2 oz "
+                    "ROOT BEER",
+                    "1/2 OZ "
                 ]
             ],
             "instructions": "Mix together and enjoy",
@@ -14234,12 +14234,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vermouth",
-                    "4 cl "
+                    "VERMOUTH",
+                    "4 CL "
                 ],
                 [
-                    "Apple juice",
-                    "16 cl "
+                    "APPLE JUICE",
+                    "16 CL "
                 ]
             ],
             "instructions": "Serve without ice. At least the juice shold have room temperature.",
@@ -14252,12 +14252,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Zima",
-                    "12 oz "
+                    "ZIMA",
+                    "12 OZ "
                 ],
                 [
-                    "Chambord raspberry liqueur",
-                    "3 oz "
+                    "CHAMBORD RASPBERRY LIQUEUR",
+                    "3 OZ "
                 ]
             ],
             "instructions": "Fill glass with ice. Pour in Chambord, then fill with Zima. Mix and enjoy.",
@@ -14270,12 +14270,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Midori melon liqueur",
-                    "1.5 oz "
+                    "MIDORI MELON LIQUEUR",
+                    "1.5 OZ "
                 ],
                 [
-                    "Zima",
-                    "12 oz "
+                    "ZIMA",
+                    "12 OZ "
                 ]
             ],
             "instructions": "Pour Zima in a collins glass over ice and then pour the shot of Midori. Don't stir. Garnish with a cherry.",
@@ -14288,12 +14288,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Peachtree schnapps",
-                    "4 shots "
+                    "PEACHTREE SCHNAPPS",
+                    "4 SHOTS "
                 ],
                 [
-                    "Surge",
-                    "4 shots "
+                    "SURGE",
+                    "4 SHOTS "
                 ]
             ],
             "instructions": "Get a shot glass and pour in three shots of the schnapps. Do the same with the Surge Cola. Then down it like Scheetz would.",
@@ -14306,16 +14306,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Chambord raspberry liqueur",
-                    "1 shot "
+                    "CHAMBORD RASPBERRY LIQUEUR",
+                    "1 SHOT "
                 ],
                 [
-                    "Vodka",
-                    "1 shot "
+                    "VODKA",
+                    "1 SHOT "
                 ],
                 [
-                    "Soda water",
-                    "Fill with "
+                    "SODA WATER",
+                    "FILL WITH "
                 ]
             ],
             "instructions": "Fill glass with rocks, add straw before putting in liquor. Then add the ingredients in order, trying to keep layered as much as possible (i.e. Chambord on bottom, then Vodka, Then soda on top).",
@@ -14328,16 +14328,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Amaretto",
-                    "2 oz "
+                    "AMARETTO",
+                    "2 OZ "
                 ],
                 [
-                    "Rum",
-                    "2 oz "
+                    "RUM",
+                    "2 OZ "
                 ],
                 [
-                    "Kool-Aid",
-                    "4 oz Grape "
+                    "KOOL-AID",
+                    "4 OZ GRAPE "
                 ]
             ],
             "instructions": "Mix Kool-Aid to taste then add Rum and ammaretto. shake well to disolve the sugar in the Kool-Aid... serve cold",
@@ -14350,20 +14350,20 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Cointreau",
-                    "5 cl "
+                    "COINTREAU",
+                    "5 CL "
                 ],
                 [
-                    "Lemon juice",
-                    "2 cl "
+                    "LEMON JUICE",
+                    "2 CL "
                 ],
                 [
-                    "Ice",
-                    " cubes\n"
+                    "ICE",
+                    " CUBES\n"
                 ],
                 [
-                    "Lemon",
-                    " or lime\n"
+                    "LEMON",
+                    " OR LIME\n"
                 ]
             ],
             "instructions": "Pour 5cl of Cointreau on ice, add 2cl of fresh lemon (or lime) juice, stir gently, and finally add slices of lemon/lime in glass.",
@@ -14376,8 +14376,8 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Beer",
-                    " slice\n"
+                    "BEER",
+                    " SLICE\n"
                 ]
             ],
             "instructions": "No specific mixinginstructions, just poor every ingredient in one glass. The lemon goes with it.",
@@ -14390,12 +14390,12 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Vodka",
-                    "1 1/4 oz Stoli "
+                    "VODKA",
+                    "1 1/4 OZ STOLI "
                 ],
                 [
-                    "Ouzo",
-                    "1/4 oz "
+                    "OUZO",
+                    "1/4 OZ "
                 ]
             ],
             "instructions": "Prepare like a Martini. Garnish with a green olive.",
@@ -14408,16 +14408,16 @@ const cocktailData = {
             "alcoholic": "ALCOHOLIC",
             "ingredients": [
                 [
-                    "Sambuca",
-                    "2 cl "
+                    "SAMBUCA",
+                    "2 CL "
                 ],
                 [
-                    "Bailey's irish cream",
-                    "2 cl "
+                    "BAILEY'S IRISH CREAM",
+                    "2 CL "
                 ],
                 [
-                    "White Creme de Menthe",
-                    "2 cl "
+                    "WHITE CREME DE MENTHE",
+                    "2 CL "
                 ]
             ],
             "instructions": "add all and pour black coffee and add whipped cream on top.",
