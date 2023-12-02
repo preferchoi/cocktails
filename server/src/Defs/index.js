@@ -12,6 +12,9 @@ const Query = gql`
     Ingredients:[Ingredient]
     
     Drink(DrinkName: String!): Drink
+    Category(CategoryName: String!):Category
+    Glass(GlassName: String!):Glass
+    Ingredient(IngredientName: String!):Ingredient
   }
 `
 const typeDefs = [

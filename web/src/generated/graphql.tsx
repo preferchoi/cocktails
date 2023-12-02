@@ -20,7 +20,6 @@ export type Scalars = {
 
 export type Category = {
   __typename?: 'Category';
-  drinks?: Maybe<Array<Maybe<Drink>>>;
   name?: Maybe<Scalars['String']['output']>;
 };
 
@@ -37,13 +36,11 @@ export type Drink = {
 
 export type Glass = {
   __typename?: 'Glass';
-  drinks?: Maybe<Array<Maybe<Drink>>>;
   name?: Maybe<Scalars['String']['output']>;
 };
 
 export type Ingredient = {
   __typename?: 'Ingredient';
-  drinks?: Maybe<Array<Maybe<Drink>>>;
   name?: Maybe<Scalars['String']['output']>;
 };
 
@@ -70,6 +67,13 @@ export type QueryDrinkArgs = {
 };
 
 
+export type QueryDrinksArgs = {
+  CategoryName?: InputMaybe<Scalars['String']['input']>;
+  GlassName?: InputMaybe<Scalars['String']['input']>;
+  IngredientName?: InputMaybe<Scalars['String']['input']>;
+};
+
+
 export type QueryGlassArgs = {
   GlassName: Scalars['String']['input'];
 };
@@ -89,7 +93,7 @@ export type CategoryQueryVariables = Exact<{
 }>;
 
 
-export type CategoryQuery = { __typename?: 'Query', Category?: { __typename?: 'Category', name?: string | null, drinks?: Array<{ __typename?: 'Drink', name?: string | null, img_path?: string | null, alcoholic?: string | null, ingredients?: Array<Array<string | null> | null> | null, instructions?: string | null, category?: string | null, glass?: string | null } | null> | null } | null };
+export type CategoryQuery = { __typename?: 'Query', Category?: { __typename?: 'Category', name?: string | null } | null };
 
 export type DrinkQueryVariables = Exact<{
   drinkName: Scalars['String']['input'];
@@ -98,7 +102,11 @@ export type DrinkQueryVariables = Exact<{
 
 export type DrinkQuery = { __typename?: 'Query', Drink?: { __typename?: 'Drink', name?: string | null, img_path?: string | null, alcoholic?: string | null, ingredients?: Array<Array<string | null> | null> | null, instructions?: string | null, category?: string | null, glass?: string | null } | null };
 
-export type DrinksQueryVariables = Exact<{ [key: string]: never; }>;
+export type DrinksQueryVariables = Exact<{
+  categoryName?: InputMaybe<Scalars['String']['input']>;
+  glassName?: InputMaybe<Scalars['String']['input']>;
+  ingredientName?: InputMaybe<Scalars['String']['input']>;
+}>;
 
 
 export type DrinksQuery = { __typename?: 'Query', Drinks?: Array<{ __typename?: 'Drink', name?: string | null, img_path?: string | null, alcoholic?: string | null, ingredients?: Array<Array<string | null> | null> | null, instructions?: string | null, category?: string | null, glass?: string | null } | null> | null };
@@ -108,7 +116,7 @@ export type GlassQueryVariables = Exact<{
 }>;
 
 
-export type GlassQuery = { __typename?: 'Query', Glass?: { __typename?: 'Glass', name?: string | null, drinks?: Array<{ __typename?: 'Drink', name?: string | null, img_path?: string | null, alcoholic?: string | null, ingredients?: Array<Array<string | null> | null> | null, instructions?: string | null, category?: string | null, glass?: string | null } | null> | null } | null };
+export type GlassQuery = { __typename?: 'Query', Glass?: { __typename?: 'Glass', name?: string | null } | null };
 
 export type GlassesQueryVariables = Exact<{ [key: string]: never; }>;
 
@@ -120,7 +128,7 @@ export type IngredientQueryVariables = Exact<{
 }>;
 
 
-export type IngredientQuery = { __typename?: 'Query', Ingredient?: { __typename?: 'Ingredient', name?: string | null, drinks?: Array<{ __typename?: 'Drink', name?: string | null, img_path?: string | null, alcoholic?: string | null, ingredients?: Array<Array<string | null> | null> | null, instructions?: string | null, category?: string | null, glass?: string | null } | null> | null } | null };
+export type IngredientQuery = { __typename?: 'Query', Ingredient?: { __typename?: 'Ingredient', name?: string | null } | null };
 
 export type IngredientsQueryVariables = Exact<{ [key: string]: never; }>;
 
@@ -171,15 +179,6 @@ export const CategoryDocument = gql`
     query Category($categoryName: String!) {
   Category(CategoryName: $categoryName) {
     name
-    drinks {
-      name
-      img_path
-      alcoholic
-      ingredients
-      instructions
-      category
-      glass
-    }
   }
 }
     `;
@@ -263,8 +262,12 @@ export type DrinkLazyQueryHookResult = ReturnType<typeof useDrinkLazyQuery>;
 export type DrinkSuspenseQueryHookResult = ReturnType<typeof useDrinkSuspenseQuery>;
 export type DrinkQueryResult = Apollo.QueryResult<DrinkQuery, DrinkQueryVariables>;
 export const DrinksDocument = gql`
-    query Drinks {
-  Drinks {
+    query Drinks($categoryName: String, $glassName: String, $ingredientName: String) {
+  Drinks(
+    CategoryName: $categoryName
+    GlassName: $glassName
+    IngredientName: $ingredientName
+  ) {
     name
     img_path
     alcoholic
@@ -288,6 +291,9 @@ export const DrinksDocument = gql`
  * @example
  * const { data, loading, error } = useDrinksQuery({
  *   variables: {
+ *      categoryName: // value for 'categoryName'
+ *      glassName: // value for 'glassName'
+ *      ingredientName: // value for 'ingredientName'
  *   },
  * });
  */
@@ -311,15 +317,6 @@ export const GlassDocument = gql`
     query Glass($glassName: String!) {
   Glass(GlassName: $glassName) {
     name
-    drinks {
-      name
-      img_path
-      alcoholic
-      ingredients
-      instructions
-      category
-      glass
-    }
   }
 }
     `;
@@ -399,15 +396,6 @@ export const IngredientDocument = gql`
     query Ingredient($ingredientName: String!) {
   Ingredient(IngredientName: $ingredientName) {
     name
-    drinks {
-      name
-      img_path
-      alcoholic
-      ingredients
-      instructions
-      category
-      glass
-    }
   }
 }
     `;

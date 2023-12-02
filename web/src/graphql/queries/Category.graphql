@@ -1,14 +1,5 @@
 query Category($categoryName: String!) {
   Category(CategoryName: $categoryName) {
     name
-    drinks {
-      name
-      img_path
-      alcoholic
-      ingredients
-      instructions
-      category
-      glass
-    }
   }
 }

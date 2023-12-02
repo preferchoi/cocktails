@@ -1,14 +1,5 @@
 query Glass($glassName: String!) {
   Glass(GlassName: $glassName) {
     name
-    drinks {
-      name
-      img_path
-      alcoholic
-      ingredients
-      instructions
-      category
-      glass
-    }
   }
 }
