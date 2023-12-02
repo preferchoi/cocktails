@@ -16,7 +16,7 @@ export default function CategoryList() {
         data &&
         data.Categories.map((category, index) => (
           <Button colorScheme="teal">
-          <ListCelll key={index} name={category.name} />
+          <ListCelll key={index} type={"category"} name={category.name} />
           </Button>
         ))}
     </SimpleGrid>

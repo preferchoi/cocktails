@@ -1,9 +1,25 @@
 import { Box, SimpleGrid, Skeleton } from '@chakra-ui/react';
+import { useLocation } from 'react-router-dom';
 import { useDrinksQuery } from '../../generated/graphql.tsx';
 import DrinkCard from './DrinkCard.jsx';
 
 export default function DrinkList() {
-  const { data, loading, error } = useDrinksQuery();
+  const location = useLocation();
+  const searchParams = new URLSearchParams(location.search);
+  let variables = null;
+  if (searchParams.get('categoryName')) {
+    variables = {
+      variables: { categoryName: searchParams.get('categoryName') },
+    };
+  } else if (searchParams.get('glassName')) {
+    variables = { variables: { glassName: searchParams.get('glassName') } };
+  } else if (searchParams.get('ingredientName')) {
+    variables = {
+      variables: { ingredientName: searchParams.get('ingredientName') },
+    };
+  }
+
+  const { data, loading, error } = useDrinksQuery(variables);
 
   if (error) {
     return <p>{error.data}</p>;

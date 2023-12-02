@@ -16,7 +16,7 @@ export default function IngredientList() {
         data &&
         data.Ingredients.map((ingredient, index) => (
           <Button colorScheme="teal">
-            <ListCelll key={index} name={ingredient.name} />
+            <ListCelll key={index} type={"ingredient"} name={ingredient.name} />
           </Button>
         ))}
     </SimpleGrid>

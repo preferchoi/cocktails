@@ -16,7 +16,7 @@ export default function GlassList() {
         data &&
         data.Glasses.map((glass, index) => (
           <Button colorScheme="teal">
-            <ListCelll key={index} name={glass.name} />
+            <ListCelll key={index} type={"glass"} name={glass.name} />
           </Button>
         ))}
     </SimpleGrid>
