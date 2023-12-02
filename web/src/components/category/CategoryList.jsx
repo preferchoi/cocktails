@@ -1,3 +1,15 @@
+import { useCategoriesQuery } from "../../generated/graphql.tsx";
 export default function CategoryList() {
-  return <>CategoryList</>;
+  const { data, loading, error } = useCategoriesQuery()
+
+  if (error) {
+    return <>{error.data}</>
+  }
+
+  return (
+    <>
+    {loading && <>loading...</>}
+    {!loading && data && <></>}
+    </>
+  );
 }
