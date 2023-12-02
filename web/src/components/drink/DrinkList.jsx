@@ -6,17 +6,16 @@ import DrinkCard from './DrinkCard.jsx';
 export default function DrinkList() {
   const location = useLocation();
   const searchParams = new URLSearchParams(location.search);
-  let variables = null;
+  let variables = { variables: {} };
   if (searchParams.get('categoryName')) {
-    variables = {
-      variables: { categoryName: searchParams.get('categoryName') },
-    };
-  } else if (searchParams.get('glassName')) {
-    variables = { variables: { glassName: searchParams.get('glassName') } };
-  } else if (searchParams.get('ingredientName')) {
-    variables = {
-      variables: { ingredientName: searchParams.get('ingredientName') },
-    };
+    variables['variables']['categoryName'] = searchParams.get('categoryName');
+  }
+  if (searchParams.get('glassName')) {
+    variables['variables']['glassName'] = searchParams.get('glassName');
+  }
+  if (searchParams.get('ingredientName')) {
+    variables['variables']['ingredientName'] =
+      searchParams.get('ingredientName');
   }
 
   const { data, loading, error } = useDrinksQuery(variables);

@@ -3,15 +3,18 @@ import cocktailData from "../data/cocktailData.js";
 const DrinkResolver = {
   Query: {
     Drinks: (_, { CategoryName, GlassName, IngredientName }) => {
+      console.log(CategoryName, GlassName, IngredientName);
+      let drinks = cocktailData.drinks
       if (CategoryName) {
-        return cocktailData.drinks.filter(drink => drink.category == CategoryName)
-      } else if (GlassName) {
-        return cocktailData.drinks.filter(drink => drink.glass == GlassName)
-      } else if (IngredientName) {
-        return cocktailData.drinks.filter(drink => drink.ingredients.some(ingredient => ingredient[0] == IngredientName))
-      } else {
-        return cocktailData.drinks
+        drinks = drinks.filter(drink => drink.category == CategoryName)
       }
+      if (GlassName) {
+        drinks = drinks.filter(drink => drink.glass == GlassName)
+      }
+      if (IngredientName) {
+        drinks = drinks.filter(drink => drink.ingredients.some(ingredient => ingredient[0] == IngredientName))
+      }
+      return drinks
     },
     Drink: (_, { DrinkName }) => cocktailData.drinks.find(drink => drink.name === DrinkName),
   },
