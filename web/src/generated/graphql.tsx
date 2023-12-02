@@ -20,12 +20,15 @@ export type Scalars = {
 
 export type Category = {
   __typename?: 'Category';
+  drinks?: Maybe<Array<Maybe<Drink>>>;
   name?: Maybe<Scalars['String']['output']>;
 };
 
 export type Drink = {
   __typename?: 'Drink';
   alcoholic?: Maybe<Scalars['String']['output']>;
+  category?: Maybe<Scalars['String']['output']>;
+  glass?: Maybe<Scalars['String']['output']>;
   img_path?: Maybe<Scalars['String']['output']>;
   ingredients?: Maybe<Array<Maybe<Array<Maybe<Scalars['String']['output']>>>>>;
   instructions?: Maybe<Scalars['String']['output']>;
@@ -34,11 +37,13 @@ export type Drink = {
 
 export type Glass = {
   __typename?: 'Glass';
+  drinks?: Maybe<Array<Maybe<Drink>>>;
   name?: Maybe<Scalars['String']['output']>;
 };
 
 export type Ingredient = {
   __typename?: 'Ingredient';
+  drinks?: Maybe<Array<Maybe<Drink>>>;
   name?: Maybe<Scalars['String']['output']>;
 };
 
@@ -74,94 +79,55 @@ export type QueryIngredientArgs = {
   IngredientName: Scalars['String']['input'];
 };
 
-export type IngredientsQueryVariables = Exact<{ [key: string]: never; }>;
-
-
-export type IngredientsQuery = { __typename?: 'Query', Ingredients?: Array<{ __typename?: 'Ingredient', name?: string | null } | null> | null };
-
 export type CategoriesQueryVariables = Exact<{ [key: string]: never; }>;
 
 
 export type CategoriesQuery = { __typename?: 'Query', Categories?: Array<{ __typename?: 'Category', name?: string | null } | null> | null };
-
-export type IngredientQueryVariables = Exact<{
-  ingredientName: Scalars['String']['input'];
-}>;
-
-
-export type IngredientQuery = { __typename?: 'Query', Ingredient?: { __typename?: 'Ingredient', name?: string | null } | null };
 
 export type CategoryQueryVariables = Exact<{
   categoryName: Scalars['String']['input'];
 }>;
 
 
-export type CategoryQuery = { __typename?: 'Query', Category?: { __typename?: 'Category', name?: string | null } | null };
+export type CategoryQuery = { __typename?: 'Query', Category?: { __typename?: 'Category', name?: string | null, drinks?: Array<{ __typename?: 'Drink', name?: string | null, img_path?: string | null, alcoholic?: string | null, ingredients?: Array<Array<string | null> | null> | null, instructions?: string | null, category?: string | null, glass?: string | null } | null> | null } | null };
 
 export type DrinkQueryVariables = Exact<{
   drinkName: Scalars['String']['input'];
 }>;
 
 
-export type DrinkQuery = { __typename?: 'Query', Drink?: { __typename?: 'Drink', name?: string | null, img_path?: string | null, alcoholic?: string | null, ingredients?: Array<Array<string | null> | null> | null, instructions?: string | null } | null };
+export type DrinkQuery = { __typename?: 'Query', Drink?: { __typename?: 'Drink', name?: string | null, img_path?: string | null, alcoholic?: string | null, ingredients?: Array<Array<string | null> | null> | null, instructions?: string | null, category?: string | null, glass?: string | null } | null };
 
 export type DrinksQueryVariables = Exact<{ [key: string]: never; }>;
 
 
-export type DrinksQuery = { __typename?: 'Query', Drinks?: Array<{ __typename?: 'Drink', name?: string | null, img_path?: string | null, alcoholic?: string | null, ingredients?: Array<Array<string | null> | null> | null, instructions?: string | null } | null> | null };
+export type DrinksQuery = { __typename?: 'Query', Drinks?: Array<{ __typename?: 'Drink', name?: string | null, img_path?: string | null, alcoholic?: string | null, ingredients?: Array<Array<string | null> | null> | null, instructions?: string | null, category?: string | null, glass?: string | null } | null> | null };
 
 export type GlassQueryVariables = Exact<{
   glassName: Scalars['String']['input'];
 }>;
 
 
-export type GlassQuery = { __typename?: 'Query', Glass?: { __typename?: 'Glass', name?: string | null } | null };
+export type GlassQuery = { __typename?: 'Query', Glass?: { __typename?: 'Glass', name?: string | null, drinks?: Array<{ __typename?: 'Drink', name?: string | null, img_path?: string | null, alcoholic?: string | null, ingredients?: Array<Array<string | null> | null> | null, instructions?: string | null, category?: string | null, glass?: string | null } | null> | null } | null };
 
 export type GlassesQueryVariables = Exact<{ [key: string]: never; }>;
 
 
 export type GlassesQuery = { __typename?: 'Query', Glasses?: Array<{ __typename?: 'Glass', name?: string | null } | null> | null };
 
+export type IngredientQueryVariables = Exact<{
+  ingredientName: Scalars['String']['input'];
+}>;
 
-export const IngredientsDocument = gql`
-    query Ingredients {
-  Ingredients {
-    name
-  }
-}
-    `;
 
-/**
- * __useIngredientsQuery__
- *
- * To run a query within a React component, call `useIngredientsQuery` and pass it any options that fit your needs.
- * When your component renders, `useIngredientsQuery` returns an object from Apollo Client that contains loading, error, and data properties
- * you can use to render your UI.
- *
- * @param baseOptions options that will be passed into the query, supported options are listed on: https://www.apollographql.com/docs/react/api/react-hooks/#options;
- *
- * @example
- * const { data, loading, error } = useIngredientsQuery({
- *   variables: {
- *   },
- * });
- */
-export function useIngredientsQuery(baseOptions?: Apollo.QueryHookOptions<IngredientsQuery, IngredientsQueryVariables>) {
-        const options = {...defaultOptions, ...baseOptions}
-        return Apollo.useQuery<IngredientsQuery, IngredientsQueryVariables>(IngredientsDocument, options);
-      }
-export function useIngredientsLazyQuery(baseOptions?: Apollo.LazyQueryHookOptions<IngredientsQuery, IngredientsQueryVariables>) {
-          const options = {...defaultOptions, ...baseOptions}
-          return Apollo.useLazyQuery<IngredientsQuery, IngredientsQueryVariables>(IngredientsDocument, options);
-        }
-export function useIngredientsSuspenseQuery(baseOptions?: Apollo.SuspenseQueryHookOptions<IngredientsQuery, IngredientsQueryVariables>) {
-          const options = {...defaultOptions, ...baseOptions}
-          return Apollo.useSuspenseQuery<IngredientsQuery, IngredientsQueryVariables>(IngredientsDocument, options);
-        }
-export type IngredientsQueryHookResult = ReturnType<typeof useIngredientsQuery>;
-export type IngredientsLazyQueryHookResult = ReturnType<typeof useIngredientsLazyQuery>;
-export type IngredientsSuspenseQueryHookResult = ReturnType<typeof useIngredientsSuspenseQuery>;
-export type IngredientsQueryResult = Apollo.QueryResult<IngredientsQuery, IngredientsQueryVariables>;
+export type IngredientQuery = { __typename?: 'Query', Ingredient?: { __typename?: 'Ingredient', name?: string | null, drinks?: Array<{ __typename?: 'Drink', name?: string | null, img_path?: string | null, alcoholic?: string | null, ingredients?: Array<Array<string | null> | null> | null, instructions?: string | null, category?: string | null, glass?: string | null } | null> | null } | null };
+
+export type IngredientsQueryVariables = Exact<{ [key: string]: never; }>;
+
+
+export type IngredientsQuery = { __typename?: 'Query', Ingredients?: Array<{ __typename?: 'Ingredient', name?: string | null } | null> | null };
+
+
 export const CategoriesDocument = gql`
     query Categories {
   Categories {
@@ -201,50 +167,19 @@ export type CategoriesQueryHookResult = ReturnType<typeof useCategoriesQuery>;
 export type CategoriesLazyQueryHookResult = ReturnType<typeof useCategoriesLazyQuery>;
 export type CategoriesSuspenseQueryHookResult = ReturnType<typeof useCategoriesSuspenseQuery>;
 export type CategoriesQueryResult = Apollo.QueryResult<CategoriesQuery, CategoriesQueryVariables>;
-export const IngredientDocument = gql`
-    query Ingredient($ingredientName: String!) {
-  Ingredient(IngredientName: $ingredientName) {
-    name
-  }
-}
-    `;
-
-/**
- * __useIngredientQuery__
- *
- * To run a query within a React component, call `useIngredientQuery` and pass it any options that fit your needs.
- * When your component renders, `useIngredientQuery` returns an object from Apollo Client that contains loading, error, and data properties
- * you can use to render your UI.
- *
- * @param baseOptions options that will be passed into the query, supported options are listed on: https://www.apollographql.com/docs/react/api/react-hooks/#options;
- *
- * @example
- * const { data, loading, error } = useIngredientQuery({
- *   variables: {
- *      ingredientName: // value for 'ingredientName'
- *   },
- * });
- */
-export function useIngredientQuery(baseOptions: Apollo.QueryHookOptions<IngredientQuery, IngredientQueryVariables>) {
-        const options = {...defaultOptions, ...baseOptions}
-        return Apollo.useQuery<IngredientQuery, IngredientQueryVariables>(IngredientDocument, options);
-      }
-export function useIngredientLazyQuery(baseOptions?: Apollo.LazyQueryHookOptions<IngredientQuery, IngredientQueryVariables>) {
-          const options = {...defaultOptions, ...baseOptions}
-          return Apollo.useLazyQuery<IngredientQuery, IngredientQueryVariables>(IngredientDocument, options);
-        }
-export function useIngredientSuspenseQuery(baseOptions?: Apollo.SuspenseQueryHookOptions<IngredientQuery, IngredientQueryVariables>) {
-          const options = {...defaultOptions, ...baseOptions}
-          return Apollo.useSuspenseQuery<IngredientQuery, IngredientQueryVariables>(IngredientDocument, options);
-        }
-export type IngredientQueryHookResult = ReturnType<typeof useIngredientQuery>;
-export type IngredientLazyQueryHookResult = ReturnType<typeof useIngredientLazyQuery>;
-export type IngredientSuspenseQueryHookResult = ReturnType<typeof useIngredientSuspenseQuery>;
-export type IngredientQueryResult = Apollo.QueryResult<IngredientQuery, IngredientQueryVariables>;
 export const CategoryDocument = gql`
     query Category($categoryName: String!) {
   Category(CategoryName: $categoryName) {
     name
+    drinks {
+      name
+      img_path
+      alcoholic
+      ingredients
+      instructions
+      category
+      glass
+    }
   }
 }
     `;
@@ -289,6 +224,8 @@ export const DrinkDocument = gql`
     alcoholic
     ingredients
     instructions
+    category
+    glass
   }
 }
     `;
@@ -333,6 +270,8 @@ export const DrinksDocument = gql`
     alcoholic
     ingredients
     instructions
+    category
+    glass
   }
 }
     `;
@@ -372,6 +311,15 @@ export const GlassDocument = gql`
     query Glass($glassName: String!) {
   Glass(GlassName: $glassName) {
     name
+    drinks {
+      name
+      img_path
+      alcoholic
+      ingredients
+      instructions
+      category
+      glass
+    }
   }
 }
     `;
@@ -447,3 +395,91 @@ export type GlassesQueryHookResult = ReturnType<typeof useGlassesQuery>;
 export type GlassesLazyQueryHookResult = ReturnType<typeof useGlassesLazyQuery>;
 export type GlassesSuspenseQueryHookResult = ReturnType<typeof useGlassesSuspenseQuery>;
 export type GlassesQueryResult = Apollo.QueryResult<GlassesQuery, GlassesQueryVariables>;
+export const IngredientDocument = gql`
+    query Ingredient($ingredientName: String!) {
+  Ingredient(IngredientName: $ingredientName) {
+    name
+    drinks {
+      name
+      img_path
+      alcoholic
+      ingredients
+      instructions
+      category
+      glass
+    }
+  }
+}
+    `;
+
+/**
+ * __useIngredientQuery__
+ *
+ * To run a query within a React component, call `useIngredientQuery` and pass it any options that fit your needs.
+ * When your component renders, `useIngredientQuery` returns an object from Apollo Client that contains loading, error, and data properties
+ * you can use to render your UI.
+ *
+ * @param baseOptions options that will be passed into the query, supported options are listed on: https://www.apollographql.com/docs/react/api/react-hooks/#options;
+ *
+ * @example
+ * const { data, loading, error } = useIngredientQuery({
+ *   variables: {
+ *      ingredientName: // value for 'ingredientName'
+ *   },
+ * });
+ */
+export function useIngredientQuery(baseOptions: Apollo.QueryHookOptions<IngredientQuery, IngredientQueryVariables>) {
+        const options = {...defaultOptions, ...baseOptions}
+        return Apollo.useQuery<IngredientQuery, IngredientQueryVariables>(IngredientDocument, options);
+      }
+export function useIngredientLazyQuery(baseOptions?: Apollo.LazyQueryHookOptions<IngredientQuery, IngredientQueryVariables>) {
+          const options = {...defaultOptions, ...baseOptions}
+          return Apollo.useLazyQuery<IngredientQuery, IngredientQueryVariables>(IngredientDocument, options);
+        }
+export function useIngredientSuspenseQuery(baseOptions?: Apollo.SuspenseQueryHookOptions<IngredientQuery, IngredientQueryVariables>) {
+          const options = {...defaultOptions, ...baseOptions}
+          return Apollo.useSuspenseQuery<IngredientQuery, IngredientQueryVariables>(IngredientDocument, options);
+        }
+export type IngredientQueryHookResult = ReturnType<typeof useIngredientQuery>;
+export type IngredientLazyQueryHookResult = ReturnType<typeof useIngredientLazyQuery>;
+export type IngredientSuspenseQueryHookResult = ReturnType<typeof useIngredientSuspenseQuery>;
+export type IngredientQueryResult = Apollo.QueryResult<IngredientQuery, IngredientQueryVariables>;
+export const IngredientsDocument = gql`
+    query Ingredients {
+  Ingredients {
+    name
+  }
+}
+    `;
+
+/**
+ * __useIngredientsQuery__
+ *
+ * To run a query within a React component, call `useIngredientsQuery` and pass it any options that fit your needs.
+ * When your component renders, `useIngredientsQuery` returns an object from Apollo Client that contains loading, error, and data properties
+ * you can use to render your UI.
+ *
+ * @param baseOptions options that will be passed into the query, supported options are listed on: https://www.apollographql.com/docs/react/api/react-hooks/#options;
+ *
+ * @example
+ * const { data, loading, error } = useIngredientsQuery({
+ *   variables: {
+ *   },
+ * });
+ */
+export function useIngredientsQuery(baseOptions?: Apollo.QueryHookOptions<IngredientsQuery, IngredientsQueryVariables>) {
+        const options = {...defaultOptions, ...baseOptions}
+        return Apollo.useQuery<IngredientsQuery, IngredientsQueryVariables>(IngredientsDocument, options);
+      }
+export function useIngredientsLazyQuery(baseOptions?: Apollo.LazyQueryHookOptions<IngredientsQuery, IngredientsQueryVariables>) {
+          const options = {...defaultOptions, ...baseOptions}
+          return Apollo.useLazyQuery<IngredientsQuery, IngredientsQueryVariables>(IngredientsDocument, options);
+        }
+export function useIngredientsSuspenseQuery(baseOptions?: Apollo.SuspenseQueryHookOptions<IngredientsQuery, IngredientsQueryVariables>) {
+          const options = {...defaultOptions, ...baseOptions}
+          return Apollo.useSuspenseQuery<IngredientsQuery, IngredientsQueryVariables>(IngredientsDocument, options);
+        }
+export type IngredientsQueryHookResult = ReturnType<typeof useIngredientsQuery>;
+export type IngredientsLazyQueryHookResult = ReturnType<typeof useIngredientsLazyQuery>;
+export type IngredientsSuspenseQueryHookResult = ReturnType<typeof useIngredientsSuspenseQuery>;
+export type IngredientsQueryResult = Apollo.QueryResult<IngredientsQuery, IngredientsQueryVariables>;
