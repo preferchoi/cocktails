@@ -6,7 +6,7 @@ import Ingredient from "./Ingredient.js";
 
 const Query = gql`
   type Query {
-    Drinks(CategoryName: String, GlassName: String, IngredientName:String):[Drink]
+    Drinks(CategoryName: String, GlassName: String, IngredientName:String, limit: Int, cursor: Int):DrinksResponse
     Categories:[Category]
     Glasses:[Glass]
     Ingredients:[Ingredient]
@@ -15,6 +15,11 @@ const Query = gql`
     Category(CategoryName: String!):Category
     Glass(GlassName: String!):Glass
     Ingredient(IngredientName: String!):Ingredient
+  }
+
+  type DrinksResponse {
+    cursor:Int
+    Drinks:[Drink]
   }
 `
 const typeDefs = [

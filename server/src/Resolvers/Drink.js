@@ -2,8 +2,13 @@ import cocktailData from "../data/cocktailData.js";
 
 const DrinkResolver = {
   Query: {
-    Drinks: (_, { CategoryName, GlassName, IngredientName }) => {
+    Drinks: (_, { CategoryName, GlassName, IngredientName, limit = 6, cursor}) => {
       let drinks = cocktailData.drinks
+
+      if (cursor == null) {
+        return { cursor, drinks: [] }
+      }
+
       if (CategoryName) {
         drinks = drinks.filter(drink => drink.category == CategoryName)
       }
@@ -13,7 +18,13 @@ const DrinkResolver = {
       if (IngredientName) {
         drinks = drinks.filter(drink => drink.ingredients.some(ingredient => ingredient[0] == IngredientName))
       }
-      return drinks
+
+      const startIndex = cursor * limit;
+      const nextCursor = (startIndex + limit) < drinks.length ? cursor + 1 : null
+      const paginatedDrinks = drinks.slice(startIndex, startIndex + limit);
+      
+      return { cursor: nextCursor, Drinks: paginatedDrinks }
+
     },
     Drink: (_, { DrinkName }) => cocktailData.drinks.find(drink => drink.name === DrinkName),
   },
