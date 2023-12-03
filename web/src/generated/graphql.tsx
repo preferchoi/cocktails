@@ -50,6 +50,12 @@ export type Ingredient = {
   name?: Maybe<Scalars['String']['output']>;
 };
 
+export type IngredientResponse = {
+  __typename?: 'IngredientResponse';
+  Drinks?: Maybe<Array<Maybe<Drink>>>;
+  Ingredient?: Maybe<Ingredient>;
+};
+
 export type Query = {
   __typename?: 'Query';
   Categories?: Maybe<Array<Maybe<Category>>>;
@@ -58,7 +64,7 @@ export type Query = {
   Drinks?: Maybe<DrinksResponse>;
   Glass?: Maybe<Glass>;
   Glasses?: Maybe<Array<Maybe<Glass>>>;
-  Ingredient?: Maybe<Ingredient>;
+  Ingredient?: Maybe<IngredientResponse>;
   Ingredients?: Maybe<Array<Maybe<Ingredient>>>;
 };
 
@@ -138,7 +144,7 @@ export type IngredientQueryVariables = Exact<{
 }>;
 
 
-export type IngredientQuery = { __typename?: 'Query', Ingredient?: { __typename?: 'Ingredient', name?: string | null } | null };
+export type IngredientQuery = { __typename?: 'Query', Ingredient?: { __typename?: 'IngredientResponse', Ingredient?: { __typename?: 'Ingredient', name?: string | null } | null, Drinks?: Array<{ __typename?: 'Drink', name?: string | null, img_path?: string | null, alcoholic?: string | null, ingredients?: Array<Array<string | null> | null> | null, instructions?: string | null, category?: string | null, glass?: string | null } | null> | null } | null };
 
 export type IngredientsQueryVariables = Exact<{ [key: string]: never; }>;
 
@@ -412,7 +418,18 @@ export type GlassesQueryResult = Apollo.QueryResult<GlassesQuery, GlassesQueryVa
 export const IngredientDocument = gql`
     query Ingredient($ingredientName: String!) {
   Ingredient(IngredientName: $ingredientName) {
-    name
+    Ingredient {
+      name
+    }
+    Drinks {
+      name
+      img_path
+      alcoholic
+      ingredients
+      instructions
+      category
+      glass
+    }
   }
 }
     `;

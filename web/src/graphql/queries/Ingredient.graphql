@@ -1,5 +1,16 @@
 query Ingredient($ingredientName: String!) {
   Ingredient(IngredientName: $ingredientName) {
-    name
+    Ingredient {
+      name
+    }
+    Drinks {
+      name
+      img_path
+      alcoholic
+      ingredients
+      instructions
+      category
+      glass
+    }
   }
 }
