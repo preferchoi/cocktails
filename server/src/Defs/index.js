@@ -14,11 +14,16 @@ const Query = gql`
     Drink(DrinkName: String!): Drink
     Category(CategoryName: String!):Category
     Glass(GlassName: String!):Glass
-    Ingredient(IngredientName: String!):Ingredient
+    Ingredient(IngredientName: String!):IngredientResponse
   }
 
   type DrinksResponse {
     cursor:Int
+    Drinks:[Drink]
+  }
+
+  type IngredientResponse {
+    Ingredient: Ingredient
     Drinks:[Drink]
   }
 `
