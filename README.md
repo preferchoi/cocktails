@@ -7,11 +7,35 @@
 1. 칵테일 리스트 데이터를 확인할 수 있어야 한다.
 2. 칵테일 상세 데이터를 확인할 수 있어야 한다.
 3. graphQL을 활용해서 서버를 구현해야 한다.
+4. 카테고리, 잔, 재료와 같은 데이터를 이용해 칵테일 리스트를 필터링 할 수 있어야 한다.
+<hr/>
+
+### 추가
+
+5.  재료 상세 페이지에서 해당 재료를 통해 만들 수 있는 칵테일 목록을 확인할 수 있어야 한다.
+6.  회원 기능을 사용할 수 있어야 한다.
+7.  마이페이지에서 보유하고 있는 재료 목록을 확인할 수 있어야 한다.
+8.  마이페이지에서 가지고 있는 재료들로 만들 수 있는 칵테일 목록을 확인할 수 있어야 한다.
+
+## 프로젝트 실행
 
 ```
-$ npm init -y -p
-$ npm install eslint prettier eslint-config-airbnb eslint-config-prettier eslint-plugin-prettier eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-react-hooks
+// ./server 경로에서
+npm install
+npm start
+
+// ./web 경로에서
+npm install
+npm start
 ```
+
+## 프로젝트 소개
+
+**graphQL** 기술을 활용하여 만든 **express.js** 서버와, **react.js** 클라이언트로 이루어진 칵테일 웹 입니다.
+
+이 프로젝트에서는 캐글의 [cocktail-ingredients](https://www.kaggle.com/datasets/ai-first/cocktail-ingredients) 데이터셋을 활용했습니다.
+
+## 제작 과정 중에서 발생한 생각들
 
 ### [데이터 설계 추가](https://github.com/preferchoi/cocktails/commit/af7eeb7f0b66e53713700c896ee75273444914c0)
 
@@ -73,3 +97,7 @@ Drinks: (_, { CategoryName, GlassName, IngredientName }) => {
 3. 개발 도중, 네트워크 로그 상으로 데이터가 잘 불러와지지만 표기가 안 되는 일이 있었다. 문서를 확인해 보니, 원인은 [apollo-cache](https://github.com/preferchoi/cocktails/commit/39337272af615dd210aa1ce4395357c84a6ebc2a)의 병합 처리 조건을 지정하지 않아서였는다. 새롭게 온 데이터를 기존 캐시 데이터에 병합해 하나의 캐시로 사용할 수 있는 처리를 진행하였다.
 
 4. keyArgs를 false로 설정했기 때문에 다른 파라미터여도 캐시 키가 동일하게 처리되었다. keyArgs 속성에 "CategoryName", "GlassName", "IngredientName"을 추가하여 각각 [다른 캐시 키를 사용하게끔 설정](https://github.com/preferchoi/cocktails/commit/ed9579ba96c9354079b8f050a57e397be54cb3cf)했다.
+
+### [~~오버 페칭 문제~~ 진행중]()
+
+현 상태에서는 목록을 불러올 때, drink의 모든 데이터를 불러오고 있다. 이는 graphQL의 강점인 오버페칭/언더페칭을 해결할 수 있다는 점을 활용하지 못하고 있는 것이다. 현재는 개발 과정 중이기 때문에, 어떤 데이터가 필요할지, 필요하지 않을 지 모르기에 이렇게 진행하고 있는데, 추후에 클라이언트 단에서 query를 수정해 이를 변경해야 할 것이다.
