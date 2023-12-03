@@ -6,7 +6,7 @@ export const createApolloCache = () => {
       Query: {
         fields: {
           Drinks: {
-            keyArgs: false,
+            keyArgs: ["CategoryName", "GlassName", "IngredientName"],
             merge: (
               existing,
               incoming,
