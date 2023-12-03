@@ -2,18 +2,25 @@ query Drinks(
   $categoryName: String
   $glassName: String
   $ingredientName: String
+  $limit: Int
+  $cursor: Int
 ) {
   Drinks(
     CategoryName: $categoryName
     GlassName: $glassName
     IngredientName: $ingredientName
+    limit: $limit
+    cursor: $cursor
   ) {
-    name
-    img_path
-    alcoholic
-    ingredients
-    instructions
-    category
-    glass
+    cursor
+    Drinks {
+      name
+      img_path
+      alcoholic
+      ingredients
+      instructions
+      category
+      glass
+    }
   }
 }
