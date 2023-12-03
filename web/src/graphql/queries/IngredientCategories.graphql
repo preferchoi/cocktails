@@ -1,0 +1,5 @@
+query IngredientCategories {
+  IngredientCategories {
+    name
+  }
+}

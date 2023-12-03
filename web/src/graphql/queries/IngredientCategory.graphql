@@ -1,0 +1,11 @@
+query IngredientCategory($ingredientCategoryName: String!) {
+  IngredientCategory(IngredientCategoryName: $ingredientCategoryName) {
+    IngredientCategory {
+      name
+    }
+    Ingredients {
+      name
+      category
+    }
+  }
+}

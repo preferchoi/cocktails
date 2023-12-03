@@ -2,6 +2,7 @@ query Ingredient($ingredientName: String!) {
   Ingredient(IngredientName: $ingredientName) {
     Ingredient {
       name
+      category
     }
     Drinks {
       name

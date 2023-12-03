@@ -2,6 +2,7 @@ import DrinkResolver from "./Drink.js";
 import GlassResolver from "./Glass.js";
 import CategoryResolver from "./Category.js";
 import IngredientResolver from "./Ingredient.js";
+import IngredientCategoryResolver from "./IngredientCategory.js";
 
 
 const resolvers = {
@@ -9,7 +10,8 @@ const resolvers = {
     ...DrinkResolver.Query,
     ...GlassResolver.Query,
     ...CategoryResolver.Query,
-    ...IngredientResolver.Query
+    ...IngredientResolver.Query,
+    ...IngredientCategoryResolver.Query
   }
 }
 
