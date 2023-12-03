@@ -69,12 +69,13 @@ export default function NavBar() {
           >
             Glass
           </Button>
+          
           <Button
             fontSize={'sm'}
             fontWeight={400}
             variant={'link'}
             as={RouterLink}
-            to={'/Ingredient'}
+            to={'/IngredientCategory'}
           >
             Ingredient
           </Button>

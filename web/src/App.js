@@ -8,6 +8,7 @@ import Test from './pages/Test.jsx'
 import Drink from './pages/Drink.jsx';
 import Category from './pages/Category.jsx';
 import Glass from './pages/Glass.jsx';
+import IngredientCategory from "./pages/IngredientCategory.jsx";
 import Ingredient from './pages/Ingredient.jsx';
 import DrinkName from "./pages/DrinkName.jsx";
 import IngredientName from './pages/IngredientName.jsx';
@@ -25,6 +26,7 @@ function App() {
             <Route path='/Drink' Component={Drink} />
             <Route path='/Category' Component={Category} />
             <Route path='/Glass' Component={Glass} />
+            <Route path='/IngredientCategory' Component={IngredientCategory} />
             <Route path='/Ingredient' Component={Ingredient} />
             <Route path='/Drink/:drinkName' Component={DrinkName} />
             <Route path='/Ingredient/:ingredientName' Component={IngredientName} />
