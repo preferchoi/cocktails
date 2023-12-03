@@ -10,6 +10,7 @@ import Category from './pages/Category.jsx';
 import Glass from './pages/Glass.jsx';
 import Ingredient from './pages/Ingredient.jsx';
 import DrinkName from "./pages/DrinkName.jsx";
+import IngredientName from './pages/IngredientName.jsx';
 
 const apolloClient = createApolloClient();
 
@@ -26,6 +27,7 @@ function App() {
             <Route path='/Glass' Component={Glass} />
             <Route path='/Ingredient' Component={Ingredient} />
             <Route path='/Drink/:drinkName' Component={DrinkName} />
+            <Route path='/Ingredient/:ingredientName' Component={IngredientName} />
           </Routes>
         </BrowserRouter>
       </ChakraProvider>

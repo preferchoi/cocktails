@@ -50,7 +50,7 @@ export default function DrinkCard({ Drink }) {
           {Drink.ingredients === null && <Text>재료 목록을 준비중이에요</Text>}
           {Drink.ingredients &&
             Drink.ingredients.map((ingredient, index) => (
-              <ChakraLink as={Link} to={`/drink/${ingredient[0]}`}>
+              <ChakraLink as={Link} to={`/ingredient/${ingredient[0]}`}>
                 <Text key={index} isTruncated>
                   {ingredient[0]}
                 </Text>
