@@ -120,931 +120,346 @@ const cocktailData = {
             "name": "COPPER MUG"
         }
     ],
+    "ingredient_category": [
+        { 'name': 'cider' },
+        { 'name': 'rum' },
+        { 'name': 'mixer' },
+        { 'name': 'cordial' },
+        { 'name': 'syrup' },
+        { 'name': 'tequila' },
+        { 'name': 'dessert' },
+        { 'name': 'other' },
+        { 'name': 'gin' },
+        { 'name': 'liqueur' },
+        { 'name': 'beverage' },
+        { 'name': 'whisky' },
+        { 'name': 'bitters' },
+        { 'name': 'squash' },
+        { 'name': 'beer' },
+        { 'name': 'alcoholic beverage' },
+        { 'name': 'vegetable' },
+        { 'name': 'flavoring' },
+        { 'name': 'fruit' },
+        { 'name': 'wine' },
+        { 'name': 'soft drink' },
+        { 'name': 'spirit' },
+        { 'name': 'juice' },
+        { 'name': 'dairy' },
+        { 'name': 'condiment' },
+        { 'name': 'brandy' },
+        { 'name': 'vodka' },
+        { 'name': 'vermouth' },
+        { 'name': 'champagne' }
+    ],
     "ingredients_data": [
-        {
-            "name": "CREME DE CACAO"
-        },
-        {
-            "name": "ABSOLUT KURANT"
-        },
-        {
-            "name": "LAGER"
-        },
-        {
-            "name": "MALIBU RUM"
-        },
-        {
-            "name": "DARK RUM"
-        },
-        {
-            "name": "GOLDSCHLAGER"
-        },
-        {
-            "name": "151 PROOF RUM"
-        },
-        {
-            "name": "JACK DANIELS"
-        },
-        {
-            "name": "GIN"
-        },
-        {
-            "name": "PEACH VODKA"
-        },
-        {
-            "name": "VANILLA VODKA"
-        },
-        {
-            "name": "BLUE CURACAO"
-        },
-        {
-            "name": "KAHLUA"
-        },
-        {
-            "name": "ABSOLUT CITRON"
-        },
-        {
-            "name": "COCONUT RUM"
-        },
-        {
-            "name": "LIGHT RUM"
-        },
-        {
-            "name": "VODKA"
-        },
-        {
-            "name": "AMARETTO"
-        },
-        {
-            "name": "CRANBERRY JUICE"
-        },
-        {
-            "name": "APPLEJACK"
-        },
-        {
-            "name": "WHITE CREME DE MENTHE"
-        },
-        {
-            "name": "ABSOLUT VODKA"
-        },
-        {
-            "name": "RUM"
-        },
-        {
-            "name": "SWEET VERMOUTH"
-        },
-        {
-            "name": "STRAWBERRY SCHNAPPS"
-        },
-        {
-            "name": "SCOTCH"
-        },
-        {
-            "name": "APRICOT BRANDY"
-        },
-        {
-            "name": "PEPPERMINT SCHNAPPS"
-        },
-        {
-            "name": "TRIPLE SEC"
-        },
-        {
-            "name": "GRENADINE"
-        },
-        {
-            "name": "SOUTHERN COMFORT"
-        },
-        {
-            "name": "ORANGE BITTERS"
-        },
-        {
-            "name": "LEMON VODKA"
-        },
-        {
-            "name": "BLENDED WHISKEY"
-        },
-        {
-            "name": "DRY VERMOUTH"
-        },
-        {
-            "name": "WATER"
-        },
-        {
-            "name": "SUGAR"
-        },
-        {
-            "name": "CHOCOLATE ICE-CREAM"
-        },
-        {
-            "name": "SOUR MIX"
-        },
-        {
-            "name": "TEA"
-        },
-        {
-            "name": "CAMPARI"
-        },
-        {
-            "name": "ANGELICA ROOT"
-        },
-        {
-            "name": "ORANGE JUICE"
-        },
-        {
-            "name": "BERRIES"
-        },
-        {
-            "name": "APPLE CIDER"
-        },
-        {
-            "name": "TEQUILA"
-        },
-        {
-            "name": "APPLE JUICE"
-        },
-        {
-            "name": "7-UP"
-        },
-        {
-            "name": "MAUI"
-        },
-        {
-            "name": "CHAMPAGNE"
-        },
-        {
-            "name": "LEMONADE"
-        },
-        {
-            "name": "J\u00c4GERMEISTER"
-        },
-        {
-            "name": "CROWN ROYAL"
-        },
-        {
-            "name": "BAILEY'S IRISH CREAM"
-        },
-        {
-            "name": "CANTALOUPE"
-        },
-        {
-            "name": "MILK"
-        },
-        {
-            "name": "STRAWBERRIES"
-        },
-        {
-            "name": "ICE"
-        },
-        {
-            "name": "BRANDY"
-        },
-        {
-            "name": "EVERCLEAR"
-        },
-        {
-            "name": "IRISH CREAM"
-        },
-        {
-            "name": "ALE"
-        },
-        {
-            "name": "COFFEE LIQUEUR"
-        },
-        {
-            "name": "GUINNESS STOUT"
-        },
-        {
-            "name": "A\u00d1EJO RUM"
-        },
-        {
-            "name": "MIDORI MELON LIQUEUR"
-        },
-        {
-            "name": "VANILLA ICE-CREAM"
-        },
-        {
-            "name": "PINEAPPLE JUICE"
-        },
-        {
-            "name": "BOURBON"
-        },
-        {
-            "name": "SAMBUCA"
-        },
-        {
-            "name": "CORONA"
-        },
-        {
-            "name": "COFFEE"
-        },
-        {
-            "name": "LIME"
-        },
-        {
-            "name": "ORANGE"
-        },
-        {
-            "name": "COCOA POWDER"
-        },
-        {
-            "name": "CHOCOLATE"
-        },
-        {
-            "name": "CHOCOLATE LIQUEUR"
-        },
-        {
-            "name": "BANANA LIQUEUR"
-        },
-        {
-            "name": "BACARDI LIMON"
-        },
-        {
-            "name": "BITTERS"
-        },
-        {
-            "name": "COCA-COLA"
-        },
-        {
-            "name": "COINTREAU"
-        },
-        {
-            "name": "CRANBERRIES"
-        },
-        {
-            "name": "SPICED RUM"
-        },
-        {
-            "name": "WHISKEY"
-        },
-        {
-            "name": "DEMERARA SUGAR"
-        },
-        {
-            "name": "CHERRY HEERING"
-        },
-        {
-            "name": "FRUIT PUNCH"
-        },
-        {
-            "name": "HEAVY CREAM"
-        },
-        {
-            "name": "DUBONNET ROUGE"
-        },
-        {
-            "name": "PISCO"
-        },
-        {
-            "name": "CHOCOLATE SYRUP"
-        },
-        {
-            "name": "EGG YOLK"
-        },
-        {
-            "name": "EGG"
-        },
-        {
-            "name": "FIREWATER"
-        },
-        {
-            "name": "COGNAC"
-        },
-        {
-            "name": "YOGHURT"
-        },
-        {
-            "name": "GALLIANO"
-        },
-        {
-            "name": "LIME JUICE"
-        },
-        {
-            "name": "CACHACA"
-        },
-        {
-            "name": "RED WINE"
-        },
-        {
-            "name": "GRAPES"
-        },
-        {
-            "name": "GREEN CREME DE MENTHE"
-        },
-        {
-            "name": "CIDER"
-        },
-        {
-            "name": "WHISKY"
-        },
-        {
-            "name": "HOT DAMN"
-        },
-        {
-            "name": "GRAPE JUICE"
-        },
-        {
-            "name": "LEMON PEEL"
-        },
-        {
-            "name": "IRISH WHISKEY"
-        },
-        {
-            "name": "APPLE BRANDY"
-        },
-        {
-            "name": "BAILEYS IRISH CREAM"
-        },
-        {
-            "name": "BLACKBERRY BRANDY"
-        },
-        {
-            "name": "GINGER"
-        },
-        {
-            "name": "CREME DE CASSIS"
-        },
-        {
-            "name": "CRANBERRY VODKA"
-        },
-        {
-            "name": "KIWI LIQUEUR"
-        },
-        {
-            "name": "KIWI"
-        },
-        {
-            "name": "KOOL-AID"
-        },
-        {
-            "name": "MANGO"
-        },
-        {
-            "name": "CARBONATED WATER"
-        },
-        {
-            "name": "BEER"
-        },
-        {
-            "name": "ESPRESSO"
-        },
-        {
-            "name": "MINT"
-        },
-        {
-            "name": "ABSINTHE"
-        },
-        {
-            "name": "CHERRY BRANDY"
-        },
-        {
-            "name": "LEMON JUICE"
-        },
-        {
-            "name": "SPRITE"
-        },
-        {
-            "name": "PORT"
-        },
-        {
-            "name": "COFFEE BRANDY"
-        },
-        {
-            "name": "BLACK SAMBUCA"
-        },
-        {
-            "name": "SUGAR SYRUP"
-        },
-        {
-            "name": "RASPBERRY VODKA"
-        },
-        {
-            "name": "FRANGELICO"
-        },
-        {
-            "name": "GRAPEFRUIT JUICE"
-        },
-        {
-            "name": "RICARD"
-        },
-        {
-            "name": "JOHNNIE WALKER"
-        },
-        {
-            "name": "SHERRY"
-        },
-        {
-            "name": "JIM BEAM"
-        },
-        {
-            "name": "SLOE GIN"
-        },
-        {
-            "name": "ADVOCAAT"
-        },
-        {
-            "name": "PEACH NECTAR"
-        },
-        {
-            "name": "PROSECCO"
-        },
-        {
-            "name": "LEMON"
-        },
-        {
-            "name": "OUZO"
-        },
-        {
-            "name": "GODIVA LIQUEUR"
-        },
-        {
-            "name": "GRAND MARNIER"
-        },
-        {
-            "name": "YUKON JACK"
-        },
-        {
-            "name": "TOMATO JUICE"
-        },
-        {
-            "name": "WILD TURKEY"
-        },
-        {
-            "name": "WHITE RUM"
-        },
-        {
-            "name": "VERMOUTH"
-        },
-        {
-            "name": "ZIMA"
-        },
-        {
-            "name": "PEACHTREE SCHNAPPS"
-        },
-        {
-            "name": "CHAMBORD RASPBERRY LIQUEUR"
-        },
-        {
-            "name": "BLUEBERRY SCHNAPPS"
-        },
-        {
-            "name": "ORANGE CURACAO"
-        },
-        {
-            "name": "GINGER BEER"
-        },
-        {
-            "name": "PEACH SCHNAPPS"
-        },
-        {
-            "name": "SODA WATER"
-        },
-        {
-            "name": "KIRSCHWASSER"
-        },
-        {
-            "name": "PISANG AMBON"
-        },
-        {
-            "name": "SWEET AND SOUR"
-        },
-        {
-            "name": "CREME DE BANANE"
-        },
-        {
-            "name": "DARK CREME DE CACAO"
-        },
-        {
-            "name": "LIGHT CREAM"
-        },
-        {
-            "name": "ALMOND"
-        },
-        {
-            "name": "APPLE"
-        },
-        {
-            "name": "BROWN SUGAR"
-        },
-        {
-            "name": "CARROT"
-        },
-        {
-            "name": "APPLE SCHNAPPS"
-        },
-        {
-            "name": "WINE"
-        },
-        {
-            "name": "GRAPE SODA"
-        },
-        {
-            "name": "MOUNTAIN DEW"
-        },
-        {
-            "name": "ICED TEA"
-        },
-        {
-            "name": "RYE WHISKEY"
-        },
-        {
-            "name": "BANANA"
-        },
-        {
-            "name": "COCONUT LIQUEUR"
-        },
-        {
-            "name": "ROOT BEER"
-        },
-        {
-            "name": "TIA MARIA"
-        },
-        {
-            "name": "PASSION FRUIT JUICE"
-        },
-        {
-            "name": "ERIN CREAM"
-        },
-        {
-            "name": "CLUB SODA"
-        },
-        {
-            "name": "TABASCO SAUCE"
-        },
-        {
-            "name": "BUTTERSCOTCH SCHNAPPS"
-        },
-        {
-            "name": "MARASCHINO LIQUEUR"
-        },
-        {
-            "name": "VANILLA EXTRACT"
-        },
-        {
-            "name": "GINGER ALE"
-        },
-        {
-            "name": "PEACH BITTERS"
-        },
-        {
-            "name": "ABSOLUT PEPPAR"
-        },
-        {
-            "name": "SARSAPARILLA"
-        },
-        {
-            "name": "RASPBERRY LIQUEUR"
-        },
-        {
-            "name": "BENEDICTINE"
-        },
-        {
-            "name": "PINEAPPLE"
-        },
-        {
-            "name": "FRUIT JUICE"
-        },
-        {
-            "name": "TONIC WATER"
-        },
-        {
-            "name": "CARBONATED SOFT DRINK"
-        },
-        {
-            "name": "CORN SYRUP"
-        },
-        {
-            "name": "BUTTER"
-        },
-        {
-            "name": "HALF-AND-HALF"
-        },
-        {
-            "name": "PEACH BRANDY"
-        },
-        {
-            "name": "TENNESSEE WHISKEY"
-        },
-        {
-            "name": "JELLO"
-        },
-        {
-            "name": "ANIS"
-        },
-        {
-            "name": "GREEN CHARTREUSE"
-        },
-        {
-            "name": "GRAIN ALCOHOL"
-        },
-        {
-            "name": "APFELKORN"
-        },
-        {
-            "name": "BITTER LEMON"
-        },
-        {
-            "name": "PAPAYA"
-        },
-        {
-            "name": "DRAMBUIE"
-        },
-        {
-            "name": "ORGEAT SYRUP"
-        },
-        {
-            "name": "TROPICANA"
-        },
-        {
-            "name": "HONEY"
-        },
-        {
-            "name": "PINA COLADA MIX"
-        },
-        {
-            "name": "ANGOSTURA BITTERS"
-        },
-        {
-            "name": "COCONUT MILK"
-        },
-        {
-            "name": "PINK LEMONADE"
-        },
-        {
-            "name": "CHERRY LIQUEUR"
-        },
-        {
-            "name": "LIME VODKA"
-        },
-        {
-            "name": "LEMON-LIME SODA"
-        },
-        {
-            "name": "POWDERED SUGAR"
-        },
-        {
-            "name": "ANISETTE"
-        },
-        {
-            "name": "CINNAMON"
-        },
-        {
-            "name": "AQUAVIT"
-        },
-        {
-            "name": "CORIANDER"
-        },
-        {
-            "name": "MAPLE SYRUP"
-        },
-        {
-            "name": "SCHWEPPES RUSSCHIAN"
-        },
-        {
-            "name": "FRUIT"
-        },
-        {
-            "name": "SURGE"
-        },
-        {
-            "name": "RUMPLE MINZE"
-        },
-        {
-            "name": "STRAWBERRY LIQUEUR"
-        },
-        {
-            "name": "ANISE"
-        },
-        {
-            "name": "YELLOW CHARTREUSE"
-        },
-        {
-            "name": "KUMMEL"
-        },
-        {
-            "name": "EGG WHITE"
-        },
-        {
-            "name": "GUAVA JUICE"
-        },
-        {
-            "name": "APRICOT"
-        },
-        {
-            "name": "WHIPPED CREAM"
-        },
-        {
-            "name": "ALLSPICE"
-        },
-        {
-            "name": "GOLD TEQUILA"
-        },
-        {
-            "name": "LIME JUICE CORDIAL"
-        },
-        {
-            "name": "PASSION FRUIT SYRUP"
-        },
-        {
-            "name": "CREAM"
-        },
-        {
-            "name": "CORNSTARCH"
-        },
-        {
-            "name": "BLACKCURRANT CORDIAL"
-        },
-        {
-            "name": "OLIVE BRINE"
-        },
-        {
-            "name": "PINEAPPLE SYRUP"
-        },
-        {
-            "name": "CONDENSED MILK"
-        },
-        {
-            "name": "SALT"
-        },
-        {
-            "name": "AGAVE SYRUP"
-        },
-        {
-            "name": "SHERBET"
-        },
-        {
-            "name": "APEROL"
-        },
-        {
-            "name": "MINT SYRUP"
-        },
-        {
-            "name": "CUMIN SEED"
-        },
-        {
-            "name": "OLIVE"
-        },
-        {
-            "name": "DAIQUIRI MIX"
-        },
-        {
-            "name": "PEPSI COLA"
-        },
-        {
-            "name": "CLOVES"
-        },
-        {
-            "name": "ORANGE PEEL"
-        },
-        {
-            "name": "PEYCHAUD BITTERS"
-        },
-        {
-            "name": "CURACAO"
-        },
-        {
-            "name": "BLACKCURRANT SQUASH"
-        },
-        {
-            "name": "CARDAMOM"
-        },
-        {
-            "name": "CELERY SALT"
-        },
-        {
-            "name": "LILLET BLANC"
-        },
-        {
-            "name": "LIMEADE"
-        },
-        {
-            "name": "CREAM OF COCONUT"
-        },
-        {
-            "name": "MARASCHINO CHERRY"
-        },
-        {
-            "name": "HOT CHOCOLATE"
-        },
-        {
-            "name": "CHERRY"
-        },
-        {
-            "name": "LICORICE ROOT"
-        },
-        {
-            "name": "FRESH LEMON JUICE"
-        },
-        {
-            "name": "NUTMEG"
-        },
-        {
-            "name": "ALMOND FLAVORING"
-        },
-        {
-            "name": "WORCESTERSHIRE SAUCE"
-        },
-        {
-            "name": "CREME DE MURE"
-        },
-        {
-            "name": "VANILLA"
-        },
-        {
-            "name": "PEPPERMINT EXTRACT"
-        },
-        {
-            "name": "ST. GERMAIN"
-        },
-        {
-            "name": "DR. PEPPER"
-        },
-        {
-            "name": "SIRUP OF ROSES"
-        },
-        {
-            "name": "ORANGE SPIRAL"
-        },
-        {
-            "name": "COCONUT SYRUP"
-        },
-        {
-            "name": "ASAFOETIDA"
-        },
-        {
-            "name": "LIME PEEL"
-        },
-        {
-            "name": "RASPBERRY SYRUP"
-        },
-        {
-            "name": "FENNEL SEEDS"
-        },
-        {
-            "name": "WORMWOOD"
-        },
-        {
-            "name": "FRESH LIME JUICE"
-        },
-        {
-            "name": "CANDY"
-        },
-        {
-            "name": "CARAMEL SAUCE"
-        },
-        {
-            "name": "CHOCOLATE MILK"
-        },
-        {
-            "name": "FOOD COLORING"
-        },
-        {
-            "name": "MELON LIQUEUR"
-        },
-        {
-            "name": "MARSHMALLOWS"
-        },
-        {
-            "name": "CAYENNE PEPPER"
-        },
-        {
-            "name": "OREO COOKIE"
-        },
-        {
-            "name": "WHIPPING CREAM"
-        },
-        {
-            "name": "CHOCOLATE SAUCE"
-        },
-        {
-            "name": "CHERRY GRENADINE"
-        },
-        {
-            "name": "CARAMEL COLORING"
-        },
-        {
-            "name": "PEPPER"
-        },
-        {
-            "name": "CHERRIES"
-        },
-        {
-            "name": "MARJORAM LEAVES"
-        },
-        {
-            "name": "MINI-SNICKERS BARS"
-        },
-        {
-            "name": "LAVENDER"
-        },
-        {
-            "name": "BLACK PEPPER"
-        },
-        {
-            "name": "FRESCA"
-        },
-        {
-            "name": "GLYCERINE"
-        }
+        { "name": "CREME DE CACAO", "category": "liqueur" },
+        { "name": "ABSOLUT KURANT", "category": "vodka" },
+        { "name": "LAGER", "category": "beer" },
+        { "name": "MALIBU RUM", "category": "rum" },
+        { "name": "DARK RUM", "category": "rum" },
+        { "name": "GOLDSCHLAGER", "category": "liqueur" },
+        { "name": "151 PROOF RUM", "category": "rum" },
+        { "name": "JACK DANIELS", "category": "whisky" },
+        { "name": "GIN", "category": "gin" },
+        { "name": "PEACH VODKA", "category": "vodka" },
+        { "name": "VANILLA VODKA", "category": "vodka" },
+        { "name": "BLUE CURACAO", "category": "liqueur" },
+        { "name": "KAHLUA", "category": "liqueur" },
+        { "name": "ABSOLUT CITRON", "category": "vodka" },
+        { "name": "COCONUT RUM", "category": "rum" },
+        { "name": "LIGHT RUM", "category": "rum" },
+        { "name": "VODKA", "category": "vodka" },
+        { "name": "AMARETTO", "category": "liqueur" },
+        { "name": "CRANBERRY JUICE", "category": "juice" },
+        { "name": "APPLEJACK", "category": "brandy" },
+        { "name": "WHITE CREME DE MENTHE", "category": "liqueur" },
+        { "name": "ABSOLUT VODKA", "category": "vodka" },
+        { "name": "RUM", "category": "rum" },
+        { "name": "SWEET VERMOUTH", "category": "vermouth" },
+        { "name": "STRAWBERRY SCHNAPPS", "category": "liqueur" },
+        { "name": "SCOTCH", "category": "whisky" },
+        { "name": "APRICOT BRANDY", "category": "brandy" },
+        { "name": "PEPPERMINT SCHNAPPS", "category": "liqueur" },
+        { "name": "TRIPLE SEC", "category": "liqueur" },
+        { "name": "GRENADINE", "category": "syrup" },
+        { "name": "SOUTHERN COMFORT", "category": "liqueur" },
+        { "name": "ORANGE BITTERS", "category": "bitters" },
+        { "name": "LEMON VODKA", "category": "vodka" },
+        { "name": "BLENDED WHISKEY", "category": "whisky" },
+        { "name": "DRY VERMOUTH", "category": "vermouth" },
+        { "name": "WATER", "category": "other" },
+        { "name": "SUGAR", "category": "other" },
+        { "name": "CHOCOLATE ICE-CREAM", "category": "dessert" },
+        { "name": "SOUR MIX", "category": "mixer" },
+        { "name": "TEA", "category": "other" },
+        { "name": "CAMPARI", "category": "liqueur" },
+        { "name": "ANGELICA ROOT", "category": "other" },
+        { "name": "ORANGE JUICE", "category": "juice" },
+        { "name": "BERRIES", "category": "fruit" },
+        { "name": "APPLE CIDER", "category": "cider" },
+        { "name": "TEQUILA", "category": "tequila" },
+        { "name": "APPLE JUICE", "category": "juice" },
+        { "name": "7-UP", "category": "soft drink" },
+        { "name": "MAUI", "category": "liqueur" },
+        { "name": "CHAMPAGNE", "category": "champagne" },
+        { "name": "LEMONADE", "category": "soft drink" },
+        { "name": "JÄGERMEISTER", "category": "liqueur" },
+        { "name": "CROWN ROYAL", "category": "whisky" },
+        { "name": "BAILEY'S IRISH CREAM", "category": "liqueur" },
+        { "name": "CANTALOUPE", "category": "fruit" },
+        { "name": "MILK", "category": "dairy" },
+        { "name": "STRAWBERRIES", "category": "fruit" },
+        { "name": "ICE", "category": "other" },
+        { "name": "BRANDY", "category": "brandy" },
+        { "name": "EVERCLEAR", "category": "spirit" },
+        { "name": "IRISH CREAM", "category": "liqueur" },
+        { "name": "ALE", "category": "beer" },
+        { "name": "COFFEE LIQUEUR", "category": "liqueur" },
+        { "name": "GUINNESS STOUT", "category": "beer" },
+        { "name": "AÑEJO RUM", "category": "rum" },
+        { "name": "MIDORI MELON LIQUEUR", "category": "liqueur" },
+        { "name": "VANILLA ICE-CREAM", "category": "dessert" },
+        { "name": "PINEAPPLE JUICE", "category": "juice" },
+        { "name": "BOURBON", "category": "whisky" },
+        { "name": "SAMBUCA", "category": "liqueur" },
+        { "name": "CORONA", "category": "beer" },
+        { "name": "COFFEE", "category": "beverage" },
+        { "name": "LIME", "category": "fruit" },
+        { "name": "ORANGE", "category": "fruit" },
+        { "name": "COCOA POWDER", "category": "other" },
+        { "name": "CHOCOLATE", "category": "dessert" },
+        { "name": "CHOCOLATE LIQUEUR", "category": "liqueur" },
+        { "name": "BANANA LIQUEUR", "category": "liqueur" },
+        { "name": "BACARDI LIMON", "category": "rum" },
+        { "name": "BITTERS", "category": "bitters" },
+        { "name": "COCA-COLA", "category": "soft drink" },
+        { "name": "COINTREAU", "category": "liqueur" },
+        { "name": "CRANBERRIES", "category": "fruit" },
+        { "name": "SPICED RUM", "category": "rum" },
+        { "name": "WHISKEY", "category": "whisky" },
+        { "name": "DEMERARA SUGAR", "category": "other" },
+        { "name": "CHERRY HEERING", "category": "liqueur" },
+        { "name": "FRUIT PUNCH", "category": "soft drink" },
+        { "name": "HEAVY CREAM", "category": "dairy" },
+        { "name": "DUBONNET ROUGE", "category": "liqueur" },
+        { "name": "PISCO", "category": "brandy" },
+        { "name": "CHOCOLATE SYRUP", "category": "other" },
+        { "name": "EGG YOLK", "category": "other" },
+        { "name": "EGG", "category": "other" },
+        { "name": "FIREWATER", "category": "spirit" },
+        { "name": "COGNAC", "category": "brandy" },
+        { "name": "YOGHURT", "category": "dairy" },
+        { "name": "GALLIANO", "category": "liqueur" },
+        { "name": "LIME JUICE", "category": "juice" },
+        { "name": "CACHACA", "category": "spirit" },
+        { "name": "RED WINE", "category": "wine" },
+        { "name": "GRAPES", "category": "fruit" },
+        { "name": "GREEN CREME DE MENTHE", "category": "liqueur" },
+        { "name": "CIDER", "category": "cider" },
+        { "name": "WHISKY", "category": "whisky" },
+        { "name": "HOT DAMN", "category": "liqueur" },
+        { "name": "GRAPE JUICE", "category": "juice" },
+        { "name": "LEMON PEEL", "category": "other" },
+        { "name": "IRISH WHISKEY", "category": "whisky" },
+        { "name": "APPLE BRANDY", "category": "brandy" },
+        { "name": "BAILEYS IRISH CREAM", "category": "liqueur" },
+        { "name": "BLACKBERRY BRANDY", "category": "brandy" },
+        { "name": "GINGER", "category": "other" },
+        { "name": "CREME DE CASSIS", "category": "liqueur" },
+        { "name": "CRANBERRY VODKA", "category": "vodka" },
+        { "name": "KIWI LIQUEUR", "category": "liqueur" },
+        { "name": "KIWI", "category": "fruit" },
+        { "name": "KOOL-AID", "category": "soft drink" },
+        { "name": "MANGO", "category": "fruit" },
+        { "name": "CARBONATED WATER", "category": "soft drink" },
+        { "name": "BEER", "category": "beer" },
+        { "name": "ESPRESSO", "category": "beverage" },
+        { "name": "MINT", "category": "other" },
+        { "name": "ABSINTHE", "category": "spirit" },
+        { "name": "CHERRY BRANDY", "category": "brandy" },
+        { "name": "LEMON JUICE", "category": "juice" },
+        { "name": "SPRITE", "category": "soft drink" },
+        { "name": "PORT", "category": "wine" },
+        { "name": "COFFEE BRANDY", "category": "liqueur" },
+        { "name": "BLACK SAMBUCA", "category": "liqueur" },
+        { "name": "SUGAR SYRUP", "category": "syrup" },
+        { "name": "RASPBERRY VODKA", "category": "vodka" },
+        { "name": "FRANGELICO", "category": "liqueur" },
+        { "name": "GRAPEFRUIT JUICE", "category": "juice" },
+        { "name": "RICARD", "category": "spirit" },
+        { "name": "JOHNNIE WALKER", "category": "whisky" },
+        { "name": "SHERRY", "category": "wine" },
+        { "name": "JIM BEAM", "category": "whisky" },
+        { "name": "SLOE GIN", "category": "gin" },
+        { "name": "ADVOCAAT", "category": "liqueur" },
+        { "name": "PEACH NECTAR", "category": "juice" },
+        { "name": "PROSECCO", "category": "wine" },
+        { "name": "LEMON", "category": "fruit" },
+        { "name": "OUZO", "category": "spirit" },
+        { "name": "GODIVA LIQUEUR", "category": "liqueur" },
+        { "name": "GRAND MARNIER", "category": "liqueur" },
+        { "name": "YUKON JACK", "category": "whisky" },
+        { "name": "TOMATO JUICE", "category": "juice" },
+        { "name": "WILD TURKEY", "category": "whisky" },
+        { "name": "WHITE RUM", "category": "rum" },
+        { "name": "VERMOUTH", "category": "vermouth" },
+        { "name": "ZIMA", "category": "alcoholic beverage" },
+        { "name": "PEACHTREE SCHNAPPS", "category": "liqueur" },
+        { "name": "CHAMBORD RASPBERRY LIQUEUR", "category": "liqueur" },
+        { "name": "BLUEBERRY SCHNAPPS", "category": "liqueur" },
+        { "name": "ORANGE CURACAO", "category": "liqueur" },
+        { "name": "GINGER BEER", "category": "soft drink" },
+        { "name": "PEACH SCHNAPPS", "category": "liqueur" },
+        { "name": "SODA WATER", "category": "soft drink" },
+        { "name": "KIRSCHWASSER", "category": "brandy" },
+        { "name": "PISANG AMBON", "category": "liqueur" },
+        { "name": "SWEET AND SOUR", "category": "mixer" },
+        { "name": "CREME DE BANANE", "category": "liqueur" },
+        { "name": "DARK CREME DE CACAO", "category": "liqueur" },
+        { "name": "LIGHT CREAM", "category": "dairy" },
+        { "name": "ALMOND", "category": "other" },
+        { "name": "APPLE", "category": "fruit" },
+        { "name": "BROWN SUGAR", "category": "other" },
+        { "name": "CARROT", "category": "vegetable" },
+        { "name": "APPLE SCHNAPPS", "category": "liqueur" },
+        { "name": "WINE", "category": "wine" },
+        { "name": "GRAPE SODA", "category": "soft drink" },
+        { "name": "MOUNTAIN DEW", "category": "soft drink" },
+        { "name": "ICED TEA", "category": "beverage" },
+        { "name": "RYE WHISKEY", "category": "whisky" },
+        { "name": "BANANA", "category": "fruit" },
+        { "name": "COCONUT LIQUEUR", "category": "liqueur" },
+        { "name": "ROOT BEER", "category": "soft drink" },
+        { "name": "TIA MARIA", "category": "liqueur" },
+        { "name": "PASSION FRUIT JUICE", "category": "juice" },
+        { "name": "ERIN CREAM", "category": "liqueur" },
+        { "name": "CLUB SODA", "category": "soft drink" },
+        { "name": "TABASCO SAUCE", "category": "condiment" },
+        { "name": "BUTTERSCOTCH SCHNAPPS", "category": "liqueur" },
+        { "name": "MARASCHINO LIQUEUR", "category": "liqueur" },
+        { "name": "VANILLA EXTRACT", "category": "other" },
+        { "name": "GINGER ALE", "category": "soft drink" },
+        { "name": "PEACH BITTERS", "category": "bitters" },
+        { "name": "ABSOLUT PEPPAR", "category": "vodka" },
+        { "name": "SARSAPARILLA", "category": "soft drink" },
+        { "name": "RASPBERRY LIQUEUR", "category": "liqueur" },
+        { "name": "BENEDICTINE", "category": "liqueur" },
+        { "name": "PINEAPPLE", "category": "fruit" },
+        { "name": "FRUIT JUICE", "category": "juice" },
+        { "name": "TONIC WATER", "category": "soft drink" },
+        { "name": "CARBONATED SOFT DRINK", "category": "soft drink" },
+        { "name": "CORN SYRUP", "category": "syrup" },
+        { "name": "BUTTER", "category": "dairy" },
+        { "name": "HALF-AND-HALF", "category": "dairy" },
+        { "name": "PEACH BRANDY", "category": "brandy" },
+        { "name": "TENNESSEE WHISKEY", "category": "whisky" },
+        { "name": "JELLO", "category": "other" },
+        { "name": "ANIS", "category": "other" },
+        { "name": "GREEN CHARTREUSE", "category": "liqueur" },
+        { "name": "GRAIN ALCOHOL", "category": "spirit" },
+        { "name": "APFELKORN", "category": "liqueur" },
+        { "name": "BITTER LEMON", "category": "soft drink" },
+        { "name": "PAPAYA", "category": "fruit" },
+        { "name": "DRAMBUIE", "category": "liqueur" },
+        { "name": "ORGEAT SYRUP", "category": "syrup" },
+        { "name": "TROPICANA", "category": "juice" },
+        { "name": "HONEY", "category": "other" },
+        { "name": "PINA COLADA MIX", "category": "mixer" },
+        { "name": "ANGOSTURA BITTERS", "category": "bitters" },
+        { "name": "COCONUT MILK", "category": "dairy" },
+        { "name": "PINK LEMONADE", "category": "soft drink" },
+        { "name": "CHERRY LIQUEUR", "category": "liqueur" },
+        { "name": "LIME VODKA", "category": "vodka" },
+        { "name": "LEMON-LIME SODA", "category": "soft drink" },
+        { "name": "POWDERED SUGAR", "category": "other" },
+        { "name": "ANISETTE", "category": "liqueur" },
+        { "name": "CINNAMON", "category": "other" },
+        { "name": "AQUAVIT", "category": "spirit" },
+        { "name": "CORIANDER", "category": "other" },
+        { "name": "MAPLE SYRUP", "category": "syrup" },
+        { "name": "SCHWEPPES RUSSCHIAN", "category": "soft drink" },
+        { "name": "FRUIT", "category": "fruit" },
+        { "name": "SURGE", "category": "soft drink" },
+        { "name": "RUMPLE MINZE", "category": "liqueur" },
+        { "name": "STRAWBERRY LIQUEUR", "category": "liqueur" },
+        { "name": "ANISE", "category": "other" },
+        { "name": "YELLOW CHARTREUSE", "category": "liqueur" },
+        { "name": "KUMMEL", "category": "liqueur" },
+        { "name": "EGG WHITE", "category": "other" },
+        { "name": "GUAVA JUICE", "category": "juice" },
+        { "name": "APRICOT", "category": "fruit" },
+        { "name": "WHIPPED CREAM", "category": "dairy" },
+        { "name": "ALLSPICE", "category": "other" },
+        { "name": "GOLD TEQUILA", "category": "tequila" },
+        { "name": "LIME JUICE CORDIAL", "category": "cordial" },
+        { "name": "PASSION FRUIT SYRUP", "category": "syrup" },
+        { "name": "CREAM", "category": "dairy" },
+        { "name": "CORNSTARCH", "category": "other" },
+        { "name": "BLACKCURRANT CORDIAL", "category": "cordial" },
+        { "name": "OLIVE BRINE", "category": "other" },
+        { "name": "PINEAPPLE SYRUP", "category": "syrup" },
+        { "name": "CONDENSED MILK", "category": "dairy" },
+        { "name": "SALT", "category": "other" },
+        { "name": "AGAVE SYRUP", "category": "syrup" },
+        { "name": "SHERBET", "category": "dessert" },
+        { "name": "APEROL", "category": "liqueur" },
+        { "name": "MINT SYRUP", "category": "syrup" },
+        { "name": "CUMIN SEED", "category": "other" },
+        { "name": "OLIVE", "category": "other" },
+        { "name": "DAIQUIRI MIX", "category": "mixer" },
+        { "name": "PEPSI COLA", "category": "soft drink" },
+        { "name": "CLOVES", "category": "other" },
+        { "name": "ORANGE PEEL", "category": "other" },
+        { "name": "PEYCHAUD BITTERS", "category": "bitters" },
+        { "name": "CURACAO", "category": "liqueur" },
+        { "name": "BLACKCURRANT SQUASH", "category": "squash" },
+        { "name": "CARDAMOM", "category": "other" },
+        { "name": "CELERY SALT", "category": "other" },
+        { "name": "LILLET BLANC", "category": "wine" },
+        { "name": "LIMEADE", "category": "soft drink" },
+        { "name": "CREAM OF COCONUT", "category": "other" },
+        { "name": "MARASCHINO CHERRY", "category": "fruit" },
+        { "name": "HOT CHOCOLATE", "category": "beverage" },
+        { "name": "CHERRY", "category": "fruit" },
+        { "name": "LICORICE ROOT", "category": "other" },
+        { "name": "FRESH LEMON JUICE", "category": "juice" },
+        { "name": "NUTMEG", "category": "other" },
+        { "name": "ALMOND FLAVORING", "category": "flavoring" },
+        { "name": "WORCESTERSHIRE SAUCE", "category": "condiment" },
+        { "name": "CREME DE MURE", "category": "liqueur" },
+        { "name": "VANILLA", "category": "flavoring" },
+        { "name": "PEPPERMINT EXTRACT", "category": "flavoring" },
+        { "name": "ST. GERMAIN", "category": "liqueur" },
+        { "name": "DR. PEPPER", "category": "soft drink" },
+        { "name": "SIRUP OF ROSES", "category": "syrup" },
+        { "name": "ORANGE SPIRAL", "category": "other" },
+        { "name": "COCONUT SYRUP", "category": "syrup" },
+        { "name": "ASAFOETIDA", "category": "other" },
+        { "name": "LIME PEEL", "category": "other" },
+        { "name": "RASPBERRY SYRUP", "category": "syrup" },
+        { "name": "FENNEL SEEDS", "category": "other" },
+        { "name": "WORMWOOD", "category": "other" },
+        { "name": "FRESH LIME JUICE", "category": "juice" },
+        { "name": "CANDY", "category": "other" },
+        { "name": "CARAMEL SAUCE", "category": "syrup" },
+        { "name": "CHOCOLATE MILK", "category": "beverage" },
+        { "name": "FOOD COLORING", "category": "other" },
+        { "name": "MELON LIQUEUR", "category": "liqueur" },
+        { "name": "MARSHMALLOWS", "category": "other" },
+        { "name": "CAYENNE PEPPER", "category": "other" },
+        { "name": "OREO COOKIE", "category": "other" },
+        { "name": "WHIPPING CREAM", "category": "dairy" },
+        { "name": "CHOCOLATE SAUCE", "category": "syrup" },
+        { "name": "CHERRY GRENADINE", "category": "syrup" },
+        { "name": "CARAMEL COLORING", "category": "other" },
+        { "name": "PEPPER", "category": "other" },
+        { "name": "CHERRIES", "category": "fruit" },
+        { "name": "MARJORAM LEAVES", "category": "other" },
+        { "name": "MINI-SNICKERS BARS", "category": "other" },
+        { "name": "LAVENDER", "category": "other" },
+        { "name": "BLACK PEPPER", "category": "other" },
+        { "name": "FRESCA", "category": "soft drink" },
+        { "name": "GLYCERINE", "category": "other" }
     ],
     "drinks": [
         {
