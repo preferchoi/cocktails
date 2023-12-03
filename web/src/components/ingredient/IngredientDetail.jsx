@@ -17,7 +17,7 @@ export default function IngredientDetail() {
           <Heading>{data.Ingredient.Ingredient.name}</Heading>
           <Divider mt={6} mb={6} />
           <Text mb={2}>
-            {data.Ingredient.Ingredient.name}을 사용하는 칵테일들
+            {data.Ingredient.Ingredient.name}을/를 사용하는 칵테일들
           </Text>
           <>
             {data.Ingredient.Drinks.map(drink => (
