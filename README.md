@@ -63,3 +63,13 @@ Drinks: (_, { CategoryName, GlassName, IngredientName }) => {
   return drinks
 },
 ```
+
+### [페이지네이션 구현](https://github.com/preferchoi/cocktails/commit/88f65c7b9e5ea9a8b18a7791e7ffe09cd238c57d)
+
+1. cursor를 추가하여 데이터 위치를 저장할 수 있게 사용했다. 전송하는 데이터는 고정된 것이 아닌, 필터링에 따라 데이터의 양이 변경되기 때문에 필터링한 결과의 index 값을 cursor로 지정했다.
+
+2. [react-waypoint](https://github.com/preferchoi/cocktails/commit/6565635251c8ac61e317323f51ee1d3f1856ed01)라이브러리를 사용해서 무한 스크롤 기능으로 페이지네이션을 구현하였다.
+
+3. 개발 도중, 네트워크 로그 상으로 데이터가 잘 불러와지지만 표기가 안 되는 일이 있었다. 문서를 확인해 보니, 원인은 [apollo-cache](https://github.com/preferchoi/cocktails/commit/39337272af615dd210aa1ce4395357c84a6ebc2a)의 병합 처리 조건을 지정하지 않아서였는다. 새롭게 온 데이터를 기존 캐시 데이터에 병합해 하나의 캐시로 사용할 수 있는 처리를 진행하였다.
+
+4. keyArgs를 false로 설정했기 때문에 다른 파라미터여도 캐시 키가 동일하게 처리되었다. keyArgs 속성에 "CategoryName", "GlassName", "IngredientName"을 추가하여 각각 [다른 캐시 키를 사용하게끔 설정](https://github.com/preferchoi/cocktails/commit/ed9579ba96c9354079b8f050a57e397be54cb3cf)했다.
