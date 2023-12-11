@@ -3,7 +3,7 @@ import GlassResolver from "./Glass.js";
 import CategoryResolver from "./Category.js";
 import IngredientResolver from "./Ingredient.js";
 import IngredientCategoryResolver from "./IngredientCategory.js";
-
+import UserResolver from "./User.js";
 
 const resolvers = {
   Query: {
@@ -12,6 +12,9 @@ const resolvers = {
     ...CategoryResolver.Query,
     ...IngredientResolver.Query,
     ...IngredientCategoryResolver.Query
+  },
+  Mutation: {
+    ...UserResolver.Mutation,
   }
 }
 
