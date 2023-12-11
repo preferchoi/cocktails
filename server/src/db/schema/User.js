@@ -1,7 +1,6 @@
 import { DataTypes } from 'sequelize';
-import sequelize from '../db-client'; // Sequelize 인스턴스 가져오기
 
-const User = sequelize.define('User', {
+const User = {
   id: {
     type: DataTypes.INTEGER,
     primaryKey: true,
@@ -29,6 +28,6 @@ const User = sequelize.define('User', {
     allowNull: false,
     defaultValue: DataTypes.NOW
   }
-});
+}
 
-export default User;
+export default User
