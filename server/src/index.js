@@ -4,8 +4,10 @@ import { ApolloServerPluginLandingPageLocalDefault } from 'apollo-server-core';
 import http from 'http';
 import typeDefs from "./Defs/index.js";
 import resolvers from "./Resolvers/index.js";
+import { createDB } from "./db/db-client.js";
 
 async function main() {
+  await createDB();
   const app = express();
 
   const apolloServer = new ApolloServer({
