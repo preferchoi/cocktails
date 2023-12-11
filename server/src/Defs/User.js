@@ -5,9 +5,20 @@ const User = gql`
     id:Int
     username:String
     email:String
-    # password:String
+    password:String
     createAt:String
     updateAt:String
+  }
+
+  input SignUpInput {
+    username: String!
+    email: String!
+    password: String!
+  }
+
+  input LoginInput {
+    email: String!
+    password: String!
   }
 `
 
