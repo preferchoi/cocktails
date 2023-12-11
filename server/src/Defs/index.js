@@ -4,6 +4,7 @@ import Category from "./Category.js";
 import Glass from "./Glass.js";
 import Ingredient from "./Ingredient.js";
 import IngredientCategory from "./IngredientCategory.js";
+import User from "./User.js";
 
 const Query = gql`
   type Query {
@@ -18,6 +19,8 @@ const Query = gql`
     Glass(GlassName: String!):Glass
     Ingredient(IngredientName: String!):IngredientResponse
     IngredientCategory(IngredientCategoryName: String!):IngredientCategoryResponse
+
+    User: User
   }
 
   type DrinksResponse {
@@ -42,6 +45,7 @@ const typeDefs = [
   Glass,
   Ingredient,
   IngredientCategory,
+  User
 ]
 
 export default typeDefs;
