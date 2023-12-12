@@ -22,8 +22,8 @@ const Query = gql`
   }
 
   type Mutation {
-    SignUp(input: SignUpInput!):Int
-    LogIn(input: LoginInput!):Int
+    SignUp(input: SignUpInput!):User
+    LogIn(input: LoginInput!):User
   }
 
   type DrinksResponse {

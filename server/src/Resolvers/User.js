@@ -7,17 +7,21 @@ const UserResolver = {
       const { username, email, password } = input
       const User = sequelize.model('User');
       const hashPW = await argon2.hash(password)
-      const newUser = User.create({
+      const newUser = await User.create({
         email,
         username,
-        password:hashPW
+        password: hashPW
       })
       return newUser
     },
     LogIn: async (_, { input }) => {
       const { email, password } = input
       console.log(email + "///" + password);
-      return null
+      const hashPW = await argon2.hash(password)
+      return {
+        email,
+        password: hashPW
+      }
     }
   }
 }

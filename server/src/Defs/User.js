@@ -6,8 +6,8 @@ const User = gql`
     username:String
     email:String
     password:String
-    createAt:String
-    updateAt:String
+    createdAt:String
+    updatedAt:String
   }
 
   input SignUpInput {
