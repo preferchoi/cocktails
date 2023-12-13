@@ -23,7 +23,18 @@ const Query = gql`
 
   type Mutation {
     SignUp(input: SignUpInput!):User
-    LogIn(input: LoginInput!):User
+    LogIn(input: LoginInput!):LogInResponse
+  }
+
+  type LogInResponse {
+    accessToken:String
+    user:User
+    errors:[Error]
+  }
+
+  type Error {
+    field:String
+    message:String
   }
 
   type DrinksResponse {

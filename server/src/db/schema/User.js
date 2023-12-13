@@ -1,6 +1,6 @@
 import { DataTypes } from 'sequelize';
 
-const User = {
+const UserSchema = {
   id: {
     type: DataTypes.INTEGER,
     primaryKey: true,
@@ -30,4 +30,4 @@ const User = {
   }
 }
 
-export default User;
+export default UserSchema;

@@ -1,14 +1,16 @@
 import argon2 from "argon2";
-import { sequelize } from '../db/db-client.js';
+import { sequelize, User } from '../db/db-client.js';
+import jwt from 'jsonwebtoken';
+
+const DEFAULT_JWT_SECRET_KEY = 'secret';
 
 const UserResolver = {
   Mutation: {
     SignUp: async (_, { input }) => {
+      const user = sequelize.model('User');
       const { username, email, password } = input
-      console.log(username);
-      const User = sequelize.model('User');
       const hashPW = await argon2.hash(password)
-      const newUser = await User.create({
+      const newUser = await user.create({
         email,
         username,
         password: hashPW
@@ -17,12 +19,30 @@ const UserResolver = {
     },
     LogIn: async (_, { input }) => {
       const { email, password } = input
-      console.log(email + "///" + password);
-      const hashPW = await argon2.hash(password)
-      return {
-        email,
-        password: hashPW
+      const user = await User.findOne({ where: { email } });
+      if (!user) {
+        return { errors: [{ field: 'email', message: '해당하는 유저가 없습니다.' }] }
       }
+      const isValid = await argon2.verify(user.password, password);
+      if (!isValid) {
+        return {
+          errors: [
+            { field: 'password', message: '비밀번호를 올바르게 입력해주세요.' },
+          ],
+        };
+      }
+
+      const accessToken = (user) => {
+        const userData = { userId: user.id };
+        const accessToken = jwt.sign(
+          userData,
+          process.env.JWT_SECRET_KEY || DEFAULT_JWT_SECRET_KEY,
+          { expiresIn: '30m' },
+        );
+        return accessToken;
+      };
+
+      return { user, accessToken }
     }
   }
 }
