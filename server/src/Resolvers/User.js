@@ -5,6 +5,7 @@ const UserResolver = {
   Mutation: {
     SignUp: async (_, { input }) => {
       const { username, email, password } = input
+      console.log(username);
       const User = sequelize.model('User');
       const hashPW = await argon2.hash(password)
       const newUser = await User.create({
