@@ -19,6 +19,8 @@ const Query = gql`
     Glass(GlassName: String!):Glass
     Ingredient(IngredientName: String!):IngredientResponse
     IngredientCategory(IngredientCategoryName: String!):IngredientCategoryResponse
+
+    Me:User
   }
 
   type Mutation {

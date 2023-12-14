@@ -3,6 +3,16 @@ import jwt from 'jsonwebtoken';
 
 export const DEFAULT_JWT_SECRET_KEY = 'secret';
 
+export const createAccessToken = (user) => {
+  const userData = { userId: user.id };
+  const accessToken = jwt.sign(
+    userData,
+    process.env.JWT_SECRET_KEY || DEFAULT_JWT_SECRET_KEY,
+    { expiresIn: '30m' },
+  );
+  return accessToken;
+};
+
 export const verifyAccessToken = (accessToken) => {
   if (!accessToken) return null;
 

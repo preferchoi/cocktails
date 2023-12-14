@@ -1,10 +1,21 @@
 import argon2 from "argon2";
 import { sequelize, User } from '../db/db-client.js';
 import jwt from 'jsonwebtoken';
+import { createAccessToken } from "../utils/jwt-auth.js";
+import { isAuthenticated } from "../middelwarers/isAuthenticated.js";
 
 const DEFAULT_JWT_SECRET_KEY = 'secret';
 
 const UserResolver = {
+  Query: {
+    Me: async (parent, args, context) => {
+      const middel = isAuthenticated(context)
+      if (!middel) return undefined
+      if (!context.verifiedUser) return undefined;
+      console.log(context.verifiedUser);
+      return await User.findOne({ where: { id: context.verifiedUser.userId } });
+    }
+  },
   Mutation: {
     SignUp: async (_, { input }) => {
       const user = sequelize.model('User');
@@ -32,15 +43,7 @@ const UserResolver = {
         };
       }
 
-      const accessToken = (user) => {
-        const userData = { userId: user.id };
-        const accessToken = jwt.sign(
-          userData,
-          process.env.JWT_SECRET_KEY || DEFAULT_JWT_SECRET_KEY,
-          { expiresIn: '30m' },
-        );
-        return accessToken;
-      };
+      const accessToken = createAccessToken(user);
 
       return { user, accessToken }
     }

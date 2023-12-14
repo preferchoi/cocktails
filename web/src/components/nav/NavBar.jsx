@@ -1,4 +1,5 @@
 import {
+  Avatar,
   Box,
   Button,
   Flex,
@@ -8,8 +9,16 @@ import {
 } from '@chakra-ui/react';
 import { Link as RouterLink } from 'react-router-dom';
 import { ColorModeSwitcher } from '../ColorModeSwitcher.js';
+import { useMeQuery } from '../../generated/graphql.tsx';
+import { useMemo } from 'react';
 
 export default function NavBar() {
+  const accessToken = localStorage.getItem('access_token');
+  const { data } = useMeQuery({ skip: !accessToken });
+  const isLoggedIn = useMemo(() => {
+    if (accessToken) return data?.Me?.id;
+    return false;
+  }, [accessToken, data?.Me?.id]);
   return (
     <Box
       zIndex={10}
@@ -69,7 +78,6 @@ export default function NavBar() {
           >
             Glass
           </Button>
-          
           <Button
             fontSize={'sm'}
             fontWeight={400}
@@ -79,19 +87,36 @@ export default function NavBar() {
           >
             Ingredient
           </Button>
-          <Button
-            display={{ base: 'none', md: 'inline-flex' }}
-            fontSize='sm'
-            fontWeight={600}
-            colorScheme='teal'
-            as={RouterLink}
-            to={'/signup'}
-          >
-            시작하기
-          </Button>
-        <ColorModeSwitcher />
+          {isLoggedIn ? (
+            <LoggedInNavbarItem />
+          ) : (
+            <Button
+              display={{ base: 'none', md: 'inline-flex' }}
+              fontSize="sm"
+              fontWeight={600}
+              colorScheme="teal"
+              as={RouterLink}
+              to={'/signup'}
+            >
+              시작하기
+            </Button>
+          )}
+          <ColorModeSwitcher />
         </Stack>
       </Flex>
     </Box>
   );
 }
+
+const LoggedInNavbarItem = () => {
+  return (
+    <Stack
+      justify={'flex-end'}
+      alignItems={'center'}
+      direction={'row'}
+      spacing={3}
+    >
+      <Avatar size={'sm'} />
+    </Stack>
+  );
+};

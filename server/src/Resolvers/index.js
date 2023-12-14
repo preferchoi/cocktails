@@ -11,7 +11,8 @@ const resolvers = {
     ...GlassResolver.Query,
     ...CategoryResolver.Query,
     ...IngredientResolver.Query,
-    ...IngredientCategoryResolver.Query
+    ...IngredientCategoryResolver.Query,
+    ...UserResolver.Query,
   },
   Mutation: {
     ...UserResolver.Mutation,
