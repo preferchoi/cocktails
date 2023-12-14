@@ -1,20 +1,14 @@
 import express from "express";
-import { ApolloServer, gql } from "apollo-server-express";
-import { ApolloServerPluginLandingPageLocalDefault } from 'apollo-server-core';
+import { createApolloServer } from "./apollo/createApolloServer.js";
 import http from 'http';
-import typeDefs from "./Defs/index.js";
-import resolvers from "./Resolvers/index.js";
+
 import { createDB } from "./db/db-client.js";
 
 async function main() {
   await createDB();
   const app = express();
 
-  const apolloServer = new ApolloServer({
-    typeDefs,
-    resolvers,
-    plugins: [ApolloServerPluginLandingPageLocalDefault()],
-  });
+    const apolloServer = await createApolloServer();
 
   await apolloServer.start();
   apolloServer.applyMiddleware({ app });
