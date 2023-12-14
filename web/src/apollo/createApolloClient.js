@@ -1,11 +1,12 @@
-import { ApolloClient, from, HttpLink, NormalizedCacheObject } from "@apollo/client";
+import { ApolloClient, from, HttpLink } from "@apollo/client";
 import { onError } from "@apollo/client/link/error";
+import { setContext } from '@apollo/client/link/context';
 import { createApolloCache } from "./createApolloCache.js";
 
 export const createApolloClient = () => new ApolloClient({
   uri: 'http://localhost:4000/graphql',
   cache: createApolloCache(),
-  link: from([errorLink, httpLink]),
+  link: from([authLink, errorLink, httpLink]),
 });
 
 const errorLink = onError(
@@ -33,3 +34,12 @@ const httpLink = new HttpLink({
   credentials: 'include',
 });
 
+const authLink = setContext((request, prevContext) => {
+  const accessToken = localStorage.getItem('access_token');
+  return {
+    headers: {
+      ...prevContext.headers,
+      Authorization: accessToken ? `Bearer ${accessToken}` : '',
+    },
+  };
+});
