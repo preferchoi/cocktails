@@ -8,10 +8,15 @@ async function main() {
   await createDB();
   const app = express();
 
-    const apolloServer = await createApolloServer();
+  const apolloServer = await createApolloServer();
 
   await apolloServer.start();
-  apolloServer.applyMiddleware({ app });
+  apolloServer.applyMiddleware({
+    app, cors: {
+      origin: ['http://localhost:3000', 'https://studio.apollographql.com'],
+      credentials: true,
+    },
+  });
 
   const httpServer = http.createServer(app);
 
