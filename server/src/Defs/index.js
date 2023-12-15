@@ -27,6 +27,7 @@ const Query = gql`
     SignUp(input: SignUpInput!):User
     LogIn(input: LoginInput!):LogInResponse
     RefreshAccessToken:AccessTokenResponse
+    LogOut:Boolean
   }
 
   type AccessTokenResponse {

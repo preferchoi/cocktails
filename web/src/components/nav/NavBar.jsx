@@ -4,13 +4,18 @@ import {
   Button,
   Flex,
   Link,
+  Menu,
+  MenuButton,
+  MenuItem,
+  MenuList,
   Stack,
   useColorModeValue,
 } from '@chakra-ui/react';
 import { Link as RouterLink } from 'react-router-dom';
 import { ColorModeSwitcher } from '../ColorModeSwitcher.js';
-import { useMeQuery } from '../../generated/graphql.tsx';
+import { useLogOutMutation, useMeQuery } from '../../generated/graphql.tsx';
 import { useMemo } from 'react';
+import { useApolloClient } from '@apollo/client';
 
 export default function NavBar() {
   const accessToken = localStorage.getItem('access_token');
@@ -109,6 +114,18 @@ export default function NavBar() {
 }
 
 const LoggedInNavbarItem = () => {
+  const client = useApolloClient();
+  const [logout, { loading: logoutLoading }] = useLogOutMutation();
+
+  async function onLogoutCLick() {
+    try {
+      await logout();
+      localStorage.removeItem('access_token');
+      await client.resetStore();
+    } catch (error) {
+      console.log(error);
+    }
+  }
   return (
     <Stack
       justify={'flex-end'}
@@ -116,7 +133,22 @@ const LoggedInNavbarItem = () => {
       direction={'row'}
       spacing={3}
     >
-      <Avatar size={'sm'} />
+      <Menu>
+        <MenuButton
+          as={Button}
+          rounded={'full'}
+          variant={'link'}
+          cursor={'pointer'}
+        >
+          <Avatar size={'sm'} />
+        </MenuButton>
+        <MenuList>
+          <MenuItem isDisabled={logoutLoading} onClick={onLogoutCLick}>
+            {' '}
+            로그아웃
+          </MenuItem>
+        </MenuList>
+      </Menu>
     </Stack>
   );
 };

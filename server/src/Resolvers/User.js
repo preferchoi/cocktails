@@ -4,16 +4,18 @@ import jwt from 'jsonwebtoken';
 import { createAccessToken, createRefreshToken, REFRESH_JWT_SECRET_KEY, setRefreshTokenHeader } from "../utils/jwt-auth.js";
 import { isAuthenticated } from "../middelwarers/isAuthenticated.js";
 
-const DEFAULT_JWT_SECRET_KEY = 'secret';
-
 const UserResolver = {
   Query: {
     Me: async (parent, args, context) => {
-      const middel = isAuthenticated(context)
-      if (!middel) return undefined
-      if (!context.verifiedUser) return undefined;
-      console.log(context.verifiedUser);
-      return await User.findOne({ where: { id: context.verifiedUser.userId } });
+      try {
+        await isAuthenticated(context)
+        if (!context.verifiedUser) return undefined;
+        console.log(context.verifiedUser);
+        return await User.findOne({ where: { id: context.verifiedUser.userId } });
+      } catch (error) {
+        console.log(error);
+        return undefined
+      }
     }
   },
   Mutation: {
@@ -53,6 +55,8 @@ const UserResolver = {
       return { user, accessToken }
     },
     RefreshAccessToken: async (parent, args, context) => {
+      const middel = isAuthenticated(context)
+      if (!middel) return undefined
       const { req, res, redis } = context
       const refreshToken = req.cookie.refreshtoken
       if (!refreshToken) return null
@@ -81,6 +85,15 @@ const UserResolver = {
       setRefreshTokenHeader(res, refreshToken)
 
       return { accessToken: newAccessToken };
+    },
+    LogOut: async (parent, args, context) => {
+      const { res, verifiedUser, redis } = context
+      console.log(verifiedUser);
+      if (verifiedUser) {
+        setRefreshTokenHeader(res, '')
+        await redis.del(String(verifiedUser.userId))
+      }
+      return true
     }
   },
 }
