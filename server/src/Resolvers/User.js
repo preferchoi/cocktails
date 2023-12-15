@@ -30,7 +30,7 @@ const UserResolver = {
     },
     LogIn: async (parent, args, context) => {
       const { email, password } = args.input
-      const res = context.res
+      const { res, redis } = context
       const user = await User.findOne({ where: { email } });
       if (!user) {
         return { errors: [{ field: 'email', message: '해당하는 유저가 없습니다.' }] }
@@ -46,6 +46,7 @@ const UserResolver = {
 
       const accessToken = createAccessToken(user);
       const refreshToken = createRefreshToken(user)
+      await redis.set(String(user.id), refreshToken)
 
       setRefreshTokenHeader(res, refreshToken)
 
