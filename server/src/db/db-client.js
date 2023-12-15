@@ -14,7 +14,9 @@ export const createDB = async () => {
       await sequelize.authenticate();
       console.log('연결 성공.');
 
-      await sequelize.sync({ force: true });
+      await sequelize.sync(
+        // { force: true }
+        );
       console.log('User table 생성 성공.');
 
   } catch (error) {

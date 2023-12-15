@@ -1,7 +1,7 @@
 import argon2 from "argon2";
 import { sequelize, User } from '../db/db-client.js';
 import jwt from 'jsonwebtoken';
-import { createAccessToken } from "../utils/jwt-auth.js";
+import { createAccessToken, createRefreshToken, setRefreshTokenHeader } from "../utils/jwt-auth.js";
 import { isAuthenticated } from "../middelwarers/isAuthenticated.js";
 
 const DEFAULT_JWT_SECRET_KEY = 'secret';
@@ -28,8 +28,9 @@ const UserResolver = {
       })
       return newUser
     },
-    LogIn: async (_, { input }) => {
-      const { email, password } = input
+    LogIn: async (parent, args, context) => {
+      const { email, password } = args.input
+      const res = context.res
       const user = await User.findOne({ where: { email } });
       if (!user) {
         return { errors: [{ field: 'email', message: '해당하는 유저가 없습니다.' }] }
@@ -44,6 +45,9 @@ const UserResolver = {
       }
 
       const accessToken = createAccessToken(user);
+      const refreshToken = createRefreshToken(user)
+
+      setRefreshTokenHeader(res, refreshToken)
 
       return { user, accessToken }
     }
