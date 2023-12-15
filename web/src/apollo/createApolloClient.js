@@ -1,7 +1,10 @@
-import { ApolloClient, from, HttpLink } from "@apollo/client";
+import { ApolloClient, from, HttpLink, fromPromise, } from "@apollo/client";
 import { onError } from "@apollo/client/link/error";
 import { setContext } from '@apollo/client/link/context';
 import { createApolloCache } from "./createApolloCache.js";
+import { refreshAccessToken } from './auth.js';
+
+let apolloClient
 
 export const createApolloClient = () => new ApolloClient({
   uri: 'http://localhost:4000/graphql',
@@ -13,6 +16,13 @@ const errorLink = onError(
   // eslint-disable-next-line consistent-return
   ({ graphQLErrors, networkError, operation, forward }) => {
     if (graphQLErrors) {
+      if (
+        graphQLErrors.find((error) => error.message === 'access token expired')
+      ) {
+        return fromPromise(refreshAccessToken(apolloClient, operation))
+          .filter((result) => !!result)
+          .flatMap(() => forward(operation));
+      }
       graphQLErrors.forEach(({ message, locations, path }) =>
         // eslint-disable-next-line no-console
         console.log(`[GraphQL error]: -> ${operation.operationName}

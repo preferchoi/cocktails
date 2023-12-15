@@ -26,6 +26,12 @@ const Query = gql`
   type Mutation {
     SignUp(input: SignUpInput!):User
     LogIn(input: LoginInput!):LogInResponse
+    RefreshAccessToken:AccessTokenResponse
+  }
+
+  type AccessTokenResponse {
+    accessToken:String
+    errors:[Error]
   }
 
   type LogInResponse {

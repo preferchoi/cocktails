@@ -1,12 +1,13 @@
 import express from "express";
 import { createApolloServer } from "./apollo/createApolloServer.js";
 import http from 'http';
-
+import cookieParser from "cookie-parser";
 import { createDB } from "./db/db-client.js";
 
 async function main() {
   await createDB();
   const app = express();
+  app.use(cookieParser())
 
   const apolloServer = await createApolloServer();
 

@@ -1,0 +1,9 @@
+mutation RefreshAccessToken {
+  RefreshAccessToken {
+    accessToken
+    errors {
+      field
+      message
+    }
+  }
+}

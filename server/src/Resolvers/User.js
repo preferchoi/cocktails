@@ -1,7 +1,7 @@
 import argon2 from "argon2";
 import { sequelize, User } from '../db/db-client.js';
 import jwt from 'jsonwebtoken';
-import { createAccessToken, createRefreshToken, setRefreshTokenHeader } from "../utils/jwt-auth.js";
+import { createAccessToken, createRefreshToken, REFRESH_JWT_SECRET_KEY, setRefreshTokenHeader } from "../utils/jwt-auth.js";
 import { isAuthenticated } from "../middelwarers/isAuthenticated.js";
 
 const DEFAULT_JWT_SECRET_KEY = 'secret';
@@ -51,8 +51,38 @@ const UserResolver = {
       setRefreshTokenHeader(res, refreshToken)
 
       return { user, accessToken }
+    },
+    RefreshAccessToken: async (parent, args, context) => {
+      const { req, res, redis } = context
+      const refreshToken = req.cookie.refreshtoken
+      if (!refreshToken) return null
+
+      let tokenData = null
+
+      try {
+        tokenData = jwt.verify(refreshToken, REFRESH_JWT_SECRET_KEY)
+      } catch (error) {
+        console.error(error);
+        return null
+      }
+
+      if (!tokenData) return null
+      const storedRefreshToken = await redis.get(String(tokenData.userId));
+      if (!storedRefreshToken) return null;
+      if (!(storedRefreshToken === refreshToken)) return null;
+
+      const user = await User.findOne({ where: { id: tokenData.userId } });
+      if (!user) return null;
+
+      const newAccessToken = createAccessToken(user);
+      const newRefreshToken = createRefreshToken(user);
+
+      await redis.set(String(user.id), newRefreshToken);
+      setRefreshTokenHeader(res, refreshToken)
+
+      return { accessToken: newAccessToken };
     }
-  }
+  },
 }
 
 export default UserResolver
