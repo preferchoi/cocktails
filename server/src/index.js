@@ -3,7 +3,9 @@ import { createApolloServer } from "./apollo/createApolloServer.js";
 import http from 'http';
 import cookieParser from "cookie-parser";
 import { createDB } from "./db/db-client.js";
+import dotenv from "dotenv";
 
+dotenv.config();
 async function main() {
   await createDB();
   const app = express();
