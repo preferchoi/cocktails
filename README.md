@@ -105,3 +105,53 @@ Drinks: (_, { CategoryName, GlassName, IngredientName }) => {
 ### [Ingredient 데이터에 대한 생각](https://github.com/preferchoi/cocktails/commit/c9527246c107b7f7c7d03b514ef0c293a30f847a)
 
 Ingredient 데이터는 309개의 unique 키로 이루어져 있다. 해당 데이터를 페이지네이션하기는 효율적이지 못할 것이라 생각한다. 제시할 방법은 중분류 데이터의 추가이다. 주류는 보통 럼, 위스키, 진 등등으로 분류할 수 있을 것이다. 해당 분류는 chatGPT를 이용해 데이터를 수정하였다. 토큰은 유료 서비스인 관계로 수동으로 진행했다.
+
+## 데이터 설명
+
+### 개요
+
+[kaggle dataset](https://www.kaggle.com/datasets/ai-first/cocktail-ingredients)을 기반으로 사용할 데이터셋을 제작했습니다.
+데이터셋에 포함된 데이터를 정제해 카테고리(category_data), 잔(glass_data), 하위 재료(ingredients_data) 목록을 제작했습니다.
+그 다음, chatGPT를 이용해 하위 재료(ingredients_data)테이블의 데이터를 기반으로 재료 카테고리(ingredient_category)를 작성했습니다.
+
+### category_data
+
+칵테일의 카테고리 관련 데이터입니다.
+
+- id: INDEX 값 입니다.
+- name: 카테고리의 이름입니다.
+
+### glass_data
+
+칵테일에 사용되는 잔 관련 데이터입니다.
+
+- id: INDEX 값 입니다.
+- name: 잔의 이름입니다.
+
+### ingredient_category
+
+칵테일에 사용되는 재료 관련 데이터입니다.
+
+- id: INDEX 값 입니다.
+- name: 재료의 이름입니다.
+
+### ingredients_data
+
+칵테일에 사용되는 재료를 세분화한 데이터입니다.
+
+- id: INDEX 값 입니다.
+- name: 재료의 이름입니다.
+- category: 소속된 카테고리의 이름입니다.
+
+### drinks
+
+칵테일 관련 정보 데이터입니다.
+
+- id: INDEX 값 입니다.
+- name: 칵테일의 이름입니다.
+- img_path: 칵테일 이미지 경로입니다.
+- alcoholic: 알코올 포함 유무입니다.
+- ingredients: 사용되는 재료 데이터입니다. 재료 이름과 양으로 구별되어 있습니다.
+- instructions: 조주법 데이터입니다.
+- category: category_data에 포함되어 있는 카테고리의 이름입니다.
+- glass: glass_data에 포함되어 있는 잔의 이름입니다.
