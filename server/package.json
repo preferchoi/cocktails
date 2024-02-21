@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node dist/index.js",
+    "start": "node src/index.js",
     "dev": "nodemon --watch *.js --exec node src/index.js",
-    "build":"tsc",
-    "bundle":"zip server.zip -r dist package.json",
+    "bundle": "powershell Compress-Archive -Path src, package.json -DestinationPath server.zip"
+
   },
   "keywords": [],
   "author": "",
