@@ -23,9 +23,9 @@ export default function DrinkCard({ Drink }) {
         overflow={'hidden'}
       >
         <LinkOverlay as={Link} to={`/drink/${Drink.name}`}>
-          <Box bg={'gray.100'} mt={-3} mb={2} pos={'relative'}>
+          <Box bg={'gray.100'} mt={3} mb={2} pos={'relative'} rounded={'3xl'}>
             <AspectRatio ratio={2 / 3}>
-              <Image src={Drink.img_path}></Image>
+              <Image src={Drink.img_path} rounded={'2xl'}></Image>
             </AspectRatio>
           </Box>
         </LinkOverlay>
