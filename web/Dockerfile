@@ -1,4 +1,4 @@
-FROM node:21.6.2
+FROM node:24.0.7
 WORKDIR /usr/src/app/web
 COPY package*.json ./
 RUN npm cache clean --force
