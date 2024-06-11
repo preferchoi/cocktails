@@ -40,7 +40,7 @@ const errorLink = onError(
 );
 
 const httpLink = new HttpLink({
-  uri: 'http://localhost:4000/graphql',
+  uri: 'http://52.78.57.103/graphql',
   credentials: 'include',
 });
 
