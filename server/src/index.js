@@ -22,7 +22,7 @@ async function main() {
   });
 
   app.get('/', (req, res) => {
-    res.status(200).send()
+    res.status(200).send({status:true})
   })
 
   const httpServer = http.createServer(app);
