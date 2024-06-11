@@ -22,7 +22,7 @@ async function main() {
   });
 
   app.get('/', (req, res) => {
-    res.status(200).send({status:true})
+    res.status(200).json({ message: "Welcome to the API!" })
   })
 
   const httpServer = http.createServer(app);
