@@ -15,13 +15,15 @@ async function main() {
 
   await apolloServer.start();
   apolloServer.applyMiddleware({
-    app, cors: {
+    app, 
+    path: '/api/graphql', 
+    cors: {
       origin: ['http://localhost:3000', 'https://studio.apollographql.com'],
       credentials: true,
     },
   });
 
-  app.get('/', (req, res) => {
+  app.get('/api', (req, res) => {
     res.status(200).json({ message: "Welcome to the API!" })
   })
 

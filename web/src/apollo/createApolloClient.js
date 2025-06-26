@@ -7,7 +7,7 @@ import { refreshAccessToken } from './auth.js';
 let apolloClient
 
 export const createApolloClient = () => new ApolloClient({
-  uri: 'http://localhost:4000/graphql',
+  uri: '/api/graphql',
   cache: createApolloCache(),
   link: from([authLink, errorLink, httpLink]),
 });
