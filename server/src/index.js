@@ -18,7 +18,7 @@ async function main() {
     app, 
     path: '/api/graphql', 
     cors: {
-      origin: ['http://localhost:3000', 'https://studio.apollographql.com'],
+      origin: ['*'],
       credentials: true,
     },
   });
