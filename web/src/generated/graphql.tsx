@@ -26,6 +26,7 @@ export type AccessTokenResponse = {
 
 export type Category = {
   __typename?: 'Category';
+  id?: Maybe<Scalars['Int']['output']>;
   name?: Maybe<Scalars['String']['output']>;
 };
 
@@ -34,6 +35,7 @@ export type Drink = {
   alcoholic?: Maybe<Scalars['String']['output']>;
   category?: Maybe<Scalars['String']['output']>;
   glass?: Maybe<Scalars['String']['output']>;
+  id?: Maybe<Scalars['Int']['output']>;
   img_path?: Maybe<Scalars['String']['output']>;
   ingredients?: Maybe<Array<Maybe<Array<Maybe<Scalars['String']['output']>>>>>;
   instructions?: Maybe<Scalars['String']['output']>;
@@ -54,17 +56,20 @@ export type Error = {
 
 export type Glass = {
   __typename?: 'Glass';
+  id?: Maybe<Scalars['Int']['output']>;
   name?: Maybe<Scalars['String']['output']>;
 };
 
 export type Ingredient = {
   __typename?: 'Ingredient';
   category?: Maybe<Scalars['String']['output']>;
+  id?: Maybe<Scalars['Int']['output']>;
   name?: Maybe<Scalars['String']['output']>;
 };
 
 export type IngredientCategory = {
   __typename?: 'IngredientCategory';
+  id?: Maybe<Scalars['Int']['output']>;
   name?: Maybe<Scalars['String']['output']>;
 };
 
