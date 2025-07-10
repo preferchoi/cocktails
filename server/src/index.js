@@ -18,7 +18,7 @@ async function main() {
     app, 
     path: '/api/graphql', 
     cors: {
-      origin: ['http://localhost:3000', 'https://studio.apollographql.com', 'https://cocktails-9njvj4lgn-preferchois-projects.vercel.app', 'http://ec2-52-78-94-204.ap-northeast-2.compute.amazonaws.com'], 
+      origin: ['http://preferchoi.site', 'http://localhost:3000', 'https://studio.apollographql.com'], 
       credentials: true,
     },
   });
