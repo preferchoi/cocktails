@@ -18,7 +18,7 @@ async function main() {
     app, 
     path: '/api/graphql', 
     cors: {
-      origin: ['https://preferchoi.site', 'https://preferchoi.site', 'http://localhost:3000', 'https://studio.apollographql.com'], 
+      origin: ['https://preferchoi.site', 'http://preferchoi.site', 'http://localhost:3000', 'https://studio.apollographql.com'], 
       credentials: true,
     },
   });
@@ -32,8 +32,8 @@ async function main() {
   httpServer.listen(process.env.PORT || 4000, () => {
     if (process.env.NODE_ENV !== 'production') {
       console.log(`
-            server start on => http://localhost:4000
-            graphql playground => http://localhost:4000/graphql
+            server start on => http://localhost:4000/api
+            graphql playground => http://localhost:4000/api/graphql
             `);
     } else {
       console.log(`
