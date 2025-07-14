@@ -33,8 +33,8 @@ services:
       context: ./web
       dockerfile: Dockerfile
     environment:
-      - VIRTUAL_HOST=http://preferchoi.site/
-      - LETSENCRYPT_HOST=http://preferchoi.site/
+      - VIRTUAL_HOST=preferchoi.site
+      - LETSENCRYPT_HOST=preferchoi.site
       - LETSENCRYPT_EMAIL=prefer_choi@naver.com
     expose:
       - "80"
