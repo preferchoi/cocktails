@@ -1,14 +1,47 @@
 version: '3.8'
 
 services:
+  nginx-proxy:
+    image: jwilder/nginx-proxy
+    container_name: nginx-proxy
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - /etc/nginx/vhost.d
+      - /usr/share/nginx/html
+      - ./data/certs:/etc/nginx/certs:ro
+      - /var/run/docker.sock:/tmp/docker.sock:ro
+    networks:
+      - webproxy
+
+  letsencrypt:
+    image: jrcs/letsencrypt-nginx-proxy-companion
+    container_name: nginx-letsencrypt
+    environment:
+      - NGINX_PROXY_CONTAINER=nginx-proxy
+    volumes:
+      - ./data/certs:/etc/nginx/certs:rw
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+    depends_on:
+      - nginx-proxy
+    networks:
+      - webproxy
+
   frontend:
     build:
       context: ./web
       dockerfile: Dockerfile
-    ports:
-      - "80:80"
+    environment:
+      - VIRTUAL_HOST=http://preferchoi.site/
+      - LETSENCRYPT_HOST=http://preferchoi.site/
+      - LETSENCRYPT_EMAIL=prefer_choi@naver.com
+    expose:
+      - "80"
     depends_on:
       - backend
+    networks:
+      - webproxy
 
   backend:
     build:
@@ -18,3 +51,9 @@ services:
       - "4000"
     environment:
       - PORT=4000
+    networks:
+      - webproxy
+
+networks:
+  webproxy:
+    driver: bridge
