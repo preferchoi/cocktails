@@ -40,7 +40,7 @@ const errorLink = onError(
 );
 
 const httpLink = new HttpLink({
-  uri: 'http://preferchoi.site/api/graphql',
+  uri: 'https://preferchoi.site/api/graphql',
   credentials: 'include',
 });
 
