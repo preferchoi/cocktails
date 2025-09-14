@@ -1,5 +1,7 @@
 # cocktails
 
+[운영 페이지 링크](https://preferchoi.site/)
+
 사용한 데이터 셋: [kaggle dataset](https://www.kaggle.com/datasets/ai-first/cocktail-ingredients)
 
 ### 기능 명세
