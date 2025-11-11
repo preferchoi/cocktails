@@ -92,6 +92,17 @@ export default function NavBar() {
           >
             Ingredient
           </Button>
+          {isLoggedIn && (
+            <Button
+              fontSize={'sm'}
+              fontWeight={400}
+              variant={'link'}
+              as={RouterLink}
+              to={'/MyPage'}
+            >
+              마이페이지
+            </Button>
+          )}
           {isLoggedIn ? (
             <LoggedInNavbarItem />
           ) : (
@@ -143,6 +154,9 @@ const LoggedInNavbarItem = () => {
           <Avatar size={'sm'} />
         </MenuButton>
         <MenuList>
+          <MenuItem as={RouterLink} to={'/MyPage'}>
+            마이페이지
+          </MenuItem>
           <MenuItem isDisabled={logoutLoading} onClick={onLogoutCLick}>
             {' '}
             로그아웃
