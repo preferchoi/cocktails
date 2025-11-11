@@ -55,16 +55,17 @@ const UserResolver = {
       return { user, accessToken }
     },
     RefreshAccessToken: async (parent, args, context) => {
-      const middel = isAuthenticated(context)
-      if (!middel) return undefined
-      const { req, res, redis } = context
-      const refreshToken = req.cookie.refreshtoken
-      if (!refreshToken) return null
+      const { req, res, redis } = context;
+      const refreshToken = req.cookies?.refreshtoken;
+      if (!refreshToken) return null;
 
       let tokenData = null
 
       try {
-        tokenData = jwt.verify(refreshToken, REFRESH_JWT_SECRET_KEY)
+        tokenData = jwt.verify(
+          refreshToken,
+          process.env.REFRESH_JWT_SECRET_KEY || REFRESH_JWT_SECRET_KEY,
+        );
       } catch (error) {
         console.error(error);
         return null
@@ -82,7 +83,7 @@ const UserResolver = {
       const newRefreshToken = createRefreshToken(user);
 
       await redis.set(String(user.id), newRefreshToken);
-      setRefreshTokenHeader(res, refreshToken)
+      setRefreshTokenHeader(res, newRefreshToken)
 
       return { accessToken: newAccessToken };
     },

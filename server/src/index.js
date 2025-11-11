@@ -2,12 +2,14 @@ import express from "express";
 import { createApolloServer } from "./apollo/createApolloServer.js";
 import http from 'http';
 import cookieParser from "cookie-parser";
-// import { createDB } from "./db/db-client.js";
+import { createDB } from "./db/db-client.js";
 import dotenv from "dotenv";
+import { ensureRedisConnection } from "./redis/redis-client.js";
 
 dotenv.config();
 async function main() {
-  // await createDB();
+  await createDB();
+  await ensureRedisConnection();
   const app = express();
   app.use(cookieParser())
 
@@ -15,10 +17,10 @@ async function main() {
 
   await apolloServer.start();
   apolloServer.applyMiddleware({
-    app, 
-    path: '/api/graphql', 
+    app,
+    path: '/api/graphql',
     cors: {
-      origin: ['https://preferchoi.site', 'http://localhost:3000', 'https://studio.apollographql.com'], 
+      origin: ['https://preferchoi.site', 'http://localhost:3000', 'https://studio.apollographql.com'],
       credentials: true,
     },
   });
@@ -44,4 +46,5 @@ async function main() {
 }
 
 main().catch(err => console.error(err));
+
 
