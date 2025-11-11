@@ -4,13 +4,17 @@ import { setContext } from '@apollo/client/link/context';
 import { createApolloCache } from "./createApolloCache.js";
 import { refreshAccessToken } from './auth.js';
 
-let apolloClient
+let apolloClient;
 
-export const createApolloClient = () => new ApolloClient({
-  uri: '/api/graphql',
-  cache: createApolloCache(),
-  link: from([authLink, errorLink, httpLink]),
-});
+export const createApolloClient = () => {
+  apolloClient = new ApolloClient({
+    uri: '/api/graphql',
+    cache: createApolloCache(),
+    link: from([authLink, errorLink, httpLink]),
+  });
+
+  return apolloClient;
+};
 
 const errorLink = onError(
   // eslint-disable-next-line consistent-return

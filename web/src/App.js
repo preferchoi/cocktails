@@ -14,6 +14,7 @@ import DrinkName from "./pages/DrinkName.jsx";
 import IngredientName from './pages/IngredientName.jsx';
 import SignUp from './pages/SignUp.jsx';
 import LogIn from "./pages/LogIn.jsx";
+import MyPage from './pages/MyPage.jsx';
 
 const apolloClient = createApolloClient();
 
@@ -34,6 +35,7 @@ function App() {
             <Route path='/Ingredient/:ingredientName' Component={IngredientName} />
             <Route path='/SignUp' Component={SignUp}/>
             <Route path='/LogIn' Component={LogIn}/>
+            <Route path='/MyPage' Component={MyPage} />
           </Routes>
         </BrowserRouter>
       </ChakraProvider>
