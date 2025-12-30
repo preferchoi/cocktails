@@ -6,7 +6,7 @@ const DrinkResolver = {
       let drinks = cocktailData.drinks
 
       if (cursor == null) {
-        return { cursor, drinks: [] }
+        return { cursor, Drinks: [] }
       }
 
       if (CategoryName) {
